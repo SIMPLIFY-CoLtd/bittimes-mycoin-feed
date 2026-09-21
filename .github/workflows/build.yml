@@ -1,0 +1,51 @@
+name: build-mycoin-feed
+
+# マイ銘柄「本日の主な材料」JSON を定期生成して raw 配信用にコミットする。
+# 頻度=3時間ごと（承認済 月¥100前後に収める頻度・第259）。手動実行も可。
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-mycoin-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install requests anthropic
+
+      - name: Generate feed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate.py > new.json
+
+      - name: Validate JSON (壊れた出力で本番を上書きしない)
+        run: python -c "import json; d=json.load(open('new.json')); assert isinstance(d.get('coins'), dict)"
+
+      - name: Promote
+        run: mv new.json mycoin_extnews.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet mycoin_extnews.json; then
+            echo "no change"
+          else
+            git add mycoin_extnews.json
+            git commit -m "data: refresh mycoin extnews $(date -u +%FT%TZ)"
+            git push
+          fi
