@@ -1,74 +1,65 @@
 {
-  "generated_at": "2026-09-21T13:43:32+00:00",
+  "generated_at": "2026-09-21T19:56:06+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインが50週移動平均を45週ぶりに上回る、本日上昇した理由",
-        "title_en": "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFNlWDROT0dISlQ1NFBlTW5zeW53SEFfSnpDQnFnVGZmeEl0OVFyRk4wRWVxbnpQVEdZcmVJY0Z5Z0VZekVIU3RVWng0Rmhpc3pJaVQ4LUZnWmFpbEhMQktQZUhvZEdPcnl0NG4yRlEySWFBc0FzOVliYzQ5NDYzNVNUT21KdHVRNGU4X2FwSkhMTmduc2ZtZjhlMA?oc=5",
-        "published": "Mon, 21 Sep 2026 12:57:55 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "ビットコインは米国で法定通貨になるか、暗号資産の明確化を待たない理由",
+        "title_en": "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn’t waiting for CLARITY",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGNDd3RaWWp3N2FlZWt0NFpPQUl6cDN5a3lCN0lBaDVMVGpIalp5b0lEMUFvaFpFUXdjR0prVmRsYks0LXFHV1J6MDNwdXJBNC0ycHVUbnVpZTFqdDdJczUyQTYzQmZoRk9YZ3BCNzBwQ3RCTlhBZ1F3VDNvc0RPc25tbEF1VEt5UWN3N2VuVnFFeEFiQUlHRzVzbVVhNkM5NHA0cTJQQ3l1T1k1Vlc5TFEtd1Q?oc=5",
+        "published": "Mon, 21 Sep 2026 19:42:37 GMT",
+        "category": "規制"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "ストラテジーのビットコイン保有量が7,600万ドルの購入で6月の記録に近づく",
-        "title_en": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlh3VnV6Q0V5RmtwdXN5TEJPQk5kOWFuS2lJSmpjS1dlUTZISG9aQS04OWFibzFaUnczQ05xcGszVW9Jb05XR3BwVS1MRE8wQkFnd29aSzFSaVBzOF9LQi1fUXhSRlFtRGsxckpFV2RENXBxaWRDLUhWdEY3TzJ2Zks4eXdBTkJITFdYbjJB0gGWAUFVX3lxTE5SMWEtZUVjV09QRzdfal9JWVViS3dqQUJya080SFZ1Ny1FQkZVaFdycFRKLWxmYzNSOEZtdkpRWktRemd4X1RVVHdyUGM3SE03d3d4VnZQZkM5cEQwTmFOeEhKcFMzT015OFdmV280VFlOeUt1Wl82OS11WXlVUTFkM1VrbExTOUFGWW94WjVGdDV3ZTdSQQ?oc=5",
-        "published": "Mon, 21 Sep 2026 12:56:46 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "Strategy社がビットコイン買い戻し、この暗号資産トレジャリーがさらに買増し",
+        "title_en": "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORThSNkFUelVNbjRJZERxVDNoRk1HT0V6YkpIVElOdS0xSG8wX3o1UnM3bEI1QlQ3dDZNLW5aVS1FaURMMWlMQm0wRFVHdVRaNk9OWnhRaUM0WWp1ZEdaS0hocEtPd1laNU52eHpFSW81cm9OazhiejdhUXFPLVNseTR1Q0FIbXB1RXZB?oc=5",
+        "published": "Mon, 21 Sep 2026 18:00:00 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "トム・リー氏が「暗号資産強気相場は進行中」、ビットマインがイーサリアム供給量の5%目標に向け27,562ETHを購入",
-        "title_en": "'Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU293UmFxZ1FENWE5aVhTTXdZNzFPblNqNVRyb2gtbndJY0pXa0lnV3ItVW5uMjhwa3VLS0t3Y3VZM2VBVmtNRGIyOHJFN0wyWEVDMm11RFgwajhQQkk3VG5sMEpYZzJJQUVLUGRNY2pPTWpjdjNXanBPdzZNc3NHOWZ3VGswRUpFLU9SVThyNWNtcmwwUVloWGZHaHpPeWlKbWZxcTJpQ1Q5anFqOVVDLWpDcXktUzRuVURfWEFISU1SVENxRHhzOFN3UG1uM2pQLW1xREM4RFFxSmFMajJBYlhhelNXa3NRMFE?oc=5",
-        "published": "Mon, 21 Sep 2026 13:14:39 GMT",
-        "category": "発言"
+        "source": "Decrypt",
+        "title_ja": "トム・リーのBitmineが7,400万ドルのイーサリアム追加購入、暗号資産強気市場『進行中』と表明",
+        "title_en": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOC12YlFxRmNpM04tdTF6NE9MTzhuRURfejBWRXIyOUhTYU40S1ZKdy1IX0d3OHJ0TXQyeWFWZmFGUURzbEhJODRjdkxPckxqdzBrempXU0xqNlJIWEVyN2J5Y3B2cGFRaWlpYXl0cnBSNm9FZUFsS0JURUs0cEXSAYcBQVVfeXFMUHFhSlFrdXRiV3dQRS1QbW1YZ3hCcnRsYkdkWnRBUmt0TDBKV2VqN1hSTjhKdVdTd0x4NE93amN3ekIyRnlWSmlua2VzVk9jWGVwX2d4TXlHS2RsYnh0cHJLdVN6RDhUTlNXTkxVYnRSR3dLZnlqQ0szcEdHaVdoS3RmNzZmQzNn?oc=5",
+        "published": "Mon, 21 Sep 2026 15:00:49 GMT",
+        "category": "大口"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットマインが7,500万ドルのイーサリアムを購入、トム・リー氏は機関投資家がまだ暗号資産に過小配分と指摘",
-        "title_en": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
-        "published": "Mon, 21 Sep 2026 13:11:15 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "トム・リー、最新BitMine買い後も機関投資家は暗号資産のアンダーウェイトと指摘",
+        "title_en": "Tom Lee Says Institutions Are Still Underweight Crypto After Latest BitMine ETH Buy",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE5DZXN3X2t3S1Jralpia3RPamgzSmFRVlpWQXZWV2FVQTlZanRNOVhGakJ3aFRGX2RxZW1oVmFHX3hUVktFUnFVQlJDV1FCekVmc0h2WGlOaHFSeDBuX1d6TzBsSWRrNjBEUTJiY1J0ZHRIWGtXNExhd1ZLTm1Zdmg0cEJRTmR4dTg1Rk13RFRLek5fc0ZfMzh1WXU?oc=5",
+        "published": "Mon, 21 Sep 2026 14:33:04 GMT",
+        "category": "発言"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルの銀行業界での優位性が縮小、OCC が3つの暗号資産競合企業を承認",
-        "title_en": "Ripple’s Banking Edge Shrinks as OCC Approves Three Crypto Rivals",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE9MUmhzeWhLT0ZaczhOM2w2R21XekthQ3ZnR0dLUDJYd0pyb2xVdklnT3RnaVg5MlRVTndPM3YyQ29rdlpZeHhjdnYwdUFiRTNKZDhDdlp0b1B4UHFPVHRnSDlEWEhPb2tzN0JVUDlqbnJEa0d1NDNsWU5ZM2NnTXFSajNIWGw3dWJEdDRkWHVNQ0tHM3h0UXdCRGk?oc=5",
-        "published": "Mon, 21 Sep 2026 11:47:15 GMT",
-        "category": "承認"
+        "title_ja": "サウジアラビアがmBridgeから撤退、国境を越えた支払い再編でXRPは恩恵か",
+        "title_en": "Saudi Arabia Ditches mBridge, But Could XRP Benefit From the Cross Border Payments Shakeup?",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUFSVmZkcnB4Q2tNTmU4VVdqRE05RmZWd19OZUtuNHRYbDY1MEtWTnlrb3REaEEwVV93QTRQc3V1UV82NWhmZzNiZUFWNlpzYmRfZzI2aVJpODV4a3hxbGU1LV9ldHZwaVh2d0QwdGRrcjNZZ2haVWROeTVqRWRVN1kweHNxRjEtdmctWmJVRW5SOVJ1RU9vMEd6b2ppTDQz?oc=5",
+        "published": "Mon, 21 Sep 2026 13:47:15 GMT",
+        "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP が本日上昇した理由、ビットコインが8万4,000ドルを超える中3億ドルのショートが清算",
-        "title_en": "Why Is XRP Up Today? $300 Million in Shorts Liquidated as Bitcoin Surpasses $84,000",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFdkRHRpRHN5YXRQSk9yUjJpVlpnMHJsa2MwSnNINmNwYXJVUVNqYWJtbTBSYzJnTkFxZ1F0bTkzMy16OThOYmRERkJpQ09XSmVhdTdxRnFyTFM0ZlFNUURIMDNCSXBLQXY1TUx5M0lQRmh1ZVBJNTFXM1FCVTU3V3FGM3pCTFAwRmhWMnAtZE9PeFhF?oc=5",
-        "published": "Mon, 21 Sep 2026 11:41:32 GMT",
-        "category": "その他"
+        "title_ja": "OCC が暗号資産ライバル3社を承認しリップルの銀行での優位性が縮小",
+        "title_en": "Ripple’s Banking Edge Shrinks as OCC Approves Three Crypto Rivals",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE9MUmhzeWhLT0ZaczhOM2w2R21XekthQ3ZnR0dLUDJYd0pyb2xVdklnT3RnaVg5MlRVTndPM3YyQ29rdlpZeHhjdnYwdUFiRTNKZDhDdlp0b1B4UHFPVHRnSDlEWEhPb2tzN0JVUDlqbnJEa0d1NDNsWU5ZM2NnTXFSajNIWGw3dWJEdDRkWHVNQ0tHM3h0UXdCRGk?oc=5",
+        "published": "Mon, 21 Sep 2026 11:47:15 GMT",
+        "category": "規制"
       }
     ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
-    "SUI": [
-      {
-        "source": "Decrypt",
-        "title_ja": "アディダスが Sui ゲーム『Xociety』のデジタルアパレル NFT で新たな動き",
-        "title_en": "News Explorer — Adidas Makes Another NFT Move With Digital Apparel for Sui Game 'Xociety'",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZ01YQkRFTVFlb0ptLXJpTEtrb1lfdmIwVUxKMjNfdERRTm5qdHFReVBlYmp3bW9QYlZDay01dzBmWFdWdEtkTzVfT0ktOXZiMnJZSGdDMFZWZEk?oc=5",
-        "published": "Sun, 20 Sep 2026 23:14:08 GMT",
-        "category": "採用"
-      }
-    ]
+    "SUI": []
   }
 }
