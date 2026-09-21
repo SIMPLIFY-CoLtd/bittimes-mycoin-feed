@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-21T19:56:06+00:00",
+  "generated_at": "2026-09-21T23:58:57+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインは米国で法定通貨になるか、暗号資産の明確化を待たない理由",
-        "title_en": "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn’t waiting for CLARITY",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGNDd3RaWWp3N2FlZWt0NFpPQUl6cDN5a3lCN0lBaDVMVGpIalp5b0lEMUFvaFpFUXdjR0prVmRsYks0LXFHV1J6MDNwdXJBNC0ycHVUbnVpZTFqdDdJczUyQTYzQmZoRk9YZ3BCNzBwQ3RCTlhBZ1F3VDNvc0RPc25tbEF1VEt5UWN3N2VuVnFFeEFiQUlHRzVzbVVhNkM5NHA0cTJQQ3l1T1k1Vlc5TFEtd1Q?oc=5",
-        "published": "Mon, 21 Sep 2026 19:42:37 GMT",
-        "category": "規制"
+        "source": "Yahoo Finance",
+        "title_ja": "ウォール街が急転直下で強気姿勢へ、ビットコインが追随するか注視される",
+        "title_en": "As Wall Street Turns Suddenly Bullish, Questions Arise if Bitcoin Will Follow or Flop",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZqMVdxbFhoRTlEOWozRElSeU0xbjZoQU9GTGxxNERMUFVvWW13R293NTR3Q0NPNU5tcXBKRDR0cldOVDhndUE0b0FJNENpOWhLM2VSZjFQNEljLUR6U1dvNjJVWFdWVWsxbW8wZ0VfeldIcTM0TDNWZ1pkcDdLdkp3UkNPdE40bmk1WVlCQ3FNeWZhN1Rza052eGZkTEN0?oc=5",
+        "published": "Mon, 21 Sep 2026 22:41:25 GMT",
+        "category": "発言"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Strategy社がビットコイン買い戻し、この暗号資産トレジャリーがさらに買増し",
-        "title_en": "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORThSNkFUelVNbjRJZERxVDNoRk1HT0V6YkpIVElOdS0xSG8wX3o1UnM3bEI1QlQ3dDZNLW5aVS1FaURMMWlMQm0wRFVHdVRaNk9OWnhRaUM0WWp1ZEdaS0hocEtPd1laNU52eHpFSW81cm9OazhiejdhUXFPLVNseTR1Q0FIbXB1RXZB?oc=5",
-        "published": "Mon, 21 Sep 2026 18:00:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン相場ニュース：BTC は9万ドル目指すとともにレバレッジが積み上がる",
+        "title_en": "Bitcoin price news: BTC eyes $90,000 as leverage is building",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTlPMnRQQWJZbXU3bkh5MkN2TWRCX3QzVTFybVo4cGMtb1lNYXlKa0VjdGRNalZlTVU0UVV5aUVwU1JScnJnTWQ2amJ4Q28xc0w1N3A0R3AtVUNJdV9SNERFeC12eDZoVy1zMEw1d3hucWF4MENzd181RDZndHdZd0d3clJEWE9kM1BoVkxfTmVWYUNRQUhtVEt0blVTMDd2ZmJPRlI3NnkzZTZVd2RXa0RxMFJQdUZ5QmViQjBScWpPNDJxNWZQenpyY3ZtN0k3cmc?oc=5",
+        "published": "Mon, 21 Sep 2026 20:39:39 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Decrypt",
-        "title_ja": "トム・リーのBitmineが7,400万ドルのイーサリアム追加購入、暗号資産強気市場『進行中』と表明",
+        "title_ja": "トム・リー氏の Bitmine が 7,400 万ドルのイーサリアム追加、暗号資産の強気相場を宣言",
         "title_en": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOC12YlFxRmNpM04tdTF6NE9MTzhuRURfejBWRXIyOUhTYU40S1ZKdy1IX0d3OHJ0TXQyeWFWZmFGUURzbEhJODRjdkxPckxqdzBrempXU0xqNlJIWEVyN2J5Y3B2cGFRaWlpYXl0cnBSNm9FZUFsS0JURUs0cEXSAYcBQVVfeXFMUHFhSlFrdXRiV3dQRS1QbW1YZ3hCcnRsYkdkWnRBUmt0TDBKV2VqN1hSTjhKdVdTd0x4NE93amN3ekIyRnlWSmlua2VzVk9jWGVwX2d4TXlHS2RsYnh0cHJLdVN6RDhUTlNXTkxVYnRSR3dLZnlqQ0szcEdHaVdoS3RmNzZmQzNn?oc=5",
         "published": "Mon, 21 Sep 2026 15:00:49 GMT",
@@ -32,32 +32,41 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リー、最新BitMine買い後も機関投資家は暗号資産のアンダーウェイトと指摘",
-        "title_en": "Tom Lee Says Institutions Are Still Underweight Crypto After Latest BitMine ETH Buy",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE5DZXN3X2t3S1Jralpia3RPamgzSmFRVlpWQXZWV2FVQTlZanRNOVhGakJ3aFRGX2RxZW1oVmFHX3hUVktFUnFVQlJDV1FCekVmc0h2WGlOaHFSeDBuX1d6TzBsSWRrNjBEUTJiY1J0ZHRIWGtXNExhd1ZLTm1Zdmg0cEJRTmR4dTg1Rk13RFRLek5fc0ZfMzh1WXU?oc=5",
-        "published": "Mon, 21 Sep 2026 14:33:04 GMT",
-        "category": "発言"
+        "title_ja": "Bitmine が 7,500 万ドルのイーサリアムを買い増し、『暗号の冬』終焉の兆候",
+        "title_en": "Bitmine Buys $75 Million Of Ethereum Amid Signs ‘Crypto Winter’ Is Over",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDNZb29hUEZOaThMYzVNUUpEd2M4QXh2dWNwQkxyaXVTaGw2Q0RDLWZsSzlxdDcwLXNzSEhUMkpHUW1JUkJjRFhqVjZoWE5OQXdkM19mQl9FOExfVGg5b2ZxTEtBMEk2blJUYjRhSHIxNFVCRTdDVzh5c19pRDJOa1lheThYVEc3RnRnSXFYR0c4M1IxaXhOT1NYUW9rQQ?oc=5",
+        "published": "Mon, 21 Sep 2026 13:48:00 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "サウジアラビアがmBridgeから撤退、国境を越えた支払い再編でXRPは恩恵か",
-        "title_en": "Saudi Arabia Ditches mBridge, But Could XRP Benefit From the Cross Border Payments Shakeup?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUFSVmZkcnB4Q2tNTmU4VVdqRE05RmZWd19OZUtuNHRYbDY1MEtWTnlrb3REaEEwVV93QTRQc3V1UV82NWhmZzNiZUFWNlpzYmRfZzI2aVJpODV4a3hxbGU1LV9ldHZwaVh2d0QwdGRrcjNZZ2haVWROeTVqRWRVN1kweHNxRjEtdmctWmJVRW5SOVJ1RU9vMEd6b2ppTDQz?oc=5",
-        "published": "Mon, 21 Sep 2026 13:47:15 GMT",
-        "category": "提携"
+        "title_ja": "欧州中央銀行がステーブルコイン不要なトークン化資産決済システムを立ち上げ、RLUSD と XRP への欧州での影響",
+        "title_en": "The ECB Just Launched a Way to Settle Tokenized Assets Without Stablecoins. What It Means for RLUSD and XRP in Europe.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkFNZWNwX0Ewc0x6elgwdE9YNkc5Q1J6Q3JEdXlBbE84RUYtYmgyV2Rsb2FwUkNqZGVRVjc3TGt2X3FxVGRPYWdNMnFqT1paVzlfNmVUVlNHT053a29zbkNUc2N0WUF3YmhCU2dVY2MwbktCeFg4OHFCN1RsVmR0NnZuel9FM1U2UUJpVkV4UHFxbjBCVUdmMg?oc=5",
+        "published": "Mon, 21 Sep 2026 21:54:43 GMT",
+        "category": "規制"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "OCC が暗号資産ライバル3社を承認しリップルの銀行での優位性が縮小",
-        "title_en": "Ripple’s Banking Edge Shrinks as OCC Approves Three Crypto Rivals",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE9MUmhzeWhLT0ZaczhOM2w2R21XekthQ3ZnR0dLUDJYd0pyb2xVdklnT3RnaVg5MlRVTndPM3YyQ29rdlpZeHhjdnYwdUFiRTNKZDhDdlp0b1B4UHFPVHRnSDlEWEhPb2tzN0JVUDlqbnJEa0d1NDNsWU5ZM2NnTXFSajNIWGw3dWJEdDRkWHVNQ0tHM3h0UXdCRGk?oc=5",
-        "published": "Mon, 21 Sep 2026 11:47:15 GMT",
-        "category": "規制"
+        "title_ja": "XRP ニュース：取引所の流出が急増、バイナンス準備高はほぼ変わらず",
+        "title_en": "XRP News: Exchange Churn Surges, Binance Reserves Barely Move",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnJSQk1xUU5nZWszbF9HZjVtU2dBaUI0a3luZEVJUEVzSmhzZTdwS2Z2UjY5RzcwbmFLLWlvelF1QlFBbkhFWl9Qc25mRHdvTGk5d2dRQ3daNWRqa1dka2RqRzUyR1B3d3Y1WTY2Qk52Q3htd1VCdmcyd1k4OVp4a3RXWW01TGp5SEs5OHNHZDBTVUhnQ3RnZmNoRQ?oc=5",
+        "published": "Mon, 21 Sep 2026 18:28:00 GMT",
+        "category": "その他"
       }
     ],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナが今日上昇した理由：主要暗号資産の月間リード、115 ドルで 20% 上昇",
+        "title_en": "Why Is Solana Rising Today? It’s Leading the Major Cryptos This Month with a 20% Rally to $115",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHMzRmJyOWt5SUdISXhmUTdLT1UzdWt0elI3YTJ5cThSRldFdGxYRE5GNk03TUVVUG9ja0twZmpkUjlSWkRyYV9kejJTdVh6Yzh5ajlvOFFOd081UWZNLWQtZGROR2FmX2d5SjRlQzhQeHI5ckJhZ2ItZnJEVi05U1pDRXA4YXM4REpPdkQ4SXpBTHVBalMyYWRvamQ?oc=5",
+        "published": "Mon, 21 Sep 2026 14:00:43 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": []
