@@ -28,13 +28,36 @@ COINS = {
     'BTC': 'Bitcoin BTC', 'ETH': 'Ethereum ETH', 'XRP': 'XRP Ripple',
     'SOL': 'Solana SOL', 'ADA': 'Cardano ADA', 'DOGE': 'Dogecoin DOGE',
     'SUI': 'Sui crypto',
+    # v4（第262・構造修正）: マイ銘柄/タグボタンは10銘柄提供なのに生成器は7銘柄で、
+    # LINK/SHIB/AVAX は「本日の主な材料」が構造的に永久非表示だった。10銘柄に一致させる。
+    'LINK': 'Chainlink LINK', 'SHIB': 'Shiba Inu SHIB', 'AVAX': 'Avalanche AVAX',
 }
 ALLOWED_SOURCES = {
     'reuters', 'associated press', 'ap news', 'bloomberg', 'bloomberg.com',
     'financial times', 'ft', 'politico', 'politico.com',
     'coindesk', 'cointelegraph', 'the block', 'decrypt', 'cnbc',
     'forbes', 'fortune', 'yahoo finance',
+    # v4（第262・判断1 A案・ユーザー承認）: 日本語の信頼金融/報道媒体を追加（海外英語24h媒体では
+    # 拾えないアルト銘柄の空率を下げる）。自社(bittimes)・競合まとめ媒体(coinpost等)は入れない。
+    'ロイター', 'reuters japan', 'ブルームバーグ', 'bloomberg.co.jp',
+    '日本経済新聞', '日経', '日経クロステック', '日経bp',
+    'coindesk japan', 'コインデスク・ジャパン', 'coindesk japan（コインデスク・ジャパン）',
+    'cointelegraph japan', 'コインテレグラフ ジャパン', 'コインテレグラフジャパン',
+    'forbes japan', 'forbes japan（フォーブス ジャパン）', 'cnbc japan',
 }
+
+# 日本語ロケール用の検索語（ja-JP フィードは日本語名の方がヒットする）。
+COINS_JA = {
+    'BTC': 'ビットコイン', 'ETH': 'イーサリアム', 'XRP': 'リップル XRP',
+    'SOL': 'ソラナ', 'ADA': 'カルダノ', 'DOGE': 'ドージコイン',
+    'SUI': 'SUI 仮想通貨', 'LINK': 'チェーンリンク', 'SHIB': 'シバイヌ 仮想通貨',
+    'AVAX': 'アバランチ 仮想通貨',
+}
+# 収集ロケール（英語圏＝海外速報／日本語圏＝国内信頼報道・A案で追加）。
+LOCALES = (
+    {'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en', 'q': COINS},
+    {'hl': 'ja',    'gl': 'JP', 'ceid': 'JP:ja', 'q': COINS_JA},
+)
 
 def source_of(item):
     el = item.find(NS + 'source') or item.find('source')
@@ -58,17 +81,15 @@ now = datetime.now(timezone.utc)
 cutoff = now - timedelta(hours=WINDOW_HOURS)
 
 # 1) 収集（銘柄別・厳格媒体・直近24h・新着順）。分類前に候補を最大6件保持（材料で絞った後に top2）。
-collected = {}
-flat = []
-for sym, q in COINS.items():
-    cands = []
+#    v4（第262）: en-US（海外速報）＋ ja-JP（国内信頼報道）の2ロケールを収集し銘柄ごとに統合（新着順 top6）。
+def fetch_locale(query, loc):
+    rows = []
     try:
         r = requests.get('https://news.google.com/rss/search',
-                         params={'q': f'{q} when:2d', 'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'},
+                         params={'q': f'{query} when:2d', 'hl': loc['hl'],
+                                 'gl': loc['gl'], 'ceid': loc['ceid']},
                          headers=UA, timeout=25)
         root = ET.fromstring(r.content)
-        seen = set()
-        rows = []
         for it in root.findall('.//item'):
             src = source_of(it)
             if src.lower() not in ALLOWED_SOURCES:
@@ -77,16 +98,29 @@ for sym, q in COINS.items():
             if dt < cutoff:                     # (A) 直近24hゲート
                 continue
             title = clean_title(it.findtext('title') or '', src)
-            k = title.lower()[:40]
+            rows.append({'source': src, 'title_en': title, 'url': it.findtext('link') or '',
+                         'published': it.findtext('pubDate') or '', '_dt': dt})
+    except Exception:
+        pass
+    return rows
+
+collected = {}
+flat = []
+for sym in COINS:
+    merged = []
+    seen = set()
+    for loc in LOCALES:
+        query = loc['q'].get(sym)
+        if not query:
+            continue
+        for row in fetch_locale(query, loc):
+            k = row['title_en'].lower()[:40]     # 見出し先頭で言語横断の重複を抑止
             if k in seen:
                 continue
             seen.add(k)
-            rows.append({'source': src, 'title_en': title, 'url': it.findtext('link') or '',
-                         'published': it.findtext('pubDate') or '', '_dt': dt})
-        rows.sort(key=lambda x: x['_dt'], reverse=True)
-        cands = rows[:6]
-    except Exception:
-        cands = []
+            merged.append(row)
+    merged.sort(key=lambda x: x['_dt'], reverse=True)
+    cands = merged[:6]
     for p in cands:
         p['_sym'] = sym
     collected[sym] = cands
