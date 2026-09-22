@@ -1,60 +1,59 @@
 {
-  "generated_at": "2026-09-22T16:44:41+00:00",
+  "generated_at": "2026-09-22T21:09:45+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインETFが約10億ドルを集め、暗号資産ラリーが強まる",
-        "title_en": "Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkFBUS1RdDBLTmFJMTNCSjhhWVRJVWNCdVpoSkUyVzJlc2cyekZmVDhCSlY2MmNfanBXZHMyZGplOXNlQTNYREVWRHhtMWpqLTB4Wmo0c1FHbUNiUW5uY3Zia3AyeFRjbHNYSG1BTW1wS3M0TGt1ckFqYXZPaVdhNF9LWFN6dlJVcEU2OC1KZkVLR1hYeU5vaU9R?oc=5",
-        "published": "Tue, 22 Sep 2026 14:56:00 GMT",
+        "source": "Decrypt",
+        "title_ja": "CMEが仮想通貨先物ラインアップを拡大、ビットコインキャッシュとユニスワップを追加",
+        "title_en": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fSTNwVi0xS2FfWDJwWTlwWHREMzYwYWdScklpZWJnVWhOT1dXbnd1UWloeUF6UlkxMzNfRF83dzVIVEFQR1VwQW5mLUZjdzFPbWtRbTVFRmx1U0R3bVFfeGhYa0VMYWwzcV81SkdSTlFtNTjSAXtBVV95cUxQdVliWVVzNEhlSkNLTzQtZFRsN0JkZDB1SGZSVkg0bElKcUNUMXJ2XzhqYW1HamNpVTFLbU9SMTlkRFVwVTJhcDVLWTBoRi1hN0gxRmRlOXBIX2c2NGRSdDhLVFNldF9XX3lPSTQySGtUYmg0SDBXTEtkczA?oc=5",
+        "published": "Tue, 22 Sep 2026 20:46:03 GMT",
         "category": "上場"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "戦略的な株式が過去1ヶ月間で40％上昇、再度ビットコイン買い増し",
-        "title_en": "Strategy's Stock Has Soared 40% in the Past Month as It's Buying Bitcoins Again",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTllIaTg4TTROMEpHLUs3NUxjWVNHb3BENWZYcXQ4eWNVNzI3bDZoZ2JyR2FjVkk5Tm1weUdyblZ3ODMtaURZZUtVUjFuc3J0bHk5NlZuQ1Z1SF9pNGtIeUhfYWdvZEVPMkVaenV5bTUzN2JwSGl1OWw1S1E1YzBlMW5IeEQxTlRzeFBMNDQ1VnE5SEpSUUFBT3NzMA?oc=5",
-        "published": "Tue, 22 Sep 2026 12:51:16 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "暗号通貨市場の構造、選挙後のClarity Act急騰のチャンスを待つ：ホワイトハウス",
+        "title_en": "暗号通貨市場の構造は、選挙後のClarity Act急騰のチャンスを待てない：ホワイトハウス",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlJmYjVjVUstMnVWQVRqV1Yzd2tGMkNpX1RwR2VUMVJBYUZFN3VnNHhFaEc2cDJsNGpWc0F2RzdQRG9kQWtuanAtN1Z5eFRZUDVWekRyM0dpaG9nV3ktdHlaZzh5anZKbjN5VmpoQ3hRalMwN0ttM3Z4TVAyQ1Zaem9tWEw4OF9zdW9Uel9wd3M2Z0ZTTG5kdFFGdkVwLWJHbTlxeWVEVjQzVXJsajBRakxUa003SUlJS1dQUTdnV2NScE80X0pyRGdMN05NTjloOXc?oc=5",
+        "published": "Tue, 22 Sep 2026 20:31:02 GMT",
+        "category": "規制"
       }
     ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが7ヶ月高値を更新、1月下旬以来初めて2,750ドル上で終値",
-        "title_en": "Ethereum Hits 7-Month High, Marks First Close Above $2,750 Since Late January",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnpmWElkaDh1Ynd5UXRYWVZ0WTVjbTVaMXFEclZZTXo1Mi1GSERYaUVaQzE3UVJUYTdjbllPMGNYVW5tOXZlcmwxRTVQcDR5WlBlNHlsVWVnZlNfMjVKaUQtT0dNOTRTWlNfSG9rZm9mQmthalJtb0Zlbmd2V1p4ZTdRaV96d2czRzNnZEdBVEtySmpWa1E?oc=5",
-        "published": "Tue, 22 Sep 2026 14:59:10 GMT",
-        "category": "その他"
-      }
-    ],
+    "ETH": [],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ECB Pontes決済システムがRippleのXRPL基盤プラットフォーム『Axiology』で稼動開始",
-        "title_en": "ECB Pontes Settlement System Goes Live With Ripple’s XRPL-Based Platform Axiology",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3EzQkVUZUdNdUJlZ0diN2ROdzR6dWFXWlZHZ0s2aGJpc1BqTlhiajlqdmlWc3ppYTBMYzVxUXNCSUJ2SEJ2RlpJbm9oakkzYnJCV0E2czBZd1V6QzNtMWNadHFwc1ZOV2ZNTFprUjhXZVNkdnpnRTNxTTZDVGptckZ6RUlWNmxSMS0xOXJvcFZFRXJfTXViYjU3cFp4TWs?oc=5",
-        "published": "Tue, 22 Sep 2026 08:31:50 GMT",
+        "title_ja": "Apple Pay仮想通貨採用の噂が拡大、XRP1000ドル予想が再び浮上",
+        "title_en": "Apple Pay Crypto Adoption Rumors Grow as $1,000 XRP Prediction Returns",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFFWaFMtc0JPaGVyZjlldnZ1SWFYLUdCd2RuWjgwbjZ4Zk5mZ0tHZWh3WTlVNDdLci10cXFiUmVPbVNkNDVCdTVsYTZlaDVEX0gwZWF3WjUxSnBrQ1AzX25NTWNET0VUdWlwbmJQYWRrWFVWWDZTUk1JRi1oOU9tMURDY3g4S0dqNEptSnljaTY4UDE0Mkpxc2hsNU5tZw?oc=5",
+        "published": "Tue, 22 Sep 2026 13:02:16 GMT",
         "category": "採用"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "カルダノ、ソラナ、XRPレジャーがAIエージェント決済競争に参入",
-        "title_en": "カルダノ、ソラナ、XRPレジャーに続きAIエージェント決済の競争に参入",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F1dm16a09MeTdFazJyMWdIVENrbWdIYXlyZzNXZllhdW1mRk0zbHJhU2FsSTI3cWotUkdaZEczMHJyelExUzd0M0MtbEdVVS11U2lRQVpWbm1lcUV0OURBT2pTdm9SdzNqTmg3UlVqYlRDcTI3VkdtdERxbFMzVnVoSTlsVGRDYXdUdmNQZjBoeUp4S2RRb2ZSdDE5UWxQYlVzRHFDS0hHSzc1TTlZ?oc=5",
-        "published": "Tue, 22 Sep 2026 04:15:45 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "ECBのポンテス決済システムがリップルのXRPLベース プラットフォーム「Axiology」で本番稼働開始",
+        "title_en": "ECB Pontes Settlement System Goes Live With Ripple’s XRPL-Based Platform Axiology",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3EzQkVUZUdNdUJlZ0diN2ROdzR6dWFXWlZHZ0s2aGJpc1BqTlhiajlqdmlWc3ppYTBMYzVxUXNCSUJ2SEJ2RlpJbm9oakkzYnJCV0E2czBZd1V6QzNtMWNadHFwc1ZOV2ZNTFprUjhXZVNkdnpnRTNxTTZDVGptckZ6RUlWNmxSMS0xOXJvcFZFRXJfTXViYjU3cFp4TWs?oc=5",
+        "published": "Tue, 22 Sep 2026 08:31:50 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "x402の500億ドル規模がソラナにAI決済での優位性をもたらす",
+        "title_en": "x402’s $50B Scale Gives Solana an AI Payments Edge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjVHcXFGMWpTamRsVFRRbHJnOHlmbS1VMGRKT005WVdnejRtVV9xTHhlV1g2NWVsY2wtcjhRU010UjVWd2VQdEtYWFNyWms4bGEzZ2tSUDdMUHp3WGRNQnhIc2U3ZkhQbndkOGFXb2ZIRFF2SHd0Z2pKeTJ5cmpYWUNsTEk1aWVSeVdhOEZWVGl4NzlPYTJR?oc=5",
+        "published": "Tue, 22 Sep 2026 14:45:01 GMT",
+        "category": "採用"
+      },
+      {
         "source": "CoinDesk",
-        "title_ja": "カルダノ、ソラナ、XRPレジャーがAIエージェント決済競争に参入",
-        "title_en": "カルダノ、ソラナ、XRPレジャーに続きAIエージェント決済の競争に参入",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F1dm16a09MeTdFazJyMWdIVENrbWdIYXlyZzNXZllhdW1mRk0zbHJhU2FsSTI3cWotUkdaZEczMHJyelExUzd0M0MtbEdVVS11U2lRQVpWbm1lcUV0OURBT2pTdm9SdzNqTmg3UlVqYlRDcTI3VkdtdERxbFMzVnVoSTlsVGRDYXdUdmNQZjBoeUp4S2RRb2ZSdDE5UWxQYlVzRHFDS0hHSzc1TTlZ?oc=5",
+        "title_ja": "カルダノがソラナ、XRPレジャーと共にAIエージェント決済の競争に参入",
+        "title_en": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0NqUTh0X1VvZW9fRmxubFFLVmtqc1BRTDBra0JNb2N0TjA1RHBCcVM3a0pRUU1rcEdzMlBLTUlmdmZod09laFVrUmhNVG1IT1AtRWgtMnJQZDhVYkY0SXBQRElmV280dTRlNEFoNWgxbVNsVVRURUFYVnJUZ2tpVnRGVmpaRVQtYlhKelBLTVFsSjA1dGlIczZuUVR5TmZpZzVoeXhVTktibHc?oc=5",
         "published": "Tue, 22 Sep 2026 04:15:45 GMT",
         "category": "採用"
       }
@@ -62,23 +61,22 @@
     "ADA": [
       {
         "source": "CoinDesk",
-        "title_ja": "カルダノ、ソラナ、XRPレジャーがAIエージェント決済競争に参入",
+        "title_ja": "カルダノがソラナ、XRPレジャーと共にAIエージェント決済の競争に参入",
+        "title_en": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0NqUTh0X1VvZW9fRmxubFFLVmtqc1BRTDBra0JNb2N0TjA1RHBCcVM3a0pRUU1rcEdzMlBLTUlmdmZod09laFVrUmhNVG1IT1AtRWgtMnJQZDhVYkY0SXBQRElmV280dTRlNEFoNWgxbVNsVVRURUFYVnJUZ2tpVnRGVmpaRVQtYlhKelBLTVFsSjA1dGlIczZuUVR5TmZpZzVoeXhVTktibHc?oc=5",
+        "published": "Tue, 22 Sep 2026 04:15:45 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノがソラナ、XRPレジャーと共にAIエージェント決済の競争に参入",
         "title_en": "カルダノ、ソラナ、XRPレジャーに続きAIエージェント決済の競争に参入",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F1dm16a09MeTdFazJyMWdIVENrbWdIYXlyZzNXZllhdW1mRk0zbHJhU2FsSTI3cWotUkdaZEczMHJyelExUzd0M0MtbEdVVS11U2lRQVpWbm1lcUV0OURBT2pTdm9SdzNqTmg3UlVqYlRDcTI3VkdtdERxbFMzVnVoSTlsVGRDYXdUdmNQZjBoeUp4S2RRb2ZSdDE5UWxQYlVzRHFDS0hHSzc1TTlZ?oc=5",
         "published": "Tue, 22 Sep 2026 04:15:45 GMT",
         "category": "採用"
       }
     ],
-    "DOGE": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "ドージコインが15％急騰で市場反発を主導、ビットコインは85,000ドル超で推移",
-        "title_en": "ドージコインが15％の急騰で市場の反発を牽引、ビットコインは85,000ドル超で安定",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFlJcFNCVGpLQmIwWVFlb3ktMTc2a0luUW5tOGJJRnd6VFA1cnhwZEJSQmNybzlKZXZLTkQtOFlkMEtUaU1FYkxXdFoxakl3bEZ2TTJRNG9BV3I3WXprcGhhZHBHX2diNzhYcmZjMFROWTBzZGpYLUtNWVd5OGJJX0hNODlOSUhDaE50ZzRkaG1WUGZCMXFtUHg1ZWRWYjQyN29iSm9pbzVXRWJhVlVha2dLcXNkWGZqUEZDTw?oc=5",
-        "published": "Tue, 22 Sep 2026 04:33:11 GMT",
-        "category": "その他"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
