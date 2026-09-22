@@ -1,65 +1,69 @@
 {
-  "generated_at": "2026-09-22T11:22:43+00:00",
+  "generated_at": "2026-09-22T13:09:58+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン、アジア時間の安値から回復 原油安がリスク選好を支援",
-        "title_en": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUTVmd0t3eGVSWWx3X0JHOVJtWTlseHlCYXJnQzY4RVFWeTZxQkdDZnpkZVcwQlNQNmVvT2J2Mjc5UG9sYWgtZEtCNG9IS0MtSHgzaWRZcGUxT2xFZDJEUk5ZbWNSQ3Z0OWpTU3RpMmxlSmNULVktdlZvY1RKY0YwZVpTS0daVEo1S0JaTXEwOXliYWdoekN3VUJmcENXWFliTUpVRzA5YXNuWER5eFZfcFpjS2ZMYU1zYXZjVEp1ODQteXIyXzk0?oc=5",
-        "published": "Tue, 22 Sep 2026 10:59:03 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "現物ビットコインETF、11ヶ月ぶりの最大日次流入9億ドル近くを獲得",
-        "title_en": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXB5andMU2Ryclh5TGdTTjYzaFhnRi1TbkwyczVzRDkwd1BBdFBUbllIU0Z1c1BsQm51eUVpcDFhSWlFb1FLMEFFVFJTV2ZrejcyRS1aWkJoVGk1LVBLNF9RSHliWkxDNTFNTzRMa3dNS3kzeDhTUHgzSjNnR21tT2JGWWFFT0Q4OWt5UkJCeTlReFhQUUt1ck9hMA?oc=5",
-        "published": "Tue, 22 Sep 2026 07:44:17 GMT",
-        "category": "承認"
+        "source": "Yahoo Finance",
+        "title_ja": "69,000人のビットコイン保有者が損切り売却、その後BTCが急騰",
+        "title_en": "69,000 Bitcoin Holders Panic-Sold — Then BTC Suddenly Jumped",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTl4cjBBb25IWUUwY1g2d1BrTktlV0VxUmxBamxlTDNfaURxTjRYb1djM1FBeGFUYnA4YmFtVVRCT0lEWHlKZzUwX1R6cU4zdEphNXczXzl2Z1JZMXRudHBlZUdvTmo1cHhNc0kzWmthb0ZWLUVTakNvSk5qUFZja1BkbE9FWVItaGRsWVdaRGZ5TVRWLVVGVA?oc=5",
+        "published": "Tue, 22 Sep 2026 12:32:19 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リーのBitmineがイーサリアムに7400万ドル追加投資、仮想通貨強気相場は『進行中』と宣言",
+        "title_ja": "トム・リーのBitmine、イーサリアムに7,400万ドル追加投資、仮想通貨強気相場「進行中」と宣言",
         "title_en": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2dyOGpXWnpPeXdTc2FVQnhrVkd5elRNTXZaa3kwY3oxdWtaLVZ0N1Zlb01HaUVWRE1uT2pFYkVMMEd6cHVXeHdKV1pyMFVkcm94Y2JhcXU5UTMtN3dLNWdlTmFfNHlDX1dnMjBwNnVzc0JTVkdERGt3LTFVdElvUkFkSGdEdHp5cjE4Tl9WUDc0X2Zz?oc=5",
         "published": "Mon, 21 Sep 2026 15:00:49 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitmine、イーサリアムに7500万ドル投資 『仮想通貨の冬』終焉の兆候",
-        "title_en": "Bitmine Buys $75 Million Of Ethereum Amid Signs ‘Crypto Winter’ Is Over",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDNZb29hUEZOaThMYzVNUUpEd2M4QXh2dWNwQkxyaXVTaGw2Q0RDLWZsSzlxdDcwLXNzSEhUMkpHUW1JUkJjRFhqVjZoWE5OQXdkM19mQl9FOExfVGg5b2ZxTEtBMEk2blJUYjRhSHIxNFVCRTdDVzh5c19pRDJOa1lheThYVEc3RnRnSXFYR0c4M1IxaXhOT1NYUW9rQQ?oc=5",
-        "published": "Mon, 21 Sep 2026 13:48:00 GMT",
         "category": "大口"
       }
     ],
     "XRP": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "欧州中央銀行のポンテス決済システム、リップルのXRPLベースのプラットフォーム「Axiology」で稼働開始",
+        "title_en": "ECB Pontes Settlement System Goes Live With Ripple’s XRPL-Based Platform Axiology",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3EzQkVUZUdNdUJlZ0diN2ROdzR6dWFXWlZHZ0s2aGJpc1BqTlhiajlqdmlWc3ppYTBMYzVxUXNCSUJ2SEJ2RlpJbm9oakkzYnJCV0E2czBZd1V6QzNtMWNadHFwc1ZOV2ZNTFprUjhXZVNkdnpnRTNxTTZDVGptckZ6RUlWNmxSMS0xOXJvcFZFRXJfTXViYjU3cFp4TWs?oc=5",
+        "published": "Tue, 22 Sep 2026 08:31:50 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "欧州中央銀行がステーブルコイン不要のトークン化資産決済システムを立ち上げ、RLUSDとXRPへの影響",
+        "title_en": "The ECB Just Launched a Way to Settle Tokenized Assets Without Stablecoins. What It Means for RLUSD and XRP in Europe.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkFNZWNwX0Ewc0x6elgwdE9YNkc5Q1J6Q3JEdXlBbE84RUYtYmgyV2Rsb2FwUkNqZGVRVjc3TGt2X3FxVGRPYWdNMnFqT1paVzlfNmVUVlNHT053a29zbkNUc2N0WUF3YmhCU2dVY2MwbktCeFg4OHFCN1RsVmR0NnZuel9FM1U2UUJpVkV4UHFxbjBCVUdmMg?oc=5",
+        "published": "Mon, 21 Sep 2026 21:54:43 GMT",
+        "category": "提携"
+      }
+    ],
+    "SOL": [],
+    "ADA": [
+      {
         "source": "CoinDesk",
-        "title_ja": "カルダノ、ソラナ、XRPレジャーとAIエージェント決済支援の競争へ",
+        "title_ja": "カルダノがソラナ、XRPレジャーに続きAIエージェント決済で競争",
         "title_en": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0NqUTh0X1VvZW9fRmxubFFLVmtqc1BRTDBra0JNb2N0TjA1RHBCcVM3a0pRUU1rcEdzMlBLTUlmdmZod09laFVrUmhNVG1IT1AtRWgtMnJQZDhVYkY0SXBQRElmV280dTRlNEFoNWgxbVNsVVRURUFYVnJUZ2tpVnRGVmpaRVQtYlhKelBLTVFsSjA1dGlIczZuUVR5TmZpZzVoeXhVTktibHc?oc=5",
         "published": "Tue, 22 Sep 2026 04:15:45 GMT",
         "category": "採用"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ECB、ステーブルコイン不要のトークン資産決済機構を立ち上げ RLUSDとXRPの欧州展開への意味",
-        "title_en": "The ECB Just Launched a Way to Settle Tokenized Assets Without Stablecoins. What It Means for RLUSD and XRP in Europe.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkFNZWNwX0Ewc0x6elgwdE9YNkc5Q1J6Q3JEdXlBbE84RUYtYmgyV2Rsb2FwUkNqZGVRVjc3TGt2X3FxVGRPYWdNMnFqT1paVzlfNmVUVlNHT053a29zbkNUc2N0WUF3YmhCU2dVY2MwbktCeFg4OHFCN1RsVmR0NnZuel9FM1U2UUJpVkV4UHFxbjBCVUdmMg?oc=5",
-        "published": "Mon, 21 Sep 2026 21:54:43 GMT",
-        "category": "規制"
+        "source": "CoinDesk",
+        "title_ja": "カルダノ、ソラナ、XRPレジャーに続きAIエージェント決済の競争に参入",
+        "title_en": "カルダノ、ソラナ、XRPレジャーに続きAIエージェント決済の競争に参入",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0F1dm16a09MeTdFazJyMWdIVENrbWdIYXlyZzNXZllhdW1mRk0zbHJhU2FsSTI3cWotUkdaZEczMHJyelExUzd0M0MtbEdVVS11U2lRQVpWbm1lcUV0OURBT2pTdm9SdzNqTmg3UlVqYlRDcTI3VkdtdERxbFMzVnVoSTlsVGRDYXdUdmNQZjBoeUp4S2RRb2ZSdDE5UWxQYlVzRHFDS0hHSzc1TTlZ?oc=5",
+        "published": "Tue, 22 Sep 2026 04:15:45 GMT",
+        "category": "採用"
       }
     ],
-    "SOL": [],
-    "ADA": [],
     "DOGE": [],
-    "SUI": []
+    "SUI": [],
+    "LINK": [],
+    "SHIB": [],
+    "AVAX": []
   }
 }
