@@ -1,45 +1,11 @@
 {
-  "generated_at": "2026-09-23T04:26:38+00:00",
+  "generated_at": "2026-09-23T11:18:37+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン87,000ドル近辺、米ビットコイン準備法が委員会を通過し、Zcashは10%上昇",
-        "title_en": "Bitcoin nears $87,000, Zcash zooms 10% as U.S. bitcoin reserve bill clears committee",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON18tUzNxN1lPQ3FvT3JSNm5qa2ZMdEl6cTk1WHc2SlA1SjB2YW4zVElXS2ZyUmFTTXhqZDktcUhBQ1pheldha24tUWFBa0psU3p1ZFhoT2NRNmx0b3JmQzRRSFZMZWtveEt3QU9weGJsdkdoMEFUZVQwbDRCUGlZVTV4cm14aGJNOTJ1ck91NUJvSUlVU1BpdnYySk9tQXZtcEFFdi03blNKMWk3MDdnc05RUzZ5QXc?oc=5",
-        "published": "Wed, 23 Sep 2026 04:10:08 GMT",
-        "category": "規制"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Strive CEOが語る：ドル債務危機が深刻化する中、ビットコインは「無限に上昇する可能性」",
-        "title_en": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXJsUU9BQnJkeHpjbG1MX1FZNHZDcjNWMHF3M0RRR2t5SFFlX0ZPV2MyVHRHSzNLV3ViODFFNmJyd2pQRjJHM2ZNaDJ4ZW1MNzhyV2oxNGlsSF80QzVFWVRydXFDUDBVYlpoNDQzQWw0bmtVUUtmVVlHX05Wb3N4UlFEMVBpRkRwclJoc2JLSTBZWkN5TXJkb1g4TGZ2dUU?oc=5",
-        "published": "Wed, 23 Sep 2026 01:51:00 GMT",
-        "category": "発言"
-      }
-    ],
+    "BTC": [],
     "ETH": [],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Apple Payの暗号採用うわさが高まる、XRP 1,000ドル予想が戻る",
-        "title_en": "Apple Pay Crypto Adoption Rumors Grow as $1,000 XRP Prediction Returns",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFFWaFMtc0JPaGVyZjlldnZ1SWFYLUdCd2RuWjgwbjZ4Zk5mZ0tHZWh3WTlVNDdLci10cXFiUmVPbVNkNDVCdTVsYTZlaDVEX0gwZWF3WjUxSnBrQ1AzX25NTWNET0VUdWlwbmJQYWRrWFVWWDZTUk1JRi1oOU9tMURDY3g4S0dqNEptSnljaTY4UDE0Mkpxc2hsNU5tZw?oc=5",
-        "published": "Tue, 22 Sep 2026 13:02:16 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ECBのポンテス決済システムがRippleのXRPLベース・プラットフォームAxiologyとともにライブ化",
-        "title_en": "ECB Pontes Settlement System Goes Live With Ripple’s XRPL-Based Platform Axiology",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3EzQkVUZUdNdUJlZ0diN2ROdzR6dWFXWlZHZ0s2aGJpc1BqTlhiajlqdmlWc3ppYTBMYzVxUXNCSUJ2SEJ2RlpJbm9oakkzYnJCV0E2czBZd1V6QzNtMWNadHFwc1ZOV2ZNTFprUjhXZVNkdnpnRTNxTTZDVGptckZ6RUlWNmxSMS0xOXJvcFZFRXJfTXViYjU3cFp4TWs?oc=5",
-        "published": "Tue, 22 Sep 2026 08:31:50 GMT",
-        "category": "提携"
-      }
-    ],
+    "XRP": [],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
