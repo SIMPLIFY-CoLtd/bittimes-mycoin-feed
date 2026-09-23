@@ -1,38 +1,21 @@
 {
-  "generated_at": "2026-09-23T16:40:35+00:00",
+  "generated_at": "2026-09-23T21:24:04+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン現物ETFが4日間で230億ドルを超える流入",
-        "title_en": "Bitcoin ETFs surge past $2.3 billion in four days",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuY0dvWU03S1BLU2g2RVNvaU1iRk9HaWJRWTRJaEl6eGlJMzF1S3p0UDg2S3U0TW91Y0JMZkFqcmJoWFdVLVZLLWNJVFZfcmk3TnBOanYzQUFya29sRVNlakdWWlhDZ1dxV0VZZFVYRm84RS0zcE5wdi1TVXQ?oc=5",
-        "published": "Wed, 23 Sep 2026 16:00:00 GMT",
-        "category": "上場"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン84000ドル割れ、米強いインフレデータで利回り上昇",
-        "title_en": "Bitcoin Falls Below $84,000 as Hot US Data Sends Yields Higher",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUxtS1IzZFVIdU82cC1TWnpES1RmdmVkNkozYkt2X1FLREpXWkFyM0x3NndOdjRkTXg2SWJnWlJrWm5vUjl2ZXI0aFFnVldDT2gwUWozQ1hLelhvYnZKakxtdXZhWjUtYV9ib3RRVGQwTFdRVEpiXzlWekl4V2RjT1l3bTdqRFFaSGZiSFhOQ3AybkFiZFE?oc=5",
-        "published": "Wed, 23 Sep 2026 14:52:40 GMT",
-        "category": "マクロ"
-      }
-    ],
+    "BTC": [],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムとCircleのArc、ステーブルコインがAIを牽引―BlackRock予想",
-        "title_en": "Ethereum, Circle’s Arc Set To Gain With Stablecoins Powering AI, Says BlackRock",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW1aUXVqMXBlblAtei1kTDZSaUgwdXIzOUJnMGZsRlVoNVplMVF5ajhsYmMtcnhCUmdlOS1tVjBpb2I0YWRDdG1yZmh0NHllOGdfSnBpOW1HX0cxOWVycEdDUFN1bERXRnB1bVA3R1JJQVRtS1BER0xYLVp6WGc5eDk3N3ZhZ2hoeWpHM3lfY1JhcGtNQUQtVw?oc=5",
-        "published": "Wed, 23 Sep 2026 11:41:13 GMT",
-        "category": "提携"
+        "title_ja": "Bitwise、機関投資家がイーサリアムとソラナをベンチャー投資として扱い採用が停滞すれば売却すると指摘",
+        "title_en": "Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUJzUzM2c0VNSm1qeGRHYlB4WU9ZelhjVW82QkFuSHdOenQwemlPR1g4b2VkYWVpZ1ZZazRweDVWMlE5M0x6WHBibWozWWkwdHRZVjdDUFRXYlpkdHdoQlFuZU5YLWtvd3g5OG9pWDVpTmRQQ0RMdTJyWVA3RkVRUy16ODk0NTJjUlBYX2c3dGUyY3JoQVJfajBNQ3JGNWlPdDNHQ0t3Q3A?oc=5",
+        "published": "Wed, 23 Sep 2026 17:03:06 GMT",
+        "category": "発言"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "FTX・Alameda関連ウォレット、7500万ドルのイーサをWintermute送付―オンチェーンデータ",
+        "title_ja": "FTX・Alameda関連ウォレット、イーサリアム7,500万ドルをWintermute に送付",
         "title_en": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFdBZGowM1pnUXQ1NUpOaTlBYWZkOHdfTXhadEVzRXlTYzM5eUpfRHNoQTY1VGExTndPcWZ3NzZOOTRiOEoxRkoxTkpGZEhJSkxuNnRWQ0JCYWp4MERYNUg0OTljTXpGTWl0Vko5b0txbTBDdkgtTWJhRDQ2SDVsOFpuSzhLb2k0SU9JNGxYaUFqVUdWcnZxeXFVaFB6MURkVHVmZ2h2TWRvRXJkMlJzOEpLcWstVG05WDVPc2pMcE1aSkdPakpCYVVsS0Y?oc=5",
         "published": "Wed, 23 Sep 2026 09:57:24 GMT",
@@ -42,7 +25,7 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "モスクワ取引所がXRPルーブル先物上場、背景にあるもの",
+        "title_ja": "モスクワ取引所、ルーベル建てXRP先物を開始、時期の背景は何か",
         "title_en": "Moscow Exchange Launches XRP Futures in Rubles. What’s Behind the Timing?",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmZTWERfOU4zTDdpa0RfOThqaFFRSHpEZFozdW1Lb1F5djVPelB4cUx6QVNHa2hDUDBiWTVOcHduSnUzdHFZUVlXazdXSVF5UnRINFVqdVBaU2VhUmlBS2dIblhZWGhselFvcWZMWkxwOHBLNmpYdWRoc00wVWxwdjhhRE4yTkZKUEp1blpTcDVVWWVGQ3lsM3pZMm5HZW1ZZTV3?oc=5",
         "published": "Wed, 23 Sep 2026 14:54:37 GMT",
@@ -50,7 +33,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP Ledgerバッチアップグレード発動が近迫、需要は不透明",
+        "title_ja": "XRPレジャー一括アップグレード、間もなく有効化へ、ただし需要は不透明",
         "title_en": "XRP Ledger Batch Upgrade Nears Activation, but Demand Is Unclear",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkdWQThGaExiUW03N3RhOGwxc1ByYkVCdnNiM1E4REVrZHlPZnp1VjVOaWM4QzhiX0l4R3U1b1BiV216S21HNnd3RnBWTG0yeE90MGFtNFY3al9zMVE2UzAxZHJpN0NtSmcxV3daZ2owaTYtZTdkTTdfem9xTTBpYXBxODhBMWJjQzhOMWdSYm5iRzA4d3VERkZ3MA?oc=5",
         "published": "Wed, 23 Sep 2026 10:34:31 GMT",
@@ -59,33 +42,24 @@
     ],
     "SOL": [
       {
-        "source": "CoinDesk",
-        "title_ja": "Solana、最終確定時間を12.8秒から150ミリ秒に短縮するアップグレードのテスト開始",
-        "title_en": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHNWOHlyMDd4UF9MTUJIeGJ4WEdXcURwOUVGZnpTaWRLdWlhOThieFVmV2ljdERGVEtlSWk1QVduMGxvd2Ytb0RPbUxRS0FTdFFXY05WZDIxeldWbTU4bjFpVVczYmt5cFJfWUFpYl9ONVY2TVVFTXNnZ2FRblJtTVVLeklDMm1CRVpMdlkxTHVWbGg3QkppQWJsdWNpNmZMN051LVdLSDZjVy1MRmlUeDdpVi1BUUJVUkk0cUJDZkNvWTBJVk9uZElkdk4?oc=5",
-        "published": "Wed, 23 Sep 2026 05:23:56 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Bitwise、機関投資家がイーサリアムとソラナをベンチャー投資として扱い採用が停滞すれば売却すると指摘",
+        "title_en": "Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUJzUzM2c0VNSm1qeGRHYlB4WU9ZelhjVW82QkFuSHdOenQwemlPR1g4b2VkYWVpZ1ZZazRweDVWMlE5M0x6WHBibWozWWkwdHRZVjdDUFRXYlpkdHdoQlFuZU5YLWtvd3g5OG9pWDVpTmRQQ0RMdTJyWVA3RkVRUy16ODk0NTJjUlBYX2c3dGUyY3JoQVJfajBNQ3JGNWlPdDNHQ0t3Q3A?oc=5",
+        "published": "Wed, 23 Sep 2026 17:03:06 GMT",
+        "category": "発言"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Solanaは最終確定時間を12.8秒から150ミリ秒に短縮する可能性のあるアップグレードのテストを開始",
-        "title_en": "Solanaは、最終確定時間を12.8秒から150ミリ秒に短縮する可能性のあるアップグレードのテストを開始しました",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc05aSWxEUUo2QnotUVhnLWdFYWZYZy1nTk9GdFFLMlVYN1FwaUZxMjBEZEtSUHNFLUpRamFVMmdVY2Zpay15ZG9zTXFqOGw3enVUeWtfNktBdGxsQ08xdzFobFBXbi0tcHU3b2RoR01RMzI5SDh6endJaklnbzFUc3pFZzVLNnpYZm1IVWE3OWpNSzl5SHMwOWxQWjl6YzJKdUExX3hYcDFwM3hCWkRrR1BPSlRsaE1LOExOamZRSzEwc2U4ckFDQjl2dXhZQVNt?oc=5",
+        "title_ja": "ソラナ、確定時間を12.8秒から150ミリ秒に短縮可能なアップグレードのテスト開始",
+        "title_en": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHNWOHlyMDd4UF9MTUJIeGJ4WEdXcURwOUVGZnpTaWRLdWlhOThieFVmV2ljdERGVEtlSWk1QVduMGxvd2Ytb0RPbUxRS0FTdFFXY05WZDIxeldWbTU4bjFpVVczYmt5cFJfWUFpYl9ONVY2TVVFTXNnZ2FRblJtTVVLeklDMm1CRVpMdlkxTHVWbGg3QkppQWJsdWNpNmZMN051LVdLSDZjVy1MRmlUeDdpVi1BUUJVUkk0cUJDZkNvWTBJVk9uZElkdk4?oc=5",
         "published": "Wed, 23 Sep 2026 05:23:56 GMT",
         "category": "その他"
       }
     ],
     "ADA": [],
-    "DOGE": [
-      {
-        "source": "Decrypt",
-        "title_ja": "ドージコイン数ヶ月ぶり高値へジャンプ、背景は",
-        "title_en": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcnBTZC0yTExnSndEQUJiaDBtTThyc0pBUTBrcHBnWmFwQjlzN25zLVVNLXJyd09STk1GMWRpVzljV21rWl90UjlKOEhEdDhQY184bE5pQnZadm8zb1F3YnlDN0E0NHVkX2hfUW5n0gF2QVVfeXFMTm9lV0NReFNjLTlEVnBOcEZZTkVaTVpWWkNRNlNnSkFCb2NwNW5BWldNcV9URUVsLXpnTDRoY0x1TmRmc0R2ZXlFRXJpM0E0Yms1Y2cxWUZYbTh1aGZvYUUtV2RmeWYzODg1R3dZZUt1cV9fd1IzZw?oc=5",
-        "published": "Tue, 22 Sep 2026 17:09:30 GMT",
-        "category": "その他"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
