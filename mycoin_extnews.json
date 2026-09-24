@@ -1,63 +1,46 @@
 {
-  "generated_at": "2026-09-23T21:24:04+00:00",
+  "generated_at": "2026-09-24T04:23:39+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
+    "BTC": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、イーサリアム、ドージコイン値動きニュース：ドージコイン8%下落、ビットコイン8万4000ドル割れ",
+        "title_en": "BTC, ETH, DOGE price news: Doge slides 8%, Bitcoin under $84,000 in crypto sell-off",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaE9Ja2tiYTUyalVRNl9qNkVOVVBlZXBEMU5QTnZRMVpBcXVtZTlXZ0g0YnB3YU43cC1NR3NpT19xaEdZWHl0N3FMMjEwMjh1b0U4RmQwVENJZ2drZ2pXcjZUM3JpV3VtWkFtcWVxSVFGSndVdFFQZ2dPdFpiZW5IUXJiR0hfM19FRzBNYUNIbTBlQkhzZVI5N2d2dkxPM242dVphV1FnbU5EQkRKb3dDYkVuTW13aTBTRHVhSUwwV0FRdzRxdnI3cTJsdw?oc=5",
+        "published": "Thu, 24 Sep 2026 04:13:01 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "156億ドルのビットコインオプション金曜日に満期—その意義",
+        "title_en": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2VrbTgxU20weTZwVUZNSURWcmFXVEJES1hnT1JMbkFxV3d6WnJad2V0RkZvOGhaZXpLaWt2Qm0zNXBTR3hvcEZDRXBTUV9ISVN2TWo4ZGRrQmItdWJ2N1NrdUhKZXk4TnU2TnEtcTJpSE9yTkVMaDk2c3VIemc4RUFwTElFbDlydnBQRG5EeHpFek5KYUZIbFBn?oc=5",
+        "published": "Wed, 23 Sep 2026 18:46:03 GMT",
+        "category": "その他"
+      }
+    ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitwise、機関投資家がイーサリアムとソラナをベンチャー投資として扱い採用が停滞すれば売却すると指摘",
-        "title_en": "Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUJzUzM2c0VNSm1qeGRHYlB4WU9ZelhjVW82QkFuSHdOenQwemlPR1g4b2VkYWVpZ1ZZazRweDVWMlE5M0x6WHBibWozWWkwdHRZVjdDUFRXYlpkdHdoQlFuZU5YLWtvd3g5OG9pWDVpTmRQQ0RMdTJyWVA3RkVRUy16ODk0NTJjUlBYX2c3dGUyY3JoQVJfajBNQ3JGNWlPdDNHQ0t3Q3A?oc=5",
-        "published": "Wed, 23 Sep 2026 17:03:06 GMT",
-        "category": "発言"
-      },
-      {
         "source": "CoinDesk",
-        "title_ja": "FTX・Alameda関連ウォレット、イーサリアム7,500万ドルをWintermute に送付",
-        "title_en": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFdBZGowM1pnUXQ1NUpOaTlBYWZkOHdfTXhadEVzRXlTYzM5eUpfRHNoQTY1VGExTndPcWZ3NzZOOTRiOEoxRkoxTkpGZEhJSkxuNnRWQ0JCYWp4MERYNUg0OTljTXpGTWl0Vko5b0txbTBDdkgtTWJhRDQ2SDVsOFpuSzhLb2k0SU9JNGxYaUFqVUdWcnZxeXFVaFB6MURkVHVmZ2h2TWRvRXJkMlJzOEpLcWstVG05WDVPc2pMcE1aSkdPakpCYVVsS0Y?oc=5",
-        "published": "Wed, 23 Sep 2026 09:57:24 GMT",
-        "category": "大口"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "モスクワ取引所、ルーベル建てXRP先物を開始、時期の背景は何か",
-        "title_en": "Moscow Exchange Launches XRP Futures in Rubles. What’s Behind the Timing?",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmZTWERfOU4zTDdpa0RfOThqaFFRSHpEZFozdW1Lb1F5djVPelB4cUx6QVNHa2hDUDBiWTVOcHduSnUzdHFZUVlXazdXSVF5UnRINFVqdVBaU2VhUmlBS2dIblhZWGhselFvcWZMWkxwOHBLNmpYdWRoc00wVWxwdjhhRE4yTkZKUEp1blpTcDVVWWVGQ3lsM3pZMm5HZW1ZZTV3?oc=5",
-        "published": "Wed, 23 Sep 2026 14:54:37 GMT",
-        "category": "上場"
+        "title_ja": "ビットコイン、イーサリアム、ドージコイン値動きニュース：ドージコイン8%下落、ビットコイン8万4000ドル割れ",
+        "title_en": "BTC, ETH, DOGE price news: Doge slides 8%, Bitcoin under $84,000 in crypto sell-off",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaE9Ja2tiYTUyalVRNl9qNkVOVVBlZXBEMU5QTnZRMVpBcXVtZTlXZ0g0YnB3YU43cC1NR3NpT19xaEdZWHl0N3FMMjEwMjh1b0U4RmQwVENJZ2drZ2pXcjZUM3JpV3VtWkFtcWVxSVFGSndVdFFQZ2dPdFpiZW5IUXJiR0hfM19FRzBNYUNIbTBlQkhzZVI5N2d2dkxPM242dVphV1FnbU5EQkRKb3dDYkVuTW13aTBTRHVhSUwwV0FRdzRxdnI3cTJsdw?oc=5",
+        "published": "Thu, 24 Sep 2026 04:13:01 GMT",
+        "category": "その他"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPレジャー一括アップグレード、間もなく有効化へ、ただし需要は不透明",
-        "title_en": "XRP Ledger Batch Upgrade Nears Activation, but Demand Is Unclear",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkdWQThGaExiUW03N3RhOGwxc1ByYkVCdnNiM1E4REVrZHlPZnp1VjVOaWM4QzhiX0l4R3U1b1BiV216S21HNnd3RnBWTG0yeE90MGFtNFY3al9zMVE2UzAxZHJpN0NtSmcxV3daZ2owaTYtZTdkTTdfem9xTTBpYXBxODhBMWJjQzhOMWdSYm5iRzA4d3VERkZ3MA?oc=5",
-        "published": "Wed, 23 Sep 2026 10:34:31 GMT",
-        "category": "その他"
+        "title_ja": "イーサリアム、サークルのArc、ステーブルコインがAIを支える中で利益見込み—ブラックロック",
+        "title_en": "Ethereum, Circle’s Arc Set To Gain With Stablecoins Powering AI, Says BlackRock",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTW1aUXVqMXBlblAtei1kTDZSaUgwdXIzOUJnMGZsRlVoNVplMVF5ajhsYmMtcnhCUmdlOS1tVjBpb2I0YWRDdG1yZmh0NHllOGdfSnBpOW1HX0cxOWVycEdDUFN1bERXRnB1bVA3R1JJQVRtS1BER0xYLVp6WGc5eDk3N3ZhZ2hoeWpHM3lfY1JhcGtNQUQtVw?oc=5",
+        "published": "Wed, 23 Sep 2026 11:41:13 GMT",
+        "category": "提携"
       }
     ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitwise、機関投資家がイーサリアムとソラナをベンチャー投資として扱い採用が停滞すれば売却すると指摘",
-        "title_en": "Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUJzUzM2c0VNSm1qeGRHYlB4WU9ZelhjVW82QkFuSHdOenQwemlPR1g4b2VkYWVpZ1ZZazRweDVWMlE5M0x6WHBibWozWWkwdHRZVjdDUFRXYlpkdHdoQlFuZU5YLWtvd3g5OG9pWDVpTmRQQ0RMdTJyWVA3RkVRUy16ODk0NTJjUlBYX2c3dGUyY3JoQVJfajBNQ3JGNWlPdDNHQ0t3Q3A?oc=5",
-        "published": "Wed, 23 Sep 2026 17:03:06 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ソラナ、確定時間を12.8秒から150ミリ秒に短縮可能なアップグレードのテスト開始",
-        "title_en": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHNWOHlyMDd4UF9MTUJIeGJ4WEdXcURwOUVGZnpTaWRLdWlhOThieFVmV2ljdERGVEtlSWk1QVduMGxvd2Ytb0RPbUxRS0FTdFFXY05WZDIxeldWbTU4bjFpVVczYmt5cFJfWUFpYl9ONVY2TVVFTXNnZ2FRblJtTVVLeklDMm1CRVpMdlkxTHVWbGg3QkppQWJsdWNpNmZMN051LVdLSDZjVy1MRmlUeDdpVi1BUUJVUkk0cUJDZkNvWTBJVk9uZElkdk4?oc=5",
-        "published": "Wed, 23 Sep 2026 05:23:56 GMT",
-        "category": "その他"
-      }
-    ],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
