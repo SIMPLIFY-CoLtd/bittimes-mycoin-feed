@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-09-25T11:38:29+00:00",
+  "generated_at": "2026-09-25T17:00:27+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、XRP、ソラナは先週10%以上上昇、その後1日で一斉下落。ピークだったのか",
-        "title_en": "Bitcoin, XRP and Solana All Gained Over 10% Last Week, Then Fell Together in a Day. Was That their Peak?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk5Ydm5Wb1licTZaQ3lwSzhIVzQ3SlI0VWxXc2hVVUpwZ3cwYlNaVmoyam0yQ1JCekNPbWZIdUs5Z1NnOWZMS3BOSjgySjYtaURQOUpKcGlsVDl6VVBKdHhEdUJmdFJnUi1hMTRBU1d3alJRWmQwaFdJNTZDekQwSDk2cmU5WGZSdjhRd3Y0b0RHNEExekI5Ql9lRQ?oc=5",
-        "published": "Fri, 25 Sep 2026 10:31:49 GMT",
+        "source": "Decrypt",
+        "title_ja": "156億ドルのオプション満期でビットコイン上昇が減速、XRPとソラナは上昇継続",
+        "title_en": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX0NmWnpmWm1ERWRfTy0tZVBMYVFTTlBiY3o1YU5hWHZDV2pzNHhLOTMwdDMwdl9iM3hNbVoxbURqZ3EzZEJsS0FkYWE3dlhZeEpFUnF5OGY1SS1vcnA1V1VqbXduLU9fNU02ZEgybmZQbk5WOTVpRkM5OGg0Zw?oc=5",
+        "published": "Fri, 25 Sep 2026 16:06:23 GMT",
         "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインETFが58億ドルの負債を解消",
-        "title_en": "Bitcoin ETFs have erased a $5.8 billion hole",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXJuNXBfT1RyMC1nZ2hVUVVCd3lJZjRqZG5oV2Z4OUdIYktqT0dJNEF4NHo5emVOckx3c0duM25BV2ttaXJxM3BBT0FONlc1VGFES2hCbGxnVDA5Ql9lR3pvcHg0TlQ1REZCc3YyNG1BTHVpb05GbjNxeDRlaDdZV1pVSG5iYkxZNjNaTHJxY1BEeHRp?oc=5",
-        "published": "Fri, 25 Sep 2026 09:13:01 GMT",
-        "category": "承認"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "168万ETHがステーキング待ち、154,000ETHが流出準備。イーサリアムの底か",
+        "title_ja": "168万ETHがステーキング待機中、15万4000ETHが流出準備—これはイーサリアムの底か",
         "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
         "published": "Fri, 25 Sep 2026 10:28:57 GMT",
@@ -32,32 +24,32 @@
       },
       {
         "source": "日本経済新聞",
-        "title_ja": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
+        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
         "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年9月25日(適時開示) ：日経会社情報DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGRUS0VGZGdWb05kYzNqQmJNWlNaSEktbHdIeXNrejdvSk5QWkZ0OEwzYU1Tc1lvbU80Und2d3dRdkp1NVBBbDRaN3ZPb044UnhSVXVPdkNNc3QyY3JDQXlydkRkdEhLeDRZaDFZdlFSY2dkZXd1RU54VWRiVm9xOGJmTlpyTkV5UlRWZVk5Si1VM3V1azZSeTFnUmQxOUtSeTRCTjI3NUVVSVJlaFhVZXRpQzVSUWJPNzlIVVN1SVR4WHc3aTYtS2NYOF8?oc=5",
         "published": "Thu, 24 Sep 2026 23:30:00 GMT",
-        "category": "大口"
+        "category": "採用"
       }
     ],
-    "XRP": [],
-    "SOL": [
+    "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、XRP、ソラナは先週10%以上上昇、その後1日で一斉下落。ピークだったのか",
-        "title_en": "Bitcoin, XRP and Solana All Gained Over 10% Last Week, Then Fell Together in a Day. Was That their Peak?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk5Ydm5Wb1licTZaQ3lwSzhIVzQ3SlI0VWxXc2hVVUpwZ3cwYlNaVmoyam0yQ1JCekNPbWZIdUs5Z1NnOWZMS3BOSjgySjYtaURQOUpKcGlsVDl6VVBKdHhEdUJmdFJnUi1hMTRBU1d3alJRWmQwaFdJNTZDekQwSDk2cmU5WGZSdjhRd3Y0b0RHNEExekI5Ql9lRQ?oc=5",
-        "published": "Fri, 25 Sep 2026 10:31:49 GMT",
-        "category": "その他"
+        "title_ja": "Evernorthが1票差でXRP財務株XRPNをナスダックに上場させることまであと一歩",
+        "title_en": "Evernorth Is One Vote Away From Bringing XRP Treasury Stock XRPN to Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlRHS2NMZFdYazB3V2xZemg1SmpUVTB6aEdhbnZJRlRGckwwLVk3bFF2ZElWSE1jREhzdkRIWVJPaHZnbWFIUFpQQlNjVGltbW1na2JJajEtRVVqcXY3UTZYWFhDeUs0NGlOT0RhU1NRWm9TOXNCQUhwRm44YU40ZUphbFVJYVZxZllBSmpuZzJNRGNLVmVvbE5nVS1zdw?oc=5",
+        "published": "Fri, 25 Sep 2026 13:22:32 GMT",
+        "category": "上場"
       },
       {
-        "source": "The Block",
-        "title_ja": "ソラナトレジャリー企業SkyAI、株主抗議後も取締役会を維持、株式計画は否決",
-        "title_en": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdERZUEIzYnBGX2R4ZnkyWmxFVmg1dU9QdFNQLUNYRkIzS0xJYk1GY2VvTFV4cm01cE5zbnlrNTRRV0Q0Tm92dkJqS0lpUlg1dXd0TE5ieGsyVjlTZUkzZ3R2VmhNM1h6ak5ZYi1PSlNNRnE2dTZWMG81eXZ2eHN3Z29nTWpaVmM5QnQ4QVQ0anZ1QVNUaHExUE9ybWpYdDl4S01YQmNkanRJU0hxVDRUb19vMkhndGJiZkZyc3FQdlBnVGdjZHhYLW04Vmg?oc=5",
-        "published": "Thu, 24 Sep 2026 19:17:47 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Bitgetの3億5160万ドルのハック盗まれたXRPを凍結できるのは誰か",
+        "title_en": "Who Can Freeze the XRP Stolen in Bitget’s $351.6 Million Hack?",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnZTVGFnR1BpekdqbkhxcnpKSFpGdzltT3N3UkFQcFNEa1BrY19rM3B1Sjg4T1dqVkE1bVJMakx0eXB3YjJnamlORlFxRGpBaVZxQjg2ZE91TUFmMTUwYmdTVWtwYkJJRGl4U2pYTzg3Nmw1SUZKZ3FMbXFSeWduRjlJSS1QX1dCaGRQb2FpSVZMQVRaX1YwSg?oc=5",
+        "published": "Fri, 25 Sep 2026 12:33:23 GMT",
+        "category": "ハッキング"
       }
     ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
