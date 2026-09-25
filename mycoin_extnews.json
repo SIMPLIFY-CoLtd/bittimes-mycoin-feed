@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-09-25T04:34:57+00:00",
+  "generated_at": "2026-09-25T11:38:29+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、XRP、ソラナは先週10%以上上昇、その後1日で一斉下落。ピークだったのか",
+        "title_en": "Bitcoin, XRP and Solana All Gained Over 10% Last Week, Then Fell Together in a Day. Was That their Peak?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk5Ydm5Wb1licTZaQ3lwSzhIVzQ3SlI0VWxXc2hVVUpwZ3cwYlNaVmoyam0yQ1JCekNPbWZIdUs5Z1NnOWZMS3BOSjgySjYtaURQOUpKcGlsVDl6VVBKdHhEdUJmdFJnUi1hMTRBU1d3alJRWmQwaFdJNTZDekQwSDk2cmU5WGZSdjhRd3Y0b0RHNEExekI5Ql9lRQ?oc=5",
+        "published": "Fri, 25 Sep 2026 10:31:49 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ビットコインETFが58億ドルの負債を解消",
+        "title_en": "Bitcoin ETFs have erased a $5.8 billion hole",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXJuNXBfT1RyMC1nZ2hVUVVCd3lJZjRqZG5oV2Z4OUdIYktqT0dJNEF4NHo5emVOckx3c0duM25BV2ttaXJxM3BBT0FONlc1VGFES2hCbGxnVDA5Ql9lR3pvcHg0TlQ1REZCc3YyNG1BTHVpb05GbjNxeDRlaDdZV1pVSG5iYkxZNjNaTHJxY1BEeHRp?oc=5",
+        "published": "Fri, 25 Sep 2026 09:13:01 GMT",
+        "category": "承認"
+      }
+    ],
     "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "168万ETHがステーキング待ち、154,000ETHが流出準備。イーサリアムの底か",
+        "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
+        "published": "Fri, 25 Sep 2026 10:28:57 GMT",
+        "category": "その他"
+      },
       {
         "source": "日本経済新聞",
         "title_ja": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
@@ -12,33 +37,25 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGRUS0VGZGdWb05kYzNqQmJNWlNaSEktbHdIeXNrejdvSk5QWkZ0OEwzYU1Tc1lvbU80Und2d3dRdkp1NVBBbDRaN3ZPb044UnhSVXVPdkNNc3QyY3JDQXlydkRkdEhLeDRZaDFZdlFSY2dkZXd1RU54VWRiVm9xOGJmTlpyTkV5UlRWZVk5Si1VM3V1azZSeTFnUmQxOUtSeTRCTjI3NUVVSVJlaFhVZXRpQzVSUWJPNzlIVVN1SVR4WHc3aTYtS2NYOF8?oc=5",
         "published": "Thu, 24 Sep 2026 23:30:00 GMT",
         "category": "大口"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ARKインベスト、Securitizeがイーサリアム上でベンチャーファンドをトークン化、OpenAIおよびAnthropicの持ち分を含む",
-        "title_en": "ARKインベスト、Securitize（SECZ）がOpenAIおよびAnthropicの持ち分をイーサリアム上でベンチャーファンドとしてトークン化",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX05PVzFVWUxFOVZ1VS1NVy1iZHV1TTZvTDE2Zi1fcFRBXzQwc2hMaFRLYjY4UGVVTVo2NkszMGpsOVpEVnV0WjRtNHBzdTFDWFVsN1Fya1FCeHltY0ZOVXl5VmJvMkhjYWRoWVpyTXg2ck5XcFlPdmZ0MTVlUDR4WUpQcGJVMmkwMzJkWGhCaVItOWJYenBoN3YwMWI1Z1FYN25YZmNRVkEtcWJrWjhacjBzVkhMRUt4UnRZY3JSc0RQVjZZWTZKSGtmNWtnT3NyM3k0b0RCa1k?oc=5",
-        "published": "Thu, 24 Sep 2026 14:02:03 GMT",
-        "category": "提携"
       }
     ],
     "XRP": [],
     "SOL": [
       {
-        "source": "Decrypt",
-        "title_ja": "ソラナ財団、バイナンスの元グローバルCMOを採用、機関投資家向けに注力",
-        "title_en": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHZ2SjVmRGp6UDhBcDFfZElfZmh3NEFkS0VWVEJ0cGx5RG9RbFBWM1N2a29KT2J5MUhNUUhvdFVERGpMaE9YdFF3RzVKc2JhbXZyQTRYSW9BY201SzhHSWFDUVZEVUlJWjZPM214Sy13YWx0Vm9VRlZBWVI2VGxpZW1jZUNLc2xCY212cC1xSzFiajJNRXRsODlYaTVTS0ZD0gGoAUFVX3lxTFBBdzNIZklvcGh5cVdTR0s0amoyZVNacjlucHJOcHIzRElaamtHZS1kWlNTelFYbHpQbXdnMjUyWjdXVjQ2c29fUUVyTi12d2pQckRUN0tSSzJvNUhpdFlVLXlzWXJ0SF9ES2M3M2RxbTB1VDF0Um9rRkktWWxFeldwZEhLbHlLcW80Rm9zLWZXWFc2RnpLa082NFJBQ2VtVzFjVE1BQmxPVQ?oc=5",
-        "published": "Thu, 24 Sep 2026 13:03:03 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、XRP、ソラナは先週10%以上上昇、その後1日で一斉下落。ピークだったのか",
+        "title_en": "Bitcoin, XRP and Solana All Gained Over 10% Last Week, Then Fell Together in a Day. Was That their Peak?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk5Ydm5Wb1licTZaQ3lwSzhIVzQ3SlI0VWxXc2hVVUpwZ3cwYlNaVmoyam0yQ1JCekNPbWZIdUs5Z1NnOWZMS3BOSjgySjYtaURQOUpKcGlsVDl6VVBKdHhEdUJmdFJnUi1hMTRBU1d3alJRWmQwaFdJNTZDekQwSDk2cmU5WGZSdjhRd3Y0b0RHNEExekI5Ql9lRQ?oc=5",
+        "published": "Fri, 25 Sep 2026 10:31:49 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナ財団、バイナンスおよびポリゴンのベテランを採用、トークン化金融推進を加速",
-        "title_en": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGZkcUJfWXR0UU43VWVuU05oZzNpT1RtbGJqVUdrTjVRQ3E5RGZ3Qmc3UWk3QlBaZm16VTkyb0ZfaGU2NEdxeHZyNG9vUDJwWU52aTZJdkdvemp3ZVNfOUwzb3hLTGpaQUQxdndrR1FLLTlDa2ZoNldyWjV2SmZGZ1MtV0FKUWNrMDJRUmxHSnBVMUpfeVV1U3d2ZkQxQlJuSV9lSmVwU1VNem5ic0lHMFJDaGhlV00tR1RYMnVQT0dLQzJCdklkWkNXVQ?oc=5",
-        "published": "Thu, 24 Sep 2026 13:00:00 GMT",
-        "category": "採用"
+        "source": "The Block",
+        "title_ja": "ソラナトレジャリー企業SkyAI、株主抗議後も取締役会を維持、株式計画は否決",
+        "title_en": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdERZUEIzYnBGX2R4ZnkyWmxFVmg1dU9QdFNQLUNYRkIzS0xJYk1GY2VvTFV4cm01cE5zbnlrNTRRV0Q0Tm92dkJqS0lpUlg1dXd0TE5ieGsyVjlTZUkzZ3R2VmhNM1h6ak5ZYi1PSlNNRnE2dTZWMG81eXZ2eHN3Z29nTWpaVmM5QnQ4QVQ0anZ1QVNUaHExUE9ybWpYdDl4S01YQmNkanRJU0hxVDRUb19vMkhndGJiZkZyc3FQdlBnVGdjZHhYLW04Vmg?oc=5",
+        "published": "Thu, 24 Sep 2026 19:17:47 GMT",
+        "category": "その他"
       }
     ],
     "ADA": [],
