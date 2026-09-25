@@ -1,60 +1,78 @@
 {
-  "generated_at": "2026-09-25T17:00:27+00:00",
+  "generated_at": "2026-09-25T21:25:10+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Decrypt",
-        "title_ja": "156億ドルのオプション満期でビットコイン上昇が減速、XRPとソラナは上昇継続",
-        "title_en": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX0NmWnpmWm1ERWRfTy0tZVBMYVFTTlBiY3o1YU5hWHZDV2pzNHhLOTMwdDMwdl9iM3hNbVoxbURqZ3EzZEJsS0FkYWE3dlhZeEpFUnF5OGY1SS1vcnA1V1VqbXduLU9fNU02ZEgybmZQbk5WOTVpRkM5OGg0Zw?oc=5",
-        "published": "Fri, 25 Sep 2026 16:06:23 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインETFが58億ドルの流出から8億ドルの流入へ転換",
+        "title_en": "Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmZfdUNGN3BYN0UyOElfQWtLT2lXd2tJN3AwdkxseWVYaFJvOVB3OElTdFBYMXJPUTdjVU9UbUhUOXRWRHJrNkJib2w0TWd0dXkxZ1haNjZ5SnBrZURramk4aUZ4VHpESUVWSEU1eUxmamFCU2VQTnJBLU9wdGVMM1U4TzQwUHlEVG9TOFg2MjEtbGc?oc=5",
+        "published": "Fri, 25 Sep 2026 19:39:29 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "168万ETHがステーキング待機中、15万4000ETHが流出準備—これはイーサリアムの底か",
-        "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
-        "published": "Fri, 25 Sep 2026 10:28:57 GMT",
+        "title_ja": "イーサリアムが1年間の下降トレンドを脱却、2,800ドル付近でレジスタンスに直面",
+        "title_en": "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFlqWnhLUW5INWo0NkNJQ2J5X2ZUVVZYcEN1YnlZV0FMXzl3SnFQbkNMYXF4R1lIVnNxUU9pM3RoRUkzVm16YVl0eFdxQnlKV1hQMkdELTBvYk12eUFrRE51OGpQMno2OFdua1lRNlMtMnF3SHlwbUl6SmZIR1pHdWdrc2lHMER6b09RdENaRjRNRXhGR2VWdFg2Uk5tUHh4aDRV?oc=5",
+        "published": "Fri, 25 Sep 2026 19:09:17 GMT",
         "category": "その他"
       },
       {
-        "source": "日本経済新聞",
-        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
-        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年9月25日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGRUS0VGZGdWb05kYzNqQmJNWlNaSEktbHdIeXNrejdvSk5QWkZ0OEwzYU1Tc1lvbU80Und2d3dRdkp1NVBBbDRaN3ZPb044UnhSVXVPdkNNc3QyY3JDQXlydkRkdEhLeDRZaDFZdlFSY2dkZXd1RU54VWRiVm9xOGJmTlpyTkV5UlRWZVk5Si1VM3V1azZSeTFnUmQxOUtSeTRCTjI3NUVVSVJlaFhVZXRpQzVSUWJPNzlIVVN1SVR4WHc3aTYtS2NYOF8?oc=5",
-        "published": "Thu, 24 Sep 2026 23:30:00 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "168万ETHがステーキング待機中、15万4千ETHが流出準備、イーサリアムが底値か",
+        "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
+        "published": "Fri, 25 Sep 2026 10:28:57 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Evernorthが1票差でXRP財務株XRPNをナスダックに上場させることまであと一歩",
-        "title_en": "Evernorth Is One Vote Away From Bringing XRP Treasury Stock XRPN to Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlRHS2NMZFdYazB3V2xZemg1SmpUVTB6aEdhbnZJRlRGckwwLVk3bFF2ZElWSE1jREhzdkRIWVJPaHZnbWFIUFpQQlNjVGltbW1na2JJajEtRVVqcXY3UTZYWFhDeUs0NGlOT0RhU1NRWm9TOXNCQUhwRm44YU40ZUphbFVJYVZxZllBSmpuZzJNRGNLVmVvbE5nVS1zdw?oc=5",
-        "published": "Fri, 25 Sep 2026 13:22:32 GMT",
-        "category": "上場"
+        "title_ja": "リップルCEOがXRPの中心的役割に疑問、需要への影響は",
+        "title_en": "Ripple’s CEO Questions XRP’s Central Role: What Does This Mean for Demand?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUhIc1hpSTRXVVFIUm1DNHk4TTYwLUhTckd0R29rX0M2RDlsOWlyanBGaUNPaTROUzlZRHIzOC14bXplYWZjWXV6N28zTnlUWkVLMGotdlRzY1RFQldPWmdWZDNEaGltdkVicjJPXzVwejlsMnBhVUpJQWdlQTVPbFctMldaRXlkaE9LU2l3N1dhWTF6elVIR2p5c1NBUQ?oc=5",
+        "published": "Fri, 25 Sep 2026 19:01:37 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bitgetの3億5160万ドルのハック盗まれたXRPを凍結できるのは誰か",
-        "title_en": "Who Can Freeze the XRP Stolen in Bitget’s $351.6 Million Hack?",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnZTVGFnR1BpekdqbkhxcnpKSFpGdzltT3N3UkFQcFNEa1BrY19rM3B1Sjg4T1dqVkE1bVJMakx0eXB3YjJnamlORlFxRGpBaVZxQjg2ZE91TUFmMTUwYmdTVWtwYkJJRGl4U2pYTzg3Nmw1SUZKZ3FMbXFSeWduRjlJSS1QX1dCaGRQb2FpSVZMQVRaX1YwSg?oc=5",
-        "published": "Fri, 25 Sep 2026 12:33:23 GMT",
+        "title_ja": "XRPが週間16%急騰し1.55ドル回復、1億5,700万ドルの盗難を受けるも四半期末までこの水準を維持できるか",
+        "title_en": "XRP Surges 16% This Week, Reclaims $1.55 After $157 Million Theft—Can It Sustain This Level Until Quarter-End?",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG1UNGwwc09KeGZEVWRNNk1nYWF3TUthRHpRcWtpUTZtVjU4emh1bzk5QzRCWldqekQtODRsY2JveDc0MndyRlFMQlpvdHVDUFBZRU55Zjd4UTJFekQwYjlzQlMydzc1SVcxTVZXVGFTUUpXV2NyREVySWYwQ0xXV1Z6RnlCVWFJbEsyVjllR1laT0RyN1FB?oc=5",
+        "published": "Fri, 25 Sep 2026 17:47:50 GMT",
         "category": "ハッキング"
       }
     ],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナ財団の新規採用がSOLに与える意味は",
+        "title_en": "Solana Foundation’s New Hires: What Does It Mean for SOL?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXZ5ODBIS1lIZGVURXpHbTFaX2dtYmYxVHVvMlY0SVVoUFhqcExJSldib2ZjQ3dKSnc3WHRQMDNQTENETDNCdWpxbGFGOFJTdk1XSmcxVDNsVWtSWnU3Wk9ZTzBRVkRFTEdYQW51ZWlpVk13V3lFU0VUVlVUb2ZPeFY3dm9VRnc2NjlvU280ajF4X2NLVW9MSGlZM2dvNGM?oc=5",
+        "published": "Fri, 25 Sep 2026 18:39:05 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": []
+    "AVAX": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ウォールストリートがアバランチで24時間トークン化取引をテスト、大型アップグレード後AVAXは8%下落",
+        "title_en": "Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Major Upgrade",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXJCVW5MVDVhVkhGYXhXdHB1RlFTdTQ1RnBMSHNLQ3kyRV9NRG9zd3NLdUt5YnYtNWJ1cU8xSWxjemJRbk4wNHEycFpHVmdtbVRDdE1Edk1vbG4xa2VTSVlvZ2FPWUNmRlQ5ZUQwSWl2SEtfLXlGVDB3SlFjYjg0V3hqblpKTHBlYlI0RktpeGJUZ01WcnliSHZpVQ?oc=5",
+        "published": "Fri, 25 Sep 2026 18:44:07 GMT",
+        "category": "採用"
+      }
+    ]
   }
 }
