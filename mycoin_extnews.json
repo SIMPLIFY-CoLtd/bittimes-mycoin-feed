@@ -1,63 +1,72 @@
 {
-  "generated_at": "2026-09-26T04:38:36+00:00",
+  "generated_at": "2026-09-26T11:12:14+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "暗号通貨明確化法案の失敗直後にブロックチェーン協会でリーダーシップ交代",
-        "title_en": "暗号通貨明確化法案の失敗直後にブロックチェーン協会でリーダーシップ交代",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWk84QW1zU3d5aEhTSzFjWmR5U2ZkZzk4VklxbTVpR2Y4dm1mN0pWU0tWa1lrNURJX2I3bmlacU5Tc3Y3UW9iYTJTR3hxN3Eyb1c4ZDVjMENsRzVZd0dzdXZQR2JiVm8zRDJmaV95c1dZSU9QSTRVSklkekp2clNaSmZqaGlnNjVLVFl5STlua2hvV3poaEVJQW05Wmg1N212Vkh3ajY3ZFBzZXg0YnBXV2xjcDIzY3phWkR1eVdNVUtPa1pmQkJuMV9DRQ?oc=5",
-        "published": "Fri, 25 Sep 2026 20:01:05 GMT",
-        "category": "規制"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインETFが4日間で23億ドルを集める、Q4への勢い継続が焦点",
+        "title_en": "Bitcoin ETFs Attract $2.3 Billion in Just Four Days: Can the Momentum Carry Into Q4?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVJpVDJIX0t6akFMT2h0NGpVMmRqdHJ1VE92TVRTdmRGaFU5MHZoVVpuRXdITHcxMktqbXYxV29jWmtRVXg4Vkt4a2hmbVgyQlBUMVMzMmFTa1gtbjl1RVk2N2F6eXFQN0s3dmxjNXJRZUJqamxDM2ttWUpJX2NpNXRCRERDeFhRUlVRNGZOLVFtdGc?oc=5",
+        "published": "Sat, 26 Sep 2026 10:30:41 GMT",
+        "category": "承認"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bitcoin現物ETFが58億ドルの流出から8億ドルの流入へ反転。今がビットコイン買いの時か？",
-        "title_en": "Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmZfdUNGN3BYN0UyOElfQWtLT2lXd2tJN3AwdkxseWVYaFJvOVB3OElTdFBYMXJPUTdjVU9UbUhUOXRWRHJrNkJib2w0TWd0dXkxZ1haNjZ5SnBrZURramk4aUZ4VHpESUVWSEU1eUxmamFCU2VQTnJBLU9wdGVMM1U4TzQwUHlEVG9TOFg2MjEtbGc?oc=5",
-        "published": "Fri, 25 Sep 2026 19:39:29 GMT",
-        "category": "大口"
+        "title_ja": "ビットコインが暗号資産全体時価総額の60%未満に、歴史から見える次の展開",
+        "title_en": "Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVElNeFptdmZTaUdTcnY3WHc2Uzg4YzE5M0pXUkpoM0FoUTJDb3NIVXlWaFNlOThUazROcm9MUXZnVkZnbXRvQWdzM0lrS2l3LUptR0hiM1JMXzRoTFdmZDU1eTFuUENWT2NfSlQxMFJ5RmxUaFJxOWZ5YkdSeFliWEVzdm1TajZVTmtBVWdnVUp6S05GWEhIcA?oc=5",
+        "published": "Sat, 26 Sep 2026 05:50:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "168万ETHがステーキング待機中、15万4,000ETHが流出準備。イーサリアムは底値か？",
-        "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
-        "published": "Fri, 25 Sep 2026 10:28:57 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "SecuritizeがCathie WoodのARK Venture Fundをオンチェーン化、OpenAIとAnthropicへのエクスポーザーを提供",
-        "title_en": "Securitize takes Cathie Wood’s ARK Venture Fund onchain, offering exposure to OpenAI, Anthropic and Stripe",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUZ1UzFuamJJdmlpZEJiay1LLUgySVhEVExQanNOUkhQUDMxa2NDb0w3eEExaE9ZeWpNdlJKbk8zUG4wVUFIZ2poNUJsYWkwaEt6ejdPNXpqelBJblpud3Q5MUdTeUlMU0hla1ZyMlo5V2hjQW1IQW9yUkhaVDZqQ0R1SXFIcnFMeXRXb0VfUjlpVVpnNkhpRFYxZ1hSNnlRNlFibUdvMDU4dE5Va01zWmtrenRjNE9LX2R0bjY5QWdMczRGZWlWeHM5bWlXZ1Rw?oc=5",
-        "published": "Fri, 25 Sep 2026 09:14:30 GMT",
-        "category": "提携"
+        "title_ja": "イーサリアムが1年間の下降トレンドを抜け出すも、2,800ドルのレジスタンスに直面",
+        "title_en": "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFlqWnhLUW5INWo0NkNJQ2J5X2ZUVVZYcEN1YnlZV0FMXzl3SnFQbkNMYXF4R1lIVnNxUU9pM3RoRUkzVm16YVl0eFdxQnlKV1hQMkdELTBvYk12eUFrRE51OGpQMno2OFdua1lRNlMtMnF3SHlwbUl6SmZIR1pHdWdrc2lHMER6b09RdENaRjRNRXhGR2VWdFg2Uk5tUHh4aDRV?oc=5",
+        "published": "Fri, 25 Sep 2026 19:09:17 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "Rippleニュース：XRP Ledgerアップグレード、バリデーター再設定後10日間遅延",
+        "title_ja": "リップルニュース：バリデーターの時計リセット後、XRPレジャーアップグレードが10日間遅延",
         "title_en": "Ripple news: XRP Ledger upgrade delayed 10 days after validators reset activation clock",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDJSM1FsODNPZ1I0NlVpZnIzVVZTTFBGVlBXalFOQl82aHVaSkhjdm1lT0o5bHBPLXZuc3E3RDFVR2ZKZHhoZWxVbFRSRjViMGxnRnNVWTRCUTFwd0FBM1k0SjlFRXVpcXlyUXIwdXhFZk1rVFJESDdSWVFJZ21YQzNTR0JUejRySTZYdXI5OTQ0VWVyQmtwYzg1WmVXTHRURjdseHp6UkJQRTlMNnYzcGk1QQ?oc=5",
         "published": "Sat, 26 Sep 2026 04:30:00 GMT",
         "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "RippleCEOがXRPの中心的役割に疑問、需要に何をもたらすのか",
-        "title_en": "Ripple’s CEO Questions XRP’s Central Role: What Does This Mean for Demand?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUhIc1hpSTRXVVFIUm1DNHk4TTYwLUhTckd0R29rX0M2RDlsOWlyanBGaUNPaTROUzlZRHIzOC14bXplYWZjWXV6N28zTnlUWkVLMGotdlRzY1RFQldPWmdWZDNEaGltdkVicjJPXzVwejlsMnBhVUpJQWdlQTVPbFctMldaRXlkaE9LU2l3N1dhWTF6elVIR2p5c1NBUQ?oc=5",
-        "published": "Fri, 25 Sep 2026 19:01:37 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "リップルニュース：XRPレジャーのアップグレードが、バリデーターによるアクティベーション時計のリセット後10日間遅延",
+        "title_en": "リップルニュース：XRPレジャーのアップグレードが、バリデーターによるアクティベーション時計のリセット後10日間遅延",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHJtbEZsNTRLb1JzV2xnVUZ6WXRvM0c1aUhrNTBnRkZxSTdDN0lKY0MyX3Mxb3h0cUNVT3d0d2VKS3JWS1pnWFBwWG5LdUlRTUpyWjZEV2ZzZUNzMUJMV1BucGhPOXltamxFVVRmZnB5Zno4X1ByUXg1SjFjTHRKc2lEaGhpTC1Qa1RKOUY5YmR2eG9WN0JBSXZNMzc1enMwcnlZbE8xOHJPa1lVWnNPVWJmZmdDajA?oc=5",
+        "published": "Sat, 26 Sep 2026 04:30:00 GMT",
+        "category": "その他"
       }
     ],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
+        "title_en": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG50MWh5N3B0VTFIZlptT2V4c19YMEhabm1XU2tlejJOQnFvTHh4V3RBd2dkNEdpVDV0dWlDdVl0aFdrSzQ4UC11dUd0Vlk1UmRqMm5pTHVqSGZuSEVqQ1k3cmFBclgzSTNxMFhmRWptSmlCZmlJWmFCRnJjdHJfcXVfOFZfeG9QYWNJMHNGUUpzaFdUcmtrM01MQl9TMjEzaWR5eW1hdU40WVVvclVud0RqUDEtQmRsS0dn?oc=5",
+        "published": "Sat, 26 Sep 2026 05:00:00 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
+        "title_en": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjVCZ2M5bzVLTGVDMXNoWUc5cDlFSUhLbXA0RzQwQTNULXFWMXRndmJzbjZmTDVETlVKNnQ2bThEY3QtNDNBaGRBVy1nNmdycl85VUhDVUxIRWl3SjZNazQ1N0ROYURTLVR6aDdVSTRheFFOY21pTHh5N0RjQlpBRHZEV3dkb3NxUnU0SE9mN0RkOHhIVGlUamNXTzhQS29EaDROa0hwdzZadDlld3RvY0RqamNoVzQ1WE00T2Rpaw?oc=5",
+        "published": "Sat, 26 Sep 2026 05:00:00 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
@@ -66,7 +75,7 @@
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォール街がアバランチで24時間トークン化取引をテスト。大規模アップグレード後AVAXが8％下落",
+        "title_ja": "ウォール街がアバランチで24時間トークン化取引をテスト、主要アップグレード後AVAXが8%下落",
         "title_en": "Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Major Upgrade",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXJCVW5MVDVhVkhGYXhXdHB1RlFTdTQ1RnBMSHNLQ3kyRV9NRG9zd3NLdUt5YnYtNWJ1cU8xSWxjemJRbk4wNHEycFpHVmdtbVRDdE1Edk1vbG4xa2VTSVlvZ2FPWUNmRlQ5ZUQwSWl2SEtfLXlGVDB3SlFjYjg0V3hqblpKTHBlYlI0RktpeGJUZ01WcnliSHZpVQ?oc=5",
         "published": "Fri, 25 Sep 2026 18:44:07 GMT",
