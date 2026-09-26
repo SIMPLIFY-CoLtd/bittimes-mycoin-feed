@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-26T11:12:14+00:00",
+  "generated_at": "2026-09-26T16:13:34+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETFが4日間で23億ドルを集める、Q4への勢い継続が焦点",
-        "title_en": "Bitcoin ETFs Attract $2.3 Billion in Just Four Days: Can the Momentum Carry Into Q4?",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVJpVDJIX0t6akFMT2h0NGpVMmRqdHJ1VE92TVRTdmRGaFU5MHZoVVpuRXdITHcxMktqbXYxV29jWmtRVXg4Vkt4a2hmbVgyQlBUMVMzMmFTa1gtbjl1RVk2N2F6eXFQN0s3dmxjNXJRZUJqamxDM2ttWUpJX2NpNXRCRERDeFhRUlVRNGZOLVFtdGc?oc=5",
-        "published": "Sat, 26 Sep 2026 10:30:41 GMT",
-        "category": "承認"
+        "title_ja": "戦略的ビットコイン準備金が法制化に一歩近づく",
+        "title_en": "The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2dldV84Vm1UalpUN1k3THNmM3hpZ21JUzRXRmF1ejRwV3dOQThTOUFuQWhfemF2Tk16UXBjdTFleG1MMTlUbGRHbzJkZTA0RVU2SVd4a0FMV2hSQmRzUnJTOWdkWTVOSkMwbWFPSjdSU3lyVTB5LXVEbmlpMzB2UERWN1N3WDNkeFA4NWQ5OGtWODc1RGgwb0lVV3QxNFBFUlE?oc=5",
+        "published": "Sat, 26 Sep 2026 15:31:00 GMT",
+        "category": "規制"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインが暗号資産全体時価総額の60%未満に、歴史から見える次の展開",
-        "title_en": "Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVElNeFptdmZTaUdTcnY3WHc2Uzg4YzE5M0pXUkpoM0FoUTJDb3NIVXlWaFNlOThUazROcm9MUXZnVkZnbXRvQWdzM0lrS2l3LUptR0hiM1JMXzRoTFdmZDU1eTFuUENWT2NfSlQxMFJ5RmxUaFJxOWZ5YkdSeFliWEVzdm1TajZVTmtBVWdnVUp6S05GWEhIcA?oc=5",
-        "published": "Sat, 26 Sep 2026 05:50:00 GMT",
-        "category": "その他"
+        "source": "Decrypt",
+        "title_ja": "AI エージェント、耐量子ビットコイン実現へ競争激化",
+        "title_en": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRVRXVkhMYWpUXzdoRHFEZElocEdVbHNXaXp4TkgxNjRrWEh3c2RXcVpXWG1TS3ZsQXVVb2pYSFAyaUFwQjF5R1I3N3c2SnNnZnRCc2N2WHVrdndTRkJJVFNLTEFaVnpoYm54T3hRWHgwRm1NSkFDN0NGQk9BTm8?oc=5",
+        "published": "Sat, 26 Sep 2026 15:01:05 GMT",
+        "category": "技術"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが1年間の下降トレンドを抜け出すも、2,800ドルのレジスタンスに直面",
+        "title_ja": "イーサリアムが1年間の下降トレンド脱却、2,800ドルでレジスタンス直面",
         "title_en": "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFlqWnhLUW5INWo0NkNJQ2J5X2ZUVVZYcEN1YnlZV0FMXzl3SnFQbkNMYXF4R1lIVnNxUU9pM3RoRUkzVm16YVl0eFdxQnlKV1hQMkdELTBvYk12eUFrRE51OGpQMno2OFdua1lRNlMtMnF3SHlwbUl6SmZIR1pHdWdrc2lHMER6b09RdENaRjRNRXhGR2VWdFg2Uk5tUHh4aDRV?oc=5",
         "published": "Fri, 25 Sep 2026 19:09:17 GMT",
@@ -34,29 +34,29 @@
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "リップルニュース：バリデーターの時計リセット後、XRPレジャーアップグレードが10日間遅延",
-        "title_en": "Ripple news: XRP Ledger upgrade delayed 10 days after validators reset activation clock",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDJSM1FsODNPZ1I0NlVpZnIzVVZTTFBGVlBXalFOQl82aHVaSkhjdm1lT0o5bHBPLXZuc3E3RDFVR2ZKZHhoZWxVbFRSRjViMGxnRnNVWTRCUTFwd0FBM1k0SjlFRXVpcXlyUXIwdXhFZk1rVFJESDdSWVFJZ21YQzNTR0JUejRySTZYdXI5OTQ0VWVyQmtwYzg1WmVXTHRURjdseHp6UkJQRTlMNnYzcGk1QQ?oc=5",
-        "published": "Sat, 26 Sep 2026 04:30:00 GMT",
-        "category": "その他"
+        "title_ja": "Bitgetハッカー、リップルが凍結不可の盗まれたXRP 8,300万ドル分を移動",
+        "title_en": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjlleV9ESGFtdlRiekRBeERtR1hhb0VMRktRYUtxY2tFR2lUQkJxdG1Jd1NiSEViY1VUX2g1UXNxbmlER2lwb3FTQ0pObnhwSjliWmp0ajBRa0VtaVJzZ3c1aWlpeDNNT2VOVkdmVW5zUFFvY0hrWnFLOUkwTFpKWUxqdEFNTjBNSXZjdWUzRENxSUwtRFZ3WHduMkpEZTd6TmV3NkFWUTdiRGgzZ3FyamxRTVBtampy?oc=5",
+        "published": "Sat, 26 Sep 2026 12:56:41 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "リップルニュース：XRPレジャーのアップグレードが、バリデーターによるアクティベーション時計のリセット後10日間遅延",
-        "title_en": "リップルニュース：XRPレジャーのアップグレードが、バリデーターによるアクティベーション時計のリセット後10日間遅延",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHJtbEZsNTRLb1JzV2xnVUZ6WXRvM0c1aUhrNTBnRkZxSTdDN0lKY0MyX3Mxb3h0cUNVT3d0d2VKS3JWS1pnWFBwWG5LdUlRTUpyWjZEV2ZzZUNzMUJMV1BucGhPOXltamxFVVRmZnB5Zno4X1ByUXg1SjFjTHRKc2lEaGhpTC1Qa1RKOUY5YmR2eG9WN0JBSXZNMzc1enMwcnlZbE8xOHJPa1lVWnNPVWJmZmdDajA?oc=5",
-        "published": "Sat, 26 Sep 2026 04:30:00 GMT",
-        "category": "その他"
+        "title_ja": "Bitgetのハッカー、リップルが凍結できない盗まれたXRP 8,300万ドル分を移動",
+        "title_en": "Bitgetのハッカー、リップルが凍結できない8,300万ドル相当の盗まれたXRPを移動",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXd6dWo1cnJ5TGNuLW53Y2VkbnEzT21nRlNWOGdwUFFHZHlXU0Y0VjFlZHRYZEtmUVo5T2Z0Z1ZHQ0lqYXllQjB1cHdGYVBaN24wckx5SWRqa2I5N2VOY2V5eWVuZFkxRDI5Q19LeFozNElLWmE1c3dYWWJNUl9PTlFTSHB0VWVtbENkRFhfeHdDZU53YXh0MWI1WjEzV1RCNl82VkRUaktBZ0ItR2JnR0dsazdyb1JoSUpYMw?oc=5",
+        "published": "Sat, 26 Sep 2026 12:56:41 GMT",
+        "category": "ハッキング"
       }
     ],
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
+        "title_ja": "ソラナの150ミリ秒決済アップグレード、第2のパブリックテストネットに到達",
         "title_en": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG50MWh5N3B0VTFIZlptT2V4c19YMEhabm1XU2tlejJOQnFvTHh4V3RBd2dkNEdpVDV0dWlDdVl0aFdrSzQ4UC11dUd0Vlk1UmRqMm5pTHVqSGZuSEVqQ1k3cmFBclgzSTNxMFhmRWptSmlCZmlJWmFCRnJjdHJfcXVfOFZfeG9QYWNJMHNGUUpzaFdUcmtrM01MQl9TMjEzaWR5eW1hdU40WVVvclVud0RqUDEtQmRsS0dn?oc=5",
         "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-        "category": "その他"
+        "category": "技術"
       },
       {
         "source": "CoinDesk",
@@ -64,7 +64,7 @@
         "title_en": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjVCZ2M5bzVLTGVDMXNoWUc5cDlFSUhLbXA0RzQwQTNULXFWMXRndmJzbjZmTDVETlVKNnQ2bThEY3QtNDNBaGRBVy1nNmdycl85VUhDVUxIRWl3SjZNazQ1N0ROYURTLVR6aDdVSTRheFFOY21pTHh5N0RjQlpBRHZEV3dkb3NxUnU0SE9mN0RkOHhIVGlUamNXTzhQS29EaDROa0hwdzZadDlld3RvY0RqamNoVzQ1WE00T2Rpaw?oc=5",
         "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-        "category": "その他"
+        "category": "技術"
       }
     ],
     "ADA": [],
@@ -75,7 +75,7 @@
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォール街がアバランチで24時間トークン化取引をテスト、主要アップグレード後AVAXが8%下落",
+        "title_ja": "ウォール街がアバランチで24時間トークン化取引テスト、大型アップグレード後AVAXは8%下落",
         "title_en": "Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Major Upgrade",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXJCVW5MVDVhVkhGYXhXdHB1RlFTdTQ1RnBMSHNLQ3kyRV9NRG9zd3NLdUt5YnYtNWJ1cU8xSWxjemJRbk4wNHEycFpHVmdtbVRDdE1Edk1vbG4xa2VTSVlvZ2FPWUNmRlQ5ZUQwSWl2SEtfLXlGVDB3SlFjYjg0V3hqblpKTHBlYlI0RktpeGJUZ01WcnliSHZpVQ?oc=5",
         "published": "Fri, 25 Sep 2026 18:44:07 GMT",
