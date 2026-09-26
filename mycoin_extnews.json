@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-26T16:13:34+00:00",
+  "generated_at": "2026-09-26T20:57:09+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "戦略的ビットコイン準備金が法制化に一歩近づく",
-        "title_en": "The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2dldV84Vm1UalpUN1k3THNmM3hpZ21JUzRXRmF1ejRwV3dOQThTOUFuQWhfemF2Tk16UXBjdTFleG1MMTlUbGRHbzJkZTA0RVU2SVd4a0FMV2hSQmRzUnJTOWdkWTVOSkMwbWFPSjdSU3lyVTB5LXVEbmlpMzB2UERWN1N3WDNkeFA4NWQ5OGtWODc1RGgwb0lVV3QxNFBFUlE?oc=5",
-        "published": "Sat, 26 Sep 2026 15:31:00 GMT",
-        "category": "規制"
+        "source": "CoinDesk",
+        "title_ja": "『シールドビットコイン』論文が公開、Zcashの技術を使ったBTCのプライベート送金を提案",
+        "title_en": "Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ29SYVlkYk0ycy1YR2tPWnpqaDlwOW5IOWNtMC1qMHF4YTFVek90emVmUXE5NXFuLVNLVkhJSVNVOGhzSG9xQkZlN0RuMnZfc2FvWVgtbXZ6S3c4V0hPX0VhOFdWdXhhOWVFdWFQaFBtX2ZlMzlhS2JBRGs5bXR5UC1faUM5UzZ5a0daZ2NTMnB1MGIybER6WHJFR3hwZURhbU56bVpZNEpDdDJuRzRqNXdKMGpGSGg5Skpv?oc=5",
+        "published": "Sat, 26 Sep 2026 19:17:59 GMT",
+        "category": "その他"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "AI エージェント、耐量子ビットコイン実現へ競争激化",
-        "title_en": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRVRXVkhMYWpUXzdoRHFEZElocEdVbHNXaXp4TkgxNjRrWEh3c2RXcVpXWG1TS3ZsQXVVb2pYSFAyaUFwQjF5R1I3N3c2SnNnZnRCc2N2WHVrdndTRkJJVFNLTEFaVnpoYm54T3hRWHgwRm1NSkFDN0NGQk9BTm8?oc=5",
-        "published": "Sat, 26 Sep 2026 15:01:05 GMT",
-        "category": "技術"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン現物ETF、7日連続の上昇　2026年資金流入が回復",
+        "title_en": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUJvNXQ1elRnSVcwVlZJekFOQXBMazlSb1hkZW9rcGZSSy1QaFhXb25WUnNubWxiVGpteW5YQzVLS3hNWXBEMkZja0xfYmRjOER0NEtGWHZ2TS1rT0JRd1IwRktkMTVXSVdaMDYyUGN4WHpqWGVqSV95R0tJVHNqREZ0Y2dSWmdSeTJRb3F4dTRzaG51RVdpMw?oc=5",
+        "published": "Sat, 26 Sep 2026 17:01:03 GMT",
+        "category": "上場"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが1年間の下降トレンド脱却、2,800ドルでレジスタンス直面",
-        "title_en": "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFlqWnhLUW5INWo0NkNJQ2J5X2ZUVVZYcEN1YnlZV0FMXzl3SnFQbkNMYXF4R1lIVnNxUU9pM3RoRUkzVm16YVl0eFdxQnlKV1hQMkdELTBvYk12eUFrRE51OGpQMno2OFdua1lRNlMtMnF3SHlwbUl6SmZIR1pHdWdrc2lHMER6b09RdENaRjRNRXhGR2VWdFg2Uk5tUHh4aDRV?oc=5",
-        "published": "Fri, 25 Sep 2026 19:09:17 GMT",
-        "category": "その他"
+        "title_ja": "SEC、イーサリアムのステーキング規則を明確化　168万ETHがキューイン状態に",
+        "title_en": "SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU9GYWN4WWtmbzBVV2pmMlU4MW12ajhXaDRTdTJ3MmRleG9EdFVmNVllWkE0SUpleTR4U3dQRW85NEN1b1Zrc0JFY1VBWE9BRGZ0eVFjX1RHbkxLT2FVS3ZIUmJjSEZ4Z1Q1enNfUU5XZGdnUC16bExJMzRVTW10c1FtWTBJNDVxNGFGZXcyN21EbXpJV0lxSWN6Q2JMV3RDanpV?oc=5",
+        "published": "Sat, 26 Sep 2026 18:11:24 GMT",
+        "category": "規制"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "Bitgetハッカー、リップルが凍結不可の盗まれたXRP 8,300万ドル分を移動",
+        "title_ja": "Bitgetハッカーが盗難したXRP8,300万ドル分を移動、リップルは凍結不可",
         "title_en": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjlleV9ESGFtdlRiekRBeERtR1hhb0VMRktRYUtxY2tFR2lUQkJxdG1Jd1NiSEViY1VUX2g1UXNxbmlER2lwb3FTQ0pObnhwSjliWmp0ajBRa0VtaVJzZ3c1aWlpeDNNT2VOVkdmVW5zUFFvY0hrWnFLOUkwTFpKWUxqdEFNTjBNSXZjdWUzRENxSUwtRFZ3WHduMkpEZTd6TmV3NkFWUTdiRGgzZ3FyamxRTVBtampy?oc=5",
         "published": "Sat, 26 Sep 2026 12:56:41 GMT",
@@ -42,8 +42,8 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Bitgetのハッカー、リップルが凍結できない盗まれたXRP 8,300万ドル分を移動",
-        "title_en": "Bitgetのハッカー、リップルが凍結できない8,300万ドル相当の盗まれたXRPを移動",
+        "title_ja": "リップルが凍結できない、Bitgetハッカーによる8,300万ドル相当の盗難XRPの移動",
+        "title_en": "リップルが凍結できない、Bitgetハッカーによる8,300万ドル相当の盗難XRPの移動",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXd6dWo1cnJ5TGNuLW53Y2VkbnEzT21nRlNWOGdwUFFHZHlXU0Y0VjFlZHRYZEtmUVo5T2Z0Z1ZHQ0lqYXllQjB1cHdGYVBaN24wckx5SWRqa2I5N2VOY2V5eWVuZFkxRDI5Q19LeFozNElLWmE1c3dYWWJNUl9PTlFTSHB0VWVtbENkRFhfeHdDZU53YXh0MWI1WjEzV1RCNl82VkRUaktBZ0ItR2JnR0dsazdyb1JoSUpYMw?oc=5",
         "published": "Sat, 26 Sep 2026 12:56:41 GMT",
         "category": "ハッキング"
@@ -51,20 +51,20 @@
     ],
     "SOL": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナの150ミリ秒決済アップグレード、第2のパブリックテストネットに到達",
-        "title_en": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG50MWh5N3B0VTFIZlptT2V4c19YMEhabm1XU2tlejJOQnFvTHh4V3RBd2dkNEdpVDV0dWlDdVl0aFdrSzQ4UC11dUd0Vlk1UmRqMm5pTHVqSGZuSEVqQ1k3cmFBclgzSTNxMFhmRWptSmlCZmlJWmFCRnJjdHJfcXVfOFZfeG9QYWNJMHNGUUpzaFdUcmtrM01MQl9TMjEzaWR5eW1hdU40WVVvclVud0RqUDEtQmRsS0dn?oc=5",
-        "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-        "category": "技術"
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナがディスインフレ率を2倍に引き上げ、SOL供給に影響",
+        "title_en": "Solana Doubles Its Disinflation: Implications for SOL Supply",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3NWRlNyX2k5Q0FlcnJvU0FvOWg5UmNQYl9JcDd6NlFoRkFzQUQwZGJwclhQcmhqcTRHSlFSNEJtSkZRSlN6YlJHQVB2UjBZaXpSZnQxMDlKZDdqMlVfQXpEZ3NwVTVfanR1RFhhemQzLWl2WkItVklwYTRNc1JzblVhTFE5MWlNV1NTM0tLd1R0el9uRy1DWVJBdkNqSjZTZF9HSF82dWItR08wOFE?oc=5",
+        "published": "Sat, 26 Sep 2026 15:14:45 GMT",
+        "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
-        "title_en": "ソラナの150ミリ秒決済アップグレードが第2のパブリックテストネットに到達",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjVCZ2M5bzVLTGVDMXNoWUc5cDlFSUhLbXA0RzQwQTNULXFWMXRndmJzbjZmTDVETlVKNnQ2bThEY3QtNDNBaGRBVy1nNmdycl85VUhDVUxIRWl3SjZNazQ1N0ROYURTLVR6aDdVSTRheFFOY21pTHh5N0RjQlpBRHZEV3dkb3NxUnU0SE9mN0RkOHhIVGlUamNXTzhQS29EaDROa0hwdzZadDlld3RvY0RqamNoVzQ1WE00T2Rpaw?oc=5",
+        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2の公開テストネットに到達",
+        "title_en": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG50MWh5N3B0VTFIZlptT2V4c19YMEhabm1XU2tlejJOQnFvTHh4V3RBd2dkNEdpVDV0dWlDdVl0aFdrSzQ4UC11dUd0Vlk1UmRqMm5pTHVqSGZuSEVqQ1k3cmFBclgzSTNxMFhmRWptSmlCZmlJWmFCRnJjdHJfcXVfOFZfeG9QYWNJMHNGUUpzaFdUcmtrM01MQl9TMjEzaWR5eW1hdU40WVVvclVud0RqUDEtQmRsS0dn?oc=5",
         "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-        "category": "技術"
+        "category": "その他"
       }
     ],
     "ADA": [],
@@ -72,15 +72,6 @@
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ウォール街がアバランチで24時間トークン化取引テスト、大型アップグレード後AVAXは8%下落",
-        "title_en": "Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Major Upgrade",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXJCVW5MVDVhVkhGYXhXdHB1RlFTdTQ1RnBMSHNLQ3kyRV9NRG9zd3NLdUt5YnYtNWJ1cU8xSWxjemJRbk4wNHEycFpHVmdtbVRDdE1Edk1vbG4xa2VTSVlvZ2FPWUNmRlQ5ZUQwSWl2SEtfLXlGVDB3SlFjYjg0V3hqblpKTHBlYlI0RktpeGJUZ01WcnliSHZpVQ?oc=5",
-        "published": "Fri, 25 Sep 2026 18:44:07 GMT",
-        "category": "採用"
-      }
-    ]
+    "AVAX": []
   }
 }
