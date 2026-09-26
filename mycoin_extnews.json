@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-09-25T21:25:10+00:00",
+  "generated_at": "2026-09-26T04:38:36+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
+        "source": "CoinDesk",
+        "title_ja": "暗号通貨明確化法案の失敗直後にブロックチェーン協会でリーダーシップ交代",
+        "title_en": "暗号通貨明確化法案の失敗直後にブロックチェーン協会でリーダーシップ交代",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWk84QW1zU3d5aEhTSzFjWmR5U2ZkZzk4VklxbTVpR2Y4dm1mN0pWU0tWa1lrNURJX2I3bmlacU5Tc3Y3UW9iYTJTR3hxN3Eyb1c4ZDVjMENsRzVZd0dzdXZQR2JiVm8zRDJmaV95c1dZSU9QSTRVSklkekp2clNaSmZqaGlnNjVLVFl5STlua2hvV3poaEVJQW05Wmg1N212Vkh3ajY3ZFBzZXg0YnBXV2xjcDIzY3phWkR1eVdNVUtPa1pmQkJuMV9DRQ?oc=5",
+        "published": "Fri, 25 Sep 2026 20:01:05 GMT",
+        "category": "規制"
+      },
+      {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETFが58億ドルの流出から8億ドルの流入へ転換",
+        "title_ja": "Bitcoin現物ETFが58億ドルの流出から8億ドルの流入へ反転。今がビットコイン買いの時か？",
         "title_en": "Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmZfdUNGN3BYN0UyOElfQWtLT2lXd2tJN3AwdkxseWVYaFJvOVB3OElTdFBYMXJPUTdjVU9UbUhUOXRWRHJrNkJib2w0TWd0dXkxZ1haNjZ5SnBrZURramk4aUZ4VHpESUVWSEU1eUxmamFCU2VQTnJBLU9wdGVMM1U4TzQwUHlEVG9TOFg2MjEtbGc?oc=5",
         "published": "Fri, 25 Sep 2026 19:39:29 GMT",
@@ -16,49 +24,40 @@
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが1年間の下降トレンドを脱却、2,800ドル付近でレジスタンスに直面",
-        "title_en": "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFlqWnhLUW5INWo0NkNJQ2J5X2ZUVVZYcEN1YnlZV0FMXzl3SnFQbkNMYXF4R1lIVnNxUU9pM3RoRUkzVm16YVl0eFdxQnlKV1hQMkdELTBvYk12eUFrRE51OGpQMno2OFdua1lRNlMtMnF3SHlwbUl6SmZIR1pHdWdrc2lHMER6b09RdENaRjRNRXhGR2VWdFg2Uk5tUHh4aDRV?oc=5",
-        "published": "Fri, 25 Sep 2026 19:09:17 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "168万ETHがステーキング待機中、15万4千ETHが流出準備、イーサリアムが底値か",
+        "title_ja": "168万ETHがステーキング待機中、15万4,000ETHが流出準備。イーサリアムは底値か？",
         "title_en": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
         "published": "Fri, 25 Sep 2026 10:28:57 GMT",
         "category": "大口"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "SecuritizeがCathie WoodのARK Venture Fundをオンチェーン化、OpenAIとAnthropicへのエクスポーザーを提供",
+        "title_en": "Securitize takes Cathie Wood’s ARK Venture Fund onchain, offering exposure to OpenAI, Anthropic and Stripe",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUZ1UzFuamJJdmlpZEJiay1LLUgySVhEVExQanNOUkhQUDMxa2NDb0w3eEExaE9ZeWpNdlJKbk8zUG4wVUFIZ2poNUJsYWkwaEt6ejdPNXpqelBJblpud3Q5MUdTeUlMU0hla1ZyMlo5V2hjQW1IQW9yUkhaVDZqQ0R1SXFIcnFMeXRXb0VfUjlpVVpnNkhpRFYxZ1hSNnlRNlFibUdvMDU4dE5Va01zWmtrenRjNE9LX2R0bjY5QWdMczRGZWlWeHM5bWlXZ1Rw?oc=5",
+        "published": "Fri, 25 Sep 2026 09:14:30 GMT",
+        "category": "提携"
       }
     ],
     "XRP": [
       {
+        "source": "CoinDesk",
+        "title_ja": "Rippleニュース：XRP Ledgerアップグレード、バリデーター再設定後10日間遅延",
+        "title_en": "Ripple news: XRP Ledger upgrade delayed 10 days after validators reset activation clock",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDJSM1FsODNPZ1I0NlVpZnIzVVZTTFBGVlBXalFOQl82aHVaSkhjdm1lT0o5bHBPLXZuc3E3RDFVR2ZKZHhoZWxVbFRSRjViMGxnRnNVWTRCUTFwd0FBM1k0SjlFRXVpcXlyUXIwdXhFZk1rVFJESDdSWVFJZ21YQzNTR0JUejRySTZYdXI5OTQ0VWVyQmtwYzg1WmVXTHRURjdseHp6UkJQRTlMNnYzcGk1QQ?oc=5",
+        "published": "Sat, 26 Sep 2026 04:30:00 GMT",
+        "category": "その他"
+      },
+      {
         "source": "Yahoo Finance",
-        "title_ja": "リップルCEOがXRPの中心的役割に疑問、需要への影響は",
+        "title_ja": "RippleCEOがXRPの中心的役割に疑問、需要に何をもたらすのか",
         "title_en": "Ripple’s CEO Questions XRP’s Central Role: What Does This Mean for Demand?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUhIc1hpSTRXVVFIUm1DNHk4TTYwLUhTckd0R29rX0M2RDlsOWlyanBGaUNPaTROUzlZRHIzOC14bXplYWZjWXV6N28zTnlUWkVLMGotdlRzY1RFQldPWmdWZDNEaGltdkVicjJPXzVwejlsMnBhVUpJQWdlQTVPbFctMldaRXlkaE9LU2l3N1dhWTF6elVIR2p5c1NBUQ?oc=5",
         "published": "Fri, 25 Sep 2026 19:01:37 GMT",
         "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPが週間16%急騰し1.55ドル回復、1億5,700万ドルの盗難を受けるも四半期末までこの水準を維持できるか",
-        "title_en": "XRP Surges 16% This Week, Reclaims $1.55 After $157 Million Theft—Can It Sustain This Level Until Quarter-End?",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG1UNGwwc09KeGZEVWRNNk1nYWF3TUthRHpRcWtpUTZtVjU4emh1bzk5QzRCWldqekQtODRsY2JveDc0MndyRlFMQlpvdHVDUFBZRU55Zjd4UTJFekQwYjlzQlMydzc1SVcxTVZXVGFTUUpXV2NyREVySWYwQ0xXV1Z6RnlCVWFJbEsyVjllR1laT0RyN1FB?oc=5",
-        "published": "Fri, 25 Sep 2026 17:47:50 GMT",
-        "category": "ハッキング"
       }
     ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ財団の新規採用がSOLに与える意味は",
-        "title_en": "Solana Foundation’s New Hires: What Does It Mean for SOL?",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXZ5ODBIS1lIZGVURXpHbTFaX2dtYmYxVHVvMlY0SVVoUFhqcExJSldib2ZjQ3dKSnc3WHRQMDNQTENETDNCdWpxbGFGOFJTdk1XSmcxVDNsVWtSWnU3Wk9ZTzBRVkRFTEdYQW51ZWlpVk13V3lFU0VUVlVUb2ZPeFY3dm9VRnc2NjlvU280ajF4X2NLVW9MSGlZM2dvNGM?oc=5",
-        "published": "Fri, 25 Sep 2026 18:39:05 GMT",
-        "category": "その他"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
@@ -67,7 +66,7 @@
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォールストリートがアバランチで24時間トークン化取引をテスト、大型アップグレード後AVAXは8%下落",
+        "title_ja": "ウォール街がアバランチで24時間トークン化取引をテスト。大規模アップグレード後AVAXが8％下落",
         "title_en": "Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Major Upgrade",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXJCVW5MVDVhVkhGYXhXdHB1RlFTdTQ1RnBMSHNLQ3kyRV9NRG9zd3NLdUt5YnYtNWJ1cU8xSWxjemJRbk4wNHEycFpHVmdtbVRDdE1Edk1vbG4xa2VTSVlvZ2FPWUNmRlQ5ZUQwSWl2SEtfLXlGVDB3SlFjYjg0V3hqblpKTHBlYlI0RktpeGJUZ01WcnliSHZpVQ?oc=5",
         "published": "Fri, 25 Sep 2026 18:44:07 GMT",
