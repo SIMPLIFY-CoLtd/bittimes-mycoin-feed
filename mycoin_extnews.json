@@ -1,80 +1,12 @@
 {
-  "generated_at": "2026-09-27T04:58:55+00:00",
+  "generated_at": "2026-09-27T11:50:57+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "元ブラックロック幹部がビットコインを「出口資産」、イーサリアムを「新しいレール」と呼ぶ一方、Bitwiseは反対の見方",
-        "title_en": "A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFF2Umc1T0pYZ0swWWVZcjRXdFNiZS1sdVNZS1VtMjc2MUs0cG9jZUYtaTZsNm1tdkx4SzQ2QXptWTV1T3BlX3ZYQVNONzVGY3hYd2NOWGVNS1k2TzhDTUJra0NzQWNTUWlfX2UxREVvMkVJc3ZPUkdIMkVBemdSaU9BdnNBWHlYWGFMTVU0QTVKekhSUFE0dk9uQmo3VTd3NmE3YkpDSWQ?oc=5",
-        "published": "Sat, 26 Sep 2026 17:49:54 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Decrypt",
-        "title_ja": "ビットコインETFが7日連続勝利：2026年の流入が好転",
-        "title_en": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWENDbmVjX2FWN2ljOUdDZ0tuNzhTQzNVTTdoMUdWT0tKdDJTNjhzT1VtbGJZQnM3WU9YTGtEX3gyOHVST0pqY25adUp3WWpEYzBzbElvSjdxYkxwSDhFR2t3R21RbTVmQWx4OHFSb1hHbHJMN0JqczI1YkxLelNmbzZUWHdnZlBOeEZWM1l1WlVwTkdnTHNpYU5B?oc=5",
-        "published": "Sat, 26 Sep 2026 17:01:03 GMT",
-        "category": "上場"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "SECがイーサリアムステーキング規則を明確化：168万ETHがキュー中",
-        "title_en": "SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU9GYWN4WWtmbzBVV2pmMlU4MW12ajhXaDRTdTJ3MmRleG9EdFVmNVllWkE0SUpleTR4U3dQRW85NEN1b1Zrc0JFY1VBWE9BRGZ0eVFjX1RHbkxLT2FVS3ZIUmJjSEZ4Z1Q1enNfUU5XZGdnUC16bExJMzRVTW10c1FtWTBJNDVxNGFGZXcyN21EbXpJV0lxSWN6Q2JMV3RDanpV?oc=5",
-        "published": "Sat, 26 Sep 2026 18:11:24 GMT",
-        "category": "規制"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "元ブラックロック幹部がビットコインを「出口資産」、イーサリアムを「新しいレール」と呼ぶ一方、Bitwiseは反対の見方",
-        "title_en": "A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFF2Umc1T0pYZ0swWWVZcjRXdFNiZS1sdVNZS1VtMjc2MUs0cG9jZUYtaTZsNm1tdkx4SzQ2QXptWTV1T3BlX3ZYQVNONzVGY3hYd2NOWGVNS1k2TzhDTUJra0NzQWNTUWlfX2UxREVvMkVJc3ZPUkdIMkVBemdSaU9BdnNBWHlYWGFMTVU0QTVKekhSUFE0dk9uQmo3VTd3NmE3YkpDSWQ?oc=5",
-        "published": "Sat, 26 Sep 2026 17:49:54 GMT",
-        "category": "発言"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "Bitgetハッカーが盗難した8,300万ドル相当のXRPを移動：リップルは凍結不可",
-        "title_en": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjlleV9ESGFtdlRiekRBeERtR1hhb0VMRktRYUtxY2tFR2lUQkJxdG1Jd1NiSEViY1VUX2g1UXNxbmlER2lwb3FTQ0pObnhwSjliWmp0ajBRa0VtaVJzZ3c1aWlpeDNNT2VOVkdmVW5zUFFvY0hrWnFLOUkwTFpKWUxqdEFNTjBNSXZjdWUzRENxSUwtRFZ3WHduMkpEZTd6TmV3NkFWUTdiRGgzZ3FyamxRTVBtampy?oc=5",
-        "published": "Sat, 26 Sep 2026 12:56:41 GMT",
-        "category": "ハッキング"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "リップルが凍結できない、Bitgetハッカーによる8,300万ドル相当の盗難XRPの移動",
-        "title_en": "リップルが凍結できない、Bitgetハッカーによる8,300万ドル相当の盗難XRPの移動",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXd6dWo1cnJ5TGNuLW53Y2VkbnEzT21nRlNWOGdwUFFHZHlXU0Y0VjFlZHRYZEtmUVo5T2Z0Z1ZHQ0lqYXllQjB1cHdGYVBaN24wckx5SWRqa2I5N2VOY2V5eWVuZFkxRDI5Q19LeFozNElLWmE1c3dYWWJNUl9PTlFTSHB0VWVtbENkRFhfeHdDZU53YXh0MWI1WjEzV1RCNl82VkRUaktBZ0ItR2JnR0dsazdyb1JoSUpYMw?oc=5",
-        "published": "Sat, 26 Sep 2026 12:56:41 GMT",
-        "category": "ハッキング"
-      }
-    ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナがディスインフレーションを倍増：SOL供給への影響",
-        "title_en": "Solana Doubles Its Disinflation: Implications for SOL Supply",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3NWRlNyX2k5Q0FlcnJvU0FvOWg5UmNQYl9JcDd6NlFoRkFzQUQwZGJwclhQcmhqcTRHSlFSNEJtSkZRSlN6YlJHQVB2UjBZaXpSZnQxMDlKZDdqMlVfQXpEZ3NwVTVfanR1RFhhemQzLWl2WkItVklwYTRNc1JzblVhTFE5MWlNV1NTM0tLd1R0el9uRy1DWVJBdkNqSjZTZF9HSF82dWItR08wOFE?oc=5",
-        "published": "Sat, 26 Sep 2026 15:14:45 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ソラナの150ミリ秒決済アップグレードが第2回公開テストネットに到達",
-        "title_en": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG50MWh5N3B0VTFIZlptT2V4c19YMEhabm1XU2tlejJOQnFvTHh4V3RBd2dkNEdpVDV0dWlDdVl0aFdrSzQ4UC11dUd0Vlk1UmRqMm5pTHVqSGZuSEVqQ1k3cmFBclgzSTNxMFhmRWptSmlCZmlJWmFCRnJjdHJfcXVfOFZfeG9QYWNJMHNGUUpzaFdUcmtrM01MQl9TMjEzaWR5eW1hdU40WVVvclVud0RqUDEtQmRsS0dn?oc=5",
-        "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-        "category": "その他"
-      }
-    ],
+    "BTC": [],
+    "ETH": [],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
