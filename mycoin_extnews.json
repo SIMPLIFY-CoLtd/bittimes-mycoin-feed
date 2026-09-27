@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T16:49:04+00:00",
+  "generated_at": "2026-09-27T21:13:14+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "グラント・カードン氏、商業不動産の歴史的な崩壊の可能性を指摘 - ビットコインを「補完的資産」と評価",
+        "title_ja": "グラント・カードン氏、商用不動産が歴史的な崩落に直面する可能性を指摘、ビットコインを「補完的資産」と評価",
         "title_en": "Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2ZKdmtyWUdmbVJnRUVUT1JTeWRCUGp6Qk56TlNjZUdraHM3YTh3Y1MzdTlUbEJGTXo4TFY3bmJ2X09qbkd3U3hHdDZOQTRiLXhZTmJhUXZ6bFRKV2dHazlrUE0zYm1wLXB3MHFOTndYdExaQnl4dVFLS1J2MjE0dmdIaUZPeWdYd2ZaMnM3RHU3OGdORkdTcnpPMHM?oc=5",
         "published": "Sun, 27 Sep 2026 15:38:01 GMT",
@@ -14,17 +14,17 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインが9万ドルへの上昇を視野に、ETF週間では2025年10月以来の好成績 - アナリストが重要水準を指摘",
-        "title_en": "Bitcoin Eyes $90K Breakout After Best ETF Week Since October 2025 — Analyst Says One Level Decides It",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3Z5OFljbHoxVEk2RlRUcEZUa2JWeHJWOEFKLVZ0dmdVcG0yYzh1dDJvQVotUm1uUktjR1B6RWN5WDd6WjVGYmExS0FnVWdtUHZXalFOT0dOam8zN3VOQ3NLci11SjcwOHdfT1QzRko3V2R6SENmdFVJcFh2ZzRocnFSMlZ2aFhFNTI3bGtjaFZpSzk5bEtEb2J2cw?oc=5",
-        "published": "Sun, 27 Sep 2026 14:47:36 GMT",
-        "category": "その他"
+        "title_ja": "Riotが仮想通貨取引所Coinbaseからのローンから4億9,400万ドルのビットコインを解放、売却の可能性は",
+        "title_en": "Riot Frees $494 Million in Bitcoin From Coinbase Loan: Will It Sell?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTdfeVJsNHRNZ0FwR2lIVnlLcHE5X2J6Snd6dmlqWXdXRzN0WU1aV1ZiMGdQYVBaeXByTGp2b283YkdzWkI3WWx0QmxJV0tTWGcxSUdVaVBhMEFvc01UNlZzb1NJQnFRTmRFTHdWOUZoTklXbWd2UnZtR0NxQU5wMlNEUF9mWGs2TDlfQzctZFdrckZRVTlQU0VNYw?oc=5",
+        "published": "Sun, 27 Sep 2026 14:57:47 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "The Block",
-        "title_ja": "ヴィタリック・ブテリン氏、イーサリアムの2030年への道筋を示唆 - 「もはやブロックチェーンだけではない」",
+        "title_ja": "「もはや単なるブロックチェーンではない」、ヴィタリック・ブテリンがイーサリアムの2030年への道を示す",
         "title_en": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
         "published": "Sun, 27 Sep 2026 14:35:53 GMT",
@@ -33,8 +33,8 @@
       {
         "source": "CoinDesk",
         "title_ja": "ヴィタリック・ブテリン氏、イーサリアムは2030年までに「単なるブロックチェーン」ではない可能性があると発言",
-        "title_en": "ETH news: Ethereum may not be ‘just a blockchain’ in 2030, Vitalik Buterin says",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXdsa0haTGJZSGJUN3ZlTlQ0Z2NyUmZVQzhHWUhZMTcyZkI5VVEtZzNlWlJnQV9pdm12TGZKSml5cHlFX28yVmxHZmhoYmpCUVRtSzB4SVhOY1JLTm1RLWJPQmI0QXdBSnU2azJycG1QN1JNbk1aVS1KT3BxWWYxdnZpOGgtM0FwMzBfbjhTdUVEaTRTOWZyNzN3Q2JrQmt3TmNVcXE2WjVfN2VOYkZnUlI3ZjNHR0lUTjEzdi1Yaw?oc=5",
+        "title_en": "ETHニュース：ヴィタリック・ブテリン氏、イーサリアムは2030年までに「単なるブロックチェーン」ではない可能性があると発言",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZk55d0gyZzgza1FlRnlCVF9WVHJVX2drSkFXQWNNU3JuYXcxVHlRaUVkeWcydDdPZDVxRkZxanF3RTlEMG90ZHpYSTFWMllYOWVFOXI0eVBnNENhZ1Y3OS1Ramk5U3p2LUl1UzZ0U3JOTVpDdHBzN2U2cVZHcnVIUzlENGtMRS1JdmZycDMzcWNRX0dFQ1NyTER4b2t4OUtVOS16ZXJRRXRGWUxvZnNIN1pKSmhwQnVCYTFPXzUyRF8zYzg?oc=5",
         "published": "Sun, 27 Sep 2026 14:29:13 GMT",
         "category": "発言"
       }
@@ -42,26 +42,35 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP、7年ぶりに大型ブレイクアウトの再テストを完了：次は何か",
-        "title_en": "XRP Completes a Major Breakout Retest After Seven Years: What’s Next?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX19mUHlOaklpSUl1c3M2LXhHOXdkSHNnM1dVbVF2U09BNHRZYnBqNGpUTDJCMWFJQkNqaTFWLVluVGxmX1A3ZzQwLUpSRWxpa3E5WjdhTzJQNHYtejZLZC11dER1UnJWWFBoM19Zb3Y2a3ByNnZzY3U3bU4zM1g5b1B0ajBodTJjY2ZUbnNoNUstSlVOQlRTNEo2eDRzX1d6WUE?oc=5",
-        "published": "Sun, 27 Sep 2026 11:30:46 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "スタンダード・チャータード銀行、2030年のChainlinkは200ドル、XRPは28ドルと予測：どちらが先に達成するか",
+        "title_ja": "スタンダードチャータード銀行、2030年までにChainlinkは200ドル、XRPは28ドルと予測。先に到達するのはどちら",
         "title_en": "Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkgtUmlhMWNETU1BOS04WFY1dXVwX3dSMm42blg4Qi1lYUY5ZC11NHdla0hvUm1ZeEJWSUhiNjRsem5oRm9Dbzh2SzVxYlYzQkJ4SEhjemJORGRrRzFhZFROejZCNDBzU0Z4T3hkZ2xLaFVNbmRBRDc0NmE2MHA1akNBdURaZ3VLZFFLTlpoeGZ0c290TTAxUmlqUnV4ZVllRzFVekRsbTRJUQ?oc=5",
         "published": "Sun, 27 Sep 2026 11:00:00 GMT",
         "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP保有者はRippleの自社株買い戻しの恩恵を受けたか",
+        "title_en": "Did XRP Holders Benefit from Ripple’s Buyback?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOC1udGhqOFJrZk95d1ZQR0FrYU1GQmR0SjBTcTdZLXE2Vi1seDFPbnphTW9DY1pEMGVhNldWOUN2d3RMLUtXcW5JVDVtSGRjZWpkNXFLSDZEQ1hrUG5sTTVaUElmdTVQZ2ZsS2hzekZidy1hZ2gycm1GeXNQM1YtMXRySzZkVW1mWk5WQlJZMWtCYVZqSmluTmdZUQ?oc=5",
+        "published": "Sun, 27 Sep 2026 10:00:55 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "スタンダードチャータード銀行、2030年までにChainlinkは200ドル、XRPは28ドルと予測。先に到達するのはどちら",
+        "title_en": "Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkgtUmlhMWNETU1BOS04WFY1dXVwX3dSMm42blg4Qi1lYUY5ZC11NHdla0hvUm1ZeEJWSUhiNjRsem5oRm9Dbzh2SzVxYlYzQkJ4SEhjemJORGRrRzFhZFROejZCNDBzU0Z4T3hkZ2xLaFVNbmRBRDc0NmE2MHA1akNBdURaZ3VLZFFLTlpoeGZ0c290TTAxUmlqUnV4ZVllRzFVekRsbTRJUQ?oc=5",
+        "published": "Sun, 27 Sep 2026 11:00:00 GMT",
+        "category": "発言"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
