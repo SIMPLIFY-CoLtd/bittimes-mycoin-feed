@@ -1,11 +1,62 @@
 {
-  "generated_at": "2026-09-27T11:50:57+00:00",
+  "generated_at": "2026-09-27T16:49:04+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "グラント・カードン氏、商業不動産の歴史的な崩壊の可能性を指摘 - ビットコインを「補完的資産」と評価",
+        "title_en": "Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2ZKdmtyWUdmbVJnRUVUT1JTeWRCUGp6Qk56TlNjZUdraHM3YTh3Y1MzdTlUbEJGTXo4TFY3bmJ2X09qbkd3U3hHdDZOQTRiLXhZTmJhUXZ6bFRKV2dHazlrUE0zYm1wLXB3MHFOTndYdExaQnl4dVFLS1J2MjE0dmdIaUZPeWdYd2ZaMnM3RHU3OGdORkdTcnpPMHM?oc=5",
+        "published": "Sun, 27 Sep 2026 15:38:01 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインが9万ドルへの上昇を視野に、ETF週間では2025年10月以来の好成績 - アナリストが重要水準を指摘",
+        "title_en": "Bitcoin Eyes $90K Breakout After Best ETF Week Since October 2025 — Analyst Says One Level Decides It",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3Z5OFljbHoxVEk2RlRUcEZUa2JWeHJWOEFKLVZ0dmdVcG0yYzh1dDJvQVotUm1uUktjR1B6RWN5WDd6WjVGYmExS0FnVWdtUHZXalFOT0dOam8zN3VOQ3NLci11SjcwOHdfT1QzRko3V2R6SENmdFVJcFh2ZzRocnFSMlZ2aFhFNTI3bGtjaFZpSzk5bEtEb2J2cw?oc=5",
+        "published": "Sun, 27 Sep 2026 14:47:36 GMT",
+        "category": "その他"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "The Block",
+        "title_ja": "ヴィタリック・ブテリン氏、イーサリアムの2030年への道筋を示唆 - 「もはやブロックチェーンだけではない」",
+        "title_en": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
+        "published": "Sun, 27 Sep 2026 14:35:53 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ヴィタリック・ブテリン氏、イーサリアムは2030年までに「単なるブロックチェーン」ではない可能性があると発言",
+        "title_en": "ETH news: Ethereum may not be ‘just a blockchain’ in 2030, Vitalik Buterin says",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXdsa0haTGJZSGJUN3ZlTlQ0Z2NyUmZVQzhHWUhZMTcyZkI5VVEtZzNlWlJnQV9pdm12TGZKSml5cHlFX28yVmxHZmhoYmpCUVRtSzB4SVhOY1JLTm1RLWJPQmI0QXdBSnU2azJycG1QN1JNbk1aVS1KT3BxWWYxdnZpOGgtM0FwMzBfbjhTdUVEaTRTOWZyNzN3Q2JrQmt3TmNVcXE2WjVfN2VOYkZnUlI3ZjNHR0lUTjEzdi1Yaw?oc=5",
+        "published": "Sun, 27 Sep 2026 14:29:13 GMT",
+        "category": "発言"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP、7年ぶりに大型ブレイクアウトの再テストを完了：次は何か",
+        "title_en": "XRP Completes a Major Breakout Retest After Seven Years: What’s Next?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX19mUHlOaklpSUl1c3M2LXhHOXdkSHNnM1dVbVF2U09BNHRZYnBqNGpUTDJCMWFJQkNqaTFWLVluVGxmX1A3ZzQwLUpSRWxpa3E5WjdhTzJQNHYtejZLZC11dER1UnJWWFBoM19Zb3Y2a3ByNnZzY3U3bU4zM1g5b1B0ajBodTJjY2ZUbnNoNUstSlVOQlRTNEo2eDRzX1d6WUE?oc=5",
+        "published": "Sun, 27 Sep 2026 11:30:46 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "スタンダード・チャータード銀行、2030年のChainlinkは200ドル、XRPは28ドルと予測：どちらが先に達成するか",
+        "title_en": "Standard Chartered Predicts Chainlink at $200 and XRP at $28 by 2030. Which Will Get There First?",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkgtUmlhMWNETU1BOS04WFY1dXVwX3dSMm42blg4Qi1lYUY5ZC11NHdla0hvUm1ZeEJWSUhiNjRsem5oRm9Dbzh2SzVxYlYzQkJ4SEhjemJORGRrRzFhZFROejZCNDBzU0Z4T3hkZ2xLaFVNbmRBRDc0NmE2MHA1akNBdURaZ3VLZFFLTlpoeGZ0c290TTAxUmlqUnV4ZVllRzFVekRsbTRJUQ?oc=5",
+        "published": "Sun, 27 Sep 2026 11:00:00 GMT",
+        "category": "発言"
+      }
+    ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
