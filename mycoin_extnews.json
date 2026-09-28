@@ -1,91 +1,65 @@
 {
-  "generated_at": "2026-09-28T13:35:17+00:00",
+  "generated_at": "2026-09-28T21:10:34+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Strategyが1億4300万ドルのビットコイン購入で新高値を更新",
-        "title_en": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXQtcjJYbDUyTVkzLVRGcnBpcnp3dVhYMW5La09Bb25xQzdhYldUdlhqdjdVZlIwZEl1VUx6UjY2cmJmWnpITkN0bHBhQlg1d3NiSmVHRi1ELWgyZWJ6aXRHSjJFSGZzbWtyYnFpbG42cXdxaXRMR2JJSUJRV0laZGl4ZW5nR0VZOFdGSFZhU3BqbnM3bElEamxWVkRtRjA?oc=5",
-        "published": "Mon, 28 Sep 2026 12:45:41 GMT",
+        "source": "Decrypt",
+        "title_ja": "Striveが9,450万ドル分のビットコイン買収、保有量が27,000BTCを突破",
+        "title_en": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVZGRlZEcHhDZ1pOZ3J5Z0gwWlJDWDFpVjhrU3daZjhyNTA1RHVzaFhad0J1X0dCQmVTam53ajVMQm05SDZ2ckFCWWNueVUtSnE3UUx4dDdFcGNSMmtyRGpLUUtQOTVjVGVuVXRyYVAzLWNZYWxBWFBIclJpWUFaNDJ4Q1l3NWVHSkgxTlZvWHk1ajZQTndYLQ?oc=5",
+        "published": "Mon, 28 Sep 2026 18:16:02 GMT",
         "category": "大口"
       },
       {
         "source": "The Block",
-        "title_ja": "Strategyが1665ビットコインを1億4300万ドルで購入、保有量が847,666BTCに達する",
-        "title_en": "'Even more orange': Strategy buys 1,665 bitcoin for $143 million as total holdings reach 847,666 BTC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUpKY092bHZhTHpKYVczZ0ptbDZQNlhUT210MlhhMk1Na1dscDdqUVNRaUU0VW5pWXduNDU5RUFDNlB3VXNDV0RjY29yNzJac3dDMUM5ZGxtZzlzeFdoTEoxaE9tQUhPYlpXVzlNUm9yUmxzb09LcXp5S2g3RFNUNDhTbXQ2MGRvblAxZWNNLWE3MlMyTUdSTW1Rbk5tenhXUkwtT2MxZw?oc=5",
-        "published": "Mon, 28 Sep 2026 12:11:11 GMT",
+        "title_ja": "Striveが9,450万ドルの買収でビットコイン保有量を27,400BTCを超える水準に拡大",
+        "title_en": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEdaZUthdVM5QXdhODg1SFZTQkM4b3BKZUtQdXlQclJablo5MUZxbGlJSnBnTk81MGxFT3NfNjdMQUlFb05wT2ttUXktUnN1bmNKVU5CdlBtZ0U3R3NlMXVQME9YUlZ0aWtLRExXajdISGhrRWRlYUhfS0NlUkVhcURldlhlZ193VTE0U1RuTVUzM3AyMFZmTU5xWWsyR3lxcVp5amxmbU92bWNxUks3bHZlWjFLb19wYk5jME44Q1JQTEF0OS00ZnE5aw?oc=5",
+        "published": "Mon, 28 Sep 2026 16:00:33 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Decrypt",
-        "title_ja": "Tom LeeのBitmineが4700万ドルのETH追加購入、イーサリアム供給量の4.9%を保有",
-        "title_en": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNldyMGdxRERrYUhPdVNKYzhGY3gzQkR4Nml5YmRmM1pDNF9heDhCRDFjQm9aN0pGa0l4RWJZakFUZWx1dEpHU1BFbXd3NXZ5bmNld3FMZV9lcUFOaVBQdmRFX2w1MlJleTVHNkFEWW1VMmRldFlxY0Nqa0lvUXY2ZTZFY1ZrNk10U0ctQUFVM3A5T0NEbE1TT2hLdjZJdmRoYzRocQ?oc=5",
-        "published": "Mon, 28 Sep 2026 13:27:40 GMT",
+        "title_ja": "Vitalik Buterin、Ethereumの「暗号資産ワールドコンピュータ」構想を発表",
+        "title_en": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGVzd2NmbkttQjNTeWFwQnhWdFpoZF9qM2V1X3dSV25ESW8wdmFxTnNMX0pIcHVoTGFoMG5xd051V3dlQlJXNFlhSE5yenJoTkZaQ29DaUZQQlIyUkdhaVhRcU9lMWZQRExDaXBfc0ZKWkYtR3ZhdVNtdURodmhaQUxXdE5oMlIwa1JMdFl3ck9EVXk1RkVfXzBUX2g3dw?oc=5",
+        "published": "Mon, 28 Sep 2026 16:29:42 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "The Block",
+        "title_ja": "Tom Leeの仮想通貨事業Bitmineが追加17,362ETH買収で保有量が600万ETHを突破",
+        "title_en": "Tom Lee's Bitmine tops 6 million ETH after buying another 17,362 ether",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZPdDJPemx6ZVJNd1ZmaVdsUWU3a1BrMW1NTFhDS2lySmt3aUUybnZ6UnhBdUlWS1RKZDI1ZG5MNDIxV0FpLTYwendrRDBiLWRaUkRvLVcwcTc0V0p1S3ZSbWFyMGFQOTFJY2NhQlF3em9rRGdCYk5ZM01fdm9RQXVtY2NnM1ZtZFVWbHVmc0lLMWNpS2F2SkUzSmlIM0w3RTVvS0VIZUk4QjV0QVdCN3kybEp6c1ZoUG95NVBvTTNOZw?oc=5",
+        "published": "Mon, 28 Sep 2026 13:39:06 GMT",
         "category": "大口"
       }
     ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitgetのハッキングが示すXRPが凍結できない理由",
-        "title_en": "Bitget Hack Shows Why XRP Cannot Be Frozen",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkVHVV9BZm8tRjh3RWk0dnJkb2VPVFFMZGRtajZrYVJ0RmZHYUZubWlmZ21zaXZ2amY3VUdzWXhPdktJVDRkOEFTUkt0NlV1OTB4ZWFkTVZqWXdjckFZWURObVRKbmZXYlQ4MHBaZW16TzkwRFpXQnM2blM1OW9UeVlkX3YtR0ZCNnNuc1BEMlN4cV9F?oc=5",
-        "published": "Mon, 28 Sep 2026 10:39:52 GMT",
-        "category": "ハッキング"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitgetハッカーが8300万ドル以上のXRPを移動：Tetherは凍結できるがRippleはできない理由",
-        "title_en": "Bitget Hacker Moved $83M+ in XRP: Why Could Tether Freeze Funds but Ripple Couldn’t?",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWxpRHZjaDl5b0FDSzl6cmpDaGRWdnl3UEhZRFpmZkZXdWhQY1B4LXlUaGtRdFJKM0I4OW80d1lDenpVajM4WDVfTVFwcWFPdWJYdzVZNEtoN3lrQlJDTWlhRlp6dWkxRnprQTJaVzY0WGVWZG9wNE5pNlduc3pMZDZ4ZTJFR1pIZFdFRklNQUd5aEM1M2hZ?oc=5",
-        "published": "Mon, 28 Sep 2026 09:39:41 GMT",
-        "category": "ハッキング"
-      }
-    ],
+    "XRP": [],
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナETFが1週間で過去最高の1億8800万ドルの資金流入、Bitwiseが3分の2を占める",
+        "title_ja": "SolanaのETFが1週間で過去最高1億8,800万ドルの資金流入、Bitwiseが約3分の2を占める",
         "title_en": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkhvcTdGSDFpRDdocGQtTkdJWjhtSWQ1WncxRUE0ZGdiYXFiWlhmaU1Wc2NLMGdmTU4zN2dnSjNJeW5POTdzaUhFbVZIa2poVFJ5bmdmUUZoV1BXbFBNUzI3RThTeXBfZURNUXZfMTVNMWZ4QkZudWI4eGkyZEpPc0JfOHlCXzdPWF9MNVdSajc5LTBrZFJELW1DdG1HR1JtZmFNZTBBcl9CRTZHWEdkRmNqNzlodVFkaktlaGJwUU1Da3E3Vkh6WjFWQQ?oc=5",
         "published": "Mon, 28 Sep 2026 06:21:06 GMT",
-        "category": "上場"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ソラナETFは1週間で過去最高の1億8800万ドルの資金流入を記録、Bitwiseが流入額の3分の2を占める",
-        "title_en": "ソラナETFは1週間で過去最高の1億8800万ドルの資金流入を記録、Bitwiseが流入額の3分の2を占める",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVNEbXpaOHBQZmFjZlM4Y2FDdE84cXhjaVpFUWN2TUVCTHQyZzZJb3UyQXJFaVZFNGpHLXZUQzdVRXlGRnZHUzUxZFBsYXN1YjZEb18ybUhxakVLSXhrLW5sY3dWWVZrN21FMEZJRXRuQlVteER3eXVCXzFCM1NyRXY0QWRhVXJYZ0tkLUtxeGhTNXRlZmxlUWIwYmhoalN4UTM1OWZFZm90UF9HZHZEZ0poNjNNMjFFVHY1amJwQ1B2Z1NPTGxFbW8xRzdUWWM?oc=5",
-        "published": "Mon, 28 Sep 2026 06:21:06 GMT",
-        "category": "上場"
+        "category": "承認"
       }
     ],
-    "ADA": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "カルダノニュース：Mastercardら最新開発",
-        "title_en": "Cardano News: Mastercard and Fireblocks Just Two of the Latest Developments for ADA",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTBQa283dmdNeWd1YWVIMElZS0s3SzNPSElzdDNfVkgxa1VWSERiMDJMdEtDbGQ2TFJxRk9HeU5kb3ZvWUF4UEs5ejF1YjRraDUtVUt3RjFXUE9aV0ZTU1dYeVFMaUpjOEY5TFpTai1ZOFZEazZXaVlmRXh5eDBreElmRGlvc1lpa2FVY1lpSGxKVDBuNkcyaVhHSEtQa1l0TUg5OGFhMA?oc=5",
-        "published": "Sun, 27 Sep 2026 14:53:05 GMT",
-        "category": "提携"
-      }
-    ],
+    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [
       {
         "source": "CoinDesk",
-        "title_ja": "Chainlinkが大型暗号資産アプリに独立した変数を提供するため、CCIP 2.0を発表",
-        "title_en": "Chainlink launches CCIP 2.0 to give big crypto apps more control over their security",
+        "title_ja": "Chainlinkが暗号資産ブリッジ技術の新版「CCIP」を発表、アプリに高度なセキュリティ管理を提供",
+        "title_en": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTVNdWNWY3BkRWlYVDZrN2tlZTVPZy1EM2QzNUk4THZ5MF91b251cmIwTVFjY2NFaE9ZSXZnMElUX3FOTTF4QXIyRTBJWmVVUnlhLUFLLUg5RTYxUElPejd6Rkt0TmNlMFExTE5hdVBqeW15eFlrZ2Q2WjAzMmN4a1p1aHZXdW14b3ZFMVRsYzVoMWRhMndidjVpVGR6ejhxUVB1N3FuQ1U5Qk1aYmFoNmVDUWowaE5LYVdXV29lUURTUEtDTDl1M21qaVZCUXRoeC1uSHFR?oc=5",
-        "published": "Mon, 28 Sep 2026 12:30:00 GMT",
+        "published": "Mon, 28 Sep 2026 14:56:09 GMT",
         "category": "その他"
       }
     ],
