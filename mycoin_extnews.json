@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-09-29T05:25:18+00:00",
+  "generated_at": "2026-09-29T12:36:09+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
+    "BTC": [
+      {
+        "source": "Decrypt",
+        "title_ja": "モーニングミニッツ：CitiとCoinbaseがステーブルコインを見えなくした",
+        "title_en": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzNEQUxrMlFaRHdQbEV1bmxvdFFCZkxWbjMzQl9hUTdqVUZ3Z2JlS2hIR2JveWZnWE9sa3lsdzZobHhoUUtTMUpIY1RnSUlDWUJZVThva21yZXpxN205ZGlLWDFCZ241T3U1anVGLU9VRVBnMkNna1JFbFdVcFhYMEpNek9CQmdTeEpGcU05b1RFNklL?oc=5",
+        "published": "Tue, 29 Sep 2026 12:05:18 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、債券市場の圧力で株式が下落する中8万4000ドルに回復",
+        "title_en": "Bitcoin recovers to $84,000 while stocks fall on bond market pressure",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalVYRHg1dWI3OXdMRUxISzV2RDltQ3BJMjJpZjc0SGxRb1BuRUVSX3AwRk85dTgtTUhOSFZhaTYwS0NGYkVJQ1l5YnQtWGRMYUFlMzg5eFpRNGg5TjFiYnhLOHU3djZlcExGRnBLbkJlTnZsY3pjbk9KeFI2N0t4Z0ZyM0M0TUxkc3hvUElqeFN1Yk5GbWpZc05CS1pydWRQLTl1c0pxcnJwWE5iSF9VZw?oc=5",
+        "published": "Tue, 29 Sep 2026 10:28:51 GMT",
+        "category": "マクロ"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインとイーサリアムの価格（火曜日、2026年9月29日）：暗号資産価格は早期取引で上昇",
+        "title_en": "Bitcoin and ethereum prices today, Tuesday, September 29, 2026: Crypto prices moving higher in early trading",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPN3Nrd0tuc21UM091SE9KZ18weEJ5ZVVqTVZwMk1MQXFpYVpieHpMRGlHN2ZsN1NHWlY4Uk50VFJycXhTMkcxcnRQWTJ2SE9Gd0QwV01yZ3Vyc2RyMG5JMURjYi05dThMUHZ6R18xd3lRMjBJeHY5SUplZDRMeEtpSXhGcm45c2pLZ24yS0xoUEJldUN3RG56ZnU3X3VLbGJJbVBGblFYWGluSkxNNXIwQmg2OFI3UlRBZUhOWlYzNFJlWWNZSXZlazIyT21JNmwydi1mMExiWnUyOGZPcmYzcHVZT1hYTVBDb1ZxWld6R0VPMGp3eTkyckVXM003MDk4cWhrWDNiVGVEU2VW?oc=5",
+        "published": "Tue, 29 Sep 2026 11:19:39 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Tom Leeの投資企業Bitmine、イーサリアムに追加で4600万ドルを購入",
+        "title_en": "Tom Lee's Bitmine Buys Another $46 Million in Ethereum",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdFdzSHBSN2k3NmNCazl3NFpWb202NFMxWEFMUWcteVVfenRORmM4SzRhVHRybGNsaDJBZ212NV84YUstRElCcEpSNUowb0JlcTY4UXlnTEJKM2NzOWxDT08xYVJ1RUMyaF9nMTNUQWZXMGJnc2YwaUpYdVdMRHJma3B3?oc=5",
+        "published": "Mon, 28 Sep 2026 21:17:00 GMT",
+        "category": "大口"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "RLUSDの供給が2.5億ドルに近づく中、Ripple XRPの凍結ギャップが浮上",
+        "title_en": "The Ripple XRP Freeze Gap Emerges as RLUSD Supply Nears $2.5Bn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1pOX09jNll6OEkxVXNIREh0YlE1cVVTRWFoVmFzOGotSmZMUzJHZEljWHBmQXJfSjBULVQzcEZfY0VUQ2FrbV9td3NNRXRld1IwWFI4dFA2ZlVqQ0ZNYUd5R204dld3a3VHWlVkUXUwMFRBdHVOMGJqQm92TEpGNEVrSWtKU2kwckF1YTJmMENuZWVsN3pQeGR3?oc=5",
+        "published": "Mon, 28 Sep 2026 14:25:35 GMT",
+        "category": "その他"
+      }
+    ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "LINK、2026年高値を更新：Chainlinkのラリーがビットコイン、イーサリアム、XRPを上回る",
+        "title_en": "LINK Hits 2026 High: Chainlink Rally Outpaces Bitcoin, Ethereum And XRP",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVNYbTVwYzdYZndtSV9ER1RaVndEazNFTzhsMXNqUnBfYnk1RUhXWXkzRXd3OVVaa3BnNGM2YXgyNEV2cFE5TzU0dkpMV1A2SlNXTjdCVUhOc1cxOUJSNURpREc3al9sYmR4eU56UlZyb0dOR3AxdUFHOVpjd1d0bmk1ZGl3RTF2M2dOTDdfMjdZb212SzJTQ216TQ?oc=5",
+        "published": "Tue, 29 Sep 2026 12:03:32 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Swiftが、トークン化された預金ネットワークへの銀行アクセスのためChainlinkを採用",
+        "title_en": "Swift Taps Chainlink for Bank Access to Tokenized Deposit Network",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOS14d0RQUldSLVJWVUtSYWdFc3QxTnlmc1FIQTJJaTg0b0VxVUJrb0lXVXlNbnhKb3E5anFFMkpIYkpNSUVPOGdGZ014cUhPVHE0LU44cWFCMHJlSGZQbGI3T3I5QnJ1Q25hb2htYUFCdnlrNDA1ZmxTamNPYkFUdVZZQ0d1M3I0SHBDdkhWOU9jRWduaEFnNEtOVkZfZw?oc=5",
+        "published": "Tue, 29 Sep 2026 00:17:00 GMT",
+        "category": "採用"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
