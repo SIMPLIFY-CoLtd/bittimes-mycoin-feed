@@ -1,68 +1,16 @@
 {
-  "generated_at": "2026-09-28T21:10:34+00:00",
+  "generated_at": "2026-09-29T05:25:18+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Decrypt",
-        "title_ja": "Striveが9,450万ドル分のビットコイン買収、保有量が27,000BTCを突破",
-        "title_en": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVZGRlZEcHhDZ1pOZ3J5Z0gwWlJDWDFpVjhrU3daZjhyNTA1RHVzaFhad0J1X0dCQmVTam53ajVMQm05SDZ2ckFCWWNueVUtSnE3UUx4dDdFcGNSMmtyRGpLUUtQOTVjVGVuVXRyYVAzLWNZYWxBWFBIclJpWUFaNDJ4Q1l3NWVHSkgxTlZvWHk1ajZQTndYLQ?oc=5",
-        "published": "Mon, 28 Sep 2026 18:16:02 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "Striveが9,450万ドルの買収でビットコイン保有量を27,400BTCを超える水準に拡大",
-        "title_en": "Strive pushes bitcoin holdings above 27,400 BTC with latest $94.5 million purchase",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEdaZUthdVM5QXdhODg1SFZTQkM4b3BKZUtQdXlQclJablo5MUZxbGlJSnBnTk81MGxFT3NfNjdMQUlFb05wT2ttUXktUnN1bmNKVU5CdlBtZ0U3R3NlMXVQME9YUlZ0aWtLRExXajdISGhrRWRlYUhfS0NlUkVhcURldlhlZ193VTE0U1RuTVUzM3AyMFZmTU5xWWsyR3lxcVp5amxmbU92bWNxUks3bHZlWjFLb19wYk5jME44Q1JQTEF0OS00ZnE5aw?oc=5",
-        "published": "Mon, 28 Sep 2026 16:00:33 GMT",
-        "category": "大口"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "Decrypt",
-        "title_ja": "Vitalik Buterin、Ethereumの「暗号資産ワールドコンピュータ」構想を発表",
-        "title_en": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGVzd2NmbkttQjNTeWFwQnhWdFpoZF9qM2V1X3dSV25ESW8wdmFxTnNMX0pIcHVoTGFoMG5xd051V3dlQlJXNFlhSE5yenJoTkZaQ29DaUZQQlIyUkdhaVhRcU9lMWZQRExDaXBfc0ZKWkYtR3ZhdVNtdURodmhaQUxXdE5oMlIwa1JMdFl3ck9EVXk1RkVfXzBUX2g3dw?oc=5",
-        "published": "Mon, 28 Sep 2026 16:29:42 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "Tom Leeの仮想通貨事業Bitmineが追加17,362ETH買収で保有量が600万ETHを突破",
-        "title_en": "Tom Lee's Bitmine tops 6 million ETH after buying another 17,362 ether",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZPdDJPemx6ZVJNd1ZmaVdsUWU3a1BrMW1NTFhDS2lySmt3aUUybnZ6UnhBdUlWS1RKZDI1ZG5MNDIxV0FpLTYwendrRDBiLWRaUkRvLVcwcTc0V0p1S3ZSbWFyMGFQOTFJY2NhQlF3em9rRGdCYk5ZM01fdm9RQXVtY2NnM1ZtZFVWbHVmc0lLMWNpS2F2SkUzSmlIM0w3RTVvS0VIZUk4QjV0QVdCN3kybEp6c1ZoUG95NVBvTTNOZw?oc=5",
-        "published": "Mon, 28 Sep 2026 13:39:06 GMT",
-        "category": "大口"
-      }
-    ],
+    "BTC": [],
+    "ETH": [],
     "XRP": [],
-    "SOL": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "SolanaのETFが1週間で過去最高1億8,800万ドルの資金流入、Bitwiseが約3分の2を占める",
-        "title_en": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkhvcTdGSDFpRDdocGQtTkdJWjhtSWQ1WncxRUE0ZGdiYXFiWlhmaU1Wc2NLMGdmTU4zN2dnSjNJeW5POTdzaUhFbVZIa2poVFJ5bmdmUUZoV1BXbFBNUzI3RThTeXBfZURNUXZfMTVNMWZ4QkZudWI4eGkyZEpPc0JfOHlCXzdPWF9MNVdSajc5LTBrZFJELW1DdG1HR1JtZmFNZTBBcl9CRTZHWEdkRmNqNzlodVFkaktlaGJwUU1Da3E3Vkh6WjFWQQ?oc=5",
-        "published": "Mon, 28 Sep 2026 06:21:06 GMT",
-        "category": "承認"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "Chainlinkが暗号資産ブリッジ技術の新版「CCIP」を発表、アプリに高度なセキュリティ管理を提供",
-        "title_en": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTVNdWNWY3BkRWlYVDZrN2tlZTVPZy1EM2QzNUk4THZ5MF91b251cmIwTVFjY2NFaE9ZSXZnMElUX3FOTTF4QXIyRTBJWmVVUnlhLUFLLUg5RTYxUElPejd6Rkt0TmNlMFExTE5hdVBqeW15eFlrZ2Q2WjAzMmN4a1p1aHZXdW14b3ZFMVRsYzVoMWRhMndidjVpVGR6ejhxUVB1N3FuQ1U5Qk1aYmFoNmVDUWowaE5LYVdXV29lUURTUEtDTDl1M21qaVZCUXRoeC1uSHFR?oc=5",
-        "published": "Mon, 28 Sep 2026 14:56:09 GMT",
-        "category": "その他"
-      }
-    ],
+    "LINK": [],
     "SHIB": [],
     "AVAX": []
   }
