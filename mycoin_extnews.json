@@ -1,78 +1,77 @@
 {
-  "generated_at": "2026-09-30T09:33:12+00:00",
+  "generated_at": "2026-09-30T17:54:59+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "HANetfがHSBCと提携し、英ポンドおよびユーロヘッジ型ビットコイン商品を上場",
-        "title_en": "HANetfはHSBCと提携し、世界初の英ポンドおよびユーロヘッジ型ビットコイン商品を上場",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeENVV3FiSlhlV0doTHROMnVQZXlNTmUyT3BSeXRGTmt0ZkJUbEtVNkVrUDVtYkRCUVZTb1dZUlQ3dHZ6QzNZbXVHdG9LejRwUGItQlNzOUxmVjdSQlZJSkl3XzZ2a1lLbE91X050RjRGQTFnb2c1NGlzNXlrODU3X050YXZFZXVGWHlxc1hnYUs0bGp4cktISXRrdWRkdzJKMmN5Wm5TR2Yxb1JQajJVaHBxby02ZTlMekhaTU5yRzV1dw?oc=5",
-        "published": "Wed, 30 Sep 2026 08:25:43 GMT",
-        "category": "上場"
+        "title_ja": "暗号通貨業界、成立しなかったClarity Actのロビイストに800万ドルを提供",
+        "title_en": "暗号通貨業界は契約成立に至らなかったClarity Actのロビイストに800万ドルを提供",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXZDZG1vSTlYWHlneVd5V0JDNjE0STR1ZXRvdGlBSkpSdVUwZnBROVM3VEQ3Sm43MDNhRVBJUG5ZMHpiYldJVU84RVZTZmF5U1l6d1QwcEl3NXVYVW5VX1Iwd0cyY2RaZVNDcEUwem9WZjF3U3VxNzl2TkdDZzBzb19RRHlEQ3BPQlNMTFM1Z19kMG02R0Fqb0JwcEJuRERCRUNSNVU3by11NUhwQ29TTWQxT3ViQUxsc3ZsX2t4amRLamhET05EZ3ExcHdqSEt5ZmNF?oc=5",
+        "published": "Wed, 30 Sep 2026 17:16:31 GMT",
+        "category": "規制"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "PCEインフレが軟化し債券利回りが20年高値を更新する中、ビットコインが上昇",
+        "title_en": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdG5iLU40clZTbDM1cExaYmlpQ0gzYzU4eVRaQnh2ZW1kSW1sU1Z5MmVUMHJpNDhhQ1lXcXd4OGVHM2t2SnJRWWFycmNtOWt2S1VTdVo4RmFMTTlwT3VaMTBCQXhDTmtlUlRhSDhRNkpRWnJVQThVQzFJN3JEX09VWlZGZWlnaWlGQk5qWUxsMU12ekZFMmxFTGtnWlNCUQ?oc=5",
+        "published": "Wed, 30 Sep 2026 15:50:25 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETFが7日間の流入ストリークを終える一方、ビットコインファンドは買い続ける",
+        "title_ja": "イーサリアムETF、7日間の流入記録を途絶える一方ビットコイン投信が買い続ける",
         "title_en": "Ethereum ETFs Snap 7-Day Inflow Streak as Bitcoin Funds Keep Buying",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDVzRWtESUZGXzBPN1pkU1dDb1RkYm9OMUZiRUxqODhFY3BNOHFSM01ZUmFNTmVPdWltWWdSZ1RZNXFieEFYcV94VG02STl2MW5Ea0wxSDJKVUk0WUFsdFE1QXVzOVN5RGM0bW1QRVFaVEVNT1o4TERObEhwc21qMUcyX01PVGRhdFFob002dkZyVWc?oc=5",
         "published": "Wed, 30 Sep 2026 07:31:34 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムの新しいGlamsterdamブロックチェーンアップグレードが10月に到来予定、その理由",
-        "title_en": "Ethereum's New Glamsterdam Blockchain Upgrade is Coming in October. Here's Why I'm Buying Into the Hype.",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1NFOWp3ZWtCTDFoNU5OTjVqZUIzT0l3Z0lZVmE1TWthZWo1ZGZuRUtYX3kzQzZjUmZXWldYODN2RS1KeWdzMzF5S1d1OTgtRTlLVUxkUUZ2VnhOY0NYZDEyOUVLd1V3WGthem1GNGZpOEZ6UEJpa3RVRk9IWnl6UEVvUzZtMHdkRDB6dUhNUTlSOFd4MnJDcU9jVDRBUkhRaExwTmFyLUdmMUF2ajM4ZENn?oc=5",
-        "published": "Tue, 29 Sep 2026 16:25:00 GMT",
-        "category": "その他"
+        "category": "承認"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ブラジルの4兆ドル金融インフラがXRPLに拡大",
-        "title_en": "XRP News: Brazil $4T Financial Infrastructure Expands Onto XRPL",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWRMbnZvbzBGU0p5bWp4aGgzdTBITUpkamR5U2RvcUhtd29MSFE2ZHBYX0haTzNVUDMtZlRiWUhTMENFWnR1aGRoYi1PQzJOclo1UVg3SDFzQnc0cG1LRW1LblZQMWpfS3FTUkFDaU04N3cyaWxUVFZBOEtTb3V1SW15UW5QWFR0S3VVNkVaVGphYTBmWjdIdQ?oc=5",
-        "published": "Wed, 30 Sep 2026 07:12:25 GMT",
+        "title_ja": "BTG Pactual Fund、ブラジル証券保管機構のXRPL実証実験に参加",
+        "title_en": "BTG Pactual Fund Shares Join CSD BR’s Live XRPL Test",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE1Scl9jOEtmZldKc0RBZUNTWlhIcDh3WnpZNjRrQ1RiS245T2dhNXdCSkE0Z2lVT09SdUFZSnFxanRTQURaamY3dTA5eUJtX2ZWbURNZEg2ZUJEeW9IVlRJeFlTY0VOWmZ5aFBkZHBTZzltVW5ZQmtXNWZhR2daanhmQ3JtYjZEdWcwaGtPaHZGd3hpNzQzYw?oc=5",
+        "published": "Wed, 30 Sep 2026 11:49:22 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "リップル、22兆ドル規模のブラジル大手証券企業と提携、180ドル値上がり予想",
+        "title_en": "Ripple Lands Brazil Deal With $22T Securities Giant as $180 Price Call Emerges",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0MybXpWS0dIb2s0VnVBa3NkOGs2Q1l5R3BGeGJxNUtMbjBrSGZ3OWk3WENZNFNoamlOdGZEMzhRYW1DMnNRekFWdWNRcl9yclUtaHZSWWlBekd1Zlc1cDlzLUlKZ1hSaHpTU0liSjhTVFpTTk50MnpObGF4V2h1LXRaLUdEa3lhUE9NYktsUllrNWpLbUU2dg?oc=5",
+        "published": "Wed, 30 Sep 2026 09:22:15 GMT",
+        "category": "提携"
+      }
+    ],
+    "SOL": [],
+    "ADA": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノニュース：ブラジルの州営石油大手が清潔なジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "title_en": "ADA news: Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0k5UnR3Q0R4VkhDSXNrTDd1THJMTlNnWV82WDdNaHljdHBoN2FVeHVaNXBJNjVfZmxxSlhqRDdibmhEZkJCempRZnliaEVUZGVaWXlHOHZxemNyaTU0QV9BOVpRQ19wYUFwRkdsSHBxNUdWSjQ5bjA2YWJFM3duOVV4Zm80VHFrSHRXRlBPUHB1OHpTWTZ0dlZlZ1laNzc5cVRHZ1JjdVpKQWhOa2dSZGJIeGJGTkY5RkFvSURKMExDVzFNenhKN1dfcmJHWXR6TGZV?oc=5",
+        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
         "category": "採用"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "XRPレジャーが4兆ドルを監督するブラジルオペレーターの資金記録の保有を開始",
-        "title_en": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlFjeVFhWEQ0WGdlQkZ4QUpOODlSNTFDUFY4NHhlX0xWRXhTTnRocGlRTGVnNFJSck04NGV0STVuWmpPV1B1bndQS19MOXdlMlVmZDM4RzlKWTBDQW5qUVBQWGpUYWp2X1hiakRoY1NuMkZ5MFhLVXF2Qm5meXNmbGZxR1lhTEZOYUR1T1BJdFRKZ295NWF4VWFPc1dVWHF3cVdCVWxkeUdkQjlwSWIwSGo3U3R6QUtHRkdOdEpKSkNoaFU1?oc=5",
-        "published": "Wed, 30 Sep 2026 05:45:46 GMT",
+        "title_ja": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "title_en": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjlUNy1SR01NRGhsUkU3b1A1MU5jSkU4a055ZTZCRzlWNUJhSDhaUnVUak4xM2xNSFVhUkp0MVBiUkNHSFQ1VGxHTXltUm1icTJqV29Lb3RYclR3S3FOdjl1Vlo1LVFDbHprcHpnSW5kOGh3VWs0anI1Z2VEdVJ5TUpLRHdKem5TZTdyY1hXT1pWUjhaRmM4R01wdTZtQ3IwZ0NJVlF4SWZCNExTZmRfQWR1WXduYmhaYWNKSHlERTZUN0ZGQ3RTc3hFZmVGekQ2OVMyOXdjbw?oc=5",
+        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
         "category": "採用"
       }
     ],
-    "SOL": [],
-    "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "チェーンリンクのCCIP 2.0アップグレードはLINK価格に影響するか",
-        "title_en": "How Will Chainlink’s CCIP 2.0 Upgrade Impact LINK Price?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc013dnFRS2t5d2N4MXNkV2M4c2xPd2c1VVlPU0JuOWtoLTd1VlQ0NS1DRXRvVzJEdTh6N3NCc1dUd1hfYnRBOFRyUkZ2X0RmOUQ1VE9DNTE3UmRtV2JwNW5GR1REWktuM19CczQ0c0hCaEhYRDROVkpEaC1Ocm04VUg0MG5ELTBrYkJ2ZS1YcUszSDluNWc?oc=5",
-        "published": "Tue, 29 Sep 2026 13:11:19 GMT",
-        "category": "その他"
-      }
-    ],
+    "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ゴールドマン・サックスが1000億ドルのトレジャリーファンドをAVAXベースネットワークに導入、アバランチトークンが6ヶ月高値を更新",
-        "title_en": "Avalanche Token Hits 6-Month High After Goldman Sachs Brings $100B Treasury Fund To AVAX-Based Network",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHJ0SnRvemZQUHJ1WEdpMERtcVJsT2s3eVF2R2RUWFJNWnYzaWxFaWVnWmhkMWVEdFB6UUtXYTJMRUxSQlEzMWV0SW44U1hhbU9YbzlGYWlBekxkOFJreFFUM1kxeEVsUl9JU05WTkRoRG5fY3ZCODAzQ1FPeHJZdjlVSUw0YzZIRHkwSTdJQkVCeUlNWi1laA?oc=5",
-        "published": "Tue, 29 Sep 2026 17:26:12 GMT",
-        "category": "採用"
-      }
-    ]
+    "AVAX": []
   }
 }
