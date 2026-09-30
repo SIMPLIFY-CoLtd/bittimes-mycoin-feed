@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-29T19:54:55+00:00",
+  "generated_at": "2026-09-30T00:16:44+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
+        "source": "日本経済新聞",
+        "title_ja": "5%金利でも崩れぬビットコイン、金との明暗鮮明に",
+        "title_en": "5%金利でも崩れぬビットコイン 金との明暗鮮明に",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWUJkYUV2VUZWVVR6MUkycHNWRjFIZ0pXVV9IQW9IUzg0eHBGVFJZWkRPVnM4bE5qdnhEZF8zak41emxWUUtiRG8wS1luMDN1emxmRjBKOERiVzI0RjZacGJ5V2ZPRjJWRWZxbQ?oc=5",
+        "published": "Tue, 29 Sep 2026 21:50:28 GMT",
+        "category": "マクロ"
+      },
+      {
         "source": "The Block",
-        "title_ja": "CryptoQuantがトレーダーの含み益が21ヶ月ぶり高水準に達したことを受け、ビットコイン調整の可能性を指摘",
+        "title_ja": "CryptoQuant：未実現利益が21ヶ月ぶり高水準でビットコイン調整が近い可能性",
         "title_en": "CryptoQuant says bitcoin correction could be near as traders' unrealized profit hits 21-month high",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGVDamkyUURaMFRtWXdLdnNSM2MyMVRVRTFrN2lyWFZFYnRUaDMwYUpQb05KNkZ3akVXanpTbUxpeFNNMkRjbDdzbXlacjJ2V3JHVUdyNlJEN3QzN1FtQXFBa3BBNHVjQnBBTXV2TFBLdHl4MlJwSlZQc2cxOVZjcnFpMkNGQTlvWTEwODVpcVJqVl92dmU2dWZoQVhVZnRLVWt6cmpYUXRyUGdEOGltY25rVmRvVDJMZHBpSW5IY25tckUtcUNLakMwNEE0QU1VWUtDNTYtMTc?oc=5",
         "published": "Tue, 29 Sep 2026 19:14:47 GMT",
         "category": "発言"
-      },
-      {
-        "source": "Decrypt",
-        "title_ja": "仮想通貨ETFが急騰、30日で29.5億ドル流入",
-        "title_en": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GaHE4bkh0LWNYZVRteWVvcUt0bTBmT2FtbGc1OVBVRjV3b05IMHE4V3hrR1VMTWZSa0VFbDdWVWtZWUZLbzVWSjcyaWVJTXZsUFFqVWFVNXlnbGFxMkpnVFZSVGVFSmdCQTZyNHR1c2RCWFJ2MkxqUFBQX1JEdw?oc=5",
-        "published": "Tue, 29 Sep 2026 18:18:33 GMT",
-        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムの新しいGlamsterdamブロックチェーン・アップグレードが10月実装予定",
+        "title_ja": "イーサリアムの新しいGlamsterdamブロックチェーンアップグレード10月に予定",
         "title_en": "Ethereum's New Glamsterdam Blockchain Upgrade is Coming in October. Here's Why I'm Buying Into the Hype.",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1NFOWp3ZWtCTDFoNU5OTjVqZUIzT0l3Z0lZVmE1TWthZWo1ZGZuRUtYX3kzQzZjUmZXWldYODN2RS1KeWdzMzF5S1d1OTgtRTlLVUxkUUZ2VnhOY0NYZDEyOUVLd1V3WGthem1GNGZpOEZ6UEJpa3RVRk9IWnl6UEVvUzZtMHdkRDB6dUhNUTlSOFd4MnJDcU9jVDRBUkhRaExwTmFyLUdmMUF2ajM4ZENn?oc=5",
         "published": "Tue, 29 Sep 2026 16:25:00 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムユーザー向けに3年ぶりプライベート決済機能zk.moneyが復帰",
+        "title_ja": "zk.moneyが3年ぶりに復活、イーサリアムユーザーがプライベート支払いの新手段を獲得",
         "title_en": "Ethereum users get another way to pay privately as zk.money returns after three years",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkIzdmREWXNvbTBIZjdBVUtfX3dQRlAzcGhYaFNWYUZFd0NDWmZLX1I0bG9sd2wxQVhRWlNRWl9fMVpveUdCMFZVNHczclBsRmluME50U21rT3ZDdTNtTERxeWRuRzlFY0xrcmZuazFaQWtaQ3FYYmZ5LXRwN29xTTA3WjlXcS01UzQxUGZOMjJXWnNUX3NCcVJGRWlIV194WmRKb0tqVEx0RmJ6dkJlUmNaMkxnUmFhVVhZT1U3T1hZY1kxcWtkQTZacUZwRzYySEwyemhiQ3Q?oc=5",
         "published": "Tue, 29 Sep 2026 16:00:00 GMT",
@@ -42,7 +42,7 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SWIFTとリップル提携報道でXRPコミュニティが騒然、実際の確認内容は",
+        "title_ja": "SWIFT・Ripple提携の噂がXRPコミュニティを騒然とさせるも確認内容は不明確",
         "title_en": "SWIFT-Ripple Partnership Rumor Sends XRP Community Into Overdrive, But What’s Actually Confirmed?",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcnRycTRLdUNmdWlfVmpOUVpjSVdrV2pZc1hDNlR5SkpBRGZQbTdpRmFwWE1uZVQ1bGtzZlpsTU12T3FwVEVFeUFFYmRoZjhWbnlmTkU3TldoNHlXRElOUS14UnZkZi1SWGlRWk5kM0RWaDQ3b3pVc2EzZVdqRDZWZzVPcHFCZkpZMWY5R0J4NlozUzdlOUhzTU01eUdYTEZnYVdV?oc=5",
         "published": "Tue, 29 Sep 2026 14:47:15 GMT",
@@ -50,7 +50,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP財務会社がナスダック上場投票まであと1票、EvernorthがXRPN上場ならどうなる",
+        "title_ja": "XRP関連企業が投票まであと1票でナスダック上場、上場されると何が起こるか",
         "title_en": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN?",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREVtUlFETWswSUg3cWF4LV8zUXNqcEZqc2FyVWpVZk5YWGNqcG4yYU5ZRkRBOVgwVjhsX3JaMURsdzA3Z0YtTENBMGJneV81am9uNEpBZjN3aTQ0U1ZBYXJ2WnNva0ZMVUM0T3JJNmNCd09HM2I5N3h1YmE0UzVrMlNWZURRSFh6eFpleko5bWp3UC1QZkdKTEh3?oc=5",
         "published": "Tue, 29 Sep 2026 11:30:50 GMT",
@@ -64,7 +64,7 @@
     "LINK": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "チェーンリンクのCCIP 2.0アップグレードはLINK価格にどう影響するか",
+        "title_ja": "Chainlink CCIP 2.0アップグレードはLINK価格にどう影響するか",
         "title_en": "How Will Chainlink’s CCIP 2.0 Upgrade Impact LINK Price?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc013dnFRS2t5d2N4MXNkV2M4c2xPd2c1VVlPU0JuOWtoLTd1VlQ0NS1DRXRvVzJEdTh6N3NCc1dUd1hfYnRBOFRyUkZ2X0RmOUQ1VE9DNTE3UmRtV2JwNW5GR1REWktuM19CczQ0c0hCaEhYRDROVkpEaC1Ocm04VUg0MG5ELTBrYkJ2ZS1YcUszSDluNWc?oc=5",
         "published": "Tue, 29 Sep 2026 13:11:19 GMT",
@@ -72,18 +72,18 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "チェーンリンク、CCIP 2.0を機関投資家向けに展開、カスタマイズ可能な速度で",
+        "title_ja": "Chainlink、CCIP 2.0を機関投資家向けに設定可能な速度で提供開始",
         "title_en": "Chainlink Opens CCIP 2.0 to Institutions With Configurable Speed",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjBZek5jUHFldXNYc09VTHpJTklSZFhidm10WWQxd0pCenRHdHlSbW1Tck9pZXJOZjUyTzYxZEFBMkE1UzEyUzA1bi1QRzVISWlIYXBMU242UHoyX0xYVkZVT3JrQkxzUVpBTGEzQWdrZXFuY0dyTlA5SjczMk5fRG5XUEF4T0JPR18tS2d3NWd6czA?oc=5",
         "published": "Tue, 29 Sep 2026 12:27:48 GMT",
-        "category": "採用"
+        "category": "その他"
       }
     ],
     "SHIB": [],
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "アバランチトークンがゴールドマン・サックスの1000億ドル財務ファンド導入後、6ヶ月ぶり高値",
+        "title_ja": "アバランチトークン、ゴールドマン・サックスが100億ドルトレジャリーファンドをAVAXベースネットワークに導入後、6ヶ月ぶり高値を更新",
         "title_en": "Avalanche Token Hits 6-Month High After Goldman Sachs Brings $100B Treasury Fund To AVAX-Based Network",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHJ0SnRvemZQUHJ1WEdpMERtcVJsT2s3eVF2R2RUWFJNWnYzaWxFaWVnWmhkMWVEdFB6UUtXYTJMRUxSQlEzMWV0SW44U1hhbU9YbzlGYWlBekxkOFJreFFUM1kxeEVsUl9JU05WTkRoRG5fY3ZCODAzQ1FPeHJZdjlVSUw0YzZIRHkwSTdJQkVCeUlNWi1laA?oc=5",
         "published": "Tue, 29 Sep 2026 17:26:12 GMT",
