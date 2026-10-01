@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-09-30T22:08:03+00:00",
+  "generated_at": "2026-10-01T05:28:03+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインがインフレ緩和で8万5000ドルを超えるも同日中に下落、8万5000ドル手前での失敗が続く理由",
-        "title_en": "Bitcoin Crossed $85,000 on Cooler Inflation Data, Then Lost It the Same Day. Why Does Bitcoin Keep Failing at $85,000?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXFzUEVVVDdLN2FlOUxhanZhekY5WWV3NTEydWJzOWJLcjRwNFR1bkd3cHo4ZTEwY3JvUjlCMk0wTjhzdmpFMEVaNElQQTFqRWNVSDdmTjJXY0h4TGJ2Mk1tNXlxVG1PbldHdVFMWGJva19wcl9kU1pCWFFUdDV3eDNBa0RHdjNkRWg4eHVLaEtfZExQVWk0Skpn?oc=5",
-        "published": "Wed, 30 Sep 2026 19:37:50 GMT",
+        "source": "CoinDesk",
+        "title_ja": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
+        "title_en": "BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDFnTTZwNGZFcjVSbmxjRGdrQm9PWndad3FpRG51bjhfTXJqLVNMRVJfY3FKUWpaRWFUNTBjYkFIb2c2VDhLRDZndnRZODE2UHFEQjBEWnpVXzF4Z290amR2aWpDSGY5dTlDd1BUYkpFSUtZd24zdDczeDZxOGFobGxOVFJvZUt4Z0VGdnVLRDNBYjM4a1daSnJST25SeFViTS1SYkdsa0RoSkZyNERQMEhxbnlRdmNlOXVnWEZn?oc=5",
+        "published": "Thu, 01 Oct 2026 04:15:20 GMT",
         "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF、9日連続の買越えが続く、8月相場と同等",
-        "title_en": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTE5BR1FYLWYwRUxqb2tma1Jxek5VT3F1U0ZDYmpWRVpYUndrNW1JSWlyMl93bXRjTldLRkgxazg0ZW9VX082ODNlZE5JRDI5WGFvdlNBeTV0cFJZcklld0hDUWhXY2hXMkZZTGF4d21VOFh5VThYMVI5eDBxdEJaREsxd1VPa25oblpFbkZIUVp2WGlzRzIzV3ptbw?oc=5",
-        "published": "Wed, 30 Sep 2026 17:27:43 GMT",
-        "category": "上場"
+        "source": "CoinDesk",
+        "title_ja": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
+        "title_en": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTkg0Qzlic25WdkJscVBaR1FhUkItTld4eVVRai01WF9FdllXSlVWX3VlUkN3UjdJTUpIT3VwODhBYmdLbmVEMjd2UE0tLUR1WTNtaERaaVpvVGN1Wjc5ZlpDZGdWdlVyZnNvOGFqT3h3cVVfRXJ3MmFCYm85RDhpN2h2OFliRXF1aEg5SXBhcnRvYkc5MTZIdGJGQ3ZIWE90MFI1QThiMUxkNUlHLTJFdVVUWlJBMWVzak1YWVpGUFVBdw?oc=5",
+        "published": "Thu, 01 Oct 2026 04:15:20 GMT",
+        "category": "マクロ"
       }
     ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETF、7日連続の買越けが途切れるもビットコインファンドの買いは継続",
-        "title_en": "Ethereum ETFs Snap 7-Day Inflow Streak as Bitcoin Funds Keep Buying",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDVzRWtESUZGXzBPN1pkU1dDb1RkYm9OMUZiRUxqODhFY3BNOHFSM01ZUmFNTmVPdWltWWdSZ1RZNXFieEFYcV94VG02STl2MW5Ea0wxSDJKVUk0WUFsdFE1QXVzOVN5RGM0bW1QRVFaVEVNT1o4TERObEhwc21qMUcyX01PVGRhdFFob002dkZyVWc?oc=5",
-        "published": "Wed, 30 Sep 2026 07:31:34 GMT",
-        "category": "上場"
-      }
-    ],
+    "ETH": [],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "BTGパクチュアル・ファンド、CSD BRのライブXRPLテストに参加",
-        "title_en": "BTG Pactual Fund Shares Join CSD BR’s Live XRPL Test",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE1Scl9jOEtmZldKc0RBZUNTWlhIcDh3WnpZNjRrQ1RiS245T2dhNXdCSkE0Z2lVT09SdUFZSnFxanRTQURaamY3dTA5eUJtX2ZWbURNZEg2ZUJEeW9IVlRJeFlTY0VOWmZ5aFBkZHBTZzltVW5ZQmtXNWZhR2daanhmQ3JtYjZEdWcwaGtPaHZGd3hpNzQzYw?oc=5",
-        "published": "Wed, 30 Sep 2026 11:49:22 GMT",
-        "category": "提携"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップル、22兆ドル規模の証券大手との間でブラジル取引を成約、180ドル予想観測も浮上",
-        "title_en": "Ripple Lands Brazil Deal With $22T Securities Giant as $180 Price Call Emerges",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0MybXpWS0dIb2s0VnVBa3NkOGs2Q1l5R3BGeGJxNUtMbjBrSGZ3OWk3WENZNFNoamlOdGZEMzhRYW1DMnNRekFWdWNRcl9yclUtaHZSWWlBekd1Zlc1cDlzLUlKZ1hSaHpTU0liSjhTVFpTTk50MnpObGF4V2h1LXRaLUdEa3lhUE9NYktsUllrNWpLbUU2dg?oc=5",
-        "published": "Wed, 30 Sep 2026 09:22:15 GMT",
-        "category": "提携"
+        "source": "CoinDesk",
+        "title_ja": "XRP台帳がブラジルのオペレーター（4兆ドル規模）からのファンド記録を搭載開始",
+        "title_en": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlFjeVFhWEQ0WGdlQkZ4QUpOODlSNTFDUFY4NHhlX0xWRXhTTnRocGlRTGVnNFJSck04NGV0STVuWmpPV1B1bndQS19MOXdlMlVmZDM4RzlKWTBDQW5qUVBQWGpUYWp2X1hiakRoY1NuMkZ5MFhLVXF2Qm5meXNmbGZxR1lhTEZOYUR1T1BJdFRKZ295NWF4VWFPc1dVWHF3cVdCVWxkeUdkQjlwSWIwSGo3U3R6QUtHRkdOdEpKSkNoaFU1?oc=5",
+        "published": "Wed, 30 Sep 2026 05:45:46 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [],
     "ADA": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ブラジルがリップルとカルダノのブロックチェーン戦場に",
-        "title_en": "Brazil Becomes a Blockchain Battleground for Ripple and Cardano",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXdFY3d6d2g1LUN3WFNjMzZwT3VOMDljanp4RV9UTVZlWDZPM2pna0RtWjRfRHp1VFBiZ2FqZkFCdXRMRHMtTkxyQThWcWZ2ZHZQMHp1NTFuaFZSWk1rZFd6VnBmQUNGT2YxWV8xM3FNcDhSUVMtNFRwMjBfNTJfWEtFMHdPSXYtai1VQkcxbkhrNlhwdTVneXJtRlFjeVRwY2FBSzZnODR1eDQ0cHpR?oc=5",
-        "published": "Wed, 30 Sep 2026 16:04:07 GMT",
+        "source": "CoinDesk",
+        "title_ja": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "title_en": "ADA news: Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0k5UnR3Q0R4VkhDSXNrTDd1THJMTlNnWV82WDdNaHljdHBoN2FVeHVaNXBJNjVfZmxxSlhqRDdibmhEZkJCempRZnliaEVUZGVaWXlHOHZxemNyaTU0QV9BOVpRQ19wYUFwRkdsSHBxNUdWSjQ5bjA2YWJFM3duOVV4Zm80VHFrSHRXRlBPUHB1OHpTWTZ0dlZlZ1laNzc5cVRHZ1JjdVpKQWhOa2dSZGJIeGJGTkY5RkFvSURKMExDVzFNenhKN1dfcmJHWXR6TGZV?oc=5",
+        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "title_en": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjlUNy1SR01NRGhsUkU3b1A1MU5jSkU4a055ZTZCRzlWNUJhSDhaUnVUak4xM2xNSFVhUkp0MVBiUkNHSFQ1VGxHTXltUm1icTJqV29Lb3RYclR3S3FOdjl1Vlo1LVFDbHprcHpnSW5kOGh3VWs0anI1Z2VEdVJ5TUpLRHdKem5TZTdyY1hXT1pWUjhaRmM4R01wdTZtQ3IwZ0NJVlF4SWZCNExTZmRfQWR1WXduYmhaYWNKSHlERTZUN0ZGQ3RTc3hFZmVGekQ2OVMyOXdjbw?oc=5",
+        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
         "category": "採用"
       }
     ],
     "DOGE": [
       {
+        "source": "CoinDesk",
+        "title_ja": "DOGE価格：ドージコイン、取引・貸出・ステーブルコイン対応のイーサリアム型テストネットを獲得",
+        "title_en": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
+        "published": "Thu, 01 Oct 2026 04:58:52 GMT",
+        "category": "その他"
+      },
+      {
         "source": "The Block",
-        "title_ja": "DogeOS、ドージコインにEVMスマートコントラクトをもたらすテストネット開始",
+        "title_ja": "DogeOSがテストネットを立ち上げ、EVMスマートコントラクトをドージコインにもたらす",
         "title_en": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnNDZ0F6bU9rSkpkdnpsdFN4TmdrQnRKSEdXQ2RpZzFQUXVUWlJSOWdKU3J1OXY2RVhEMjJrX0JqTFpYRklKNGVnVGRMeTBqTXFibHZBOFp1cHpLdk5OUjJhZmdfOWltbTBpNEY0Z0IxX093MnlzSl9jX1ZxLXpzQ25zdjhEMl9oUm9YUnJzZUlZaTNMY0tFN3E3amNyM2hWamF6QXFhMVdubW1hQzVRTg?oc=5",
         "published": "Wed, 30 Sep 2026 18:23:57 GMT",
