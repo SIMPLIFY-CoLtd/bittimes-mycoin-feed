@@ -1,74 +1,14 @@
 {
-  "generated_at": "2026-10-01T05:28:03+00:00",
+  "generated_at": "2026-10-01T12:56:45+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
-        "title_en": "BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDFnTTZwNGZFcjVSbmxjRGdrQm9PWndad3FpRG51bjhfTXJqLVNMRVJfY3FKUWpaRWFUNTBjYkFIb2c2VDhLRDZndnRZODE2UHFEQjBEWnpVXzF4Z290amR2aWpDSGY5dTlDd1BUYkpFSUtZd24zdDczeDZxOGFobGxOVFJvZUt4Z0VGdnVLRDNBYjM4a1daSnJST25SeFViTS1SYkdsa0RoSkZyNERQMEhxbnlRdmNlOXVnWEZn?oc=5",
-        "published": "Thu, 01 Oct 2026 04:15:20 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
-        "title_en": "BTC価格：ビットコインのインフレ緩和による85,500ドルへの上昇は、債券利回りの下落拒否により薄れる",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTkg0Qzlic25WdkJscVBaR1FhUkItTld4eVVRai01WF9FdllXSlVWX3VlUkN3UjdJTUpIT3VwODhBYmdLbmVEMjd2UE0tLUR1WTNtaERaaVpvVGN1Wjc5ZlpDZGdWdlVyZnNvOGFqT3h3cVVfRXJ3MmFCYm85RDhpN2h2OFliRXF1aEg5SXBhcnRvYkc5MTZIdGJGQ3ZIWE90MFI1QThiMUxkNUlHLTJFdVVUWlJBMWVzak1YWVpGUFVBdw?oc=5",
-        "published": "Thu, 01 Oct 2026 04:15:20 GMT",
-        "category": "マクロ"
-      }
-    ],
+    "BTC": [],
     "ETH": [],
-    "XRP": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "XRP台帳がブラジルのオペレーター（4兆ドル規模）からのファンド記録を搭載開始",
-        "title_en": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlFjeVFhWEQ0WGdlQkZ4QUpOODlSNTFDUFY4NHhlX0xWRXhTTnRocGlRTGVnNFJSck04NGV0STVuWmpPV1B1bndQS19MOXdlMlVmZDM4RzlKWTBDQW5qUVBQWGpUYWp2X1hiakRoY1NuMkZ5MFhLVXF2Qm5meXNmbGZxR1lhTEZOYUR1T1BJdFRKZ295NWF4VWFPc1dVWHF3cVdCVWxkeUdkQjlwSWIwSGo3U3R6QUtHRkdOdEpKSkNoaFU1?oc=5",
-        "published": "Wed, 30 Sep 2026 05:45:46 GMT",
-        "category": "採用"
-      }
-    ],
+    "XRP": [],
     "SOL": [],
-    "ADA": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
-        "title_en": "ADA news: Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0k5UnR3Q0R4VkhDSXNrTDd1THJMTlNnWV82WDdNaHljdHBoN2FVeHVaNXBJNjVfZmxxSlhqRDdibmhEZkJCempRZnliaEVUZGVaWXlHOHZxemNyaTU0QV9BOVpRQ19wYUFwRkdsSHBxNUdWSjQ5bjA2YWJFM3duOVV4Zm80VHFrSHRXRlBPUHB1OHpTWTZ0dlZlZ1laNzc5cVRHZ1JjdVpKQWhOa2dSZGJIeGJGTkY5RkFvSURKMExDVzFNenhKN1dfcmJHWXR6TGZV?oc=5",
-        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
-        "title_en": "ブラジルの州営石油大手がクリーンなジェット燃料およびディーゼルの追跡にカルダノを採用",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjlUNy1SR01NRGhsUkU3b1A1MU5jSkU4a055ZTZCRzlWNUJhSDhaUnVUak4xM2xNSFVhUkp0MVBiUkNHSFQ1VGxHTXltUm1icTJqV29Lb3RYclR3S3FOdjl1Vlo1LVFDbHprcHpnSW5kOGh3VWs0anI1Z2VEdVJ5TUpLRHdKem5TZTdyY1hXT1pWUjhaRmM4R01wdTZtQ3IwZ0NJVlF4SWZCNExTZmRfQWR1WXduYmhaYWNKSHlERTZUN0ZGQ3RTc3hFZmVGekQ2OVMyOXdjbw?oc=5",
-        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-        "category": "採用"
-      }
-    ],
-    "DOGE": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "DOGE価格：ドージコイン、取引・貸出・ステーブルコイン対応のイーサリアム型テストネットを獲得",
-        "title_en": "DOGE price: Dogecoin gets Ethereum-style testnet for trading, lending and stablecoins",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0RSWWZ3S29BRzhIWm5aMVlLLVJoeHYySk5rRjNDOGhKbVhmcHdxZi1NNklIdFhEVnFhSmQycUdMaURZY2tpM0IyYi11VE1qOEpHR2x2UHdQYkZRUFpqSGpsQXpWd0lxdnZmbU5SSTQyNl9FTzh4bmFwSVhOOWlfRUNqNzZyMVRrUmtYSmZlbzYyeGxlcHV2aWluOF9NaWRBV3RXR0dxdGxETXhISXRnTUZ3QVNIbDYyb3pLRF93?oc=5",
-        "published": "Thu, 01 Oct 2026 04:58:52 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "DogeOSがテストネットを立ち上げ、EVMスマートコントラクトをドージコインにもたらす",
-        "title_en": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnNDZ0F6bU9rSkpkdnpsdFN4TmdrQnRKSEdXQ2RpZzFQUXVUWlJSOWdKU3J1OXY2RVhEMjJrX0JqTFpYRklKNGVnVGRMeTBqTXFibHZBOFp1cHpLdk5OUjJhZmdfOWltbTBpNEY0Z0IxX093MnlzSl9jX1ZxLXpzQ25zdjhEMl9oUm9YUnJzZUlZaTNMY0tFN3E3amNyM2hWamF6QXFhMVdubW1hQzVRTg?oc=5",
-        "published": "Wed, 30 Sep 2026 18:23:57 GMT",
-        "category": "その他"
-      }
-    ],
+    "ADA": [],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
