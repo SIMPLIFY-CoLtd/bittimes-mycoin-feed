@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-10-02T17:45:53+00:00",
+  "generated_at": "2026-10-02T22:03:57+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "マテドール・テクノロジーズが168BTCを主要資産として保有",
-        "title_en": "Matador Technologies Holds 168 Bitcoin as Primary Treasury Asset",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnlmWElTZnpuSHRsMDdhcFg5YnhEb1BTNFZrRXBOcmtMVzVlYktoZzRHRnpCNWszMkgtNzhEb3hsWWg1djNwa2ZRM2J2R2dEWW02UGswNkxfTXRvcHRlZWtsMVZ0bHdualVCV3JZcUFhQXctNUFrNWFuclJYdE1DbWlXa2RFT19YYnc3eFBNUGlVc2RjMjBJU09YVWI3Q1IzRHVQMTBB?oc=5",
-        "published": "Fri, 02 Oct 2026 15:53:27 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "トランプ氏の次期AI監督候補ジェイ・クレイトン氏、SEC規制執行を通じた暗号資産規制を開始",
+        "title_en": "トランプ氏の次期AI監督候補、ジェイ・クレイトン氏はSECでの規制執行を通じた暗号資産規制を開始しました",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjBIbVYxOGJWUHphNkdieTRRZ1FMQWxTcVJLQVpJYi1TU191bk44NEE5Z0kzWVc2RF9lQ2JGUzJ1NFk5WFVvSFEyampxRGg1OXNkY0pwNW1uUXhNRVk5aU41QW1rY1dPc1BOOWdkVTBjdnFyUEdhZmlxUFRKc1BWMDZKTXkwXzRxZHIybWRvRW5SWVJsUGJOd1lyNjVQZGN5X2RDekJWNDlnVW5LalRDVXdkOFdYYWpnTFZ4a1AxYno1RFhYejdLUEpINFlBTEd5LWhjcw?oc=5",
+        "published": "Fri, 02 Oct 2026 17:56:28 GMT",
+        "category": "規制"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "CircleがEthereumおよびArc上でWrapped Bitcoinを立ち上げ",
-        "title_en": "Circle Launches Wrapped Bitcoin on Ethereum and Arc",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHFaak1tMnNJd2pES3E0NDJHdUwxa3I5ek9MM0M5VUlfbE50QlNZWlc5cTk0WVNzdE5jc19vR3lHak5xMG1va2EtV0lnMENtTTBLZVRHUnhQY3o4VF9JSTg0OHNZR0ZEYm1TcDV1U2hndUt5Yy1kUHdjX245dlFUNldXYXAxdU4yLUo3enNBWUgzcEs3dWo4VHRkb29yWFluMXp0OWdFYmY?oc=5",
-        "published": "Fri, 02 Oct 2026 15:15:00 GMT",
-        "category": "提携"
+        "source": "CoinDesk",
+        "title_ja": "SECが保管ルールで暗号資産アジェンダを完了",
+        "title_en": "SEC completes its crypto agenda with custody rule",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1dnS0c5LWR0RDBHdDhGWEVMaDhTeWctLXpqS2Y0Z0tQM2t0a0xhTk5sejRGZWlWUktBeGNzbGNjOWtZRi1UckItVGNsdk1zM2NWaXMxRHlRcHZEbG85UWdid0hoTjhnNUhNckx6bDh5ZjF5WnZNVUxXd2VBT19xTGFMeVdLT1E?oc=5",
+        "published": "Fri, 02 Oct 2026 16:53:57 GMT",
+        "category": "規制"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "イーサリアム財団がzkAPIを立ち上げ、AIモデル利用料を身元非開示で支払い可能に",
-        "title_en": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
-        "published": "Fri, 02 Oct 2026 00:22:00 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "かつて23億ドル規模だったイーサリアムレイヤー2 Blastが閉鎖",
+        "title_en": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ3h6X29nSGN3U0YyUUZqVXRYeHVnVHpURHdKdlA3d290OVVkV0M2emJocWRFczVLa3F6eXExUVVJSDRsZWlpMDE5YlZUZ0hxTTNpV2k5REFHUzdHcjdEYXVKanA0SFZKV0xTSzZvLTJBVERNQTdib2lfeGFRTU4zQ2hOc29oblpHMXJhczB0WjMzZHM?oc=5",
+        "published": "Fri, 02 Oct 2026 17:47:06 GMT",
+        "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムのGlamsterdamアップグレードが10月6日にテストネット実行、ETH価格に影響するか",
-        "title_en": "Ethereum’s Glamsterdam Upgrade Hits Testnet October 6: Will It Influence ETH Price?",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUM4N0FpWVA1Zkx1eHMyMk5TR3FYTW45aTNUVFptS19CcEowT2tTbkpHVDZqT2J0NkhmMk9NY0NDVWlpMUNzc0JWSk10S2JoUWZXMWdWc25HX3dmc3dXNW1Ld2p1RGFMcFRRc1lQM2xYa0NkMjhsREFJYVF5eUp5OUN2eDV6cUxYUHNQNHNlVHN2VzFKU3ROaGdoNDBRYV8tZGVkSlh0eWhuQQ?oc=5",
-        "published": "Thu, 01 Oct 2026 19:30:54 GMT",
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムベースのBlastチェーン、運営が「もはや合理的でない」として閉鎖",
+        "title_en": "Ethereum-based Blast chain shuts down as operating 'no longer makes sense'",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUlwOWg1U3YzQlNOanM2TkVmVm8xLUVMZ1p3TlR3YVlRdm50SE1Hamt0aE8tUUI4VmZhZk5XQ3R3STVYYlJldlFpdFd3UlYzN3pFUWw0N0cyOUlHb3cyT21QMU9OakhDQTJzWEpBQmRhT3l4QXRBZjhjNDMyeHFPNDlCQkJ1ZHRROFcwY1RLRkFZMV9WVEhhQmNnS0hfTi0wOG9wQmtEWGJ0ZVowbm9RRnQ3c0VzdThDU19zTlMxbEM?oc=5",
+        "published": "Fri, 02 Oct 2026 17:15:35 GMT",
         "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Binance上のXRP供給量が2025年1月以来の高水準、XRPが1.50ドルで停滞する理由か",
+        "title_ja": "バイナンス上のXRP供給量が2025年1月以来の最高水準。XRPが1.50ドルで停滞している理由か",
         "title_en": "XRP Supply on Binance Is the Highest Since January 2025. Is That Why XRP Is Stuck at $1.50?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUJHUkcwM245NEM5LTAxNFh1LTVSc194RzNGU3lLam9fcGo2d2hKWm9oYkY0cTZtT3pMWGp3R0dhbTZmSUw4WDBPLVNhejZiMFh2azBRSmhhSXZEVnc2YW5qejZvWDBZa1pXTGo4d2cwdUdraHNyRDZtczF6QjJ3MVlVMWhHbG1PaFhOZFFVa1d5cldvRUF1QWFGYlp1QQ?oc=5",
         "published": "Fri, 02 Oct 2026 14:30:30 GMT",
@@ -50,7 +50,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP Ledgerがネイティブ融資機能を獲得、最大DeFiプロトコルが1億3000万ドル超え、XRPLはSolanaに追いつけるか",
+        "title_ja": "XRP Ledgerがネイティブレンディング機能を追加、最大のDeFiプロトコルが1.3億ドル突破。XRPL DeFiはソラナに追いつけるか",
         "title_en": "The XRP Ledger Is About to Get Native Lending and Its Biggest DeFi Protocol Just Passed $130 Million. Can XRPL DeFi Catch Solana?",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdF80OEpLYi1DSXQ2bWh0RUJVTnNoWHg4bEw0RW9fY21CdzU3UGxtako3M1Q3Tk1wT0ZibVhmc2p6ekFxYXFueURNemc1ZWZocC15dHBGUk1qMldtbXg4Vm0zSmNxNkpQVmFkbElDWEhMbWNFRS1iVGZhSGdSejBSYmJPc3Rha1ViSXUzNWNDVUR0eHp6WkplQjM5REg5dnc?oc=5",
         "published": "Fri, 02 Oct 2026 13:30:20 GMT",
@@ -60,11 +60,19 @@
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SolanaのパーペチュアルフューチャーがRobinhoodに上場、SOL価格に影響するか",
+        "title_ja": "ソラナ無期限先物がRobinhoodに登場。新しい先物市場はSOLの価格に影響を与えるか",
         "title_en": "Solana Perpetual Futures Are Coming to Robinhood. Will a New Futures Venue Impact SOL’s Price?",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUV4clFRc2dRQ2w1VngwSV81cmVIYURoZklVRXNQeFcyMHU3V0Zjd3JISXdLMTJ1ZDB2UmVYTDFqVm92Q2lSWl9zSDNXU1NHeGJXc2paZXplOWVqOEZwT25rS29sV1ZMemRtNVRZMFVHdTU3R2lRUTQ1YUNWYXhGRXEtMnk2QVlJQXNMS0ZfZzlab3RwRHlQV0M1OV90WXBiNjJsa29mMkhKdw?oc=5",
         "published": "Fri, 02 Oct 2026 14:11:18 GMT",
         "category": "上場"
+      },
+      {
+        "source": "日本経済新聞",
+        "title_ja": "ウイズ（3664）：ソラナ（SOL）の保有状況に関するお知らせ（2026年10月2日、適時開示）",
+        "title_en": "ＷＩＺＥ[3664]：ソラナ（SOL）の保有状況に関するお知らせ 2026年10月2日(適時開示) ：日経会社情報DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNEk1bVJPSF9EWncyeXNqb3BvMFFJWlpDQUZJc0M5ODhrUVFXb3RkOWNmNTF3MzBvaS1MQnZJZTZSaGk2Sm01SzlfNVJKdFlNMVJWejdSR3poQWVVOVNFWVVxbzFuOVVWWHc?oc=5",
+        "published": "Fri, 02 Oct 2026 06:30:00 GMT",
+        "category": "大口"
       }
     ],
     "ADA": [],
@@ -72,15 +80,6 @@
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "AvalancheとQuantがウォール街と接近",
-        "title_en": "Avalanche & Quant Get Cozy With Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnVkMFRaZ2g4WG9CbGI1Xzh3NDhoWElfVXB4TEhHVjA5NW5TVkc2bHcxdnY2d2VmYkgzamstN2pCTWxHcElZa01Tb3c0ZFU2d0prMi1HUmhKTmJaNGtLWVEyTWZaaXo3VGNrVzJGdGtCWHRtcldOOEVzTDY3UFlvSUtSaTI2WmRjdGxJRkxpZGdrT2czUHFScUZzM1BRdw?oc=5",
-        "published": "Thu, 01 Oct 2026 18:14:51 GMT",
-        "category": "提携"
-      }
-    ]
+    "AVAX": []
   }
 }
