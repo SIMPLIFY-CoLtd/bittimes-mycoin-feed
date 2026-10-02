@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-02T09:35:32+00:00",
+  "generated_at": "2026-10-02T17:45:53+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン強気筋の投資が増加、未決済建玉が23億ドル急増",
-        "title_en": "Bullish bitcoin (BTC) bets build as open interest jumps by $2.3 billion",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVZJUWxSR2JBLUhWUTVsTWtCUnczVDQ2M1l3djhsZHlqVndzTTIxVFI2TnpaTnpwNjRKbHEwa2ZDWm5EcWt4bkp2Q3c5UmQ4Smc2T25ld1E2dWFLUmx2YTNVTV92ejEwUHZnNEYyaFdENHdON0FJdkp1Q1FINFI0Znc0RFNfaGlhU1hXZUFDOUJvR1FIcFlxR0tRdFJ6bllFeEwzUW5PcXNnbUpzODdlQks1MHpodGNzVUQxdUtlUE00VFBWZmlZbUpQQzZnNFJEVzlodWVB?oc=5",
-        "published": "Fri, 02 Oct 2026 09:14:21 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "マテドール・テクノロジーズが168BTCを主要資産として保有",
+        "title_en": "Matador Technologies Holds 168 Bitcoin as Primary Treasury Asset",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnlmWElTZnpuSHRsMDdhcFg5YnhEb1BTNFZrRXBOcmtMVzVlYktoZzRHRnpCNWszMkgtNzhEb3hsWWg1djNwa2ZRM2J2R2dEWW02UGswNkxfTXRvcHRlZWtsMVZ0bHdualVCV3JZcUFhQXctNUFrNWFuclJYdE1DbWlXa2RFT19YYnc3eFBNUGlVc2RjMjBJU09YVWI3Q1IzRHVQMTBB?oc=5",
+        "published": "Fri, 02 Oct 2026 15:53:27 GMT",
         "category": "大口"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン（BTC）の強気の投資が増加、未決済建玉は23億ドルの急増",
-        "title_en": "ビットコイン（BTC）の強気の投資が増加、未決済建玉は23億ドルの急増",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc3hfRjk0c0ZuWE9Yby1LX2txWGtYdGZ4UkV0NGh0UVlNY2Q5TXpITmRxNDVaWGpYWnlMeFh3RDF2ckpZOUx5bzJLeHNHczNHVTJYQTkxcDVVVVJOUGdreWFrM0FNeDFHM3RHR25sYTl0ZEFJSHdiUFNuWndGTkVzUmROTjh2aTA2T3l2Z3hONHdBNWE3a0xWMkgyNXFOZVVGanFXMXQ2b0ZMWXdzWndPN0NiSG1SN21kSjBRbVhqalphc3FJcEV2NEtrdUpSOUt2MXpvNzFoWERBZw?oc=5",
-        "published": "Fri, 02 Oct 2026 09:14:21 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "CircleがEthereumおよびArc上でWrapped Bitcoinを立ち上げ",
+        "title_en": "Circle Launches Wrapped Bitcoin on Ethereum and Arc",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHFaak1tMnNJd2pES3E0NDJHdUwxa3I5ek9MM0M5VUlfbE50QlNZWlc5cTk0WVNzdE5jc19vR3lHak5xMG1va2EtV0lnMENtTTBLZVRHUnhQY3o4VF9JSTg0OHNZR0ZEYm1TcDV1U2hndUt5Yy1kUHdjX245dlFUNldXYXAxdU4yLUo3enNBWUgzcEs3dWo4VHRkb29yWFluMXp0OWdFYmY?oc=5",
+        "published": "Fri, 02 Oct 2026 15:15:00 GMT",
+        "category": "提携"
       }
     ],
     "ETH": [
       {
         "source": "The Block",
-        "title_ja": "Ethereumファウンデーション、zkAPIを立ち上げ—ユーザーは身元を明かさずAIモデルの料金を支払い可能に",
+        "title_ja": "イーサリアム財団がzkAPIを立ち上げ、AIモデル利用料を身元非開示で支払い可能に",
         "title_en": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGlsRXNfYm00UlRDQ19sWGtxTTdpczZWcHVMcWR3UWhDczM0ellRSjB5NkRLY01VLU5PdHlGRTF5amlzX3FuaV9UZWY3Vk4ycGZGNHFkMVFwOTA1QmZOaFhSY2hoWWNPVzNZV1I2WC1LVEt5TlZ0bWxTZzM5R1Nyb05PMFlOSWNvT2Vjcng5aw?oc=5",
         "published": "Fri, 02 Oct 2026 00:22:00 GMT",
-        "category": "提携"
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ethereumの「Glamsterdam」アップグレードが10月6日にテストネット導入、ETH価格に影響するか",
+        "title_ja": "イーサリアムのGlamsterdamアップグレードが10月6日にテストネット実行、ETH価格に影響するか",
         "title_en": "Ethereum’s Glamsterdam Upgrade Hits Testnet October 6: Will It Influence ETH Price?",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUM4N0FpWVA1Zkx1eHMyMk5TR3FYTW45aTNUVFptS19CcEowT2tTbkpHVDZqT2J0NkhmMk9NY0NDVWlpMUNzc0JWSk10S2JoUWZXMWdWc25HX3dmc3dXNW1Ld2p1RGFMcFRRc1lQM2xYa0NkMjhsREFJYVF5eUp5OUN2eDV6cUxYUHNQNHNlVHN2VzFKU3ROaGdoNDBRYV8tZGVkSlh0eWhuQQ?oc=5",
         "published": "Thu, 01 Oct 2026 19:30:54 GMT",
@@ -42,57 +42,40 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP100ドル上昇へ、Rippleが「特別発表」を韓国でティーズ",
-        "title_en": "Bulls Eye $100 XRP Surge as Ripple Teases ‘Special Announcement’ in Seoul",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObnJ5ZU8xdlRMNW5qeDhhbHdlY2xEdVlzd3F2UFZ1N2x5X0x6TDRtMjRQaDJBNGQ4ZVpUeFB1eE0tRjVZQmpZWklTS2hkbEhuQnRYUTlUWnpIMlRnSEJtUUJmNVN6enJQUU5zWE1IMWNYWDVpd2ZhSzVGNFh6Z2RYOXpxN2diYlRHa19fR08yLXJEUQ?oc=5",
-        "published": "Fri, 02 Oct 2026 06:43:00 GMT",
-        "category": "発言"
+        "title_ja": "Binance上のXRP供給量が2025年1月以来の高水準、XRPが1.50ドルで停滞する理由か",
+        "title_en": "XRP Supply on Binance Is the Highest Since January 2025. Is That Why XRP Is Stuck at $1.50?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUJHUkcwM245NEM5LTAxNFh1LTVSc194RzNGU3lLam9fcGo2d2hKWm9oYkY0cTZtT3pMWGp3R0dhbTZmSUw4WDBPLVNhejZiMFh2azBRSmhhSXZEVnc2YW5qejZvWDBZa1pXTGo4d2cwdUdraHNyRDZtczF6QjJ3MVlVMWhHbG1PaFhOZFFVa1d5cldvRUF1QWFGYlp1QQ?oc=5",
+        "published": "Fri, 02 Oct 2026 14:30:30 GMT",
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple支援のEvernorth、4億7300万XRPの財務を抱えて上場へ",
-        "title_en": "Ripple Backed Evernorth to Go Public With 473M XRP Treasury",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2xyVzBxSnNpa29xaXJ6VVFqM3BDa0hNcHVVdktsbnZUYmxiNy02cm42aWlNNlYtX0VHalhNNzFPY243ZzJzdTBELUhXR29Zb3A0aHl0cEE4bFNBX3dPNmxfaExFSFpSUTZCakFQZnhJMG5OQ0xHbS1zd3Vla0tZMjZ2WlNPbDNyZE51cGtyTzF5SzNzc1NoOUV0TVZ2UFFfTXc?oc=5",
-        "published": "Thu, 01 Oct 2026 17:59:00 GMT",
-        "category": "上場"
+        "title_ja": "XRP Ledgerがネイティブ融資機能を獲得、最大DeFiプロトコルが1億3000万ドル超え、XRPLはSolanaに追いつけるか",
+        "title_en": "The XRP Ledger Is About to Get Native Lending and Its Biggest DeFi Protocol Just Passed $130 Million. Can XRPL DeFi Catch Solana?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdF80OEpLYi1DSXQ2bWh0RUJVTnNoWHg4bEw0RW9fY21CdzU3UGxtako3M1Q3Tk1wT0ZibVhmc2p6ekFxYXFueURNemc1ZWZocC15dHBGUk1qMldtbXg4Vm0zSmNxNkpQVmFkbElDWEhMbWNFRS1iVGZhSGdSejBSYmJPc3Rha1ViSXUzNWNDVUR0eHp6WkplQjM5REg5dnc?oc=5",
+        "published": "Fri, 02 Oct 2026 13:30:20 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォルマート支援のOnePayがソラナとアービトラムを販売開始、小売アプリ上場は価格に影響するか",
-        "title_en": "Walmart-Backed OnePay Now Sells Solana and Arbitrum. Does a Retail App Listing Influence Price?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzVUNXBRRk9iWmV0TWlhVk03QnN0Qjd2a3JTRFhzZVdCTDlxOWs0dDNkNDUyZm85aXpyZkFaVHpCZnRhOXVYanhGejRmbEtnQ082OXhrYjVUem4zWVBjZ0hTZVNaQU1NNEdNaEM1QUVLV1FQX25ZWnlXSG93UGJkRFNpTDlwYTlLOUMxTFpRVFNkYW1yMHpMbHgzdzA?oc=5",
-        "published": "Thu, 01 Oct 2026 14:30:51 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "中国の暗号資産の将来：ソラナCEOジョセフ・チーが規制について語る",
-        "title_en": "China Crypto Future: Solana Co. CEO Joseph Chee on Regulation",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWdZVEduUmVZZlF4WEdtWVFlU3BYZGljdUwzTjd6UGhSWUVZZkZ6TFJ3c3NSZkZsVWpxV1gxSVo3ZzU4Rk4zUHRZdFZHSDFQMzdETTFJOHlPbGF6MHg0VDFNdFJYWlZaZTlnNmNIdVJweEpGVHFfR0tJN19PN0xFWVJPcDNXcUZPM3V2M2gwMVMwbXppUUpQdmZR?oc=5",
-        "published": "Thu, 01 Oct 2026 13:02:00 GMT",
-        "category": "発言"
+        "title_ja": "SolanaのパーペチュアルフューチャーがRobinhoodに上場、SOL価格に影響するか",
+        "title_en": "Solana Perpetual Futures Are Coming to Robinhood. Will a New Futures Venue Impact SOL’s Price?",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUV4clFRc2dRQ2w1VngwSV81cmVIYURoZklVRXNQeFcyMHU3V0Zjd3JISXdLMTJ1ZDB2UmVYTDFqVm92Q2lSWl9zSDNXU1NHeGJXc2paZXplOWVqOEZwT25rS29sV1ZMemRtNVRZMFVHdTU3R2lRUTQ1YUNWYXhGRXEtMnk2QVlJQXNMS0ZfZzlab3RwRHlQV0M1OV90WXBiNjJsa29mMkhKdw?oc=5",
+        "published": "Fri, 02 Oct 2026 14:11:18 GMT",
+        "category": "上場"
       }
     ],
     "ADA": [],
-    "DOGE": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ドージコインの新アプリネットワークがライブ、DOGE価格が反応しない理由",
-        "title_en": "Dogecoin's New App Network Is Live. Why the DOGE Price Isn't Reacting",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdElVWTFwWHdFUGpPa3NKV1JOYTNNcDNoc1lBMUYxb0lXb3NmZ0ZzbGNjRzh6bTFMbHhsbGlfUWllUm1VRjlUUjFpLWtzV0lSSFpZenhoU0ZwcjV0OVhLbUtLQmk1Rl9fTTFPOHFKRjZTQzMxY2x4SHlUanlLZ0RXZUZkUS1tMy1GMmk5SzQtTGd2b1JBUFFWbVQtcw?oc=5",
-        "published": "Thu, 01 Oct 2026 11:27:43 GMT",
-        "category": "採用"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "アバランチとクアントがウォール街と関係構築",
+        "title_ja": "AvalancheとQuantがウォール街と接近",
         "title_en": "Avalanche & Quant Get Cozy With Wall Street",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnVkMFRaZ2g4WG9CbGI1Xzh3NDhoWElfVXB4TEhHVjA5NW5TVkc2bHcxdnY2d2VmYkgzamstN2pCTWxHcElZa01Tb3c0ZFU2d0prMi1HUmhKTmJaNGtLWVEyTWZaaXo3VGNrVzJGdGtCWHRtcldOOEVzTDY3UFlvSUtSaTI2WmRjdGxJRkxpZGdrT2czUHFScUZzM1BRdw?oc=5",
         "published": "Thu, 01 Oct 2026 18:14:51 GMT",
