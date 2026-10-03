@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T20:55:20+00:00",
+  "generated_at": "2026-10-03T23:42:47+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "コインベースのアームストロングCEO「ビットコインは底を打った」—歴史がそれを支持",
+        "title_ja": "コインベースCEOアームストロング、ビットコインは底値到達と発言　歴史的には妥当な見方",
         "title_en": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnJMX0huZVRLeWw5Y01vOXVIR0ZQdkVSRWh1V3VrQjZyajFNNlFFMUNka3pMVlJZUVFrcXNfa2R0X185eFJQc2Y2blNGNF85QnR0U0o2bWV4YUJTNHo4TDlzYlhtWnpLMjd1ZEV5LWRVMzdqQjROOXdLVjdYUXFtRHJzNWtEMERTTnpCcW0xcGFTLWxLLWlIcVIwVldrVms?oc=5",
         "published": "Sat, 03 Oct 2026 18:03:00 GMT",
@@ -14,11 +14,11 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ブラックロックのIBIT ETF、ゴールデンクロスを形成—SECが3倍レバレッジビットコイン・イーサリアムETPを承認",
-        "title_en": "BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlU3dTJ6VUhhbHhIUHlyWEJzWldhS0xJbkVBc3FBREpzeUhvU211Wk1BZWFKWW9XVGtFV1NIT1gyRVJtdzJ4NUhMY0hLSzdraDJVazZQd2Z4a3RuVHFOVDQtNWdmTlE1bGp6cUU2T3Z1MGY3cURHQWlOdjl4cVdsbUhFRWl1S3hqWjh3WDFHTm10cHJHd0UtUk8zWmRjSGJT?oc=5",
-        "published": "Sat, 03 Oct 2026 16:59:56 GMT",
-        "category": "承認"
+        "title_ja": "ビットコインETF、Q3に63億ドルを獲得も2026年通年では10億ドルの増加にとどまる",
+        "title_en": "Bitcoin ETFs Took In $6.3 Billion in Q3 and Are Up Only $1 Billion for 2026. Where Did the First Half’s Money Go?",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORW5hZV9RTDc5dFQ3R3owZXdyVlYxQ0pjeW1QaWdndWRENEQzSlpXNWhsR1Q3ZjZHOEdDczJFX1JGdFQxMnM0dVlPdDg0eFRUNDlJNUF2T0VJQzVOZklHWVdlRW1MWk13WlNaODV0ekFwdU9QMU50REVndTJmMm53aXowTzZLc01CVVR6eU81VQ?oc=5",
+        "published": "Sat, 03 Oct 2026 16:11:57 GMT",
+        "category": "上場"
       }
     ],
     "ETH": [],
