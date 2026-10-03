@@ -1,70 +1,53 @@
 {
-  "generated_at": "2026-10-03T11:29:03+00:00",
+  "generated_at": "2026-10-03T16:05:15+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "シティがビットコイン11万3000ドル予想へ上方修正、2027年に最高値更新か",
-        "title_en": "シティがビットコイン11万3000ドル予想へ上方修正、2027年に最高値更新か",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTEc0TUJRTlJULWd6cDc4TFpZZzU3VDlYZk15bVF2TWVTcUU1a1ZSMnlYVms4MTgzT085Wk5Fek5oN0JBWDZYdEJZRnphZFFtZm5hdF9IaUZndw?oc=5",
-        "published": "Sat, 03 Oct 2026 01:30:00 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "ファンドストラット・フェレル氏、米国債シフトをビットコインの「爆発的触媒」と指摘",
+        "title_en": "Fundstrat's Sean Farrell Flags Treasury Shift As 'Explosive Catalyst' For Bitcoin As DeFi Tokens Outpace It",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2FVVXV0NHl6Mnp0cDFpak56bmduZ3Bxa1ViVi1SUjJLaDF5VkgyVXVOa1NNczlDUW13eDhnWGl6djBLMWVZeVRHdk1zU2FzRXdESDdMMjhfSXA4ei05OENzT3NjSXBtRHcxVmJYRHJ3RHNaZm5TRTJhOVVXVzVmSUtyaUs4ZkduWHBaNzVNeEdobjZNLWpNSjUxRjZmVDduSS1EY0Fn?oc=5",
+        "published": "Sat, 03 Oct 2026 12:12:13 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、マクロ環境の変化で上昇基調へ転換か",
-        "title_en": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUThTZGJqQ3ktY3RLV1Y4NUJxenZVZU9rTldUV2VZX2E2ZXdydm9fTUV3ZXRybk15czd1VVVyTHBNZkt0d09ZcGNtR05nUmF0SXBSeHNOeDY3TTFFeTY2MFFNNk5vM0tKYTZjY2dJdzlzZDJjYzJaRWtHNnBVa0tyemd6S1EzQnk3OXJrNFhBcE16Y0MwY3VsalpGcnY4QQ?oc=5",
-        "published": "Fri, 02 Oct 2026 16:45:52 GMT",
-        "category": "マクロ"
+        "source": "Forbes",
+        "title_ja": "トランプ氏、ビットコイン価格を急騰させる可能性のある40兆ドル規模の計画を確認",
+        "title_en": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeks5X3FubmFaSnBxb1RhaWdpZDdXdllrSGJVd3lUaE4wSGh5cWhNMDRRa1lTUWZrY3o3OUJJNXFQMmlGMllEd0dUMUVIU2g0dGtGanlmTERpV1NsM3FQc2gzYkRSQ2YxS3pTRlZxNXZMMmRLaWctWE1CWXRDWGtBak1Idi1Pa29oSzBkbDRHWTNGLUZKMlhKalEyMi1PTWp6SkxYR0FITGlfMjczam50RkNOTy1uYnpmbEFrb2xWRlBCdXFKTExHaDVxQUMyTG9lWVNZ?oc=5",
+        "published": "Sat, 03 Oct 2026 11:30:02 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Circle、EthereumとArcでWrapped Bitcoinを開始",
-        "title_en": "Circle Launches Wrapped Bitcoin on Ethereum and Arc",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHFaak1tMnNJd2pES3E0NDJHdUwxa3I5ek9MM0M5VUlfbE50QlNZWlc5cTk0WVNzdE5jc19vR3lHak5xMG1va2EtV0lnMENtTTBLZVRHUnhQY3o4VF9JSTg0OHNZR0ZEYm1TcDV1U2hndUt5Yy1kUHdjX245dlFUNldXYXAxdU4yLUo3enNBWUgzcEs3dWo4VHRkb29yWFluMXp0OWdFYmY?oc=5",
-        "published": "Fri, 02 Oct 2026 15:15:00 GMT",
-        "category": "提携"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPのBinance上の保有量、2025年1月以来の最高水準に、XRPが1.50ドル付近で膠着状態",
-        "title_en": "XRP Supply on Binance Is the Highest Since January 2025. Is That Why XRP Is Stuck at $1.50?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUJHUkcwM245NEM5LTAxNFh1LTVSc194RzNGU3lLam9fcGo2d2hKWm9oYkY0cTZtT3pMWGp3R0dhbTZmSUw4WDBPLVNhejZiMFh2azBRSmhhSXZEVnc2YW5qejZvWDBZa1pXTGo4d2cwdUdraHNyRDZtczF6QjJ3MVlVMWhHbG1PaFhOZFFVa1d5cldvRUF1QWFGYlp1QQ?oc=5",
-        "published": "Fri, 02 Oct 2026 14:30:30 GMT",
-        "category": "大口"
+        "title_ja": "Blast L2、10月26日に出金期限を設定して段階的に廃止へ",
+        "title_en": "Blast L2 Winds Down, Sets Oct. 26th Withdrawal Deadline",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVhOY2NLLTl2a29OcFFMQjcwMVVtY3hwZ0UwaUJSQVhZYzJZeUtpQ2tCNFhzenBtNmRUTzdWVGNGeGJ0YWxtdWE4dlNtU2x6MUc2Q19kZlN3N0t5VzZINkZZTjZDVTZsZU9yVDFidjM0YTNJSDduaVplWm8wS0lFbDBWeXFXc2VodUs5WldURGZDVHM?oc=5",
+        "published": "Fri, 02 Oct 2026 17:41:50 GMT",
+        "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "XRP Ledgerがネイティブレンディング機能搭載へ、最大DeFiプロトコルが1億3000万ドルを突破",
-        "title_en": "The XRP Ledger Is About to Get Native Lending and Its Biggest DeFi Protocol Just Passed $130 Million. Can XRPL DeFi Catch Solana?",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdF80OEpLYi1DSXQ2bWh0RUJVTnNoWHg4bEw0RW9fY21CdzU3UGxtako3M1Q3Tk1wT0ZibVhmc2p6ekFxYXFueURNemc1ZWZocC15dHBGUk1qMldtbXg4Vm0zSmNxNkpQVmFkbElDWEhMbWNFRS1iVGZhSGdSejBSYmJPc3Rha1ViSXUzNWNDVUR0eHp6WkplQjM5REg5dnc?oc=5",
-        "published": "Fri, 02 Oct 2026 13:30:20 GMT",
-        "category": "採用"
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムベースのBlastチェーン、運営継続が「合理的でない」として閉鎖",
+        "title_en": "Ethereum-based Blast chain shuts down as operating 'no longer makes sense'",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUlwOWg1U3YzQlNOanM2TkVmVm8xLUVMZ1p3TlR3YVlRdm50SE1Hamt0aE8tUUI4VmZhZk5XQ3R3STVYYlJldlFpdFd3UlYzN3pFUWw0N0cyOUlHb3cyT21QMU9OakhDQTJzWEpBQmRhT3l4QXRBZjhjNDMyeHFPNDlCQkJ1ZHRROFcwY1RLRkFZMV9WVEhhQmNnS0hfTi0wOG9wQmtEWGJ0ZVowbm9RRnQ3c0VzdThDU19zTlMxbEM?oc=5",
+        "published": "Fri, 02 Oct 2026 17:15:35 GMT",
+        "category": "その他"
       }
     ],
+    "XRP": [],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Fiserv、Solana上でRoughriderステーブルコイン事業に参入",
+        "title_ja": "Fiserv、Solana上でRoughriderステーブルコインを発行し市場参入",
         "title_en": "Fiserv enters stablecoin race with Roughrider on Solana",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVI4NHZSemhrNTRhanJmTHAwMFlkSVFkNS1LNmdCS2RYWVczYzFnX1prM1RITDV2WlpVWFljQ3locHhzWHJXaTdJb1ZFdHdRTzRlelVUaE9SbE12S2dveW8ybkEtZ3VlWTFMb1JJUWFEWlZjOTloTTVTTmlNaHRvVExfUEFFaVdtZk9zVzZMcE4?oc=5",
         "published": "Fri, 02 Oct 2026 17:00:00 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Robinhoodが無期限先物取引を開始へ、Solana価格に影響を与えるか",
-        "title_en": "Solana Perpetual Futures Are Coming to Robinhood. Will a New Futures Venue Impact SOL’s Price?",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUV4clFRc2dRQ2w1VngwSV81cmVIYURoZklVRXNQeFcyMHU3V0Zjd3JISXdLMTJ1ZDB2UmVYTDFqVm92Q2lSWl9zSDNXU1NHeGJXc2paZXplOWVqOEZwT25rS29sV1ZMemRtNVRZMFVHdTU3R2lRUTQ1YUNWYXhGRXEtMnk2QVlJQXNMS0ZfZzlab3RwRHlQV0M1OV90WXBiNjJsa29mMkhKdw?oc=5",
-        "published": "Fri, 02 Oct 2026 14:11:18 GMT",
-        "category": "上場"
+        "category": "提携"
       }
     ],
     "ADA": [],
