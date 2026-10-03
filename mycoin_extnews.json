@@ -1,55 +1,29 @@
 {
-  "generated_at": "2026-10-03T16:05:15+00:00",
+  "generated_at": "2026-10-03T20:55:20+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ファンドストラット・フェレル氏、米国債シフトをビットコインの「爆発的触媒」と指摘",
-        "title_en": "Fundstrat's Sean Farrell Flags Treasury Shift As 'Explosive Catalyst' For Bitcoin As DeFi Tokens Outpace It",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2FVVXV0NHl6Mnp0cDFpak56bmduZ3Bxa1ViVi1SUjJLaDF5VkgyVXVOa1NNczlDUW13eDhnWGl6djBLMWVZeVRHdk1zU2FzRXdESDdMMjhfSXA4ei05OENzT3NjSXBtRHcxVmJYRHJ3RHNaZm5TRTJhOVVXVzVmSUtyaUs4ZkduWHBaNzVNeEdobjZNLWpNSjUxRjZmVDduSS1EY0Fn?oc=5",
-        "published": "Sat, 03 Oct 2026 12:12:13 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "Forbes",
-        "title_ja": "トランプ氏、ビットコイン価格を急騰させる可能性のある40兆ドル規模の計画を確認",
-        "title_en": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeks5X3FubmFaSnBxb1RhaWdpZDdXdllrSGJVd3lUaE4wSGh5cWhNMDRRa1lTUWZrY3o3OUJJNXFQMmlGMllEd0dUMUVIU2g0dGtGanlmTERpV1NsM3FQc2gzYkRSQ2YxS3pTRlZxNXZMMmRLaWctWE1CWXRDWGtBak1Idi1Pa29oSzBkbDRHWTNGLUZKMlhKalEyMi1PTWp6SkxYR0FITGlfMjczam50RkNOTy1uYnpmbEFrb2xWRlBCdXFKTExHaDVxQUMyTG9lWVNZ?oc=5",
-        "published": "Sat, 03 Oct 2026 11:30:02 GMT",
+        "title_ja": "コインベースのアームストロングCEO「ビットコインは底を打った」—歴史がそれを支持",
+        "title_en": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnJMX0huZVRLeWw5Y01vOXVIR0ZQdkVSRWh1V3VrQjZyajFNNlFFMUNka3pMVlJZUVFrcXNfa2R0X185eFJQc2Y2blNGNF85QnR0U0o2bWV4YUJTNHo4TDlzYlhtWnpLMjd1ZEV5LWRVMzdqQjROOXdLVjdYUXFtRHJzNWtEMERTTnpCcW0xcGFTLWxLLWlIcVIwVldrVms?oc=5",
+        "published": "Sat, 03 Oct 2026 18:03:00 GMT",
         "category": "発言"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Blast L2、10月26日に出金期限を設定して段階的に廃止へ",
-        "title_en": "Blast L2 Winds Down, Sets Oct. 26th Withdrawal Deadline",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVhOY2NLLTl2a29OcFFMQjcwMVVtY3hwZ0UwaUJSQVhZYzJZeUtpQ2tCNFhzenBtNmRUTzdWVGNGeGJ0YWxtdWE4dlNtU2x6MUc2Q19kZlN3N0t5VzZINkZZTjZDVTZsZU9yVDFidjM0YTNJSDduaVplWm8wS0lFbDBWeXFXc2VodUs5WldURGZDVHM?oc=5",
-        "published": "Fri, 02 Oct 2026 17:41:50 GMT",
-        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムベースのBlastチェーン、運営継続が「合理的でない」として閉鎖",
-        "title_en": "Ethereum-based Blast chain shuts down as operating 'no longer makes sense'",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUlwOWg1U3YzQlNOanM2TkVmVm8xLUVMZ1p3TlR3YVlRdm50SE1Hamt0aE8tUUI4VmZhZk5XQ3R3STVYYlJldlFpdFd3UlYzN3pFUWw0N0cyOUlHb3cyT21QMU9OakhDQTJzWEpBQmRhT3l4QXRBZjhjNDMyeHFPNDlCQkJ1ZHRROFcwY1RLRkFZMV9WVEhhQmNnS0hfTi0wOG9wQmtEWGJ0ZVowbm9RRnQ3c0VzdThDU19zTlMxbEM?oc=5",
-        "published": "Fri, 02 Oct 2026 17:15:35 GMT",
-        "category": "その他"
-      }
-    ],
-    "XRP": [],
-    "SOL": [
-      {
         "source": "Yahoo Finance",
-        "title_ja": "Fiserv、Solana上でRoughriderステーブルコインを発行し市場参入",
-        "title_en": "Fiserv enters stablecoin race with Roughrider on Solana",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVI4NHZSemhrNTRhanJmTHAwMFlkSVFkNS1LNmdCS2RYWVczYzFnX1prM1RITDV2WlpVWFljQ3locHhzWHJXaTdJb1ZFdHdRTzRlelVUaE9SbE12S2dveW8ybkEtZ3VlWTFMb1JJUWFEWlZjOTloTTVTTmlNaHRvVExfUEFFaVdtZk9zVzZMcE4?oc=5",
-        "published": "Fri, 02 Oct 2026 17:00:00 GMT",
-        "category": "提携"
+        "title_ja": "ブラックロックのIBIT ETF、ゴールデンクロスを形成—SECが3倍レバレッジビットコイン・イーサリアムETPを承認",
+        "title_en": "BlackRock's IBIT ETF Flashes Golden Cross As SEC Approves Triple-Leveraged Bitcoin, Ethereum ETPs",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlU3dTJ6VUhhbHhIUHlyWEJzWldhS0xJbkVBc3FBREpzeUhvU211Wk1BZWFKWW9XVGtFV1NIT1gyRVJtdzJ4NUhMY0hLSzdraDJVazZQd2Z4a3RuVHFOVDQtNWdmTlE1bGp6cUU2T3Z1MGY3cURHQWlOdjl4cVdsbUhFRWl1S3hqWjh3WDFHTm10cHJHd0UtUk8zWmRjSGJT?oc=5",
+        "published": "Sat, 03 Oct 2026 16:59:56 GMT",
+        "category": "承認"
       }
     ],
+    "ETH": [],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
