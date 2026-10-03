@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:58:43+00:00",
+  "generated_at": "2026-10-03T11:29:03+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
@@ -11,30 +11,30 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pTEc0TUJRTlJULWd6cDc4TFpZZzU3VDlYZk15bVF2TWVTcUU1a1ZSMnlYVms4MTgzT085Wk5Fek5oN0JBWDZYdEJZRnphZFFtZm5hdF9IaUZndw?oc=5",
         "published": "Sat, 03 Oct 2026 01:30:00 GMT",
         "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、マクロ環境の変化で上昇基調へ転換か",
+        "title_en": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUThTZGJqQ3ktY3RLV1Y4NUJxenZVZU9rTldUV2VZX2E2ZXdydm9fTUV3ZXRybk15czd1VVVyTHBNZkt0d09ZcGNtR05nUmF0SXBSeHNOeDY3TTFFeTY2MFFNNk5vM0tKYTZjY2dJdzlzZDJjYzJaRWtHNnBVa0tyemd6S1EzQnk3OXJrNFhBcE16Y0MwY3VsalpGcnY4QQ?oc=5",
+        "published": "Fri, 02 Oct 2026 16:45:52 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムベースのBlastチェーン、運営が「もはや合理的でない」として閉鎖",
-        "title_en": "イーサリアムベースのBlastチェーン、運営が「もはや合理的でない」として閉鎖",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnBZcFNTOXk0cDI2WU1CVzgwZWQ0ZEFQNDJNQnBUNnpaWGxMQVU1bHFHTU9YaUpnb3NRUmY4eGZWUTBZZ3M0LWtZMzhaUXdTTnlVbUhhdThuRW52N3RIenc3N1B1VktLQ1N3dERMRzBkNW95X0pMUU5FS3luNkk2andPaE5SMWx0S1VWY19HY1gyUXhWSnJ3U0cteE9ES1p3R0Rhakt6ekR5SVB0QVAyMGFLSmJ4RWRhNzdVN1pLUWRRNTUz?oc=5",
-        "published": "Fri, 02 Oct 2026 17:15:35 GMT",
-        "category": "その他"
-      },
-      {
         "source": "Yahoo Finance",
-        "title_ja": "シティ予想：ビットコイン11万3000ドル、イーサリアム3028ドルに到達：ビットコインの上昇余地がより大きい理由",
-        "title_en": "Citi Predicts Bitcoin Will Hit $113,000 and Ether Will Reach $3,028: Why a Bigger Upside for Bitcoin?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0JTWVhIdkprRHlUTkpBZzgzNm9CT3E1UWlKeDJPNVEzaDJ0MFVUcVpzU0R0aHBTY25DS3ZGcjZ6TkFLTy1tUWhZUDdoVF9Tdnl4MUJ6STFkTjBDOE93TUFzNHJManRnZXlCVFY2cWU2WFNGYnVhdkFwS2tCa1RqaXZIWlVHU19VQ0VmM0duS19ER3dReWNsMkF3?oc=5",
-        "published": "Fri, 02 Oct 2026 11:00:36 GMT",
-        "category": "発言"
+        "title_ja": "Circle、EthereumとArcでWrapped Bitcoinを開始",
+        "title_en": "Circle Launches Wrapped Bitcoin on Ethereum and Arc",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHFaak1tMnNJd2pES3E0NDJHdUwxa3I5ek9MM0M5VUlfbE50QlNZWlc5cTk0WVNzdE5jc19vR3lHak5xMG1va2EtV0lnMENtTTBLZVRHUnhQY3o4VF9JSTg0OHNZR0ZEYm1TcDV1U2hndUt5Yy1kUHdjX245dlFUNldXYXAxdU4yLUo3enNBWUgzcEs3dWo4VHRkb29yWFluMXp0OWdFYmY?oc=5",
+        "published": "Fri, 02 Oct 2026 15:15:00 GMT",
+        "category": "提携"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "バイナンスのXRP保有量は2025年1月以来の最高水準、XRPが1.50ドルで膠着する理由は",
+        "title_ja": "XRPのBinance上の保有量、2025年1月以来の最高水準に、XRPが1.50ドル付近で膠着状態",
         "title_en": "XRP Supply on Binance Is the Highest Since January 2025. Is That Why XRP Is Stuck at $1.50?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUJHUkcwM245NEM5LTAxNFh1LTVSc194RzNGU3lLam9fcGo2d2hKWm9oYkY0cTZtT3pMWGp3R0dhbTZmSUw4WDBPLVNhejZiMFh2azBRSmhhSXZEVnc2YW5qejZvWDBZa1pXTGo4d2cwdUdraHNyRDZtczF6QjJ3MVlVMWhHbG1PaFhOZFFVa1d5cldvRUF1QWFGYlp1QQ?oc=5",
         "published": "Fri, 02 Oct 2026 14:30:30 GMT",
@@ -42,7 +42,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP LedgerがネイティブレンディングとDeFi最大プロトコルが1億3000万ドル超を突破、XRPL DeFiはソラナに追いつけるか",
+        "title_ja": "XRP Ledgerがネイティブレンディング機能搭載へ、最大DeFiプロトコルが1億3000万ドルを突破",
         "title_en": "The XRP Ledger Is About to Get Native Lending and Its Biggest DeFi Protocol Just Passed $130 Million. Can XRPL DeFi Catch Solana?",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdF80OEpLYi1DSXQ2bWh0RUJVTnNoWHg4bEw0RW9fY21CdzU3UGxtako3M1Q3Tk1wT0ZibVhmc2p6ekFxYXFueURNemc1ZWZocC15dHBGUk1qMldtbXg4Vm0zSmNxNkpQVmFkbElDWEhMbWNFRS1iVGZhSGdSejBSYmJPc3Rha1ViSXUzNWNDVUR0eHp6WkplQjM5REg5dnc?oc=5",
         "published": "Fri, 02 Oct 2026 13:30:20 GMT",
@@ -52,19 +52,19 @@
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナ無限先物がRobinhoodで提供開始、新しい先物取引所はSOL価格に影響するか",
+        "title_ja": "Fiserv、Solana上でRoughriderステーブルコイン事業に参入",
+        "title_en": "Fiserv enters stablecoin race with Roughrider on Solana",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVI4NHZSemhrNTRhanJmTHAwMFlkSVFkNS1LNmdCS2RYWVczYzFnX1prM1RITDV2WlpVWFljQ3locHhzWHJXaTdJb1ZFdHdRTzRlelVUaE9SbE12S2dveW8ybkEtZ3VlWTFMb1JJUWFEWlZjOTloTTVTTmlNaHRvVExfUEFFaVdtZk9zVzZMcE4?oc=5",
+        "published": "Fri, 02 Oct 2026 17:00:00 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Robinhoodが無期限先物取引を開始へ、Solana価格に影響を与えるか",
         "title_en": "Solana Perpetual Futures Are Coming to Robinhood. Will a New Futures Venue Impact SOL’s Price?",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUV4clFRc2dRQ2w1VngwSV81cmVIYURoZklVRXNQeFcyMHU3V0Zjd3JISXdLMTJ1ZDB2UmVYTDFqVm92Q2lSWl9zSDNXU1NHeGJXc2paZXplOWVqOEZwT25rS29sV1ZMemRtNVRZMFVHdTU3R2lRUTQ1YUNWYXhGRXEtMnk2QVlJQXNMS0ZfZzlab3RwRHlQV0M1OV90WXBiNjJsa29mMkhKdw?oc=5",
         "published": "Fri, 02 Oct 2026 14:11:18 GMT",
         "category": "上場"
-      },
-      {
-        "source": "日本経済新聞",
-        "title_ja": "ウィズ[3664]：ソラナ（SOL）の保有状況に関するお知らせ 2026年10月2日",
-        "title_en": "ＷＩＺＥ[3664]：ソラナ（SOL）の保有状況に関するお知らせ 2026年10月2日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zNEk1bVJPSF9EWncyeXNqb3BvMFFJWlpDQUZJc0M5ODhrUVFXb3RkOWNmNTF3MzBvaS1MQnZJZTZSaGk2Sm01SzlfNVJKdFlNMVJWejdSR3poQWVVOVNFWVVxbzFuOVVWWHc?oc=5",
-        "published": "Fri, 02 Oct 2026 06:30:00 GMT",
-        "category": "大口"
       }
     ],
     "ADA": [],
