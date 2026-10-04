@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-10-04T18:35:22+00:00",
+  "generated_at": "2026-10-04T23:54:26+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインの月足は夏安値から上昇継続、ベン・コーウェンは弱気派への立証責任が移ったと指摘",
-        "title_en": "Bitcoin's Monthly Closes Keep Climbing From Its Summer Low As Ben Cowen Says Burden Of Proof Has Shifted To Bears",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ05jUHZscTdaMWt0aEZBamdFazBVNlpyN3JYTFNQcng3aHZYYVNuU0VxRHlCNnBPTzhhVDByYlhUQjdHVnd3WnFnTGxsdVB5UGVLZE5xbFJLQnlZZjUzb0pSVE9JMEpCSnRKSms4ZjJvTzNyOWJ2ZDhBelNXemRweGpFU2xPUTdPTGJNYlBEdVJVRkg0RGlNeTFobzk2VnhMUzM1dw?oc=5",
-        "published": "Sun, 04 Oct 2026 18:04:11 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "10月相場が好調でスタート、ビットコインETFが1.34億ドル流入",
+        "title_ja": "10月スタート堅調、ビットコインETFが1億3400万ドルの流入を記録",
         "title_en": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGhPVzFzYnBkRTJyNkl3ZDA0OUlDY0hJalp5ZU11cy1LeDBDVW1YdTlsV2FXelp4aWtUUUtyWUt5bW1EYUg3WjlwWnkwYVVrSjB6SlpScXpWbGVYMXZHS1JFSEJHaG51X0pIeGtXSUxNR1pzcDhmVUJ6eGhPcFBQMWc1WnNkZ2hGdmhRYkVxeThlQ3pNVW9BMC1rLWlGdzA?oc=5",
         "published": "Sun, 04 Oct 2026 15:01:03 GMT",
-        "category": "その他"
+        "category": "大口"
       }
     ],
     "ETH": [
@@ -28,11 +20,11 @@
         "title_en": "Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhPZEQ4NFNWdmhPYVBzVVpTazZHcU95cUtROGhZOVVuRXlLdFBDbEhrVXlscF9OaGJHZlFNcEcxNzhLM1FhQVQ2R1pDdU80OGljMDRnVXpTSFgwTTQ5dVdDZ2UtTVBwazlJeVBFWEFyak1RUElkUU5sMFpLRmJURk5hWGVuOWtjN1RtcmFQT1ZSMWcyYkNqSTBlZ09JcXpp?oc=5",
         "published": "Sun, 04 Oct 2026 10:52:51 GMT",
-        "category": "その他"
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リーのBitmineがイーサリアムを大量買い、待望の暗号資産強気相場がついに来たか",
+        "title_ja": "トム・リー氏のBitmineがイーサリアムを積極購入、待望の暗号資産強気市場がついに到来か",
         "title_en": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemxrVTFGeVRKdndxakk4R3RKRGRVMWQ1QjY4dk9XMGJ0ZDJPa0pjdXNHZkh0SVFVcFZUbDRydlB2VUQzOV9fSWQxelZ1SjVUZXRiZnFmdll6UnJNX1VQUGNIaUFCTFhhYm5yTVlUQ3dncEJsMk5oM21jTWx6QW9tWUlXbUo0SUtROG9lQTBnTW9kN0JOWkFiT2tjSFpSUQ?oc=5",
         "published": "Sun, 04 Oct 2026 08:51:00 GMT",
@@ -42,29 +34,21 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPの強気筋がソウル前に100ドルを予想、リップルがプライバシーツールとAIウォレットを発表。保有者の利益は",
+        "title_ja": "XRP強気派がソウル前に100ドルを予想、リップルがプライバシーツールとAIウォレットを発表",
         "title_en": "XRP Bulls Called for $100 Before Seoul: Ripple Unveils Privacy Tools and AI Wallets. What Do Holders Gain?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3kyTFZmQ05FM3UtQTNkVVZVNzdUengyMGNwTUkxMUxZTWVJN2JQXzVXSm5pN1hHbl9HcFdibWdoMkppMk15Zk11SENaWkZPU05rbTVwZ0NvbzZ2ZnIweGtRcFJrM09NZkc2QUNINElSMmJyZG1CVEpOWkFaMlZYY0tialFneVd0Z2FfSEZ5VFZuVlZYYnc?oc=5",
         "published": "Sun, 04 Oct 2026 16:00:58 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップルがXRP担保の信用事業を計画、レンディングがトークンに価格を動かす用途をもたらすか",
-        "title_en": "Ripple Plans a Credit Business Backed With XRP. Does Lending Finally Give the Token a Use That Moves the Price?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkNNa1lWeXFuOXh1X2d2b2pNOGkxdGxUT3lEZGFjcFN2Q0g0eFBMemtLUW1uRlMyYW41MFlGLUktU3NVMWpLUW9URTNIdWUyUnpTUjJ2dzdaY0hVR3NyV2gtVEJfVGM0V21odHpsZDRGM09abXAwcmhWTFlKR0lqcURHblJ0ZlFEQ3B3cWM2QVJMZ1dkNzljU2lzcWhRWXNsVlE?oc=5",
-        "published": "Sun, 04 Oct 2026 15:30:50 GMT",
-        "category": "採用"
+        "category": "提携"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナETFが240万ドルの流入を報告、連勝記録は終わるのか",
+        "title_ja": "ソラナETFが240万ドルの流入を報告、連勝が終わるか",
         "title_en": "Solana ETFs Report $2.4 Million in Inflows: Is the Winning Streak Ending?",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGN5NG9hdXc0TktnQXFoMzZPcGpJNTQ1bVY4bzhEUFA1a2NNRFhyUkNDVEo5MWRrMGwyS0owWU5VX05ab3dhMHRIcllPSHdjQnhHbVEzQ2lJVUV4R1lrTUp2d0Y5QzUyaWFzNHU0cUItaWQzWjdSVmlvMHozUmRsa0xzWmxCTnhRR0JRS3k0c0g?oc=5",
         "published": "Sun, 04 Oct 2026 00:06:00 GMT",
-        "category": "その他"
+        "category": "大口"
       }
     ],
     "ADA": [],
