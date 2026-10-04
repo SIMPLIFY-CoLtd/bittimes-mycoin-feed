@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T23:42:47+00:00",
+  "generated_at": "2026-10-04T05:31:08+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "コインベースCEOアームストロング、ビットコインは底値到達と発言　歴史的には妥当な見方",
+        "title_ja": "コインベースCEO、ビットコインが底値に到達したと発言。歴史的データは彼の主張を支持",
         "title_en": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnJMX0huZVRLeWw5Y01vOXVIR0ZQdkVSRWh1V3VrQjZyajFNNlFFMUNka3pMVlJZUVFrcXNfa2R0X185eFJQc2Y2blNGNF85QnR0U0o2bWV4YUJTNHo4TDlzYlhtWnpLMjd1ZEV5LWRVMzdqQjROOXdLVjdYUXFtRHJzNWtEMERTTnpCcW0xcGFTLWxLLWlIcVIwVldrVms?oc=5",
         "published": "Sat, 03 Oct 2026 18:03:00 GMT",
@@ -14,16 +14,42 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF、Q3に63億ドルを獲得も2026年通年では10億ドルの増加にとどまる",
-        "title_en": "Bitcoin ETFs Took In $6.3 Billion in Q3 and Are Up Only $1 Billion for 2026. Where Did the First Half’s Money Go?",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORW5hZV9RTDc5dFQ3R3owZXdyVlYxQ0pjeW1QaWdndWRENEQzSlpXNWhsR1Q3ZjZHOEdDczJFX1JGdFQxMnM0dVlPdDg0eFRUNDlJNUF2T0VJQzVOZklHWVdlRW1MWk13WlNaODV0ekFwdU9QMU50REVndTJmMm53aXowTzZLc01CVVR6eU81VQ?oc=5",
-        "published": "Sat, 03 Oct 2026 16:11:57 GMT",
-        "category": "上場"
+        "title_ja": "ビットコイン・イーサリアム・ソラナのETFが四半期末に同時流出。その背景は",
+        "title_en": "Bitcoin, Ethereum, and Solana ETFs All Saw Outflows on the Last Day of the Quarter. What Happened?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVB6U3FHZTR5VmZyOEVpbmpxMUVTdmVpN2lLTHdGQm5KSktuYVRaMXJ2YV9SOEstdU9zMlE5Y0NiWGJWcVlNanVBWjZCNW5SNEhHaGttUnVjZEd6aE1rQ1V4bzd5MUlNVmFXQWpmWlhXVVFnVktka2lhZEVfdlpiakN5Vy1wYXN5b2FLQ0hKWldlWVhaRk1tVDRQVXNfUQ?oc=5",
+        "published": "Sat, 03 Oct 2026 16:35:59 GMT",
+        "category": "その他"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアムETFが3営業日連続で流出。6億9,000万ドルの週間流入の後の動き。投資家需要は冷め込んでいるのか",
+        "title_en": "Ethereum ETFs Saw Outflows Three Days Running After a $690 Million Week. Is Fund Demand Drying Up?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOV95WW5Edmp1NDJTZU9RM3FnSXRGUHBuTWtQakF5SjF6cEVHZ2s5cjI0WG1JR1JYOWxLZzVjLU9zVjZYS0NHZU5LdklDTzl2RV9HbkZiTVZZNHlrTjVQbGpyb05pQm5PMndObTQ0VWpNSzBfUlkwN1RXRVhlSC1aTlhDUk52c05FOTFyOEN2cW1ZWlpCdEJWYUM1Z0padw?oc=5",
+        "published": "Sun, 04 Oct 2026 00:07:00 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ブラックロックのトークン化戦略の次の一手",
+        "title_en": "BlackRock's next big tokenization bet",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZElzSWdvMjFNd2R5TTlwVkpNQmo4SFA1bmJyS0FMc3Nhb2lzNHRFdkJyanlaZEpWZEhoTmt0Z09fVGlyejE1alVqY1hzUDlpanRHSS1uNjViMkVldkFBMG1LRnBXT1BmeVlrbVk2YTdzQWR1eW05UVBYeU5DU19oOS14NzRBeWFUNDJpOUU1cDRRMFRRQmJCWGh0aWo4N0trQjg2a2d3dV92WTRMT3hQbmhlNnhrTmxId1JwMm5oelFvZWpwbWdB?oc=5",
+        "published": "Sat, 03 Oct 2026 13:00:00 GMT",
+        "category": "採用"
+      }
+    ],
     "XRP": [],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナETFが240万ドルの流入。連勝は終焉を迎えるのか",
+        "title_en": "Solana ETFs Report $2.4 Million in Inflows: Is the Winning Streak Ending?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGN5NG9hdXc0TktnQXFoMzZPcGpJNTQ1bVY4bzhEUFA1a2NNRFhyUkNDVEo5MWRrMGwyS0owWU5VX05ab3dhMHRIcllPSHdjQnhHbVEzQ2lJVUV4R1lrTUp2d0Y5QzUyaWFzNHU0cUItaWQzWjdSVmlvMHozUmRsa0xzWmxCTnhRR0JRS3k0c0g?oc=5",
+        "published": "Sun, 04 Oct 2026 00:06:00 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
