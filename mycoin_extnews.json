@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-10-04T05:31:08+00:00",
+  "generated_at": "2026-10-04T12:10:16+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "コインベースCEO、ビットコインが底値に到達したと発言。歴史的データは彼の主張を支持",
-        "title_en": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnJMX0huZVRLeWw5Y01vOXVIR0ZQdkVSRWh1V3VrQjZyajFNNlFFMUNka3pMVlJZUVFrcXNfa2R0X185eFJQc2Y2blNGNF85QnR0U0o2bWV4YUJTNHo4TDlzYlhtWnpLMjd1ZEV5LWRVMzdqQjROOXdLVjdYUXFtRHJzNWtEMERTTnpCcW0xcGFTLWxLLWlIcVIwVldrVms?oc=5",
-        "published": "Sat, 03 Oct 2026 18:03:00 GMT",
-        "category": "発言"
+        "title_ja": "ビットコインが85,000ドル付近で推移、SECが初の3倍レバレッジ暗号資産ETPを承認",
+        "title_en": "Bitcoin holds near $85,000 as SEC clears first 3x leveraged crypto ETPs",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUdWOTdMdE1ESjZtLUgzZmdsaWV0eVhyZEtuQVlnZV9qallORkRocGxjWHh6RTNabWFlbEw0YzBaUTVJLWUtbzJSMHEtVnhEMzF2TmxrbGw5eTNfVUZ3MzFpLTVTX3M4TmMyVEcwM1BkYlRPRFBPWEZsVktFZWJPREgzaFpTcVhLczFHV0dhLU5fMUpS?oc=5",
+        "published": "Sun, 04 Oct 2026 06:00:00 GMT",
+        "category": "承認"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン・イーサリアム・ソラナのETFが四半期末に同時流出。その背景は",
-        "title_en": "Bitcoin, Ethereum, and Solana ETFs All Saw Outflows on the Last Day of the Quarter. What Happened?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVB6U3FHZTR5VmZyOEVpbmpxMUVTdmVpN2lLTHdGQm5KSktuYVRaMXJ2YV9SOEstdU9zMlE5Y0NiWGJWcVlNanVBWjZCNW5SNEhHaGttUnVjZEd6aE1rQ1V4bzd5MUlNVmFXQWpmWlhXVVFnVktka2lhZEVfdlpiakN5Vy1wYXN5b2FLQ0hKWldlWVhaRk1tVDRQVXNfUQ?oc=5",
-        "published": "Sat, 03 Oct 2026 16:35:59 GMT",
-        "category": "その他"
+        "title_ja": "トランプが500万ドルの中間目標を再度言及、ビットコイン相場への影響は",
+        "title_en": "Trump Doubles Down on His $5,000 Midterm Promise. Will Bitcoin Swing?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDQwMVAxSzl6dG8wNk52NGgxdEFmYlU2U2JIYXBWRVJBSFh4X01ZWm1abjlTQi1aankxUW4wcy15TTZCZkV2MlBjS0dfNXdrTjRkbk5DWndNeVNCWFlQdHh4NVdPeWpJRFdEdVVYdks3MFk2aTBucm1DWERaaF92VjgwTl9ZWnAwUUYwN0FLbjFMaDQ?oc=5",
+        "published": "Sat, 03 Oct 2026 21:54:50 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETFが3営業日連続で流出。6億9,000万ドルの週間流入の後の動き。投資家需要は冷め込んでいるのか",
-        "title_en": "Ethereum ETFs Saw Outflows Three Days Running After a $690 Million Week. Is Fund Demand Drying Up?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOV95WW5Edmp1NDJTZU9RM3FnSXRGUHBuTWtQakF5SjF6cEVHZ2s5cjI0WG1JR1JYOWxLZzVjLU9zVjZYS0NHZU5LdklDTzl2RV9HbkZiTVZZNHlrTjVQbGpyb05pQm5PMndObTQ0VWpNSzBfUlkwN1RXRVhlSC1aTlhDUk52c05FOTFyOEN2cW1ZWlpCdEJWYUM1Z0padw?oc=5",
-        "published": "Sun, 04 Oct 2026 00:07:00 GMT",
-        "category": "その他"
+        "title_ja": "イーサリアムETFがビットコインETFを上回る流入額を記録（2026年）",
+        "title_en": "Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhPZEQ4NFNWdmhPYVBzVVpTazZHcU95cUtROGhZOVVuRXlLdFBDbEhrVXlscF9OaGJHZlFNcEcxNzhLM1FhQVQ2R1pDdU80OGljMDRnVXpTSFgwTTQ5dVdDZ2UtTVBwazlJeVBFWEFyak1RUElkUU5sMFpLRmJURk5hWGVuOWtjN1RtcmFQT1ZSMWcyYkNqSTBlZ09JcXpp?oc=5",
+        "published": "Sun, 04 Oct 2026 10:52:51 GMT",
+        "category": "上場"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ブラックロックのトークン化戦略の次の一手",
-        "title_en": "BlackRock's next big tokenization bet",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZElzSWdvMjFNd2R5TTlwVkpNQmo4SFA1bmJyS0FMc3Nhb2lzNHRFdkJyanlaZEpWZEhoTmt0Z09fVGlyejE1alVqY1hzUDlpanRHSS1uNjViMkVldkFBMG1LRnBXT1BmeVlrbVk2YTdzQWR1eW05UVBYeU5DU19oOS14NzRBeWFUNDJpOUU1cDRRMFRRQmJCWGh0aWo4N0trQjg2a2d3dV92WTRMT3hQbmhlNnhrTmxId1JwMm5oelFvZWpwbWdB?oc=5",
-        "published": "Sat, 03 Oct 2026 13:00:00 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "Tom Leeの企業がイーサリアムを大量購入、待望の暗号資産強気相場到来か",
+        "title_en": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemxrVTFGeVRKdndxakk4R3RKRGRVMWQ1QjY4dk9XMGJ0ZDJPa0pjdXNHZkh0SVFVcFZUbDRydlB2VUQzOV9fSWQxelZ1SjVUZXRiZnFmdll6UnJNX1VQUGNIaUFCTFhhYm5yTVlUQ3dncEJsMk5oM21jTWx6QW9tWUlXbUo0SUtROG9lQTBnTW9kN0JOWkFiT2tjSFpSUQ?oc=5",
+        "published": "Sun, 04 Oct 2026 08:51:00 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナETFが240万ドルの流入。連勝は終焉を迎えるのか",
+        "title_ja": "ソラナETFが240万ドルの流入を記録、連勝は終わるのか",
         "title_en": "Solana ETFs Report $2.4 Million in Inflows: Is the Winning Streak Ending?",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGN5NG9hdXc0TktnQXFoMzZPcGpJNTQ1bVY4bzhEUFA1a2NNRFhyUkNDVEo5MWRrMGwyS0owWU5VX05ab3dhMHRIcllPSHdjQnhHbVEzQ2lJVUV4R1lrTUp2d0Y5QzUyaWFzNHU0cUItaWQzWjdSVmlvMHozUmRsa0xzWmxCTnhRR0JRS3k0c0g?oc=5",
         "published": "Sun, 04 Oct 2026 00:06:00 GMT",
-        "category": "その他"
+        "category": "上場"
       }
     ],
     "ADA": [],
