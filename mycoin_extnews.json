@@ -1,30 +1,38 @@
 {
-  "generated_at": "2026-10-04T23:54:26+00:00",
+  "generated_at": "2026-10-05T05:14:33+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "10月スタート堅調、ビットコインETFが1億3400万ドルの流入を記録",
-        "title_en": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGhPVzFzYnBkRTJyNkl3ZDA0OUlDY0hJalp5ZU11cy1LeDBDVW1YdTlsV2FXelp4aWtUUUtyWUt5bW1EYUg3WjlwWnkwYVVrSjB6SlpScXpWbGVYMXZHS1JFSEJHaG51X0pIeGtXSUxNR1pzcDhmVUJ6eGhPcFBQMWc1WnNkZ2hGdmhRYkVxeThlQ3pNVW9BMC1rLWlGdzA?oc=5",
-        "published": "Sun, 04 Oct 2026 15:01:03 GMT",
+        "source": "CoinDesk",
+        "title_ja": "ビットコインが8ヶ月ぶり高値に接近し87,000ドル手前まで上昇、その後反転",
+        "title_en": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW1adnJQLUhLZUtFZWZGTjduTkRnaVhUOGszcjB2QTliSTY0eUdpZ3VkQ2hnS0dzdi01V0FEakoxU3REalNLaXN5ZmVPOHRsRnJrc2lPTGFESFJsT3Vyb0hMTlNudmRSZXI4emhpOHlpWUNfUWl0QW9xU0FjQTFyN2RKVFY0RlBibTlPbmdBTjdpZEVCQXFWVElhOFZDeDV1LTh1czIxZ051ZkJvdEhVYjdrdGItUUxKbGJpZlBra2M?oc=5",
+        "published": "Mon, 05 Oct 2026 04:23:25 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "日本経済新聞",
+        "title_ja": "ビットコイン・ジャパン[8105]：ビットコイン追加購入に関するお知らせ",
+        "title_en": "Ｂｉｔｃｏｉｎ Ｊａｐａｎ[8105]：（開示事項の経過）ビットコイン追加購入に関するお知らせ 2026年10月5日(適時開示) ：日経会社情報DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZWRWYVJra2JqSmdvM21aZGVYZGNBY1huQ2E0TU5nQjlHYkdzY3NLcVU0bDY0TEVjSDV6TlpwbXI2R1Y4UGEzUmpUMnNDdGVzTFJxbklTa3VIeHVDbzRIZWNiWGNJMVZodmc?oc=5",
+        "published": "Mon, 05 Oct 2026 01:45:00 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETFが2026年の流入でビットコインETFを上回る",
+        "title_ja": "イーサリアムETF、2026年の資金流入でビットコインETFを上回る",
         "title_en": "Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhPZEQ4NFNWdmhPYVBzVVpTazZHcU95cUtROGhZOVVuRXlLdFBDbEhrVXlscF9OaGJHZlFNcEcxNzhLM1FhQVQ2R1pDdU80OGljMDRnVXpTSFgwTTQ5dVdDZ2UtTVBwazlJeVBFWEFyak1RUElkUU5sMFpLRmJURk5hWGVuOWtjN1RtcmFQT1ZSMWcyYkNqSTBlZ09JcXpp?oc=5",
         "published": "Sun, 04 Oct 2026 10:52:51 GMT",
-        "category": "大口"
+        "category": "上場"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リー氏のBitmineがイーサリアムを積極購入、待望の暗号資産強気市場がついに到来か",
+        "title_ja": "トム・リーのBitmineがイーサリアムを積極買付、待望の仮想通貨強気相場が到来か",
         "title_en": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemxrVTFGeVRKdndxakk4R3RKRGRVMWQ1QjY4dk9XMGJ0ZDJPa0pjdXNHZkh0SVFVcFZUbDRydlB2VUQzOV9fSWQxelZ1SjVUZXRiZnFmdll6UnJNX1VQUGNIaUFCTFhhYm5yTVlUQ3dncEJsMk5oM21jTWx6QW9tWUlXbUo0SUtROG9lQTBnTW9kN0JOWkFiT2tjSFpSUQ?oc=5",
         "published": "Sun, 04 Oct 2026 08:51:00 GMT",
@@ -34,24 +42,32 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP強気派がソウル前に100ドルを予想、リップルがプライバシーツールとAIウォレットを発表",
+        "title_ja": "韓国の4銀行がリップル主催のソウルイベントに参加、XRP利用の可能性は",
+        "title_en": "Four Korean Banks Join Ripple at Seoul Event: Are They Using XRP?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakVPS0UycHAyY3ZNMFRzeEVzNGtYOVRzRHlmekVWZDUwQjNOZ0haM2Ryc2E2blQ2eU13bTFpLTRGVnFBaG5kckJUWGo2cERzWjZqYmxLR3h5cEpWWm52NEoxSlg3TURmRXhYcHJTR2NfUjlXVVZrRm5EaGk4UDA1a0ZsQnZfNnc5OEhPNGVyUEZwRG1Fd2cyUXl3?oc=5",
+        "published": "Sun, 04 Oct 2026 22:40:57 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP強気派がソウルで100ドル目標を掲げる：リップルがプライバシーツールとAIウォレット発表、ホルダーの利益は",
         "title_en": "XRP Bulls Called for $100 Before Seoul: Ripple Unveils Privacy Tools and AI Wallets. What Do Holders Gain?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3kyTFZmQ05FM3UtQTNkVVZVNzdUengyMGNwTUkxMUxZTWVJN2JQXzVXSm5pN1hHbl9HcFdibWdoMkppMk15Zk11SENaWkZPU05rbTVwZ0NvbzZ2ZnIweGtRcFJrM09NZkc2QUNINElSMmJyZG1CVEpOWkFaMlZYY0tialFneVd0Z2FfSEZ5VFZuVlZYYnc?oc=5",
         "published": "Sun, 04 Oct 2026 16:00:58 GMT",
         "category": "提携"
       }
     ],
-    "SOL": [
+    "SOL": [],
+    "ADA": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナETFが240万ドルの流入を報告、連勝が終わるか",
-        "title_en": "Solana ETFs Report $2.4 Million in Inflows: Is the Winning Streak Ending?",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGN5NG9hdXc0TktnQXFoMzZPcGpJNTQ1bVY4bzhEUFA1a2NNRFhyUkNDVEo5MWRrMGwyS0owWU5VX05ab3dhMHRIcllPSHdjQnhHbVEzQ2lJVUV4R1lrTUp2d0Y5QzUyaWFzNHU0cUItaWQzWjdSVmlvMHozUmRsa0xzWmxCTnhRR0JRS3k0c0g?oc=5",
-        "published": "Sun, 04 Oct 2026 00:06:00 GMT",
-        "category": "大口"
+        "title_ja": "カルダノがAIエージェント経済に参入、ADAは買いか",
+        "title_en": "Cardano Is Now Part of the AI Agent Economy. Does That Make ADA a Buy?",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0RJVnlvby0wR2JfQUdiaXYyS1A5eUY1bjAwZFNhY0RvVEhzZFBLajkwcXpBZVJVS183SmdROUZuS3ptX290Z1lXSG04RlNBUUg3S25ZZjRFNnZfZVJLd19Fd0ZGTmF6M0NsX1AwZ2hodTVtN2lJd0hwNnZxbHFiejZnUkJkWVpVOEZuMTdWZU1LX2ps?oc=5",
+        "published": "Sun, 04 Oct 2026 10:52:00 GMT",
+        "category": "採用"
       }
     ],
-    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
