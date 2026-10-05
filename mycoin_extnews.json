@@ -1,60 +1,52 @@
 {
-  "generated_at": "2026-10-05T14:19:19+00:00",
+  "generated_at": "2026-10-05T21:56:17+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Striveが2,000BTCの買い増しでビットコイン保有を拡大",
-        "title_en": "Strive Expands Bitcoin Holdings With 2,000 BTC Purchase",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFWVThKZzdyT3k4bTJrUUZFcTVVM2NsWjE2c1dpTG5PTHpRV21VYjRqanUydlFNQm9TdHprVk9GZ1NJNlpkaHQyeWQ2VHdaVktHYUtoOVZzVDFueGNNaDY3LTNtQ1VENThaZDhmb3pua2UySUg1V2lZYTRhRDBrbTZVUGUxOGxremlNMnJZajRwaWc3Z2c2d29NbHZ2cDg?oc=5",
-        "published": "Mon, 05 Oct 2026 13:50:00 GMT",
-        "category": "大口"
+        "title_ja": "中国が数百の銀行を閉鎖中、ビットコイン投資家は懸念すべきか",
+        "title_en": "China is Shutting Hundreds of Banks. Should Bitcoin Investors Be Worried?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWo3d1dOQTNBRURFSkQ3czdQaFd2Y0syYTFTbi1oZVg2RHlhNHRaUDJIX3BDOWw4NkZCX2pqTldpMkMzOWFGTy1MTmwxV1RhY0lqbUIya3lBRW8yS1kyRHg5RV9HUnJad0NhQUltRWFDNmhLV2w2Vy15QjR0OVp6WTlEMGpqZlA5NWwzblRyUy0wRFlpTDAySmNITEpheFBOcUp2Uw?oc=5",
+        "published": "Mon, 05 Oct 2026 19:10:14 GMT",
+        "category": "マクロ"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Strategyが334ビットコインを追加取得、買い増しペースが鈍化",
-        "title_en": "Strategy Adds 334 Bitcoin As Pace Of Buying Slows",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVFVUXowcVd4LUc1dElZZEVLQWdST0xkOWFRX3Z5dHNPYnIzWm5JdElVZi13RzlfM3Rtc2hKUjUwU1dXNkhqeUNQS1NqSjNXd2tPLWtRQXBHeUNfbE9wUTdPYndQVWNOYmlnRWZmTnJkdDV0UUxmRTJnRHM3a045RG0xbnlKc2hreEtOWTRiUmVtcmxZM0h5MTZuZw?oc=5",
-        "published": "Mon, 05 Oct 2026 13:33:00 GMT",
-        "category": "大口"
+        "title_ja": "SECが初の3倍レバレッジビットコイン・イーサリアムファンドを承認、リスク解説",
+        "title_en": "The SEC Approves the First 3x Bitcoin and Ether Funds: Understanding the Risks Involved",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXFhZTRFcFpIb09vVnFQN2o2VW93X1lldF91emFhN3BMQ0F1VXltMkhpNWZHblRVUWlFc1gzb04wb3g4aXNZeXg1V3dKWlYzdlJ4MEFtd0JiSUgySC1IYnV3TWJBMU8ycjRtWFJJeWJmLXZsdHJFZGp4YmdYUG9yYW1sbDN6Z3pOLTZwUzQ0MXZjeFItQ1ZmUjln?oc=5",
+        "published": "Mon, 05 Oct 2026 17:51:03 GMT",
+        "category": "承認"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bitmineが15,112イーサを買い増し、価格が上昇",
-        "title_en": "Bitmine Purchases 15,112 Ethereum As Price Strengthens",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21LdHdRSGpCc2lUUUVPNzF6c1BMaXBvd2Y1Nk9PX0dOdm1qamc5VUQ4blREWjAtTFRnX3RrbXhWdlVMaXpVS0dqRGFLdW1CMTJRcDZubUlDeEtvaTVUcWphRGdQQTFiSFBWMHdOdnE2T1RxbGV6a09yTDJDRktUQXBVWnI3OXZCRlVhR2tuZEl3YVVqZS1nUTFCSl8zRG8?oc=5",
-        "published": "Mon, 05 Oct 2026 13:42:00 GMT",
-        "category": "大口"
+        "title_ja": "SECが初の3倍レバレッジビットコイン・イーサリアムファンドを承認、リスク解説",
+        "title_en": "The SEC Approves the First 3x Bitcoin and Ether Funds: Understanding the Risks Involved",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXFhZTRFcFpIb09vVnFQN2o2VW93X1lldF91emFhN3BMQ0F1VXltMkhpNWZHblRVUWlFc1gzb04wb3g4aXNZeXg1V3dKWlYzdlJ4MEFtd0JiSUgySC1IYnV3TWJBMU8ycjRtWFJJeWJmLXZsdHJFZGp4YmdYUG9yYW1sbDN6Z3pOLTZwUzQ0MXZjeFItQ1ZmUjln?oc=5",
+        "published": "Mon, 05 Oct 2026 17:51:03 GMT",
+        "category": "承認"
       },
       {
-        "source": "The Block",
-        "title_ja": "トム・リーがイーサは『他のマクロ資産を圧倒している』と述べ、Bitmineが15,112ETHを追加",
-        "title_en": "Tom Lee says ether 'dwarfing other macro assets' as Bitmine adds 15,112 ETH",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2k2YnFNY2J4YW9yYjhJdXZBWjFFNmZEYmpPaUExQTVtelZJZG83ckR1czh2WGxMdFFMcWJtWlIxQy1kMHVUWjRKTk1zcjdQYWk0SjFqRFpkalhxS29WSXBlZXJFNndqb29GUnJfSjE5U1pERjA5YTVyeG1wd3I0cHhnU19NeHhBYlJrN2l0MXhySUhTUHJfNG8xLWpkbkNwRGMtRnQyQ3RraFpUbS1yR2l4WDRtVTA3ZlFOY1BzR2Q2Q1Zrb3kw?oc=5",
-        "published": "Mon, 05 Oct 2026 13:23:00 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "Bitmineのイーサリアム保有量602万トークンに到達、供給量の5%を目指す",
+        "title_en": "Bitmine Immersion Technologies ETH Holdings Reach 6.02 Million Tokens, Nearing 5% Supply Target",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDVHUDA0UnhPbXZhNDZZVFVYTGpfTS1ZN0R4bW5XLVU5aElsd1VaWXZ0SHBhNmZXTk9KS1RmNnhxM2YxVk45Mmc1WU9fWmFGQmpDOU5CRG5lN1UxeHExLWJINzFESnZzcTM1TWdlZUxVM3FoRnN4Z2FyLVYwdkJ6U2xWd281cUp0d2VrbkFPa25mb19BbjRHVnE1M2oyQmdrNGUtY2d3MGJXUkg4?oc=5",
+        "published": "Mon, 05 Oct 2026 14:07:19 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "XRPニュース：リップル関連トークンを追跡するSPACが約300%急騰",
-        "title_en": "XRP news: SPAC tracking Ripple-linked token jumps nearly 300%",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFNaUGJDSkNrdmdMWE9ZdWlyT0Q5U2VRSDRqdmhtaGU3QmlicHhHNjNjaUxLZFAydkZkcXBmcUN3TWUweEs2M3o2X3h2UE9jc0xIOTZRVkJiTEdOelFPMC1SdU1IYnpzUWlxbjFaWEFKUDBOVFhEbzJscnl3N1JrYXFtY3lKaEoteEQ3RkRuRWdIWWc0UVZPODdQSkF2RXJWaVMtNGM1TDI?oc=5",
-        "published": "Mon, 05 Oct 2026 12:28:35 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "XRPニュース：リップル関連トークンを追跡するSPACが約300％急騰",
-        "title_en": "XRPニュース：リップル関連トークンを追跡するSPACが約300％急騰",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUxyTlR6ZkhJRkZOOHVhUkxlZXl5bkJCME1iTXRxb2xkV044Y2szV1FXUDJvMDluakZMQ0dUUGVTblhsN3Y4S0NtOTdpN1c4WjNBWGdLSmlMT3NreWY3bFFaYlZnQUhVRnI3UHFzYjRNSEVqVnNiVkNFQlJaQjlGdnRCaTVGRWlWVjI0OFg3ZkxXLTk5WUlzVG1Rbl9uOVkzZXB2cmxoMlJPaXdm?oc=5",
-        "published": "Mon, 05 Oct 2026 12:28:35 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "韓国の4銀行がソウルイベントでリップルに参加、XRPを使用しているのか",
+        "title_en": "Four Korean Banks Join Ripple at Seoul Event: Are They Using XRP?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakVPS0UycHAyY3ZNMFRzeEVzNGtYOVRzRHlmekVWZDUwQjNOZ0haM2Ryc2E2blQ2eU13bTFpLTRGVnFBaG5kckJUWGo2cERzWjZqYmxLR3h5cEpWWm52NEoxSlg3TURmRXhYcHJTR2NfUjlXVVZrRm5EaGk4UDA1a0ZsQnZfNnc5OEhPNGVyUEZwRG1Fd2cyUXl3?oc=5",
+        "published": "Sun, 04 Oct 2026 22:40:57 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [],
