@@ -1,73 +1,64 @@
 {
-  "generated_at": "2026-10-05T05:14:33+00:00",
+  "generated_at": "2026-10-05T14:19:19+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインが8ヶ月ぶり高値に接近し87,000ドル手前まで上昇、その後反転",
-        "title_en": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZW1adnJQLUhLZUtFZWZGTjduTkRnaVhUOGszcjB2QTliSTY0eUdpZ3VkQ2hnS0dzdi01V0FEakoxU3REalNLaXN5ZmVPOHRsRnJrc2lPTGFESFJsT3Vyb0hMTlNudmRSZXI4emhpOHlpWUNfUWl0QW9xU0FjQTFyN2RKVFY0RlBibTlPbmdBTjdpZEVCQXFWVElhOFZDeDV1LTh1czIxZ051ZkJvdEhVYjdrdGItUUxKbGJpZlBra2M?oc=5",
-        "published": "Mon, 05 Oct 2026 04:23:25 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Striveが2,000BTCの買い増しでビットコイン保有を拡大",
+        "title_en": "Strive Expands Bitcoin Holdings With 2,000 BTC Purchase",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFWVThKZzdyT3k4bTJrUUZFcTVVM2NsWjE2c1dpTG5PTHpRV21VYjRqanUydlFNQm9TdHprVk9GZ1NJNlpkaHQyeWQ2VHdaVktHYUtoOVZzVDFueGNNaDY3LTNtQ1VENThaZDhmb3pua2UySUg1V2lZYTRhRDBrbTZVUGUxOGxremlNMnJZajRwaWc3Z2c2d29NbHZ2cDg?oc=5",
+        "published": "Mon, 05 Oct 2026 13:50:00 GMT",
+        "category": "大口"
       },
       {
-        "source": "日本経済新聞",
-        "title_ja": "ビットコイン・ジャパン[8105]：ビットコイン追加購入に関するお知らせ",
-        "title_en": "Ｂｉｔｃｏｉｎ Ｊａｐａｎ[8105]：（開示事項の経過）ビットコイン追加購入に関するお知らせ 2026年10月5日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZWRWYVJra2JqSmdvM21aZGVYZGNBY1huQ2E0TU5nQjlHYkdzY3NLcVU0bDY0TEVjSDV6TlpwbXI2R1Y4UGEzUmpUMnNDdGVzTFJxbklTa3VIeHVDbzRIZWNiWGNJMVZodmc?oc=5",
-        "published": "Mon, 05 Oct 2026 01:45:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "Strategyが334ビットコインを追加取得、買い増しペースが鈍化",
+        "title_en": "Strategy Adds 334 Bitcoin As Pace Of Buying Slows",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVFVUXowcVd4LUc1dElZZEVLQWdST0xkOWFRX3Z5dHNPYnIzWm5JdElVZi13RzlfM3Rtc2hKUjUwU1dXNkhqeUNQS1NqSjNXd2tPLWtRQXBHeUNfbE9wUTdPYndQVWNOYmlnRWZmTnJkdDV0UUxmRTJnRHM3a045RG0xbnlKc2hreEtOWTRiUmVtcmxZM0h5MTZuZw?oc=5",
+        "published": "Mon, 05 Oct 2026 13:33:00 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETF、2026年の資金流入でビットコインETFを上回る",
-        "title_en": "Ethereum ETFs Outpace Bitcoin ETFs in 2026 Inflows",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVhPZEQ4NFNWdmhPYVBzVVpTazZHcU95cUtROGhZOVVuRXlLdFBDbEhrVXlscF9OaGJHZlFNcEcxNzhLM1FhQVQ2R1pDdU80OGljMDRnVXpTSFgwTTQ5dVdDZ2UtTVBwazlJeVBFWEFyak1RUElkUU5sMFpLRmJURk5hWGVuOWtjN1RtcmFQT1ZSMWcyYkNqSTBlZ09JcXpp?oc=5",
-        "published": "Sun, 04 Oct 2026 10:52:51 GMT",
-        "category": "上場"
+        "title_ja": "Bitmineが15,112イーサを買い増し、価格が上昇",
+        "title_en": "Bitmine Purchases 15,112 Ethereum As Price Strengthens",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21LdHdRSGpCc2lUUUVPNzF6c1BMaXBvd2Y1Nk9PX0dOdm1qamc5VUQ4blREWjAtTFRnX3RrbXhWdlVMaXpVS0dqRGFLdW1CMTJRcDZubUlDeEtvaTVUcWphRGdQQTFiSFBWMHdOdnE2T1RxbGV6a09yTDJDRktUQXBVWnI3OXZCRlVhR2tuZEl3YVVqZS1nUTFCSl8zRG8?oc=5",
+        "published": "Mon, 05 Oct 2026 13:42:00 GMT",
+        "category": "大口"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "トム・リーのBitmineがイーサリアムを積極買付、待望の仮想通貨強気相場が到来か",
-        "title_en": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemxrVTFGeVRKdndxakk4R3RKRGRVMWQ1QjY4dk9XMGJ0ZDJPa0pjdXNHZkh0SVFVcFZUbDRydlB2VUQzOV9fSWQxelZ1SjVUZXRiZnFmdll6UnJNX1VQUGNIaUFCTFhhYm5yTVlUQ3dncEJsMk5oM21jTWx6QW9tWUlXbUo0SUtROG9lQTBnTW9kN0JOWkFiT2tjSFpSUQ?oc=5",
-        "published": "Sun, 04 Oct 2026 08:51:00 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "トム・リーがイーサは『他のマクロ資産を圧倒している』と述べ、Bitmineが15,112ETHを追加",
+        "title_en": "Tom Lee says ether 'dwarfing other macro assets' as Bitmine adds 15,112 ETH",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2k2YnFNY2J4YW9yYjhJdXZBWjFFNmZEYmpPaUExQTVtelZJZG83ckR1czh2WGxMdFFMcWJtWlIxQy1kMHVUWjRKTk1zcjdQYWk0SjFqRFpkalhxS29WSXBlZXJFNndqb29GUnJfSjE5U1pERjA5YTVyeG1wd3I0cHhnU19NeHhBYlJrN2l0MXhySUhTUHJfNG8xLWpkbkNwRGMtRnQyQ3RraFpUbS1yR2l4WDRtVTA3ZlFOY1BzR2Q2Q1Zrb3kw?oc=5",
+        "published": "Mon, 05 Oct 2026 13:23:00 GMT",
+        "category": "発言"
       }
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "韓国の4銀行がリップル主催のソウルイベントに参加、XRP利用の可能性は",
-        "title_en": "Four Korean Banks Join Ripple at Seoul Event: Are They Using XRP?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakVPS0UycHAyY3ZNMFRzeEVzNGtYOVRzRHlmekVWZDUwQjNOZ0haM2Ryc2E2blQ2eU13bTFpLTRGVnFBaG5kckJUWGo2cERzWjZqYmxLR3h5cEpWWm52NEoxSlg3TURmRXhYcHJTR2NfUjlXVVZrRm5EaGk4UDA1a0ZsQnZfNnc5OEhPNGVyUEZwRG1Fd2cyUXl3?oc=5",
-        "published": "Sun, 04 Oct 2026 22:40:57 GMT",
-        "category": "採用"
+        "source": "CoinDesk",
+        "title_ja": "XRPニュース：リップル関連トークンを追跡するSPACが約300%急騰",
+        "title_en": "XRP news: SPAC tracking Ripple-linked token jumps nearly 300%",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFNaUGJDSkNrdmdMWE9ZdWlyT0Q5U2VRSDRqdmhtaGU3QmlicHhHNjNjaUxLZFAydkZkcXBmcUN3TWUweEs2M3o2X3h2UE9jc0xIOTZRVkJiTEdOelFPMC1SdU1IYnpzUWlxbjFaWEFKUDBOVFhEbzJscnl3N1JrYXFtY3lKaEoteEQ3RkRuRWdIWWc0UVZPODdQSkF2RXJWaVMtNGM1TDI?oc=5",
+        "published": "Mon, 05 Oct 2026 12:28:35 GMT",
+        "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "XRP強気派がソウルで100ドル目標を掲げる：リップルがプライバシーツールとAIウォレット発表、ホルダーの利益は",
-        "title_en": "XRP Bulls Called for $100 Before Seoul: Ripple Unveils Privacy Tools and AI Wallets. What Do Holders Gain?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3kyTFZmQ05FM3UtQTNkVVZVNzdUengyMGNwTUkxMUxZTWVJN2JQXzVXSm5pN1hHbl9HcFdibWdoMkppMk15Zk11SENaWkZPU05rbTVwZ0NvbzZ2ZnIweGtRcFJrM09NZkc2QUNINElSMmJyZG1CVEpOWkFaMlZYY0tialFneVd0Z2FfSEZ5VFZuVlZYYnc?oc=5",
-        "published": "Sun, 04 Oct 2026 16:00:58 GMT",
-        "category": "提携"
+        "source": "CoinDesk",
+        "title_ja": "XRPニュース：リップル関連トークンを追跡するSPACが約300％急騰",
+        "title_en": "XRPニュース：リップル関連トークンを追跡するSPACが約300％急騰",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUxyTlR6ZkhJRkZOOHVhUkxlZXl5bkJCME1iTXRxb2xkV044Y2szV1FXUDJvMDluakZMQ0dUUGVTblhsN3Y4S0NtOTdpN1c4WjNBWGdLSmlMT3NreWY3bFFaYlZnQUhVRnI3UHFzYjRNSEVqVnNiVkNFQlJaQjlGdnRCaTVGRWlWVjI0OFg3ZkxXLTk5WUlzVG1Rbl9uOVkzZXB2cmxoMlJPaXdm?oc=5",
+        "published": "Mon, 05 Oct 2026 12:28:35 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [],
-    "ADA": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "カルダノがAIエージェント経済に参入、ADAは買いか",
-        "title_en": "Cardano Is Now Part of the AI Agent Economy. Does That Make ADA a Buy?",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0RJVnlvby0wR2JfQUdiaXYyS1A5eUY1bjAwZFNhY0RvVEhzZFBLajkwcXpBZVJVS183SmdROUZuS3ptX290Z1lXSG04RlNBUUg3S25ZZjRFNnZfZVJLd19Fd0ZGTmF6M0NsX1AwZ2hodTVtN2lJd0hwNnZxbHFiejZnUkJkWVpVOEZuMTdWZU1LX2ps?oc=5",
-        "published": "Sun, 04 Oct 2026 10:52:00 GMT",
-        "category": "採用"
-      }
-    ],
+    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
