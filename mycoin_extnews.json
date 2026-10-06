@@ -1,70 +1,78 @@
 {
-  "generated_at": "2026-10-06T13:13:24+00:00",
+  "generated_at": "2026-10-06T20:07:50+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "債券のVIXが上昇するもビットコインと株式は反応していない",
-        "title_en": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet : Crypto Daily",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjlUWkRrdmNiT2l6bkxyR3gzTGNEdF90U1RyRTJXZjZCS1E1cnJmYjBOdW54TEowb1Boc3VtenRtWXExN1M3d2dWc3dLZ1FpaDJrWENNWm5QbjdtS2ppNnFkQU9BY2lOdU1Jbk9KbDZxOGJIbVlmTTduSVVOdFFTeUVfMXd1M2xRZ2JtUXItZ1lXTWFFVDhLZklPMmcwSHZKM191M2dTYUwxT25kelVhcDR3UDZWMG9pSkE?oc=5",
-        "published": "Tue, 06 Oct 2026 11:30:00 GMT",
-        "category": "マクロ"
+        "source": "Yahoo Finance",
+        "title_ja": "Metaplanetがビットコイン1万枚を7億9000万ドルで売却後、1万1000枚を9億5000万ドルで買い戻し",
+        "title_en": "Metaplanet Sold 10,000 Bitcoin for $790 Million, Then Bought 11,000 Back for $950 Million. What Was the Point?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekFZQjc4aUo5bkhkZGU1OXJYM2VFWDhCYWJZX01hb1h3UDNCU0tWeHRMVjFFTTd2elgxdEhwbEJReUVXZF81ZC13eVVNOXRyeFo5WHduSkNwMDhXSHhZQ1g5d1NjdUhuMWZITkRMSkpEby1WWW1leE95LWRLNm5JOWtNQk1xWnpwTnc4bUt2WkNGeGxNRktrNU9xRQ?oc=5",
+        "published": "Tue, 06 Oct 2026 18:24:36 GMT",
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "BTC USD価格、セイラー氏の新規買いも87,000ドルを突破できず停滞",
-        "title_en": "BTC USD Price Stalls as Fresh Saylor Buy Fails to Clear $87K",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmRNYjVBZTloRm9JdFE1RWp2TTNTd01NdDU1N0RLM2owVGNYOVJWQW9ycEVMYmxaa1FHaUVzemVUbjZSU0hXM3R3NHRCWko0MW1KaVZ2M09OcDJiYzRKWks4WktuNlNMbzJmdEtfLTdwc3FTYXh6d0w4UEN6eXFFX2NMUXFMdjlETUhlNDRhallPbEhmYVE?oc=5",
-        "published": "Tue, 06 Oct 2026 10:55:23 GMT",
-        "category": "大口"
+        "title_ja": "SECがビットコイン・イーサリアム3倍レバレッジファンドを初承認",
+        "title_en": "SEC approves first 3x bitcoin and ether funds: What it means",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUtYWUtIM19pRDFaZFZYZ0RkcjN3UkVzOU5Pd21zQVdtdXp3Wk4ySFVHX05selBrS0R0dUZfd1lReE1GTFY3cTNVbjJ4ZEtmY0ZFYXAwRkZFTUR3dUt3bUNZWTItWnQwajN5QXRmeExzaUFWcUltbUMyZGRCdWtETXFB?oc=5",
+        "published": "Tue, 06 Oct 2026 17:00:00 GMT",
+        "category": "承認"
       }
     ],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムのGlamsterdamテスト、大規模キャパシティ拡張前に最終修正を実施",
-        "title_en": "ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnNaX1RILW5feEZyejhrNUgxSE9UTnNDWUdYN1YxblRyQ05YRDRlMmVlX2dWVDRGSjUxS19YYS1xMUo1NVloYU1jQ1BkTVFqa05HbHdDRlMtNXkzLUY0ajIzTy1COEFnSDdzWTJqZnVDejdYZDJFTXRCZExaVjNWbEFVa0JGQS0tbld3YnMwdjNtNXJRNlVfaGY2R3NTTGFHU0g0Rnlwczh5VDhlczVsWEZxSEp6MFk?oc=5",
-        "published": "Tue, 06 Oct 2026 05:51:55 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "Binanceユーザーはイーサリアムをビットコインに売却しているか",
+        "title_en": "Are Binance Users Selling Ethereum for Bitcoin?",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFhJUUpST3VsTkY3SFdrRE5ia2gwTXFVU3B1TWthSnFLV1M3ekpFNEFFdElBam9RYmo1VFRnaERVUkN5cE9ndzRaNjFCUlBPUDJlMmdDM0FEd2NDOVd2Rk1LdzdLUUkxZFppUE91a2xFVHVyWnBQT0VBQ0VvcGJOUkVoTnU4Q2FKcDR2ZjJFWjMyeTJZVnFzZkJDZVZ5NFl1bGlYejln?oc=5",
+        "published": "Tue, 06 Oct 2026 17:48:40 GMT",
         "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "BitMineの推定36億ドルのETH損失がStock Edgeの優位性を圧倒",
+        "title_en": "BitMine’s Estimated $3.6B ETH Loss Overshadows Stock Edge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGZ0Y1NLbVdWaGJJempqaFNtMkdRMjVsMk5QSVpwLThSUnM4eHBuZ2hIdEU1d3ZERHluczBUeVUzTTN1bkRGY2tWdmtNdVVhWGxudGxOVDlZd3BFMTNNaWt2TnVtMWhRdFhZTzMwaTdMRmZiZFEtVzNHVFIweU5DdEJVcGw2N2tjNWFXODFBR0dpTlBPZHc?oc=5",
+        "published": "Tue, 06 Oct 2026 15:47:38 GMT",
+        "category": "ハッキング"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP関連ニュース：ClearpoolのXRPL移行がRLUSDを示唆",
-        "title_en": "XRP News: Clearpool’s XRPL Move Points to RLUSD",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUVkQzlpSlpJdHhIaXNEcTUxeFlack9WVDRiakhUc2lyRklkUlNSNkJCcDdpWGNRbjE5LVE2TjZOY0hkWEJUNUtpSFZLVFA4YUxWSkxVTXFKbUtSRnI4WThDZFJzMTVxM1FmZG52QXlNNnd1QWpMdmdqYzVXdUo0X0VSSkoySXo1dGh1OW1DSkhVTHVLQkVfUA?oc=5",
-        "published": "Tue, 06 Oct 2026 12:14:00 GMT",
-        "category": "採用"
+        "title_ja": "XRP保有者がレッジャー手数料100倍引き上げを提案、Ripple最高技術責任者は手数料収益を誤った指標と指摘",
+        "title_en": "An XRP Holder Proposed Raising Ledger Fees 100x to Burn More Tokens. Ripple’s CTO Emeritus Says Fee Revenue Is the Wrong Metric.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEtLbm16eXQ3OHFJT0hxdWRmZTdUeUFJTmp5aDhpUENlTHppNzBCSnZvMklNRTdGN2xvWGRlZ2s0TTZaNlEya2Q0b1hXRlg2OTBSWU92azZNM0txODVCdUozZHlvS1hZOGhFdkFFcnB4bVBtdUVGWDdMdWNKQ252TXltTGh0Y1ZzNHVQbTQ0SmdqdFdZUWNQSmtNdjI1MGNj?oc=5",
+        "published": "Tue, 06 Oct 2026 17:46:21 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "15兆ドルの投資大手がXRP ETF上場予定なし。ここが私がXRPに弱気な理由",
-        "title_en": "This $15 Trillion Investment Giant Has No Plans to Launch an XRP ETF. That's Why I'm Bearish on XRP Right Now.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2c0TmhFa1lfU2swZkdpZlNVaGVYN2Iyc0JTRzlfN3ZRallnRkZFUDJwOTM3Y1BuaXNsYzRNTjNFa0VrUTJ1UUtuX1gyemdoVjF0RjI4WWV6TGxHWnNGcGJJdkxGMU5DRGVHWnp1M1F2aFVuOGNweTl1a3RVYW5NZ0FmTUZtak9mOFlacW9vYWRQTm5oUkpQcGl2Skk?oc=5",
-        "published": "Tue, 06 Oct 2026 10:26:00 GMT",
-        "category": "承認"
+        "title_ja": "Ripple支援企業Brevan HowardがRipple Primeのプライムブローカレッジと決済機能を導入",
+        "title_en": "Ripple Backer Brevan Howard Taps Ripple Prime for Prime Brokerage and Clearing",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPampFX2NqLXNjRUtMblY2VGxEWDkyUW82RFA0ZDhDc1N1NThHenlYUndQRXZSZE9tYXBmSjYwc3FMYy1RaVQyM1BPTXJPejFGcHBKTzU1WUFSREo0X3YtME1lRmRBaWlKUmhlTHlObDJPNWpLRjMtcUlEdXpEd3FwN0J0OXp2VzJRdkZZbXZjNU5UT2ZDX1FOYnU0ODlNUQ?oc=5",
+        "published": "Tue, 06 Oct 2026 16:44:19 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ、JPモルガンの協力で構築した機関向け決済標準を発表",
-        "title_en": "Solana launches institutional settlement standard built with JPMorgan's input",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTQ5WlN1TmM1RThzbjJ4aEFJdHJzel9iRVpFb3hFa0lOZWd4dVA0aUNQekVVdEpDYjMzbU9pTlRpM2JhaVJ3ek41M1JnRUNjblBkczE0YUdUZjFjQWNTcUxROW1MdVRLN25VMW4zMURjZ3NEQUg2R3pIOFRPZ1ZnZXQyMDBzdmhkUUZCR2E4c0tPWGw4U1JVUHhNZUIwTDJCc3JqTVNUcWFkd1FleGpDcW5NZ0c?oc=5",
-        "published": "Tue, 06 Oct 2026 05:00:00 GMT",
-        "category": "提携"
+        "source": "The Block",
+        "title_ja": "Solana Treasury DeFi Developmentが優先株買い戻しプログラムを承認",
+        "title_en": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2ZaQ1NsLW5lUDdBQzZWc1lPS3ZSZ1JIZFlpVU1FUmVjRDNuX0VBUk5kdGhSVGZnS2ZOMEtoaUltUk5Kb3FodUl5TWNZM0Ntc3Bwa1o5NHI1WkRmWm9fS3NuaGtRazJDUFlxMG9Jbm5IeFlTcVdPa1Z0T2tCQ2ZVaFVFSmlQY1ktbkhnMGMycFdhekd3UEFHMlJzVnc3MklZMHp3SDhDYTQzS1RJNGFWSw?oc=5",
+        "published": "Tue, 06 Oct 2026 15:09:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナ財団、数秒での機関投資家取引決済プログラムを公開。JPモルガンが協力",
-        "title_en": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbWY2ajYyYTZvM1NMNDA0YjRvOF92NWlLRWZtc2dnVmEwS3cycmx4OWVucTVneG5wSEZwVFoyTGg4ajB0WGNLOVNTWnJPcHRxSzRjQmJ6WUFhb3dNaE1YTzZMdWhOTzE4N2Y3ZWlJRndIMHRzcDNNaVpPZmx6d1l0TkVJMWhpNWgyanlHYTBHdTlfTGROejdxS1dIQ2pMSHNJNDE0NnZoMlYtcjE3bzJQSEtoWmVqVmhMLVFhbmJNU2xIbVdmbnFfXzVqaUZSU25PVmk0N3E2YTRoOFBD?oc=5",
-        "published": "Tue, 06 Oct 2026 04:48:34 GMT",
-        "category": "提携"
+        "source": "Yahoo Finance",
+        "title_ja": "Solanaの新ツールが銀行取引を数秒で決済",
+        "title_en": "Solana’s New Tool Settles Bank Transactions In Seconds",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0s2WG85UVNLc19XOHRlc3dIVnFwOTdFTzRhS2J3WVdtaFNiTzNjSlVjNG5DUG1VY3Y1dmpQcXg1emk3YWVrUjVrV2lUa0JqUzdVM3BaY1NlTnRIa245TzRwa2Z6bU9ZdzE1Rnd1SENsR2dMT1dSUl91TVJSQmtaZVAyZU5DY1h2U2ttZFVQZFhrZHZfV0xDbDJ0am5oWGpJcEh1Zw?oc=5",
+        "published": "Tue, 06 Oct 2026 14:15:00 GMT",
+        "category": "採用"
       }
     ],
     "ADA": [],
