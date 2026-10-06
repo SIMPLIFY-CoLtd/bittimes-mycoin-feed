@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-10-06T05:59:14+00:00",
+  "generated_at": "2026-10-06T13:13:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコインが3度目の87,000ドル抵抗線に直面、株価は過去最高値に接近",
-        "title_en": "BTC, ETH, SOL price news: Bitcoin hits $87,000 wall for third time as stocks near records",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzVwLW1mVm5YVDhXQ1VRMGE2TUFZcVZhRmdaeDFRRnRrRlEzZjRnUkpIM2hNaTRkelZiZEN0WENIdFlMckp0YkFya2hFaE1tT1BUanUtWWJhV185eVZMdzR0cC0xYUNZZk1rblhvQWpHdkxTQ2xoWklleURuMk1tWEpRYmVwQ3EwMTBhZnFxdUZBdFZrcWxfRkVqeU1TQkd4YUNuXzhyR3QwMlhMOHNsYzBFSHAxRFk?oc=5",
-        "published": "Tue, 06 Oct 2026 04:41:10 GMT",
-        "category": "その他"
+        "title_ja": "債券のVIXが上昇するもビットコインと株式は反応していない",
+        "title_en": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet : Crypto Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjlUWkRrdmNiT2l6bkxyR3gzTGNEdF90U1RyRTJXZjZCS1E1cnJmYjBOdW54TEowb1Boc3VtenRtWXExN1M3d2dWc3dLZ1FpaDJrWENNWm5QbjdtS2ppNnFkQU9BY2lOdU1Jbk9KbDZxOGJIbVlmTTduSVVOdFFTeUVfMXd1M2xRZ2JtUXItZ1lXTWFFVDhLZklPMmcwSHZKM191M2dTYUwxT25kelVhcDR3UDZWMG9pSkE?oc=5",
+        "published": "Tue, 06 Oct 2026 11:30:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Bloomberg.com",
-        "title_ja": "ストラテジー、7～9月は黒字転換－ビットコイン上昇で評価益3.3兆円",
-        "title_en": "ストラテジー、7－9月は黒字転換－ビットコイン上昇で評価益3.3兆円",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORl9LY3JRZlZlZURaRFBpak9YTERHY2NvWVRwNHZmN2pyMHFnVndyZ1dobUFtRnA3UVR3ZFFNVU14VHRRdWszVkNYeEs0MERkZURRYVNHZm5FN2dwZEJ4RFpaWlhaV3V2ZUNSQUF5MGR5c2J6TEpvV0RWLTh0bmYtYzVVLXRzZ3V6TXE3alpB?oc=5",
-        "published": "Tue, 06 Oct 2026 03:32:15 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "BTC USD価格、セイラー氏の新規買いも87,000ドルを突破できず停滞",
+        "title_en": "BTC USD Price Stalls as Fresh Saylor Buy Fails to Clear $87K",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmRNYjVBZTloRm9JdFE1RWp2TTNTd01NdDU1N0RLM2owVGNYOVJWQW9ycEVMYmxaa1FHaUVzemVUbjZSU0hXM3R3NHRCWko0MW1KaVZ2M09OcDJiYzRKWks4WktuNlNMbzJmdEtfLTdwc3FTYXh6d0w4UEN6eXFFX2NMUXFMdjlETUhlNDRhallPbEhmYVE?oc=5",
+        "published": "Tue, 06 Oct 2026 10:55:23 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムのGlamsterdamテストが容量大幅増加前に最終修正",
+        "title_ja": "イーサリアムのGlamsterdamテスト、大規模キャパシティ拡張前に最終修正を実施",
         "title_en": "ETH news: Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnNaX1RILW5feEZyejhrNUgxSE9UTnNDWUdYN1YxblRyQ05YRDRlMmVlX2dWVDRGSjUxS19YYS1xMUo1NVloYU1jQ1BkTVFqa05HbHdDRlMtNXkzLUY0ajIzTy1COEFnSDdzWTJqZnVDejdYZDJFTXRCZExaVjNWbEFVa0JGQS0tbld3YnMwdjNtNXJRNlVfaGY2R3NTTGFHU0g0Rnlwczh5VDhlczVsWEZxSEp6MFk?oc=5",
-        "published": "Tue, 06 Oct 2026 04:49:05 GMT",
+        "published": "Tue, 06 Oct 2026 05:51:55 GMT",
         "category": "その他"
-      },
-      {
-        "source": "日本経済新聞",
-        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
-        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md0FHUWtTbktXekEtRUlodmVzLV9VTHJOMVNocEZnMDZfUEdTS1lrNjJkZ0tHUTNZQXZ5d0I1V2JhZVAwZERla01NSzdVZTdjUEpTc1dKdExTcHc5d0pBWmd6QzFFcEZfTHc?oc=5",
-        "published": "Mon, 05 Oct 2026 23:30:00 GMT",
-        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルの民間融資パートナーがトークンをXRPレジャーに移行、XRP価格への影響は",
-        "title_en": "Ripple’s Private Credit Partner Just Moved Its Token to the XRP Ledger: What Does This Mean for the XRP Price?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEdJQVNuNEttTF9kWGhzdHAyRzdMc00wTXB6LS0tMk5UTlhqZUs3b1QyekcyZ1hOWno3cFVpd3JpR3FWSnVOMmIyYldnUUpONTMySDRxaTFCWWhzMmJXbHdBbWVVZXhXalVoMVNmQU5XeDJLMDZBVjdEblVyTTJuY29MZzJVNVlkUFB5SjJxVDZRN0pJWWhTSkNUM2VqX3Nn?oc=5",
-        "published": "Tue, 06 Oct 2026 01:18:00 GMT",
-        "category": "提携"
+        "title_ja": "XRP関連ニュース：ClearpoolのXRPL移行がRLUSDを示唆",
+        "title_en": "XRP News: Clearpool’s XRPL Move Points to RLUSD",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUVkQzlpSlpJdHhIaXNEcTUxeFlack9WVDRiakhUc2lyRklkUlNSNkJCcDdpWGNRbjE5LVE2TjZOY0hkWEJUNUtpSFZLVFA4YUxWSkxVTXFKbUtSRnI4WThDZFJzMTVxM1FmZG52QXlNNnd1QWpMdmdqYzVXdUo0X0VSSkoySXo1dGh1OW1DSkhVTHVLQkVfUA?oc=5",
+        "published": "Tue, 06 Oct 2026 12:14:00 GMT",
+        "category": "採用"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "XRPニュース：リップル関連トークンを追跡するSPACが約300％急騰",
-        "title_en": "XRP news: SPAC tracking Ripple-linked token jumps nearly 300%",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFNaUGJDSkNrdmdMWE9ZdWlyT0Q5U2VRSDRqdmhtaGU3QmlicHhHNjNjaUxLZFAydkZkcXBmcUN3TWUweEs2M3o2X3h2UE9jc0xIOTZRVkJiTEdOelFPMC1SdU1IYnpzUWlxbjFaWEFKUDBOVFhEbzJscnl3N1JrYXFtY3lKaEoteEQ3RkRuRWdIWWc0UVZPODdQSkF2RXJWaVMtNGM1TDI?oc=5",
-        "published": "Mon, 05 Oct 2026 12:28:35 GMT",
-        "category": "上場"
+        "source": "Yahoo Finance",
+        "title_ja": "15兆ドルの投資大手がXRP ETF上場予定なし。ここが私がXRPに弱気な理由",
+        "title_en": "This $15 Trillion Investment Giant Has No Plans to Launch an XRP ETF. That's Why I'm Bearish on XRP Right Now.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2c0TmhFa1lfU2swZkdpZlNVaGVYN2Iyc0JTRzlfN3ZRallnRkZFUDJwOTM3Y1BuaXNsYzRNTjNFa0VrUTJ1UUtuX1gyemdoVjF0RjI4WWV6TGxHWnNGcGJJdkxGMU5DRGVHWnp1M1F2aFVuOGNweTl1a3RVYW5NZ0FmTUZtak9mOFlacW9vYWRQTm5oUkpQcGl2Skk?oc=5",
+        "published": "Tue, 06 Oct 2026 10:26:00 GMT",
+        "category": "承認"
       }
     ],
     "SOL": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナ、JPモルガンの協力で構築した機関向け決済標準を発表",
+        "title_en": "Solana launches institutional settlement standard built with JPMorgan's input",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTQ5WlN1TmM1RThzbjJ4aEFJdHJzel9iRVpFb3hFa0lOZWd4dVA0aUNQekVVdEpDYjMzbU9pTlRpM2JhaVJ3ek41M1JnRUNjblBkczE0YUdUZjFjQWNTcUxROW1MdVRLN25VMW4zMURjZ3NEQUg2R3pIOFRPZ1ZnZXQyMDBzdmhkUUZCR2E4c0tPWGw4U1JVUHhNZUIwTDJCc3JqTVNUcWFkd1FleGpDcW5NZ0c?oc=5",
+        "published": "Tue, 06 Oct 2026 05:00:00 GMT",
+        "category": "提携"
+      },
+      {
         "source": "CoinDesk",
-        "title_ja": "ソラナ財団、機関投資家の取引を数秒で決済するプログラムを発表、JPモルガンが助言",
+        "title_ja": "ソラナ財団、数秒での機関投資家取引決済プログラムを公開。JPモルガンが協力",
         "title_en": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbWY2ajYyYTZvM1NMNDA0YjRvOF92NWlLRWZtc2dnVmEwS3cycmx4OWVucTVneG5wSEZwVFoyTGg4ajB0WGNLOVNTWnJPcHRxSzRjQmJ6WUFhb3dNaE1YTzZMdWhOTzE4N2Y3ZWlJRndIMHRzcDNNaVpPZmx6d1l0TkVJMWhpNWgyanlHYTBHdTlfTGROejdxS1dIQ2pMSHNJNDE0NnZoMlYtcjE3bzJQSEtoWmVqVmhMLVFhbmJNU2xIbVdmbnFfXzVqaUZSU25PVmk0N3E2YTRoOFBD?oc=5",
-        "published": "Tue, 06 Oct 2026 04:23:45 GMT",
+        "published": "Tue, 06 Oct 2026 04:48:34 GMT",
         "category": "提携"
       }
     ],
@@ -71,16 +71,7 @@
     "DOGE": [],
     "SUI": [],
     "LINK": [],
-    "SHIB": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "シバイヌ、Shibariumを超えてソラナ上で第二の展開を開始",
-        "title_en": "Shiba Inu Steps Beyond Shibarium, Opens a Second Front on Solana",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2tGdTdvSXpoTDd2V3dZZTFjWmwzTF9qeEJyM0hhVlQxY3RZQTJteW16Vm9RZ1NrTUlCT0I1TEw4MHFNX1ZnLW01N1ZSTEwtekUwdFd5NE5ab0V2NzEyUXI0RjdTTGF3NzhxUmtPZ1VIdThneEpwMDB4SllyNVRIQ1ZJNHhrYU4yeEJVd05NV2lQakFTTURpZFBTWGhIQQ?oc=5",
-        "published": "Mon, 05 Oct 2026 10:17:54 GMT",
-        "category": "提携"
-      }
-    ],
+    "SHIB": [],
     "AVAX": []
   }
 }
