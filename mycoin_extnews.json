@@ -1,80 +1,12 @@
 {
-  "generated_at": "2026-10-07T00:33:55+00:00",
+  "generated_at": "2026-10-07T10:05:57+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "SEC、初の3倍レバレッジビットコイン・イーサリアムファンドを承認",
-        "title_en": "SEC approves first 3x bitcoin and ether funds: What it means",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUtYWUtIM19pRDFaZFZYZ0RkcjN3UkVzOU5Pd21zQVdtdXp3Wk4ySFVHX05selBrS0R0dUZfd1lReE1GTFY3cTNVbjJ4ZEtmY0ZFYXAwRkZFTUR3dUt3bUNZWTItWnQwajN5QXRmeExzaUFWcUltbUMyZGRCdWtETXFB?oc=5",
-        "published": "Tue, 06 Oct 2026 17:00:00 GMT",
-        "category": "承認"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Striveが1億6900万ドルのビットコインを購入、Strategyの最近の買収額の約6倍",
-        "title_en": "Strive purchases $169M in bitcoin — nearly 6 times more than Strategy's recent buy",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTZvd08yUWtxREVxdW9NMVQ3V010YzdPNFNWZ3V5V0NSWV9talNVQXdMR29NT3JJTnZ2bnV1MGRqWENZT3BIV3JPZGc2SUxkRzhsNlBleF9oeFM2WkF4RFVWYng0djMxM3BMYUk1cnVIS0ZRX1lXcGxVMF85UkZWaUFsc3NibzZpOHVF?oc=5",
-        "published": "Tue, 06 Oct 2026 16:00:00 GMT",
-        "category": "大口"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "BitMineの推定36億ドルのETH損失が株式優位性を覆す",
-        "title_en": "BitMine’s Estimated $3.6B ETH Loss Overshadows Stock Edge",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGZ0Y1NLbVdWaGJJempqaFNtMkdRMjVsMk5QSVpwLThSUnM4eHBuZ2hIdEU1d3ZERHluczBUeVUzTTN1bkRGY2tWdmtNdVVhWGxudGxOVDlZd3BFMTNNaWt2TnVtMWhRdFhZTzMwaTdMRmZiZFEtVzNHVFIweU5DdEJVcGw2N2tjNWFXODFBR0dpTlBPZHc?oc=5",
-        "published": "Tue, 06 Oct 2026 15:47:38 GMT",
-        "category": "ハッキング"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "EthereumレイヤーBlasiがシャットダウン、コインはどうなるか",
-        "title_en": "Ethereum Layer 2 Blast Is Shutting Down: What Happens to Your Coins?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2FIZV9tSnRWQ085NDd0emUtczRmUEVtQzJRNlExWDdmUWRBbUpubjFhUzZ3ZGxoR3hUZlBUb2VPRnhFd3QtWmpiWmpxN2F1elN0TjVBWVRrRWdtTlg2SFhrcUluZGZuOHBGZU9YUEY3ckxNdXhJZU91QW94NDFia24teUlSWDhiTnotY01rM3lDVVctMGpoRHFjVTQ?oc=5",
-        "published": "Tue, 06 Oct 2026 13:30:36 GMT",
-        "category": "その他"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRP保有者、台帳手数料を100倍に引き上げてトークン焼却を提案、RippleCTO名誉会長が異議",
-        "title_en": "An XRP Holder Proposed Raising Ledger Fees 100x to Burn More Tokens. Ripple’s CTO Emeritus Says Fee Revenue Is the Wrong Metric.",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEtLbm16eXQ3OHFJT0hxdWRmZTdUeUFJTmp5aDhpUENlTHppNzBCSnZvMklNRTdGN2xvWGRlZ2s0TTZaNlEya2Q0b1hXRlg2OTBSWU92azZNM0txODVCdUozZHlvS1hZOGhFdkFFcnB4bVBtdUVGWDdMdWNKQ252TXltTGh0Y1ZzNHVQbTQ0SmdqdFdZUWNQSmtNdjI1MGNj?oc=5",
-        "published": "Tue, 06 Oct 2026 17:46:21 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "RippleサポーターBrevan HowardがRipple Primeをプライムブローカレッジに選択",
-        "title_en": "Ripple Backer Brevan Howard Taps Ripple Prime for Prime Brokerage and Clearing",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPampFX2NqLXNjRUtMblY2VGxEWDkyUW82RFA0ZDhDc1N1NThHenlYUndQRXZSZE9tYXBmSjYwc3FMYy1RaVQyM1BPTXJPejFGcHBKTzU1WUFSREo0X3YtME1lRmRBaWlKUmhlTHlObDJPNWpLRjMtcUlEdXpEd3FwN0J0OXp2VzJRdkZZbXZjNU5UT2ZDX1FOYnU0ODlNUQ?oc=5",
-        "published": "Tue, 06 Oct 2026 16:44:19 GMT",
-        "category": "採用"
-      }
-    ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Solana財団、トークン化取引決済を1ステップで実現するオープンソースコードを銀行に提供",
-        "title_en": "Solana Foundation Offers Banks Open-Source Code to Settle Tokenized Trades in One Step",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXpwOXRYS1J1SUE3SG94SGFLbVZDeVR2LVFveENxT3JWS1NyaHd1VHdmNW5vSHY1NXlUaldqMzZmOGEyZ3hTY0pBSlNGcFNFLUhhcFFzU2ozNWg4X2NBbXpnT3ZDdFB2NnNUajBWVm16cUZ1cFhwTXFqbXFvdENCSGF2X3JKMzdVc3ZmbVljdzVsSzRXNjk5QmtYOUNMLTluOFE?oc=5",
-        "published": "Tue, 06 Oct 2026 22:57:55 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "SolanaがJPモルガンの協力で機関投資家向け決済基準を立ち上げ",
-        "title_en": "Solana launches institutional settlement standard built with JPMorgan's input",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTQ5WlN1TmM1RThzbjJ4aEFJdHJzel9iRVpFb3hFa0lOZWd4dVA0aUNQekVVdEpDYjMzbU9pTlRpM2JhaVJ3ek41M1JnRUNjblBkczE0YUdUZjFjQWNTcUxROW1MdVRLN25VMW4zMURjZ3NEQUg2R3pIOFRPZ1ZnZXQyMDBzdmhkUUZCR2E4c0tPWGw4U1JVUHhNZUIwTDJCc3JqTVNUcWFkd1FleGpDcW5NZ0c?oc=5",
-        "published": "Tue, 06 Oct 2026 05:00:00 GMT",
-        "category": "提携"
-      }
-    ],
+    "BTC": [],
+    "ETH": [],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
