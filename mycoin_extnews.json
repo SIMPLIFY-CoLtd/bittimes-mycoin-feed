@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-10-07T10:05:57+00:00",
+  "generated_at": "2026-10-07T18:47:14+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
-    "ADA": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、ロングポジション清算で8万4000ドル下回る、清算額は約5億ドル",
+        "title_en": "Bitcoin Drops Below $84,000 as Nearly $500 Million in Long Bets Get Wiped Out.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWlHZExkWkJoYUt5Vm50Wm94TGl1V0lRSElQWVlkMlctZ21TTEVKNHUzblRkNFIyVTJMS2FONGhaaUFqVHVLS1M3S2piRW9fTmVWNUgwTHdEN1FVNl9RdHNWZHVLWi1HUlNuSzN4aUs3WU1ldC1LSnU2Zmlab2RleEJYTGVvNmEwS0RMR3M5TG1Nc202Z1E?oc=5",
+        "published": "Wed, 07 Oct 2026 18:13:47 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ロビンフッド、2500万ドルのビットコイン購入",
+        "title_en": "Robinhood buys $25 million in bitcoin",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTEtNERXaGJOYmRhSE1CX1duTHU1ZXE3V0pJZklSWFEyMng4QzZXbzVWaW5HTDZLbjJFS2pNV3VwSF9wTkxNcVRuZnhtTGg4S0JPNUpRUUt6SkZwTFU2MUs5UHhkcUM4M0twZ1BKOWgyYUEzZVl2dkFWQ1o0MlNKakVRTnZMR3c?oc=5",
+        "published": "Wed, 07 Oct 2026 17:30:00 GMT",
+        "category": "大口"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアム5%下落、トム・リー氏がBitmineの購入停止予想を表明",
+        "title_en": "Ethereum Drops 5% After Tom Lee Says Bitmine Will Stop Purchases",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDBwQ1ZHQVRwSzNzV0VLOFBkYUtnS28ta2Y5LWh1SFlFcTFnN2NhN2VKLVlPQy1aQ2dqbW1iZXQ4Q2R3d2hGLW1OV0lyWUlWUWVQVFk4MmtaSzVxNFNoNkw1WmpSbHVOc3BoYUpOTVNfVXYwZE9ZQndaSkJHRWt1MVZfX2pqdFdFNDJPYlc1ZVBRZEU?oc=5",
+        "published": "Wed, 07 Oct 2026 13:44:00 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "イーサリアム：トム・リー氏、BitmineがまもなくETH購入を停止すると発言",
+        "title_en": "Ethereum news: Tom Lee says Bitmine to soon stop buying ETH",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNKZ1E5RzJqVU1oQksxUFNpQlFVUThkY0pEcVhtN3BfRDZQa2ZGUmZWWXBHQk5UR1ZHTUdfMGw5ckZ1aDR5Q0FrdUd2YWZ6VkFQWTVoYXZkLUZvaDRuMEYtNXEyb05GajluUjM4TkM2T1MyeldjbHZGNEMzQnRBRTZnOHhVWmhqaDE4bTR1TzJJbWZHVDdiYlRzUnplU25KdFFOM2R6aG9tQ1Ewc2NKWUF0Z3pfMnlFcWlBdmZHYlRzcVhYYjVMOTgyYw?oc=5",
+        "published": "Wed, 07 Oct 2026 12:40:31 GMT",
+        "category": "発言"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP、リップルが韓国メリッツと提携で新たな材料を模索",
+        "title_en": "XRP Price Eyes New Catalyst as Ripple Partners With South Korea’s Meritz",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmhBaWtZaThsR2VlM2dtaGJoUzA2VXZ6LXVQUkpwMmhHOWJBeHhHSzFnMlVLVUFRVHlBb2p4Vy1KTnl6RUs5M1FwMTZiSkRvQTJVNTA0NXpCMzd5SlJoLXJWM2J5YTdXam9idlBRZVJPSG1OMGxTc3ZVTkJaRlpZVmZjd2VWeW5IMmxMZ3kySlo4eFRUWG5PRVhzVQ?oc=5",
+        "published": "Wed, 07 Oct 2026 16:11:00 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "リップルニュース：Evernorthの XRPN、10月12日にナスダック上場予定か",
+        "title_en": "Ripple News: Will Evernorth’s XRPN Debut on Nasdaq This Oct 12?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVlhWFBuNHJtMXhDUXYzZ04zd3B5MHExTlBvWmZ0QWtGSDBZaEhPa1NOWl9STmZIcExzUE5fc19ZdGZmclU1U192ejkyUGFLU0c1d3JfV08zbHFOM09OSl9pemFoa3p1OTYxNTRBQWxVQlpIMWFOZjB1X3lZU3RlaWU4N1oxNGJzVHFBd21IYmIySVJuVHlQM2t6ZXppUQ?oc=5",
+        "published": "Wed, 07 Oct 2026 11:15:11 GMT",
+        "category": "上場"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナ財団、銀行向けにトークン化取引を1ステップで決済できるオープンソースコード提供",
+        "title_en": "Solana Foundation Offers Banks Open-Source Code to Settle Tokenized Trades in One Step",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXpwOXRYS1J1SUE3SG94SGFLbVZDeVR2LVFveENxT3JWS1NyaHd1VHdmNW5vSHY1NXlUaldqMzZmOGEyZ3hTY0pBSlNGcFNFLUhhcFFzU2ozNWg4X2NBbXpnT3ZDdFB2NnNUajBWVm16cUZ1cFhwTXFqbXFvdENCSGF2X3JKMzdVc3ZmbVljdzVsSzRXNjk5QmtYOUNMLTluOFE?oc=5",
+        "published": "Tue, 06 Oct 2026 22:57:55 GMT",
+        "category": "採用"
+      }
+    ],
+    "ADA": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "カルダノ、KYCと凍結機能を組み込んだプログラマブルトークン規格を稼働",
+        "title_en": "Cardano’s Programmable Token Standard Goes Live With Built-In KYC and Freeze Controls",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlaRmZIaXBJdENlZVJOUTJGclEyR0JhVTZ1cTBPcjUyVTM5R2hXaW5nY2RIUUFMVTdPaXBpXzMtd2RNTzRxSkxqeGd2RW51VERveGtFcGw0dXBvR2pvTFdyMl96dUlxck9BM2JWUmFrZ1ZQMUxlTXhWUzBQNlhBem1Gd2ZYRmphWndoZmtOSTNTRjVTMzdHZjFpZ25ydnJQMldYd0dMYy0?oc=5",
+        "published": "Wed, 07 Oct 2026 10:05:11 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "カルダノニュース：CIP-0113アップグレードでADAの将来が変わる可能性",
+        "title_en": "Cardano News: CIP-0113 Upgrade Could Change ADA Future",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEh6UDVhWHJwb003OE45aldCV1BDd3ZCMzIxS1l3Y2lWdFc3d0c3ZUxrZE95TzNldVY5SHdtU2hkYnZWYzRXSXFmNnZ0VlROeC1SbUVoeFFqa1dUREJ5bWg5NHQyYjhBYW5Td0tTRDc5WEt2eEJiYXdkc3R3YUlpakE4NEdnZGhCVkp0ZmE2MHotdVMzVVoxeGdB?oc=5",
+        "published": "Wed, 07 Oct 2026 05:23:20 GMT",
+        "category": "その他"
+      }
+    ],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
