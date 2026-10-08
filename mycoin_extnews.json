@@ -1,92 +1,101 @@
 {
-  "generated_at": "2026-10-08T00:53:48+00:00",
+  "generated_at": "2026-10-08T10:20:00+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "ブラックロック幹部、ビットコインETF価格の転換点について語る",
-        "title_en": "「水門は開いた」ブラックロック幹部が語るビットコインETF価格の巨大な転換点",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tUnY1NXd5RUZhMEhLVUo3TFk5aHNXcjgzSTBJVHhHVl9za05Rczl3Zl9USHQ3MFJaWG93ZUVmaVlRRTJNS2dybjNtUTZhbjNBaHRJT05zaFZJQQ?oc=5",
-        "published": "Thu, 08 Oct 2026 00:45:00 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "イラン攻撃計画報道で原油が急騰、ビットコインが83,000ドルを下回る",
+        "title_en": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeS1Mel80UjFVUXhHSWNvWlZIaDNwbXVFd1g3TktEcVItSHZiY1lmblBsVzRjMlQ5QTRnbXpWYUhVNHZVXzY4WHZ2VW1iamV5Q1Uta1FLX2dKM0FzMExuLWp3bkM1Nmh2TnQxTGpYeVJ2dTJScnlRVF9Da1F6ZjBWWkJSS0xrS1JUc3d4aS1LM0JPUUVVakJBWlBsS3NEWHJDR0VkcU5ydm5oZUJDcGlFM1RSdWI?oc=5",
+        "published": "Thu, 08 Oct 2026 04:00:07 GMT",
+        "category": "マクロ"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イラン油槽船への攻撃で石油上昇、ビットコイン下落",
-        "title_en": "Iran tanker attacks push oil higher and Bitcoin lower",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGhaczM2TnBwV2VMR3ZKaUx3eDBqdEVQYWY2TG12ajdzWGxEaFpOSU9PRHNOcUpORmxGSlEwVFBVYU4zTnQweVRvc3dIZktSZlluQlZyY0Judl9IVkYzZnRsODFiNGhRQWJibkpxSTdIV2RKU0pHVDV2QWhuNVI2bVJsaElGOWpUaTNDNg?oc=5",
-        "published": "Wed, 07 Oct 2026 20:55:54 GMT",
+        "title_ja": "イランの攻撃計画報道を受け、原油価格が急騰する中、ビットコインは83,000ドルを下回る",
+        "title_en": "イランの攻撃計画報道を受け、原油価格が急騰する中、ビットコインは83,000ドルを下回る",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGhjRm5YYzJvSXMxMHd5X20zWDRlWGppT3BFSWFkd1Q2MEpMUlZfdHZyRmZzNS1UY3d1T3Q4dUt1NkdvVVZLS0piMEduTFkwWWRfWElwZkdicERidmJURmFPXzJlU2lMVlFkNTM1TzNUcm96ay1ncUZ2eG1YVHZSaTdKd18td1ZKZGhtSzhTUkR1YXZvdHg1LWlwZ2ktWDIxdC1LYk0xdW9QeVJhS3VKZFJIU0EwTDlC?oc=5",
+        "published": "Thu, 08 Oct 2026 04:00:07 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "トム・リー氏がBitmineの購入停止を予想、イーサリアム5%下落",
-        "title_en": "Ethereum Drops 5% After Tom Lee Says Bitmine Will Stop Purchases",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDBwQ1ZHQVRwSzNzV0VLOFBkYUtnS28ta2Y5LWh1SFlFcTFnN2NhN2VKLVlPQy1aQ2dqbW1iZXQ4Q2R3d2hGLW1OV0lyWUlWUWVQVFk4MmtaSzVxNFNoNkw1WmpSbHVOc3BoYUpOTVNfVXYwZE9ZQndaSkJHRWt1MVZfX2pqdFdFNDJPYlc1ZVBRZEU?oc=5",
-        "published": "Wed, 07 Oct 2026 13:44:00 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムのGlamsterdamテストネット、アップグレード後1ブロックあたり約2億ガスを記録",
+        "title_en": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWlPU0xUaktyV09YOVBhdjdxQ0FULUJucW5jYk4zZ3l0MWlaQjRnUEg2aTZwRHlEcldoUDFTd1pMM2RWaGNnc1ljN09rNHpJRkgyWHdTX1BCQ0lwa0ZRdHpyeU5aOEVETndXWUtMaElpSlkwMERBckRMVFVlaTJtRVZLXzZ5ajl3Z09aX192VDN0STQ3LXd4LVpQVjVJZXMycTFHVFhkVmVkTkxXS2lzWkxsLTdLQnFaMnc?oc=5",
+        "published": "Thu, 08 Oct 2026 04:23:23 GMT",
+        "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムニュース：トム・リー氏、BitmineがまもなくETH購入停止と述べる",
-        "title_en": "Ethereum news: Tom Lee says Bitmine to soon stop buying ETH",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNKZ1E5RzJqVU1oQksxUFNpQlFVUThkY0pEcVhtN3BfRDZQa2ZGUmZWWXBHQk5UR1ZHTUdfMGw5ckZ1aDR5Q0FrdUd2YWZ6VkFQWTVoYXZkLUZvaDRuMEYtNXEyb05GajluUjM4TkM2T1MyeldjbHZGNEMzQnRBRTZnOHhVWmhqaDE4bTR1TzJJbWZHVDdiYlRzUnplU25KdFFOM2R6aG9tQ1Ewc2NKWUF0Z3pfMnlFcWlBdmZHYlRzcVhYYjVMOTgyYw?oc=5",
-        "published": "Wed, 07 Oct 2026 12:40:31 GMT",
-        "category": "発言"
+        "title_ja": "アップグレード後、EthereumのGlamsterdamテストネットは1ブロックあたり約2億ガスの処理を記録",
+        "title_en": "アップグレード後、EthereumのGlamsterdamテストネットは1ブロックあたり約2億ガスの処理を記録",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tYd0E4T0pOZ0Q2QVM4SFVCYW9GZEUyTGx6aFM0TVRxUDBHVnBNS2I0bzJGN0V4bVY2d0k1U0xkQ0FkU21HNXFTM3Qzbnh1c3FDdk1KSXo3QjBNb2N4UG9kUERsUG1KNUpyR0FKd0lhb0lzeWgxVTFLZnZ2eHp5MkRGLWsxTE52Wkh1eC0wMmpiZ0FKRkdaUE1HRTU0RVdYSW92S2pTZmtfaUxraHlRVVQzSFJIbFE0VHJFNHZn?oc=5",
+        "published": "Thu, 08 Oct 2026 04:23:23 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Rippleが韓国Meritzと提携、XRP価格が新たな触媒に注目",
-        "title_en": "XRP Price Eyes New Catalyst as Ripple Partners With South Korea’s Meritz",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmhBaWtZaThsR2VlM2dtaGJoUzA2VXZ6LXVQUkpwMmhHOWJBeHhHSzFnMlVLVUFRVHlBb2p4Vy1KTnl6RUs5M1FwMTZiSkRvQTJVNTA0NXpCMzd5SlJoLXJWM2J5YTdXam9idlBRZVJPSG1OMGxTc3ZVTkJaRlpZVmZjd2VWeW5IMmxMZ3kySlo4eFRUWG5PRVhzVQ?oc=5",
-        "published": "Wed, 07 Oct 2026 16:11:00 GMT",
+        "title_ja": "XRP関連のリップル、Brevan Howardとの提携でビジネス拡大",
+        "title_en": "XRP News: Brevan Howard Deal Broadens Ripple’s Scope",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXE2bk5nZ0Jjb3dVeDB1bzlCUVB4d19TNXFMUmNIYlNOWEgycW9oQzFUYUdtRTdjZ2JDMWhVRXNFb0h1OFctdHZyX01oeFl2aWlxYzUzTGhQOXZEQjRCOWhzVkF4YlAtdWJjR3AtamtYdUhBXy12aXJoWmdoX01oQWVRSlBQZ3BIb1Bibk9vZF9UOGZ1aXFr?oc=5",
+        "published": "Thu, 08 Oct 2026 07:10:00 GMT",
         "category": "提携"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Rippleニュース：Evernorthの XRPNは10月12日にナスダック上場するか",
-        "title_en": "Ripple News: Will Evernorth’s XRPN Debut on Nasdaq This Oct 12?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVlhWFBuNHJtMXhDUXYzZ04zd3B5MHExTlBvWmZ0QWtGSDBZaEhPa1NOWl9STmZIcExzUE5fc19ZdGZmclU1U192ejkyUGFLU0c1d3JfV08zbHFOM09OSl9pemFoa3p1OTYxNTRBQWxVQlpIMWFOZjB1X3lZU3RlaWU4N1oxNGJzVHFBd21IYmIySVJuVHlQM2t6ZXppUQ?oc=5",
-        "published": "Wed, 07 Oct 2026 11:15:11 GMT",
-        "category": "上場"
+        "source": "CoinDesk",
+        "title_ja": "リップル、銀行が長年運営してきたレバレッジ株式ベット資金調達で手数料を獲得",
+        "title_en": "XRP-linked Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1ZIX1hoRTNYUi1aSmFhajFqMElERFlEd3FVTGFXdlpWekNhQkJZTXZmbXFXcmJSZUJoU1JCTTlzZ203UjlQUDl3b0JWZl91OFRIWGVRQ3FUSU1QTlhmbGtJejRiSXNJTzBJa0huMllPWDhyZGFVRnIyYkhjVTVXcHptTkFZN2dTZ0FNRTUwZTUta3F3UUw3VGpqQWdLWV84RGMxVGNEeVg1WlVON3RxWXRWc18tRHhKZWcycmtVaER4WE5N?oc=5",
+        "published": "Thu, 08 Oct 2026 06:17:13 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "モルガン・スタンレー、ビットコイン・イーサリアム・ソラナETFを0.14%の手数料で運用",
-        "title_en": "Morgan Stanley Runs Bitcoin, Ethereum and Solana ETFs at a 0.14% Fee. Which Coin Gets Its Money First?",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXdPay04ZThYSDV3bWRwa1NpSkVvUW5RUlNuSmxaVEJoVGpUejU3WW1oaTVUSmxUWmFFQWZUWkxqNF9HeDNGOW1KQms4NFcwM2o0R1NWMmR0MDZJSU1yVnR2VmxQTjJiaF8yTVU4VFBuQkRJaTFUSHhyb1BzbDBjR0hZQ3Q2OEs2bS1lbWVnZzRCOXA3RkdEbklEdEw1MDhpbmk0?oc=5",
-        "published": "Wed, 07 Oct 2026 08:51:55 GMT",
-        "category": "承認"
+        "source": "CoinDesk",
+        "title_ja": "サムスン、ソラナとスイを活用し、8,200万台のスマートフォンで手数料ゼロのUSDC国際送金を開始",
+        "title_en": "サムスン、ソラナとスイを活用し、8,200万台のスマートフォンで手数料ゼロのUSDC国際送金を開始",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNF81OXpVUnF3MWw3ZFBSTnpyVnZLbXZpbGROck5jdW10bDdhSl9mQXpYaUlIbTBNQ3haU2ZNMmdCNHFVd2MzaHdmbkU1Vy1INFJ5d1c2Vk9PZ2c1aFgwV2RQZ0R2eEx2OGsxRDF3V1lhem9iTFFtMW1ha2xEYmxpYk4zdnFuMWtQVTduTFg2Y2dNMDd3REFKV004MmgtZkpKbVhVeGtYT1BJN3U0VVh0Sg?oc=5",
+        "published": "Thu, 08 Oct 2026 08:39:23 GMT",
+        "category": "採用"
       }
     ],
     "ADA": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "カルダノが本当に有用なものを構築、当然のごとく価格は下落",
-        "title_en": "Cardano Built Something Genuinely Useful. Naturally, the Price Went Down.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0szdUpocXRxWGVJRDd3UHNoMWRFbWVNUU04T01ZMG5SaTk1OW9VSnVhd2dqalBSbXZ2ajNVZVQ3Ukc0Yk5oQnpvc283YTFlS0Z6YjV2WmlGOW43WVdHT1VRYVg5RW5CR0RoenBQUWszNmxHY25meG4ycmJwVFpnSmZhZTJjX0FGU2dEZ3BDeFlRbGJkRl96OEhIZ1pYU0hSV2JmZ2JBYnI?oc=5",
-        "published": "Wed, 07 Oct 2026 20:17:01 GMT",
+        "title_ja": "カルダノの新標準、トークンの凍結・没収が可能に、ADAの安全性は大丈夫か",
+        "title_en": "Cardano's New Standard Lets Issuers Freeze and Seize Tokens: Is Your ADA Safe?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0lUaWlEMEhqeE1oc2dxNmh5NzE3QVNpVERDdzVnVXBjdXFiWHQzU0NJc21qVkw4d3JMczRXT3dMSkljLXN5RzVfU0t3WEVIeE93UVZrdTRQWjlPRGdXUlFFa0Jyd1gzbFZHR293VURtM0UtMjY4VWxhMllrUGtJUUZGQ1dlNkFpUW8yaWhUQk5iRHBfUHVoejRGVWI5MzNyMU1nUA?oc=5",
+        "published": "Thu, 08 Oct 2026 02:00:00 GMT",
         "category": "その他"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "カルダノの最大プロジェクトがTOKEN2049ブースから消える",
-        "title_en": "Cardano's Biggest Project Went Missing From Its TOKEN2049 Booth",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOF9XUFFveGc3NUtsalpMSFNZMmoxQTRlMUpEZ3BZYlRhd3hRZDUtaWx6RG5xaWZ1b3hHSXUyQWJtejFZZ1lSXzlhaEdZN0JFX0hsYmFXN1lCQlV6Q2JULTBZY0RBbk0zQV9kcmpFbHVRM2lvZTNjbTBkQTI4YmNjanRRajQtampod3V3WWhZYWQyck5BMjFWQUhaYzJkQ0lCUEc0bA?oc=5",
-        "published": "Wed, 07 Oct 2026 17:33:22 GMT",
-        "category": "その他"
+        "title_ja": "カルダノのニュース：CIP-0113がADAトークンにコンプライアンス規則をもたらす",
+        "title_en": "Cardano News: CIP-0113 Brings Compliance Rules to ADA Tokens",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlhCSWZjRDZqUFA3OWVNVVQ3anNUdlU5NnZaRE52MXZQc3FweE1ldFZleFZZX05NLTI0RjVDVFkzT2syZzFJZk9EWVR4Y0RPXy13UGg0Y2lyaUt3ckxRX2dpZDV1aUVOa0pEaWRtRG9tYk0zV2I1TzhIVnlISkpHbTZtU2pkYmRyV2VieWtveS1jc0NYcnhwSw?oc=5",
+        "published": "Wed, 07 Oct 2026 12:54:32 GMT",
+        "category": "規制"
       }
     ],
     "DOGE": [],
-    "SUI": [],
+    "SUI": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "サムスン、ソラナとスイを活用し、8,200万台のスマートフォンで手数料ゼロのUSDC国際送金を開始",
+        "title_en": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2JoTWZaRWZMcFhPLTR3MHB0WGZpWW5xUzEyOVI4ZmJDWEU0TnZmU2VWUDNqZTBXY1FlMHNXWGI5N3FJeHNxcDN6NDN6WjhQV0NyZXpVU1RiN0g0V0FzQzl0ODNtN2tpanpQOVppNzNwcnVLVVFUYXVzUnB5UFZaTzgxRHpPQV9SOWtiZ0gybmROYURyUUtUWVo3NV90cnZDeW4wTTF0YTJaV1NB?oc=5",
+        "published": "Thu, 08 Oct 2026 08:39:23 GMT",
+        "category": "採用"
+      }
+    ],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
