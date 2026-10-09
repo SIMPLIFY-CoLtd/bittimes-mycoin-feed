@@ -1,101 +1,119 @@
 {
-  "generated_at": "2026-10-08T18:45:22+00:00",
+  "generated_at": "2026-10-09T01:07:41+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "米政府、Bitfinexハッカーから押収した10億ドル相当のビットコインを移動",
-        "title_en": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDQtTkpzbXhRN3pxa1hDYXdjanRJRmFFR2xDUjY0OFhpeExmNXEtd0s3dnQ5QWE5c3JwSEpKa091aHIwSEotX3RTYkJwZnZkQmlOZGtTSjlzSFhZaTV5dFBOWkUteXF3aThtVFR6cWhEa3lKcFdBcHpVbmpRY1dKS2pVeGFCRmRvVy1rRWVGWWNNZGxjZGFfLVNB?oc=5",
-        "published": "Thu, 08 Oct 2026 16:44:20 GMT",
-        "category": "大口"
+        "source": "Forbes JAPAN",
+        "title_ja": "AIバブル崩壊は「ビットコイン価格を押し上げる」と著名トレーダーが指摘",
+        "title_en": "AIバブル崩壊は「ビットコイン価格を押し上げる」、著名トレーダーが警告",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JVURaWHNSVC16VFJ6V1Bab3h5dHFWbldITHU1WGxVSW5Tc3BNQU5qdnRpZU5rNk9BM19LQURzbFpuQlYxMUthY0V5M2lTMlItRTFfWEpFaWlndw?oc=5",
+        "published": "Fri, 09 Oct 2026 00:45:00 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "米政府がCoinbase Primeに7億7,000万ドル相当のビットコインを移動",
-        "title_en": "US government moved $770M worth of bitcoin onto Coinbase Prime",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2ZRVTFVSE5WeDk0QS04eG91ZDNTV3dwWGN3NzhTRG4zbHluT3NoWVQyN3RUX2NJM05MblhOOGZEWXUwX25wZkxxdWxhd3ZmUlVaMFh6Z21YS1djazZKRTJMLTN5cUJ4bEFqLTJ4WlEyeUxoT1RpUFpoenFUUVRiTEhrYUhLVFpNMkI5RWRHbVZxeC1RUDYyUWNLUUE0a2NxVmoydHoyV0x1dENP?oc=5",
-        "published": "Thu, 08 Oct 2026 16:30:00 GMT",
-        "category": "大口"
+        "title_ja": "暗号資産市場は10月の大幅下落に向かっているのか",
+        "title_en": "Is the Crypto Market Heading for Another October Bloodbath?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFA1OV9ONWNlU1kwek9TU21OZjA3U3A2SVp6eHl2akdTOC05WTZnOTZOblNUbnBNQkMzY29VYmdvRWFKWVRHNGJESmowcVBvVUVrWFo5cWtRcU5LR1RZOElIQ1RsdUhLZ1B3OEtxTFpCRHVpTEl4YzVKSG1QM2JZRFpLZGxBdXMyUm5DbzNGZWozTTZnT2tMRC1fT1F2eGdwTFNvSg?oc=5",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リーの1万ドルのイーサリアム予想、BitMineの買い戻し停止で最大の試練に直面",
-        "title_en": "Tom Lee’s $10K Ethereum Call Faces Its Biggest Test as BitMine Prepares to Stop Buying",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWtnY0M0R2tmdERGUkJ1UUlQUUZHYjk2RjFlRkJvbUVnZmJRSkF5VDNLM2F6VmRzM1U2QkxoX0VSQS0tX2VLNUo1S3dpUk8ycVNwclFZOE5za2NMZTFWemY4czJIYl8taDIxcGI3b2VFaGpKeDVJMkdxNE4tX0Y3TW01d2gtdmx5d3B3QjRXa2dxZGdf?oc=5",
-        "published": "Thu, 08 Oct 2026 15:17:13 GMT",
-        "category": "発言"
+        "title_ja": "Tom LeeのBitMineがイーサリアムの4.9%を保有。5%に達したら何が起きるか",
+        "title_en": "Tom Lee’s BitMine Owns 4.9% of All Ethereum. What Happens When It Hits 5%?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1g4WHIwQS1WQzI3NWxMMnNkeTNTY0JxSVhDRUxwUEtKSk1TZkJLQmptMk9FZE1DY1FyMHBvRzRpQUlnUndsTVRNWUFRSmpWUncwMExOYWxCeU94QndiS01qOHZObXRnbXhIeUllYmlDQ2ItTkZveXNQQ2RsZGVUQnhDYTM1VXpDX2lXYnRtRjg?oc=5",
+        "published": "Thu, 08 Oct 2026 22:00:30 GMT",
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムニュース：BitMine、ETH供給量5%上限で買い戻しを停止",
-        "title_en": "Ethereum News: BitMine To Halt Buying at 5% ETH Supply Cap",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlhNdGNjR1FzOThaZ2k2RFlKeDhtbGdhUng0WFQyek9GX3lGRHFBaHN3UUYyY0NjYnhmYU81Ty1JNktaUktxTld0eUlrSTRRU2dDWVVMa09yVWk3eHViY083cmlMYU04aHg5OVdld09ZNVloS2FabFhJdERWakxqNTBtRlNiTWl3UTFfamRhVVJ6WV85OFdrR09BVW41dWc?oc=5",
-        "published": "Thu, 08 Oct 2026 11:48:41 GMT",
-        "category": "その他"
+        "title_ja": "Derive V3がローンチ、オンチェーンオプションのカストディをイーサリアムへ移行",
+        "title_en": "Derive V3 Goes Live, Moving Onchain Options Custody to Ethereum",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamo2VnpjRkozbFFGa3hxc1NVQ0l1YWtCQzY4RkNCTlNhWDZoSnY5ZmNNM2N0VlhDRTV3cVc5R0NnUU9WeEJCUDFqdkZ0T3pHOUhubXlYdE9qYkZaM3dwMnV2X0VES0ZlQU9xTEJPblZGUkpfeldRT3JQQ0I5V3RwVTRfdWYxdmx4M3pBeUZNUlE4ZlBqU2FB?oc=5",
+        "published": "Thu, 08 Oct 2026 18:30:35 GMT",
+        "category": "採用"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Flare CEOがリップル元CTO技術責任者のXRP融資評価は過小と指摘、9,000ドルの価格見通しが浮上",
+        "title_ja": "リップルが1日で3つの機関向け取引を締結。実際にXRPが必要なのはどれか",
+        "title_en": "Ripple Signed Three Institutional Deals in One Day. Which of Them Actually Needs XRP?",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjF2UDY0TE1ybW11Q2RLOFRlaG9ubllEMWlkV05HeVphMHBYc3l0SHFHX282bTJwMmQzWjBtYUtmOXFQQkNpdGpLRkJiZ0U4ZDhJUW9ETXQ1eUJOMGJlVzJJYjVHeFhVb0NZNVEwVUg3S0VxUDBzbUdfemNQaDY3akxOMW5TdjFsYTN1LXpXV0VpUWpMWEg0cXUtZ2N6VGdUYWxDSThNVQ?oc=5",
+        "published": "Thu, 08 Oct 2026 23:00:07 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Flare CEOが元リップル最高技術責任者のXRP貸付評価は過小だと指摘、90ドルの予想も浮上",
         "title_en": "Flare CEO Says Ex-Ripple CTO Underestimates XRP Lending as $90 Price Call Emerges",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDVDV3EtU0JUYy1uNTk5MExlNkJ5UHBxZW9JamNTcFRzd2xJanpNZzZPYktOeDZFb0lRVGZCNGZ0d19vcWtRNzBaSWg3a1MyVE1pSkNoSEkxSnp3X0RDcjFTWERQejdPTlVVYk5PUUswSzQ5bmNITm1YQ1hORU9yZTFGWTMzOTNBclBxWTZSQklidkk?oc=5",
         "published": "Thu, 08 Oct 2026 14:12:15 GMT",
         "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPニュース：ブレヴァン・ハワードとの提携がリップルの事業拡大を推進",
-        "title_en": "XRP News: Brevan Howard Deal Broadens Ripple’s Scope",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXE2bk5nZ0Jjb3dVeDB1bzlCUVB4d19TNXFMUmNIYlNOWEgycW9oQzFUYUdtRTdjZ2JDMWhVRXNFb0h1OFctdHZyX01oeFl2aWlxYzUzTGhQOXZEQjRCOWhzVkF4YlAtdWJjR3AtamtYdUhBXy12aXJoWmdoX01oQWVRSlBQZ3BIb1Bibk9vZF9UOGZ1aXFr?oc=5",
-        "published": "Thu, 08 Oct 2026 07:10:00 GMT",
-        "category": "提携"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Securitize、ソラナ上でNvidia、Apple、Amazonのトークン化株を提供開始",
+        "title_ja": "Decrypt Money がソラナでアカウントを展開、情報交換プラットフォームを構築",
+        "title_en": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEFKRzRlQldwRnVMczdiZGVIcXZkSHpsS2RSWFlwXzhDTUdlajNRZWdRTmt1MzdTeXBTM2o2QW5mbDZPU0E2d0ZBVzU2a2hKQTBWYUFwRmRZSGtuMTZxdFVlcG55R3k1akFIM2dHR2ozSVJIeXl4djRNUlRxVW5MUmxYdF9EU1M4VmRoWGxSa05YMnVlTktILU5sTDNaT2trTXc?oc=5",
+        "published": "Thu, 08 Oct 2026 15:42:16 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Securitizeがソラナ上でNvidia、Apple、Amazonをオンチェーン化、トークン化株式を提供",
         "title_en": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjgxRXVLajFPZGVzYnFZcmszQmNfejZTRlVsMDhyVmpQVHh3bC1iVTZvcUpJRk1EdmJTYUNkTW9wTG1yNDdEaDBLbzZYaE44TmZnaHBtR09RX05Ndll6bjJjUkd6RXlxdFhCMVotTm1CSUdXM25KQllDc3BiT0hNZjhmNld6aWd3alotNEhJZ1JhODEzOTNBRVo3VVpObERfQTdFNw?oc=5",
         "published": "Thu, 08 Oct 2026 15:10:49 GMT",
         "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "Securitize（SECZ）、ソラナ上でトークン化米国株式を開始、NYSEおよびOKXICEでの取引を計画",
-        "title_en": "Securitize (SECZ) launches tokenized U.S. stocks on Solana, plans NYSE and OKXICE trading",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3ROUVVoUjJxZC15THd1c3ZnQk41dzRYODBrTXhZR1l6TFR2dGU2VzVYaDVubVp4OTE2d2RTYS1BTmx3SkJENDMxZVlpNThvUVl2T3M3ODBhSzdJM2o0TlhCS0gzSDdxZGFHMVRMQWRKYl9tbHk5elVjMk1PVkpISC1wNWZrX09VdnEzcEJwbWg2RER5M1BZVHZkUmpHSFU2MVNmWmUyemc4YzQ5VzdPRjNWYU5oQnFpVDgtc2lYZEl5dkpO?oc=5",
-        "published": "Thu, 08 Oct 2026 14:11:29 GMT",
-        "category": "上場"
       }
     ],
     "ADA": [
       {
         "source": "CoinDesk",
-        "title_ja": "カルダノ財団、ヴェリディアン・アイデンティティ部門をスピンオフし、ブロックチェーン上で株式をトークン化",
+        "title_ja": "カルダノ財団がヴェリディアン・アイデンティティ部門をスピンオフ、オンチェーン株式をトークン化",
         "title_en": "Cardano Foundation spins out Veridian identity unit and tokenizes equity onchain",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTktaR0JYUWdEeGdIaW5ralFDa3EwdVMtbWNrNU1yVVBrOHZwajI4VTlTX3lZS1NtOURFNmVNSkJPUFFwZGdNMFZHTWF2aXBYVUl5XzdpVzR0VllVQTFyMmVxYWliZG5zTGptZno3YXpaVVhDVjJHQ2FGMWpERE41emNaWkluVlQ3YmNNcllfOVBoYXYzZDlGa1NEaW42VnpidFVaTDgycFlhN2NpNzJROXVXUkU4YUoyb2pZ?oc=5",
         "published": "Thu, 08 Oct 2026 14:24:24 GMT",
-        "category": "その他"
+        "category": "採用"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "カルダノ財団、ヴェリディアンをスピンオフし、新標準で株式をトークン化",
+        "title_ja": "カルダノ財団がヴェリディアンをスピンオフし、新標準で株式をトークン化",
         "title_en": "カルダノ財団、ヴェリディアンをスピンオフし、新標準で株式をトークン化",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWwzZ01SeUVTbTVIYkNHbUYwV1JpMkJXZ2l6ZWd4Y0U5ZG10Q1VvbVd1dVk3U1NqZm13N1VHWW5oZVhBak5LbHVUSjZYN3lndlBXLXhUd1d3RjdjT2FIOEJ2bkxEY1hkb2NmUmw1NDVISmUtMHVyUGJSMS1RX2gyNlhNUlhYUHVGOV9ncVA5bURwSjNNanlmV09LcXZzUlFmWWNxT1ZTcVpCU1hKVDNEVms0X29vTjgySWxJdVpWaw?oc=5",
         "published": "Thu, 08 Oct 2026 14:24:24 GMT",
-        "category": "その他"
+        "category": "採用"
       }
     ],
     "DOGE": [],
-    "SUI": [],
-    "LINK": [],
+    "SUI": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "サムスンがソラナとSuiを活用、8200万台のスマートフォンで手数料無料USDC国際送金をローンチ",
+        "title_en": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2JoTWZaRWZMcFhPLTR3MHB0WGZpWW5xUzEyOVI4ZmJDWEU0TnZmU2VWUDNqZTBXY1FlMHNXWGI5N3FJeHNxcDN6NDN6WjhQV0NyZXpVU1RiN0g0V0FzQzl0ODNtN2tpanpQOVppNzNwcnVLVVFUYXVzUnB5UFZaTzgxRHpPQV9SOWtiZ0gybmROYURyUUtUWVo3NV90cnZDeW4wTTF0YTJaV1NB?oc=5",
+        "published": "Thu, 08 Oct 2026 13:53:35 GMT",
+        "category": "採用"
+      }
+    ],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Chainlinkがブロックチェーン相互運用性プロトコルの新版をリリース。LINK投資家への影響は",
+        "title_en": "Chainlink Just Released a New Version of Its Blockchain Interoperability Protocol. Here's What It Means for LINK Investors.",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHZHa2tDYThBZDFhNzd1d2phZWxyVVVDT0Y1WUNiaTF2Q1lzQjV1eUo5WFZKUmpfVFVER1MxZWxYczBKSmtNT1kyZjZjUXlqN1NQVF81UU05MWphNG9XeW1tTVdBcXlKU2NlQzJuMU41RUJWMkZvbmd0U1ppd2NXbTlqb0Izajh3cDVwa2JMVVZvYmg0cjh3T240bEdicjUwQ3lmcWZOWmpaenM?oc=5",
+        "published": "Thu, 08 Oct 2026 15:57:00 GMT",
+        "category": "その他"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
