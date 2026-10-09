@@ -1,14 +1,108 @@
 {
-  "generated_at": "2026-10-09T10:20:34+00:00",
+  "generated_at": "2026-10-09T18:15:47+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
-    "ADA": [],
-    "DOGE": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、厳しい1週間後にリバウンド、トレーダーはさらなる下落を織り込む",
+        "title_en": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkFoX29odnhvRlh6MmN3Ul9hOWJ0N0ljS3FsWk9BZ0xLV2NVQUdxdFAwTU03T2tfQXM5RHY3WmRqbGhBdkt4SEpfTVhpY2lfQ1RzRlVJNENTRmpNUGItUGxuQTFRTUJ3REdaYXJ6dkphNXBUZHNCSDhoOExKMEx2MEp1N1NldXVhLVRkSW1zLVJwYnM4UXpBQndWVzRxbElSR3c?oc=5",
+        "published": "Fri, 09 Oct 2026 17:36:26 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン生命保険のMeanwhile、3,750万ドル調達",
+        "title_en": "Bitcoin life insurer Meanwhile raises $37.5M",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVIWjJwZ2RVZnItRDFvS0wtTjVRazRBY1puRkFncWhiTjdXR3o1bmRLcnJHUnJYV3dEbTY0ZWZNSzM3cTVQaEVaQVRUVVh2TzhWbDZqeUhTeFBiNURFMkNicEV6ajhUQ3FRdURsR19XMkZwNTR0N1pQVjF3SW1ld3VRcnlMMEx1cnJGRQ?oc=5",
+        "published": "Fri, 09 Oct 2026 16:30:00 GMT",
+        "category": "採用"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "EthereumのL2 StarknetがL1への転換意向でジャンプ、20%上昇",
+        "title_en": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdURvM1dPU1dDQXU5Sl9SYkpKbm9oZnU5RzZqNUVyUWtPNkdPRTBhOFpSdUE0UUJCYlVObnhzZS12aElublh1MHVYalkwek9lRzY4VXVOZS1LSGxyWUNDZVhESFlYYUwtWEpRQkxiNlhLbU5YTzgwMTVZX3lSNVY1QmJBMHRoMzg3eTA2VXhYNzZWajU1di1zb09B?oc=5",
+        "published": "Fri, 09 Oct 2026 16:36:03 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "暗号資産100億ドル規模の急落でEtherの損失がビットコインの6倍に",
+        "title_en": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDlsR0RnRE9sNlVKcERWaVFQMUR6RDBRX29LbDV3R0o1cEJRRTJQaG1sS05zc0JqOUVrZVphU3F4a1Bpa05ZeTg5T3MtcndGLVZHbVFwMVBhaXJTUjNmWW96aTN5QjRzNFR3d1psVHN3cm5ULXFWUXlUOFZ2RGNPVXp4MUdDQTNPVlVQSDhaTExSVGFuOHpsMHltYXJDaU50NjE1dF9ZTk13V2FxcUxDZW53THhhOTJLS1pqRGI5bGJMN2xRdDl3?oc=5",
+        "published": "Fri, 09 Oct 2026 04:04:36 GMT",
+        "category": "その他"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRPLの実物資産が9ヶ月で60倍成長、1トークンがほぼすべてを牽引",
+        "title_en": "XRPL Real-World Assets Just Grew 60x in 9 Months — One Token Is Doing Almost All of It",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFF2aXRfRTBSVW9OWjM2WFh4STYwTTJDMDVzS21faWFERE9Mam5nQ3NpZHZldG1BQnBJa2ZXU3VkOFdQa1lLTHdPUzhCUVIweE4zQ2Z5T0UzT0xsWFBkWWVPYzZpaXhmS0I2ZU5pN3QxdEszQllkdXF3TWo5V2MyMkwwLV9XQndqUTRoMXFqUkc1elUySlkw?oc=5",
+        "published": "Fri, 09 Oct 2026 12:52:44 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "XRP Ledgerが銀行・ステーブルコイン・トークン化ファンド向けの新たなコントロールを追加",
+        "title_en": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWVzTGd5X0VRMWs1MkxCSTJlNXZOeUtIVjZlQ3VhRGpUWHlXMWxRdDZBOWVsTnlFUExBaUFBcFhpUGtFU3doTy1yNnBOUFNEb2NBU1JzRmUzdzlTc1k1V3Zac0cwWlFEODFmOEl5a0NyRjFxZXJmckpWa0s0aE5Na2NnVTFJRWhWbmlFSm9BWFFDV3hPM2lKbXBodVlHcWhwU2ZiY0NENU5tQkdsNGJhNg?oc=5",
+        "published": "Fri, 09 Oct 2026 04:21:36 GMT",
+        "category": "採用"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "Solanaが最終的な200ミリ秒のアップグレード間近、ブロック時間を半減予定",
+        "title_en": "SOL news: Solana is about to halve its block times as final 200-millisecond upgrade nears",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWxUTVRSU2JzM05GWDNnU0RveVZvdFBQcmVZZ25nb2JEQ1hHUURQamFsMkk4WTktdVNEamdlSmdyQ08zNGdqVWw4Y3pWYmNBaDFPZEs4dlFjYlczNWhzVVZKd202cEJtaTNWSFI5V0RYU055WXlUVHBjX2hBWXhKWGVMVFE0SGNvSjNpa0sySWJQWGdtUzY5WWpfTmhwUFdYV2trMjZDODJGNWs0aUcyMk5MMFBTT3c4N2NGeA?oc=5",
+        "published": "Fri, 09 Oct 2026 05:00:52 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "Solanaが最終的な200ミリ秒のアップグレード間近、ブロック時間を半減予定",
+        "title_en": "Solanaは最終的な200ミリ秒のアップグレードが近づく中、ブロック時間を半分に短縮する予定です",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWZ5MTJzWW02WUpyWDkzRDNNd29KX2VMQmFxRTNmOGt5MkplMktONF9rQm15aG5hWHRwNXhWOE80VDFJQm12LUcwOFdId0xYOU9MdUZvZmhOcWVwUmpTV3plal9PMlVMY0Nic3Y5bkR2bDh5TjRUX0U2Zjdvdk8tSktMbmdmLUhRRDB0RXIxYjJRVnZKRmc5d09rT0VmR1pvcmtETE9qNWFNbXdHUlVyNFlaS0FjRDVONlVhQUJBX2E?oc=5",
+        "published": "Fri, 09 Oct 2026 05:00:52 GMT",
+        "category": "その他"
+      }
+    ],
+    "ADA": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Cardano創業者Hoskinssonが、MidnightはZcashを上回ると主張、GeminiにADAリスティングを促す",
+        "title_en": "Cardano Founder Hoskinson Says Midnight Will Surpass Zcash, Urges Gemini to List ADA",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTNwVGhHVWdZakNDUWVKNkhoTjJ6OVJRUU1oNXhHRHd3VUJfVllVckZ1b3FSUFhyZzFEclE2SlNoUWg3Q25FbzJIbmM5YUpWNkVkRE9Hd2o2NEFsclIwZHJnbldJY2Z2bjJtR0p5VmdxUFJJRWRQaS12aGM3X3VjN2YwRUFheFJsQ0lha21Kdkw1VFhoa2hUYktJUk01UkRLNmNoVEdjYw?oc=5",
+        "published": "Fri, 09 Oct 2026 15:56:00 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインが82,000ドル割る、CardanoとSolanaがアルトコイン売却をリード",
+        "title_en": "Bitcoin Falls Below $82,000; Cardano, Solana Lead Altcoin Losses",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWlOX2FOS3kwRHl4M3c2V05YelM0ZmMzeXJULXlRLW95U3JQb3RvalVncjN3V2NSSDFraWdBbjl3RlI4bEcwejU1cTFNcXdWMWZzaUp5ZUZyUGZfMVA4bGpyUFVfSWVDbjFDdC05alBRSFp0VERMSzFyOEtwTW5VbV9LaXVvYVduMnRSM2ZRWjhpOWZkS1E?oc=5",
+        "published": "Thu, 08 Oct 2026 20:17:00 GMT",
+        "category": "その他"
+      }
+    ],
+    "DOGE": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "スマートコントラクトがDogecoinにまもなく登場、最も人気のあるミームコイン再考の時か",
+        "title_en": "Smart Contracts Are Coming Soon to Dogecoin. Is It Time to Reconsider the World's Most Popular Meme Coin?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSS1hcVctRUN1X0dxc2JiVmJDdW5ldEZwY0FyQnR5bGwtTTI3TEhkVTFGb0hZOUVMbHhrWlY1cGRmd1hSZ1VJZEpvQ0pkREVzaVpsbHlnNGhRSk9EVUN5aUJaTWdFa1BJeFk0elhwc2dDNXAzZmcxUnhRTkx0ZVVNQWdHLXBMM3VDeENOUFZKbXJFM1BBTTdlalNiNXMtM2FXUTI0?oc=5",
+        "published": "Thu, 08 Oct 2026 18:53:00 GMT",
+        "category": "その他"
+      }
+    ],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
