@@ -1,65 +1,57 @@
 {
-  "generated_at": "2026-10-10T00:40:13+00:00",
+  "generated_at": "2026-10-10T09:40:31+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "週間ラップ：米国債利回りの上昇がビットコインを押し下げ",
-        "title_en": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFdwYm5XZ0RpWjlDY05FdHp1dmIzcDV0QjlxNWpXTWRpM24tTVlPeHBXTkhjNW5TMzAwckxiczBkY00ydDcwNm9WdmNxYjhSYXpjTFRZVlFOM2NvN01GTVk1NnZLRWZnLV9Hdlg2YlJXcXp6eXNGaGxzdWVfdUtkWElfX1hvMmJPNm93Q2Z0ZjNvTWhpejZUc09KRy11dElt?oc=5",
-        "published": "Fri, 09 Oct 2026 20:52:00 GMT",
+        "title_ja": "米政府が2日間で押収した暗号資産15億ドルを移動、売却の可能性は",
+        "title_en": "The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGhmbVpfYXdaSVdkdnpMT0pyMnJoQzR5UEJpYVF6VlRTY2FZUXppODdiZi1CaG5jQ1MwY2NwbU1NVDVtdnEydG9TRjNrZjhSQVVqRjkyQmhRZEU5ajE2VDIzeDJLNk1mY0dxOUEzYTRKWUo3VFVfQzU4eVoyRHBHUVYwMDYxN3M5YUczMktaWkk?oc=5",
+        "published": "Sat, 10 Oct 2026 07:56:30 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "石油価格上昇とFRB見通しを背景にビットコインが82,000ドル上回る",
+        "title_en": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkludDU4NDNnMEFYX2swejZ0VTNOb1RYXzBQOXlRYk9hbHFxRURpR0RLRzh4LUpMd3EyU1loLUxsT3Axa2tmWF9GMFZzVVFKU1cwc2R4dURYQzFvU0xsaEl2cWJCR0ZUb0xzUWZyRkYxbjJpS21OVnBMZWE5Y2RJMy1ZaGVZaGJtX0pCX3NUTHA0c1hCN3VR?oc=5",
+        "published": "Sat, 10 Oct 2026 04:29:00 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP投資信託が値上がり、ビットコイン・イーサリアム投資信託は3億1700万ドル流出",
-        "title_en": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzVtamhEbjlYR3A4a21VeG9UV2x6ZVlTN0xrT1hybkVLZTNXXzNWekVMVXJHMFFaZFI2b0s3WHNxS2RoQ0hJRjlsN2JMVk1ReVluZEVZZFNPWEhQRlYyQW04Z3VLTFJ0LTJDZDlIT0tack9odk12NElBSkhVOXpYWElDUm1laGhjSnZ4d1NWUFpiX0ZwMFgzZFlDSQ?oc=5",
-        "published": "Fri, 09 Oct 2026 22:00:22 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "イーサのポジション清算がビットコインの6倍の速度で実現、暗号資産市場は10億ドルの流出",
-        "title_en": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDlsR0RnRE9sNlVKcERWaVFQMUR6RDBRX29LbDV3R0o1cEJRRTJQaG1sS05zc0JqOUVrZVphU3F4a1Bpa05ZeTg5T3MtcndGLVZHbVFwMVBhaXJTUjNmWW96aTN5QjRzNFR3d1psVHN3cm5ULXFWUXlUOFZ2RGNPVXp4MUdDQTNPVlVQSDhaTExSVGFuOHpsMHltYXJDaU50NjE1dF9ZTk13V2FxcUxDZW53THhhOTJLS1pqRGI5bGJMN2xRdDl3?oc=5",
-        "published": "Fri, 09 Oct 2026 04:04:36 GMT",
-        "category": "その他"
+        "title_ja": "BitMineがETH購入上限に接近、次のイーサリアム買い手は",
+        "title_en": "BitMine Approaches Its ETH Purchase Limit: Who Will Buy Ethereum Next?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlBBblRsazFRTFotVlRULUJxYlU0WVlHcHJKUHo5NXJ1eHhpSG5Nd3pWRWhVX3hSUGkxTmRPNl9KRjlNc3Q5eEVrZ3l3NFQtVTAtZlVSdDV6bkdzc2lLMG16a3IybFZjX1V5bVBLVGN1RmlvM281ZjBSVU1qMmZROV85NHdwazRJZXhreThBM3NiMzF4blJ0MC00SzdlZl9sWU52RA?oc=5",
+        "published": "Sat, 10 Oct 2026 00:20:00 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "XRPレジャーが銀行・ステーブルコイン・トークン化ファンド向けの新機能を追加",
-        "title_en": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWVzTGd5X0VRMWs1MkxCSTJlNXZOeUtIVjZlQ3VhRGpUWHlXMWxRdDZBOWVsTnlFUExBaUFBcFhpUGtFU3doTy1yNnBOUFNEb2NBU1JzRmUzdzlTc1k1V3Zac0cwWlFEODFmOEl5a0NyRjFxZXJmckpWa0s0aE5Na2NnVTFJRWhWbmlFSm9BWFFDV3hPM2lKbXBodVlHcWhwU2ZiY0NENU5tQkdsNGJhNg?oc=5",
-        "published": "Fri, 09 Oct 2026 04:21:36 GMT",
-        "category": "採用"
+        "title_ja": "XRP Ledgerが10年前のバグを修正、無から数十億ドル相当のXRPを生成できた脆弱性",
+        "title_en": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnIzSzBpWFp0Qk5ycnl6blRDczJVZ3YwUjlSMVRDNUYtZ05Ta1BBT0FRX0ZRZ3pjYlBIUGpHR2xWUkVUUUtaTlMzQUJmeHo3UGVWWEszTTZNb1BvNm9Cekhud3BqNThfbkpPUzR3amJkTWVCaFFNSThybko1RDJkRmRydWVzTjdqcXhCeGZXR3lDRUdpMjRFNkVJdVhBU0FyMTRZaFA5M1BOanZiQUFnUk52U3JnR0VyMjdPa0NoQ2lOX2VQTklYYkE4UTI?oc=5",
+        "published": "Sat, 10 Oct 2026 04:50:08 GMT",
+        "category": "ハッキング"
       }
     ],
-    "SOL": [
+    "SOL": [],
+    "ADA": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナが最終的な200ミリ秒のアップグレードを前にブロック時間を半減予定",
-        "title_en": "SOL news: Solana is about to halve its block times as final 200-millisecond upgrade nears",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWxUTVRSU2JzM05GWDNnU0RveVZvdFBQcmVZZ25nb2JEQ1hHUURQamFsMkk4WTktdVNEamdlSmdyQ08zNGdqVWw4Y3pWYmNBaDFPZEs4dlFjYlczNWhzVVZKd202cEJtaTNWSFI5V0RYU055WXlUVHBjX2hBWXhKWGVMVFE0SGNvSjNpa0sySWJQWGdtUzY5WWpfTmhwUFdYV2trMjZDODJGNWs0aUcyMk5MMFBTT3c4N2NGeA?oc=5",
-        "published": "Fri, 09 Oct 2026 05:00:52 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ソラナは最終的な200ミリ秒のアップグレードが近づく中、ブロック時間を半分に短縮する予定",
-        "title_en": "Solanaは最終的な200ミリ秒のアップグレードが近づく中、ブロック時間を半分に短縮する予定です",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWZ5MTJzWW02WUpyWDkzRDNNd29KX2VMQmFxRTNmOGt5MkplMktONF9rQm15aG5hWHRwNXhWOE80VDFJQm12LUcwOFdId0xYOU9MdUZvZmhOcWVwUmpTV3plal9PMlVMY0Nic3Y5bkR2bDh5TjRUX0U2Zjdvdk8tSktMbmdmLUhRRDB0RXIxYjJRVnZKRmc5d09rT0VmR1pvcmtETE9qNWFNbXdHUlVyNFlaS0FjRDVONlVhQUJBX2E?oc=5",
-        "published": "Fri, 09 Oct 2026 05:00:52 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "カルダノ創業者ホスキンソンがMidnightはZcashを上回ると発言、Geminiにのカルダノ上場を促す",
+        "title_en": "Cardano Founder Hoskinson Says Midnight Will Surpass Zcash, Urges Gemini to List ADA",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTNwVGhHVWdZakNDUWVKNkhoTjJ6OVJRUU1oNXhHRHd3VUJfVllVckZ1b3FSUFhyZzFEclE2SlNoUWg3Q25FbzJIbmM5YUpWNkVkRE9Hd2o2NEFsclIwZHJnbldJY2Z2bjJtR0p5VmdxUFJJRWRQaS12aGM3X3VjN2YwRUFheFJsQ0lha21Kdkw1VFhoa2hUYktJUk01UkRLNmNoVEdjYw?oc=5",
+        "published": "Fri, 09 Oct 2026 15:56:00 GMT",
+        "category": "発言"
       }
     ],
-    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
