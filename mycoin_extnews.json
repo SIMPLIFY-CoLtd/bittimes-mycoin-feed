@@ -1,30 +1,38 @@
 {
-  "generated_at": "2026-10-10T09:40:31+00:00",
+  "generated_at": "2026-10-10T17:14:42+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "米政府が2日間で押収した暗号資産15億ドルを移動、売却の可能性は",
-        "title_en": "The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGhmbVpfYXdaSVdkdnpMT0pyMnJoQzR5UEJpYVF6VlRTY2FZUXppODdiZi1CaG5jQ1MwY2NwbU1NVDVtdnEydG9TRjNrZjhSQVVqRjkyQmhRZEU5ajE2VDIzeDJLNk1mY0dxOUEzYTRKWUo3VFVfQzU4eVoyRHBHUVYwMDYxN3M5YUczMktaWkk?oc=5",
-        "published": "Sat, 10 Oct 2026 07:56:30 GMT",
-        "category": "大口"
+        "title_ja": "フィデリティのグローバルマクロディレクター、ジュリエン・ティマー氏がビットコインは底打ちし金を上回るべきと指摘",
+        "title_en": "Fidelity’s Global Macro Director Jurrien Timmer Says Bitcoin Has Bottomed And Should Beat Gold Here On",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHl1dGtsZFBOYkcyQVRBY09XdmpCOHNiSGMzOFpTM2hLTEc1TGdxQ3Z2alN1ZXZ1ZTFmOG9iMUF1OVlRWjNHbGk0OGFNejY3YjFyYVlzSHEwVTh5NVIwZFE1dUJuUHBaRHNfWGZqWlBIbnFsOXdhSm9UMU1teTg1V05IN0EweDhfSzVEalduV3hVcU9NbFU1R2VXSGdDV3ZyRlZDM0l3?oc=5",
+        "published": "Sat, 10 Oct 2026 16:43:30 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "石油価格上昇とFRB見通しを背景にビットコインが82,000ドル上回る",
-        "title_en": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkludDU4NDNnMEFYX2swejZ0VTNOb1RYXzBQOXlRYk9hbHFxRURpR0RLRzh4LUpMd3EyU1loLUxsT3Axa2tmWF9GMFZzVVFKU1cwc2R4dURYQzFvU0xsaEl2cWJCR0ZUb0xzUWZyRkYxbjJpS21OVnBMZWE5Y2RJMy1ZaGVZaGJtX0pCX3NUTHA0c1hCN3VR?oc=5",
-        "published": "Sat, 10 Oct 2026 04:29:00 GMT",
-        "category": "マクロ"
+        "title_ja": "ビットコインETF、2日間で7億3,100万ドル流出後にプラスに転換。売却は終わったのか",
+        "title_en": "Bitcoin ETFs Lost $731 Million in Two Days, Then Turned Positive. Is the Selling Over?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWhQVGhET0xKZ0ZBU0lGR3pGTktiaS1zX1dQa1lIUXI0ZkZEcElldHBYRjk1Y3hVYXJzYzc1UDUzZkZiSzZINktySnBac0xHRHlmcDZ1N2QwWDlmdE1xUnBxM1hHX3ZGb2dJZnBuazRYUk43RXpISVg0X1hQdVBWc21ZRzVCNFAxMjNNeGJSMDM5c2swQ3RTS1dn?oc=5",
+        "published": "Sat, 10 Oct 2026 16:00:57 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "BitMineがETH購入上限に接近、次のイーサリアム買い手は",
+        "title_ja": "トム・リー氏のイーサリアム年末予想が先月の「慎重派」評価から半減。暗号資産業界の「巨大な変動」を期待",
+        "title_en": "Tom Lee’s Ethereum Year-End Call Is Now Half Of What He Called ‘Conservative’ Last Month, But He Expects ‘Monster Moves’ In The Crypto Industry",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlVwNXpCbG5FZ0VzdDM5UUFwSUQxWmVrVmpyM1dJSlkxVVI2UXJQaS1nR3ZFa0MwVUNibnVnNEVBMjNaU0w4ZjlUT1pST3dsRkpzMmRZY1ZPMk5hcUdkNlJ2aEtISDBZS2NvR3NFS2V4eTVQOGFEcTRidjFZNG5pUjNTaGMzZWh2UGpkT3ZZYWh5ZWtS?oc=5",
+        "published": "Sat, 10 Oct 2026 12:16:59 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットマインがETH購入上限に接近。次の大型買い手は誰か",
         "title_en": "BitMine Approaches Its ETH Purchase Limit: Who Will Buy Ethereum Next?",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlBBblRsazFRTFotVlRULUJxYlU0WVlHcHJKUHo5NXJ1eHhpSG5Nd3pWRWhVX3hSUGkxTmRPNl9KRjlNc3Q5eEVrZ3l3NFQtVTAtZlVSdDV6bkdzc2lLMG16a3IybFZjX1V5bVBLVGN1RmlvM281ZjBSVU1qMmZROV85NHdwazRJZXhreThBM3NiMzF4blJ0MC00SzdlZl9sWU52RA?oc=5",
         "published": "Sat, 10 Oct 2026 00:20:00 GMT",
@@ -33,29 +41,54 @@
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "XRP Ledgerが10年前のバグを修正、無から数十億ドル相当のXRPを生成できた脆弱性",
-        "title_en": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnIzSzBpWFp0Qk5ycnl6blRDczJVZ3YwUjlSMVRDNUYtZ05Ta1BBT0FRX0ZRZ3pjYlBIUGpHR2xWUkVUUUtaTlMzQUJmeHo3UGVWWEszTTZNb1BvNm9Cekhud3BqNThfbkpPUzR3amJkTWVCaFFNSThybko1RDJkRmRydWVzTjdqcXhCeGZXR3lDRUdpMjRFNkVJdVhBU0FyMTRZaFA5M1BOanZiQUFnUk52U3JnR0VyMjdPa0NoQ2lOX2VQTklYYkE4UTI?oc=5",
-        "published": "Sat, 10 Oct 2026 04:50:08 GMT",
-        "category": "ハッキング"
-      }
-    ],
-    "SOL": [],
-    "ADA": [
+        "source": "Yahoo Finance",
+        "title_ja": "10年前のバグが無制限のXRPを生成できた可能性。1,000億の上限キャップは安全か",
+        "title_en": "A Decade-Old Bug That Could Have Minted Unlimited XRP: Is the 100 Billion Cap Safe Now?",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlY4alQ4eVFMblczX0dPMGtWX1Y1c1hxTUpjOWVmSXlYMzRHOGdNdHhocUt0bFVyeTNlQWhZWDdIUzB6WlBXZWt1QTU1OWVYN0o5Q29oVS1ZNU1ybGFPZkhNNERqN0hTdkJ5Z0FWaGJGMDNVOHJVLXd5TE9pbjJTVThKMEQtX3RLbnFIS1hhSUdPNGRmWEVF?oc=5",
+        "published": "Sat, 10 Oct 2026 15:00:55 GMT",
+        "category": "その他"
+      },
       {
         "source": "Yahoo Finance",
-        "title_ja": "カルダノ創業者ホスキンソンがMidnightはZcashを上回ると発言、Geminiにのカルダノ上場を促す",
-        "title_en": "Cardano Founder Hoskinson Says Midnight Will Surpass Zcash, Urges Gemini to List ADA",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTNwVGhHVWdZakNDUWVKNkhoTjJ6OVJRUU1oNXhHRHd3VUJfVllVckZ1b3FSUFhyZzFEclE2SlNoUWg3Q25FbzJIbmM5YUpWNkVkRE9Hd2o2NEFsclIwZHJnbldJY2Z2bjJtR0p5VmdxUFJJRWRQaS12aGM3X3VjN2YwRUFheFJsQ0lha21Kdkw1VFhoa2hUYktJUk01UkRLNmNoVEdjYw?oc=5",
-        "published": "Fri, 09 Oct 2026 15:56:00 GMT",
-        "category": "発言"
+        "title_ja": "ブラックロックがアバランチを選択、フランクリン・テンプルトンがXRPレジャーを選択。ウォール街ではどちらが優位か",
+        "title_en": "BlackRock Picks Avalanche While Franklin Templeton Chooses the XRP Ledger: Which Chain Is Winning Wall Street?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUVDTEEzTTZVeXVNQTd3WGhnNndfdW1uUWp4TkFJR1RJMWVjVE5aS0RUdTBfa3Rpb2VXVDlRSjJPYjREQ2IxeGlpdXpPUi1OREZkSzB4dzJzdW5jS0V5RGtTM2F4aklhcTZ2dU1uendqZlowRFljMkk5NllFeGRDVmFrT2FfanRvWHFHVkZ5TFJFZGVsbmtxazJlVzlldEpqdHd6OGVKV1A?oc=5",
+        "published": "Sat, 10 Oct 2026 12:30:05 GMT",
+        "category": "採用"
       }
     ],
+    "SOL": [
+      {
+        "source": "The Block",
+        "title_ja": "イーサリアムETF流出が9日連続、ソラナファンドは14週連続流入記録を更新",
+        "title_en": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYjVVMXVNcVA4NXM1VzVCZGlkTHFSZjJTUW1hNXUzUWJWcG1oR0NFUjVvSHppNEc4cTAyQmttSlVxS0tYTmN3MlNRcHNtNGRJRGptTkFUdG5hbUUtcTdWcjByOWc4Vk5QTVlNOTVtSmpJME41TF9JTU9CYUpOSm03N1BPdkh0V3h0NkdWT3VRY3RCYWU5cFg1R2NTVWZVUjlsZVdOZVpZdTBJZDlnazZ2NEE2QmpxeGJ6LTdUcWlpb0R2NmVDTWg2MmQxbExMRm9ZZ2JJMVFrZTdENXRSTjFOU2o5LTJSZDRvVmZBcmdRVFoyVlRjcEV0SVgweFEzb2ZSYVQzX2pYZ2dWbnNwbTU0X2JUcw?oc=5",
+        "published": "Sat, 10 Oct 2026 15:10:00 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "アップル、エヌビディア、テスラの株がソラナで取引可能に。セキュリタイズがイーサリアムではなくソラナを選んだ理由",
+        "title_en": "Apple, Nvidia, and Tesla Shares Now Trade on Solana: Why Did Securitize Choose Solana Over Ethereum?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWE01MFltOG5OOHkxalBnLThRNW5Dd3FMZW82OFdYd01YbmhCQ1dDZW9WSm5BWFdybjZwRGN3aU1RZTVUY0Jmc2laYjkyT1FRTmlzYlRBNnQ1a09Icjc2NkJCNEZ6LU5PSDdxZWlhdXUwaWIzc19MLTFtV2tReHFkVzgtZ1IzYTlGQWV1QnBIeEM3R0EtaFJCWjV3?oc=5",
+        "published": "Fri, 09 Oct 2026 18:00:00 GMT",
+        "category": "採用"
+      }
+    ],
+    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": []
+    "AVAX": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ブラックロックがアバランチを選択、フランクリン・テンプルトンがXRPレジャーを選択。ウォール街ではどちらが優位か",
+        "title_en": "BlackRock Picks Avalanche While Franklin Templeton Chooses the XRP Ledger: Which Chain Is Winning Wall Street?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUVDTEEzTTZVeXVNQTd3WGhnNndfdW1uUWp4TkFJR1RJMWVjVE5aS0RUdTBfa3Rpb2VXVDlRSjJPYjREQ2IxeGlpdXpPUi1OREZkSzB4dzJzdW5jS0V5RGtTM2F4aklhcTZ2dU1uendqZlowRFljMkk5NllFeGRDVmFrT2FfanRvWHFHVkZ5TFJFZGVsbmtxazJlVzlldEpqdHd6OGVKV1A?oc=5",
+        "published": "Sat, 10 Oct 2026 12:30:05 GMT",
+        "category": "採用"
+      }
+    ]
   }
 }
