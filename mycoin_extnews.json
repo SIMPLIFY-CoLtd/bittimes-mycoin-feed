@@ -1,86 +1,60 @@
 {
-  "generated_at": "2026-10-10T21:28:29+00:00",
+  "generated_at": "2026-10-11T05:24:28+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF流入が急増。だが全体像を語っていない",
-        "title_en": "Bitcoin ETF Inflows Are Soaring. But They Are Not Telling the Whole Story About What's Happening With Bitcoin.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHBWb29CSTAyZ3BILTJKUFhaTnctaklkOGV5WS1ob2NCZHB6VWZSWVotN1pyS0pmZjRTak8zcVprR1d6dXFGS1VFd2dVbmRReTR4TXdiWG1XYW41U00waGVvbnRDbE1sVkg3OWNCZEF3SnRwTzY5Nlk2el81Sy1FdGNJQTI1OTFmU1FuWTZ2VDV4U3BvOVFNVnpRLU8?oc=5",
-        "published": "Sat, 10 Oct 2026 17:03:00 GMT",
-        "category": "上場"
+        "source": "Forbes JAPAN",
+        "title_ja": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
+        "title_en": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JX3NOcEJoMXlUU0NSWTdUd21aa0tPWlVTWXhzcS1RLTV6RW5vLUFGVHVMdFNJdE8yYW9TOWNPUV9oVi1DbWhBN1dKMkhTMzBkS2pkYzdXQk1KUQ?oc=5",
+        "published": "Sun, 11 Oct 2026 00:45:00 GMT",
+        "category": "その他"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "フィデリティのグローバルマクロディレクターが、ビットコインは底打ちしゴールドを上回るべきと指摘",
-        "title_en": "Fidelity’s Global Macro Director Jurrien Timmer Says Bitcoin Has Bottomed And Should Beat Gold Here On",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHl1dGtsZFBOYkcyQVRBY09XdmpCOHNiSGMzOFpTM2hLTEc1TGdxQ3Z2alN1ZXZ1ZTFmOG9iMUF1OVlRWjNHbGk0OGFNejY3YjFyYVlzSHEwVTh5NVIwZFE1dUJuUHBaRHNfWGZqWlBIbnFsOXdhSm9UMU1teTg1V05IN0EweDhfSzVEalduV3hVcU9NbFU1R2VXSGdDV3ZyRlZDM0l3?oc=5",
-        "published": "Sat, 10 Oct 2026 16:43:30 GMT",
-        "category": "発言"
+        "title_ja": "クジラが3日間で15,000BTCを買収する一方、MARAは810万ドルを売却。どちらが正しいのか",
+        "title_en": "Whales Bought 15,000 Bitcoin in Three Days While MARA Sold $81 Million. Who Has It Right?",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODd1RV9QN2JTQVVYRXVzblI0U2ZLT1J2WDFQTDQtS3A3R0JQTDVwanc2X05DVDU3Uk1XYzVYblExMGtrUnV2cDc0dTd3cGVicDdKbHEzU3llNzlycUtfRUh0NWIycTlBa1VYeUVFZjdNczdlWmtLSWpLbXF2anU5RXVXTTJpQlJKclV5WEtHam5xcVJMSUgxTQ?oc=5",
+        "published": "Sat, 10 Oct 2026 21:30:38 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ウォール街がイーサリアムから資金を引き上げ、トレーダーがショートポジションを積増し",
-        "title_en": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUpROEo1aDY2MW85SDVLcWxxbllsdGo3aUlMT3FXOTRGQjBiYWhpX2RKenphWTFFcG82SVhoU01BaEFxYXpHemlVY2lLRUdCTXFHVUhSc29XZ19nWUNFZ3JxRlJCUjdXbHN3cENQMmw2V3c0aTA1V1lMaGU5MnNCMEVjUElLUFpyaFdGbUJqZFZlbldINDQ5cjR0WHVTbkdl?oc=5",
-        "published": "Sat, 10 Oct 2026 18:12:52 GMT",
-        "category": "大口"
+        "source": "Forbes JAPAN",
+        "title_ja": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
+        "title_en": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JX3NOcEJoMXlUU0NSWTdUd21aa0tPWlVTWXhzcS1RLTV6RW5vLUFGVHVMdFNJdE8yYW9TOWNPUV9oVi1DbWhBN1dKMkhTMzBkS2pkYzdXQk1KUQ?oc=5",
+        "published": "Sun, 11 Oct 2026 00:45:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "The Block",
-        "title_ja": "イーサリアムETF流出が9日連続。ソラナファンドは14週連続の記録的流入を続ける",
-        "title_en": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdlM5aEJuY3ZfQVdraE5MMXpBbWpUWVVJVUlXT0QwOUhZMGFJT09TMEFnVXI4OGZTVUFxZS0zRjdyS05janRvT0ctWjF4aUhhZ3ZuQWUySmNxekFVaWltNFZMVG9wX3FmZmx4b05XdHFTVnBMcHpfMDJEWnJYcU5PUjMxbV95SDJHeDU1T05WNlUwWl8zaVN1S0xHRGxrWFJTQ3dYaHFzUjNJMVVpcFJWZlZiaTJYTTk1a29ULS0xM0w4T01KX1J1UlJScWFVV2ZkLURrdHJWVTRWRk9rdkI2TQ?oc=5",
-        "published": "Sat, 10 Oct 2026 15:10:00 GMT",
-        "category": "上場"
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアムETFが9日連続で資金流出、20億ドルの資産喪失。ウォール街がETHを見限ったのか",
+        "title_en": "Ethereum ETFs Have Had Nine Straight Days of Outflows and Lost $2 Billion in Assets. Is Wall Street Giving Up on ETH?",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RxeV9taXFsaW43a0dMYUVON3pfdzVfcWhMWXNmdlVMTjRTb3JQWFh0WW9TT0pEdmI5VHdYY04yOC1GZ1EwRFMtOFR4S1ptYk9qMGJobExRT2dZSmJUQi11cTNvUngxcHdudlBXY3hkOWRwNTBtZUE1NDhCVTNtQ1pQYklxX2thZE13V3FPS1BoeTdlTU5vYm0wblk?oc=5",
+        "published": "Sat, 10 Oct 2026 22:35:08 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "10年前のバグで無制限のXRPが発行される可能性。1000億キャップは安全か",
-        "title_en": "A Decade-Old Bug That Could Have Minted Unlimited XRP: Is the 100 Billion Cap Safe Now?",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlY4alQ4eVFMblczX0dPMGtWX1Y1c1hxTUpjOWVmSXlYMzRHOGdNdHhocUt0bFVyeTNlQWhZWDdIUzB6WlBXZWt1QTU1OWVYN0o5Q29oVS1ZNU1ybGFPZkhNNERqN0hTdkJ5Z0FWaGJGMDNVOHJVLXd5TE9pbjJTVThKMEQtX3RLbnFIS1hhSUdPNGRmWEVF?oc=5",
-        "published": "Sat, 10 Oct 2026 15:00:55 GMT",
-        "category": "ハッキング"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップルがウォール街の「主要競争相手」に。XRPの位置づけは",
+        "title_ja": "リップルがウォール街の『主要競争相手』に—XRPはどこに位置するか",
         "title_en": "Ripple Becoming ‘Major Competitor’ to Wall Street — but Where Does XRP Fit?",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa24xak1STXF3WnBoRzBES1NwSVFidGRiYlZZTndIVTREeXY0eFFpQmI5aVF5UDNSdnBwcl9jZEpOdGRja2dNcmNHN2l0UkV0OHV6Q1B3b0xKMWlQTFZJRDdYSmNrRk5udjcyMVMxbGFIV0JlVlB6UzdvWTRhc0thQ0FyX3JZUnR6T3I2VTRpMzZkM3V4bUtGWVVxTkxSbmppZGc2Vg?oc=5",
         "published": "Sat, 10 Oct 2026 12:32:15 GMT",
-        "category": "提携"
+        "category": "採用"
       }
     ],
-    "SOL": [
-      {
-        "source": "The Block",
-        "title_ja": "イーサリアムETF流出が9日連続。ソラナファンドは14週連続の記録的流入を続ける",
-        "title_en": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdlM5aEJuY3ZfQVdraE5MMXpBbWpUWVVJVUlXT0QwOUhZMGFJT09TMEFnVXI4OGZTVUFxZS0zRjdyS05janRvT0ctWjF4aUhhZ3ZuQWUySmNxekFVaWltNFZMVG9wX3FmZmx4b05XdHFTVnBMcHpfMDJEWnJYcU5PUjMxbV95SDJHeDU1T05WNlUwWl8zaVN1S0xHRGxrWFJTQ3dYaHFzUjNJMVVpcFJWZlZiaTJYTTk1a29ULS0xM0w4T01KX1J1UlJScWFVV2ZkLURrdHJWVTRWRk9rdkI2TQ?oc=5",
-        "published": "Sat, 10 Oct 2026 15:10:00 GMT",
-        "category": "上場"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ブラックロックがアバランチを選択、フランクリン・テンプルトンはXRPレジャーを選択。どのチェーンがウォール街の支持を得ているか",
-        "title_en": "BlackRock Picks Avalanche While Franklin Templeton Chooses the XRP Ledger: Which Chain Is Winning Wall Street?",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUVDTEEzTTZVeXVNQTd3WGhnNndfdW1uUWp4TkFJR1RJMWVjVE5aS0RUdTBfa3Rpb2VXVDlRSjJPYjREQ2IxeGlpdXpPUi1OREZkSzB4dzJzdW5jS0V5RGtTM2F4aklhcTZ2dU1uendqZlowRFljMkk5NllFeGRDVmFrT2FfanRvWHFHVkZ5TFJFZGVsbmtxazJlVzlldEpqdHd6OGVKV1A?oc=5",
-        "published": "Sat, 10 Oct 2026 12:30:05 GMT",
-        "category": "採用"
-      }
-    ]
+    "AVAX": []
   }
 }
