@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-10-11T12:34:14+00:00",
+  "generated_at": "2026-10-11T19:26:51+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "中国、デジタル経済拡大加速の一環として国家ブロックチェーン立ち上げ",
-        "title_en": "China Launches National Blockchain As Part Of Wider Plan To Accelerate Expansion Of Digital Economy",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmdCbmVwb2QzdDRhZXNTOEpGTFVVeU5pdEdQTlRRVUJidG81NE9mYkFzZ2RNbWxYSWQyLWJCcUZLOXBDMDNNRVFjb0tzXzJOTWc2azlzWmEzbWRnUmRRZUF4enJBTnhJNjg0Q0R1SWdTVURmNTRvMkhEWk8tTGY4cklIQkc5WjJDOG8zcDBTcF9lNVlhZEJhR3J0S0V1SmFGVTFHUmtQTQ?oc=5",
-        "published": "Sun, 11 Oct 2026 12:20:56 GMT",
-        "category": "マクロ"
+        "title_ja": "レジャーウォレットのスパイウェア問題がヨーロッパに広がる、暗号資産損失が8600万ドルを超える=報告",
+        "title_en": "Ledger Wallet Spy Implant Scare Spreads To Europe As Crypto Losses Top $86M: Report",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUgtcU5Yalh1bVJtaERMdmt0d3IyQ2VEX1pFWWxzc0VibGItMXdrenFCSEFEcUV6X2xoeEg0a3g3MFQwYTd2bURTamtZMFE4Uktud3A0TzZzZ3BMVVdTbVktaXd5b2psVlcxREtOLVl3Zm4tRjZOM2RIY3ZDWXY2Uy05SkVCcEhyR1FCeWtGTTJLRXQ4eXhfa3VYRDA?oc=5",
+        "published": "Sun, 11 Oct 2026 17:22:02 GMT",
+        "category": "ハッキング"
       },
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
-        "title_en": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JX3NOcEJoMXlUU0NSWTdUd21aa0tPWlVTWXhzcS1RLTV6RW5vLUFGVHVMdFNJdE8yYW9TOWNPUV9oVi1DbWhBN1dKMkhTMzBkS2pkYzdXQk1KUQ?oc=5",
-        "published": "Sun, 11 Oct 2026 00:45:00 GMT",
-        "category": "マクロ"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン・イーサリアム・ソラナETF、10月は全て下落",
+        "title_en": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHpZYnNmXzBySHdYUk1jNFgtNjhqdGZGQzBxYXZUYnBmamxhTUp1ZzBBeW1BSkNUUmNFSUZUSWpoSFk5b0o0c0I4U0U1em94ZjE0Z3I5OHBPbV9YbGJRSV9iTmYxMktEU282Y29YeG5RYkRrRkhsS2JKOTdoMlQ1dW9qUk4tUEU4SzVGbkpfYlBTRXlIWjcxdVVLOVJaQQ?oc=5",
+        "published": "Sun, 11 Oct 2026 16:01:03 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン・イーサリアム・ソラナETF、10月は全て下落",
+        "title_en": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHpZYnNmXzBySHdYUk1jNFgtNjhqdGZGQzBxYXZUYnBmamxhTUp1ZzBBeW1BSkNUUmNFSUZUSWpoSFk5b0o0c0I4U0U1em94ZjE0Z3I5OHBPbV9YbGJRSV9iTmYxMktEU282Y29YeG5RYkRrRkhsS2JKOTdoMlQ1dW9qUk4tUEU4SzVGbkpfYlBTRXlIWjcxdVVLOVJaQQ?oc=5",
+        "published": "Sun, 11 Oct 2026 16:01:03 GMT",
+        "category": "その他"
+      },
+      {
         "source": "Forbes JAPAN",
         "title_ja": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
         "title_en": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JX3NOcEJoMXlUU0NSWTdUd21aa0tPWlVTWXhzcS1RLTV6RW5vLUFGVHVMdFNJdE8yYW9TOWNPUV9oVi1DbWhBN1dKMkhTMzBkS2pkYzdXQk1KUQ?oc=5",
         "published": "Sun, 11 Oct 2026 00:45:00 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムETF、9営業日連続流出で20億ドル喪失。ウォール街はETHを見放すのか",
-        "title_en": "Ethereum ETFs Have Had Nine Straight Days of Outflows and Lost $2 Billion in Assets. Is Wall Street Giving Up on ETH?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RxeV9taXFsaW43a0dMYUVON3pfdzVfcWhMWXNmdlVMTjRTb3JQWFh0WW9TT0pEdmI5VHdYY04yOC1GZ1EwRFMtOFR4S1ptYk9qMGJobExRT2dZSmJUQi11cTNvUngxcHdudlBXY3hkOWRwNTBtZUE1NDhCVTNtQ1pQYklxX2thZE13V3FPS1BoeTdlTU5vYm0wblk?oc=5",
-        "published": "Sat, 10 Oct 2026 22:35:08 GMT",
-        "category": "大口"
+        "category": "その他"
       }
     ],
-    "XRP": [],
-    "SOL": [
+    "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナETF、週間インフロー過去最高の1億8800万ドルを記録。2027年の強気材料",
-        "title_en": "Solana ETFs Just Set a New Record With $188 Million in Weekly Inflows. Here's Why I'm Bullish on Solana for 2027.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUhxRFN6TkNnRFRWWGVCSXpZZEtSalBoME9UYlR0TjMwYlVkRmVlOElmZWJKT08yUGVBUkZ2LVp4UUlsaGpCUjdLWnZrOTNlc3RraG53am50SkM2OU85bzRzRGg2Z0Q0U015dnFuQXVydGo1OE5tMHc3a0JKM1VCdm9LMERhMmNXZVZhMDFJVWtEakRiSkFN?oc=5",
-        "published": "Sun, 11 Oct 2026 09:24:00 GMT",
-        "category": "大口"
+        "title_ja": "AIがXRP台帳の脆弱性を発見、脅威か防御か",
+        "title_en": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblJEMEZ5ckNkV3ByaTBXczlvNUQ3dXJGbVQ5RTdtUEpSYUhwU3FlbU10am13djNkX2YyRTRvd1Z0REwxR2M2blZQajRpNzZjdnE1Q0wxZkZBOWlGQkNkVk9rTUxiYnN4M2FYeEMwNFR5UHk1Vnc3WTMtMVpvSEhpREdfcFhweF81cUIxWm1kT3VkRjBWQnc?oc=5",
+        "published": "Sun, 11 Oct 2026 14:00:44 GMT",
+        "category": "ハッキング"
       }
     ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
