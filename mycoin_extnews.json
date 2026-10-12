@@ -1,67 +1,75 @@
 {
-  "generated_at": "2026-10-12T00:24:08+00:00",
+  "generated_at": "2026-10-12T10:34:09+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "米10年債利回りが5%超に、ビットコインにとって弱気材料となる理由",
-        "title_en": "Treasury Yields Are Now Above 5%. Here's Why That's Bearish For Bitcoin.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHlTZ2ZXOXJ2NGtTUGxQeHo4VG92WV9QOVF4RThCZVlFbzJ0elBuc1k3dWNUN3BiOEtiaENqei1RNUFrd2pRRmVhcXNTVTljbEUxT0F3Z2RBaVNUQTFETXpsN2VXcFk2OG5rS2duV3VSa1ZPRmJQZUgzYnlrdWVqeTVHM1RiOTl6SUtleVhOVUluYnJ1LS1J?oc=5",
-        "published": "Sun, 11 Oct 2026 21:25:00 GMT",
-        "category": "マクロ"
+        "title_ja": "韓国全北銀行、ビットコインを担保にウォン融資、デフォルト時に公売実施",
+        "title_en": "South Korea’s Jeonbuk Bank Lends Won Against Bitcoin, Using Court Sales for Defaults",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSExEQ0xhXzBoOS1FWl9HQjhhVmw1cnI0TzEybkNJOHR1UWFqTVV2XzQyai04NFNndjdycWxBV29nbm1NLUxPVWtPWTJUeG94MnNaWFZKSWRpRFBBSHlGcHB6bzVQSll3WWJDWmVVNERpOVNhR2tCeWJPWjZlUHFELXFkQTFSaWFKNGRNUmJTRzh5Mm5iTlA1bVJpcw?oc=5",
+        "published": "Mon, 12 Oct 2026 09:38:03 GMT",
+        "category": "採用"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、イーサリアム、ソラナETFが10月に軒並み下落",
-        "title_en": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHpZYnNmXzBySHdYUk1jNFgtNjhqdGZGQzBxYXZUYnBmamxhTUp1ZzBBeW1BSkNUUmNFSUZUSWpoSFk5b0o0c0I4U0U1em94ZjE0Z3I5OHBPbV9YbGJRSV9iTmYxMktEU282Y29YeG5RYkRrRkhsS2JKOTdoMlQ1dW9qUk4tUEU4SzVGbkpfYlBTRXlIWjcxdVVLOVJaQQ?oc=5",
-        "published": "Sun, 11 Oct 2026 16:01:03 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、ETF資金流出を気にせず、原油価格下落を背景に84,000ドル超で取引",
+        "title_en": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWW5KbU1OaWtRZTBsZGVkY3Y5TTNNUXpqRzFHZC01VnlIdmdjRzBzN1V3TnJudThPZWY0SUVTRHE5enVMVVZTdzdVeTBLTE5oemxQZElsVWRMOHdTS1JxSFB5dXd3RGhfTWlpT2VWMDNQUzgtYkJOYjhKcFRFYmd4MU9KMy1SdlZVM2M2bVktTmNmWDg2OHBFR3FRSzRuXzhlZWJ3SHZsbVhRc2w5R3o2RWtzYw?oc=5",
+        "published": "Mon, 12 Oct 2026 04:49:30 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、イーサリアム、ソラナETFが10月に軒並み下落",
-        "title_en": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHpZYnNmXzBySHdYUk1jNFgtNjhqdGZGQzBxYXZUYnBmamxhTUp1ZzBBeW1BSkNUUmNFSUZUSWpoSFk5b0o0c0I4U0U1em94ZjE0Z3I5OHBPbV9YbGJRSV9iTmYxMktEU282Y29YeG5RYkRrRkhsS2JKOTdoMlQ1dW9qUk4tUEU4SzVGbkpfYlBTRXlIWjcxdVVLOVJaQQ?oc=5",
-        "published": "Sun, 11 Oct 2026 16:01:03 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "米インフレとイーサリアムアップグレード協議、暗号資産週間展望",
+        "title_en": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSERJb0szU1ZONFVIakRWUXRaTHlsb2lPVHloLVoxTDFDZkJtQm94aHk0WjhvQlF2RGxQUlZaZW9SenM0TnBIdGdaTVFGWFJ2TERPT3pJS3hJVGpUejhxOGt0Q1Q4OGpyOWNJMURvc2ZvWHhGNjVNczlhN0xiMU4telhtXy1ZSHZSLUxtaXdESmg5ZWZwRW5nZHFKaWVST2M?oc=5",
+        "published": "Mon, 12 Oct 2026 08:58:24 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
-        "title_en": "暗号資産市場に静かな「転換点」、ビットコイン・イーサリアム・XRPを襲う想定外のリスク",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JX3NOcEJoMXlUU0NSWTdUd21aa0tPWlVTWXhzcS1RLTV6RW5vLUFGVHVMdFNJdE8yYW9TOWNPUV9oVi1DbWhBN1dKMkhTMzBkS2pkYzdXQk1KUQ?oc=5",
-        "published": "Sun, 11 Oct 2026 00:45:00 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアム財団関連ウォレットから4,393 ETH がKrakenに流入、売却か定期対応か",
+        "title_en": "4,393 ETH From Ethereum Foundation-Linked Wallets Hits Kraken: Dump or Routine Move?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMy1kNVVGWlZIcTRab2dJeC1mck9PYTdLWGxpM3R3U2tMSTlyT200OXhSajRiRUcwTHlEempBdnl2M1NPcHBkTnpMRkVmQ1RBZUEzc0JJNERLT2w2aFVyZm9NS3ZMR0E0aHprYXZDYzdlWXFTamd0Z0hDVVdkR1RwTERnVllIY1diYmVhXy1lYVhOWlBZR3gtUnZ3?oc=5",
+        "published": "Mon, 12 Oct 2026 02:05:00 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
+        "source": "The Block",
+        "title_ja": "スタンダード・チャータード銀行、XRPレジャー上のリップルのRLUSDカストディサービスを開始",
+        "title_en": "Standard Chartered launches custody for Ripple's RLUSD on XRP Ledger",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmlQbXktUHdCVlhrYkkzX3RhOGFMd1Q4SUhsbTBBWnZBaUcwZ2lDSWo4OWVSOVBReWhVLVNpNGg2MjRHRVByS2U3V2RWRmRzdmp0amZJaVp2dFNKdVhvMmtPV2xGWG9sYTNFVVZSN3ZLOXl2bHMwTkFIY3BSM255M3F3WGZpS2JXbXRFOWFDcE4xemZwTExGZjBtUQ?oc=5",
+        "published": "Mon, 12 Oct 2026 09:35:00 GMT",
+        "category": "提携"
+      },
+      {
         "source": "Yahoo Finance",
-        "title_ja": "AIがXRPレジャーのバグを発見、脅威か防衛か",
+        "title_ja": "AIが発見したXRPレジャーバグ、脅威か防御か",
         "title_en": "AI Uncovers XRP Ledger Bug: Is It a Threat or a Defense?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblJEMEZ5ckNkV3ByaTBXczlvNUQ3dXJGbVQ5RTdtUEpSYUhwU3FlbU10am13djNkX2YyRTRvd1Z0REwxR2M2blZQajRpNzZjdnE1Q0wxZkZBOWlGQkNkVk9rTUxiYnN4M2FYeEMwNFR5UHk1Vnc3WTMtMVpvSEhpREdfcFhweF81cUIxWm1kT3VkRjBWQnc?oc=5",
         "published": "Sun, 11 Oct 2026 14:00:44 GMT",
         "category": "その他"
       }
     ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナETFが週間流入で新記録1億8800万ドル、2027年のソラナに強気な理由",
-        "title_en": "Solana ETFs Just Set a New Record With $188 Million in Weekly Inflows. Here's Why I'm Bullish on Solana for 2027.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUhxRFN6TkNnRFRWWGVCSXpZZEtSalBoME9UYlR0TjMwYlVkRmVlOElmZWJKT08yUGVBUkZ2LVp4UUlsaGpCUjdLWnZrOTNlc3RraG53am50SkM2OU85bzRzRGg2Z0Q0U015dnFuQXVydGo1OE5tMHc3a0JKM1VCdm9LMERhMmNXZVZhMDFJVWtEakRiSkFN?oc=5",
-        "published": "Sun, 11 Oct 2026 09:24:00 GMT",
-        "category": "その他"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
-    "SUI": [],
+    "SUI": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "旧Story BlockchainがシャットダウンしSuiでAIデータレジストリを再構築計画",
+        "title_en": "Former Story Blockchain Plans to Shut Down and Rebuild Its AI Data Registry on Sui",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxsUWJIdV9iSENOaXNmc1VtakRlSzBDUkRwSU5hbTdaa21KSWtZWTBKQVdmMk1RanVaUmxqVFVhU1RCem9tYnRLQkRDZnl5eENLTUphV2FtT000ZW5PYWRxaTBzdGJORkpETXNxMEZwSWlnTDMxdDExcmVzVEZhMTFwZ05kaXhWRHEtWWoyZHVSOGdTb3pXUzR2T3lwclBz?oc=5",
+        "published": "Mon, 12 Oct 2026 09:44:57 GMT",
+        "category": "採用"
+      }
+    ],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
