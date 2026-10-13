@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-10-12T21:10:56+00:00",
+  "generated_at": "2026-10-13T06:32:02+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Saylor氏、250ビットコイン追加購入、$1.92億のSTRC自社株買い戻しを実施",
-        "title_en": "Saylor doubles down: Adds 250 bitcoin, $192M in STRC buybacks",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDhyVVByaXBfNHV4NlFwRVA0WFU0WEtPZ1JMUFhfZEpaSEJVaHJvZExXaE5PQzE2cUxZdDloanBwQk94Sl8zd0FPem9GcDQxM3JGbGgxMjJWcXJuT2R1aDBuMVJ1cENxbF9MVEltMzBqOGZUTExCOG40Ymo0Nl9hXw?oc=5",
-        "published": "Mon, 12 Oct 2026 16:05:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、韓国株とナスダック先物の下落との連動が解ける中、83000ドルを上回る水準に反発",
+        "title_en": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNendGRHJlLVlnV2t4aUVVQlo5WnFmOS1tS29KcWRia0QwZnNaOFEyTFVhcldVQ2E3VEdiYnpfVl93UU5QRlhzOXlHdDFuTjV1d1FIbmhOcmZNaVNGZHM1ZGh1WDhaN3BTOVlIaWdUS0c1MmtFeXdUOXdRdlp3S0ZWbXNlMU5FYlVRSWQ4OVBfOWsxbVNRZlJhMkNJckpCelJKUTVrZmstWHhJY2hHLXM2eTRwY3VBUjU2c0hGTlE5dnlyWDFVcGNPblBlU2xmVHNRN0NDdGtn?oc=5",
+        "published": "Tue, 13 Oct 2026 04:18:20 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Michael Saylor's Strategy が250ビットコインを購入",
-        "title_en": "Michael Saylor's Strategy purchases 250 bitcoin",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTZRNDRRV1BrN0F4V3hWaHcySlFkbWxsT1dwSmtUQ3hoYWNRcU5xU3RoYWR4OFJvbFl5WDRSUG9PV1NDc2V1aVRtNHBtX0N1UFFSRzIycDhMN3VlLU53Q1p4Q0F3dUxaZ1VlNVNQSGNqbUlDSzMzUld4V01kcDF0SXdsUnZVZ21TYWlYTGRB?oc=5",
-        "published": "Mon, 12 Oct 2026 16:00:00 GMT",
+        "source": "The Block",
+        "title_ja": "ビットコイン鯨が6年間の休止後、3億7800万ドル相当を移動：オンチェーンデータ",
+        "title_en": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0t5YnRqdFZPdjM3TjZuLU9lWGVveEplUzhCVi1pM0FHc2hNVE9GUlpnV3h6QVp4c1NOVHRfNnkyalNHeUNvSlZpLTVYMDVpbS1HX3BmYlJvaHNaSHB3VkMwSjNLLW5CWU5idVM2ZHQwYVJSc3F3RlNod1FoazNTWHk2TWE5YmxqX2JtRU51WQ?oc=5",
+        "published": "Tue, 13 Oct 2026 04:18:00 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Vitalik Buterin氏が2030年の大胆な戦略を提示、イーサリアム価格への影響を解説",
-        "title_en": "Ethereum's Vitalik Buterin Just Outlined a Bold New Strategy for 2030. Here's What It Could Mean for the Price of Ethereum (ETH).",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUl9TNnhOaHV5cHdVNlJtM3NDb0VldEcxdWNzemRnb2xleUJlaW1Bck0tT0lJZ2FvSVpaR3Y1cmVDbDBwR1YwSTk4a0VOT3NJUWtkRWdLZHAwTVJ2dFdCekRGTkNBU1F6Zk9IWFdEV014aWlyMjBfd0N4ajNYMmFaa0x1bGdMck9oU2dFTmdyVHQya1dlT3otanFNNHQ2VzMyaUZKR2oxVQ?oc=5",
-        "published": "Mon, 12 Oct 2026 17:03:00 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Tom Lee氏のBitmine、イーサリアムを$31M追加購入、ただし注意点あり",
+        "title_ja": "トムリーのBitmineが3100万ドル追加でイーサリアム購入、ただし注意点あり",
         "title_en": "Tom Lee's Bitmine Buys Another $31 Million in Ethereum, But There's a Catch",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSE1BUWZhalV4Um5XUnVIUERKUUthcmp5MmVKdlJEaERYZEtSTzJTNVhrZlJaXzd2NkV5Qkw3T0hqdTczT2ctdkx5emthR2taNHE2clI2dVhDUElhbjNVdlFsdFBxM2w0WUNpVW5nRjgtZHRmdlhmVy1lclk3ZnZ4bTJkdjh2Um9lWXk2dmVudE9ZUml5MHlvdjBB?oc=5",
         "published": "Mon, 12 Oct 2026 16:30:00 GMT",
         "category": "大口"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "トムリー、2兆ドルの資産移転がイーサリアム買い需要を押し上げると予想、Bitmineが追加購入",
+        "title_en": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVjFQZFRWLXRETERGMlZVNzI4akEzVG9WMUtJTVIzaEdqZVgydWRTQjNrYWc3SzMteF8xMXBCcmUzSEw1VnhxX3kzV0hJMGs3OVBZM1dvZ2xiVV9SZVZOTEFpS1JuMXFGUEFXYjBxUWNDbC03R3BncUtUQjBhdm1WbXpQLUlrdDQ1M3dWWUtUZF9XODhTcUc3TjhrUl9udUMxbnVJX0VJYTNSSVdwb2hRTUJYX1FadWpoSVlJVW55Rm9BelVWcTVuV2tUVXBTdFVBT1E?oc=5",
+        "published": "Mon, 12 Oct 2026 15:27:09 GMT",
+        "category": "発言"
       }
     ],
     "XRP": [
       {
-        "source": "Decrypt",
-        "title_ja": "Ripple支援のEvernorth、Nasdaq上場、473M XRPを保有も購入時より大幅安",
-        "title_en": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUERqMVRZNUszVFRDOUE4aEo5QmdRWEVQVUZxR18tNmREU1hldkhRYnRKcm9qYjAySjZvS1pyT3VzZW9JSUEyNnR6WENGTVpLYXFtdVY3eEsyX18wMzVKeHR0a3VlejktcUJEOTZybWF4ZTdNc283UGY2RjVfaGFNbnl3MHN4MndlYXd4TEVR?oc=5",
-        "published": "Mon, 12 Oct 2026 18:09:15 GMT",
-        "category": "上場"
+        "source": "Yahoo Finance",
+        "title_ja": "スタンダードチャータード銀行、ドバイでリップルのステーブルコインを保有・取引",
+        "title_en": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGZGQmQwZW5CWXBGTFE3dFFRQkRwUGRRaWhMR01zMkxpN2R4eWtOZU83MmJHQWcySkQwMkJzMTlkYjNhRHJMSmt1UDZsZHJrdFVxRWF4SUdpcnJHbG1CWVBZR3RsZWpmMnBac0JYQVhZR09DYlhlVUVBWVhzVE9hQWZRMUhXWjdfSE5kbEVtM25ldmJ3VmdEZnJZc1RqVGVCVHlkZVpJZEVVWUE?oc=5",
+        "published": "Mon, 12 Oct 2026 21:16:03 GMT",
+        "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Evernorth、473M XRPをNasdaqに上場、アナリストの$50予想が焦点に",
-        "title_en": "Evernorth Brings 473M XRP to Nasdaq as Analyst’s $50 Forecast Raises the Stakes",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEhURnNiZ1dYUXhBU1lPNkplZEVia2pjZ1JLWmZhd0tIZldzRGNjOEhKa0UzSDNFN0doMklnODl3djA4S01FOGdMY09nUHlwZU9lQ21fb1h3ZGsxQkFIbUVpLWVSa3VqaTJLeVQ5a3BqY3ZsX25Pd3FsTHI3NTR3UTZ3eEhYYVk0ek5MVm5SMV9kcHZ4RjlDMnB1eEZuUQ?oc=5",
-        "published": "Mon, 12 Oct 2026 14:33:31 GMT",
-        "category": "上場"
+        "title_ja": "XRPトレーダーがロング優勢、くじら勢が交換所への送付を停止、アナリストは1.38ドルがテストされるとの見方",
+        "title_en": "XRP Traders Are Leaning Long by Two to One, and Whales Have Stopped Sending Coins to Exchanges. One Analyst Says $1.38 Gets Tested Before Any Rally.",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFVVZEE1MWx4U2xRTGtyMkJPNU1Qak53LVFMMmJxUjFiS0E3QTlldkQzWkRlV2xxTVpiejdtQkpYbkJQLVc3UkdUaVoyQko4UmMxY0psNWx5VXFzVk9jemNfd0pEc2d0c0VUUlBfS1J2ZFMyTUJERlUwUUVIS043RlA1MTg1YVlBcE1RTy1Qd2Y0Y0VKeWtBZQ?oc=5",
+        "published": "Mon, 12 Oct 2026 21:00:28 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Solana財務企業DeFi Development がSOL買い増し、CHAD優先株が過去最高",
+        "title_ja": "ソラナ財務企業DeFi DevelopmentがSOL買い増し、CHAD優先株が過去最高",
         "title_en": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXdWcDVSeEVNRTh5d20wT192VTAycmZKVXdIZC1zRmdNdGRsYmN3X0RiaTVGQjhSZzcybUl5Q3BVaDVpaEdSVGFGZjZNWmdVR1F2c01oSUZfZVZldUJrNHp5b0xzTXJhcF9qWUxzZVVvNndyenBacDRHWHBNS1VqODBsdVpRdjItTTZwTzVzWm1iYk5wU1FvckpfNlU0WnR2Q0FyXw?oc=5",
         "published": "Mon, 12 Oct 2026 19:07:30 GMT",
@@ -68,7 +68,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "DeFi Development、SOL保有量を12%増加、CHADが過去最高を更新",
+        "title_ja": "DeFi DevelopmentがSOL保有を12%増加、CHADが過去最高を更新",
         "title_en": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDhuRTFZVUcwVkhMdnh0SkYxZDJoWkxSRDBBVTNXVno2QmFGZHRKdzM4U3VOS1EwNEhwdXNXLVNnSTd5aUhsa0kyc2FnNWFJTEpzLXJqdndLUUZXVTExZjdFMHJiY3cwVV9rTjdxLTd6UjBDdWxEc3ZGeEpqeGVwNXh1OGVzTEI0Z2E2NUk4NXQxV29MUmlZVzE5bERWR0ZQM0hnR1N3?oc=5",
         "published": "Mon, 12 Oct 2026 14:53:00 GMT",
