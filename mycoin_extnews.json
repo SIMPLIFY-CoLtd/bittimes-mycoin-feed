@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-13T16:51:28+00:00",
+  "generated_at": "2026-10-13T22:32:55+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "StriveがMARAに接近、1月以来最大のビットコイン購入",
-        "title_en": "Strive Closes In on MARA After Largest Bitcoin Purchase Since January",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGVKdmM1R0UtVkc3ZlJGZFphZHJzdTVndGRDb0xCRnJNX19jbUtyX2NaTXlGZVNVcm1YYUJHTjZqLTBVUlM3UVdlakZEV1dMeWJua0d6ZDNZZGlzU3B1QWlMdk1kdnhyY2VYRmZrM0Foem9ocjVvZ0hfR042b3BhYWJVanBLVW1CakpKVnlhZThDUFNvNHZpNmN4YlZlLUZl?oc=5",
-        "published": "Tue, 13 Oct 2026 14:38:00 GMT",
+        "title_ja": "BitFuFu、9月のビットコイン産出は167BTCへ減少、保有量は1,388BTCに増加",
+        "title_en": "BitFuFu September Bitcoin Output Slips to 167 BTC, Holdings Edge Up to 1,388",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjBRRjA0ekNGRG1YVW42RGVMd051T2pKNUtsMXB6R21hcUtJWTQ4YnZUZmxfVlA4czVkSHBuM19sS3lndXNJVUp3OWdNd0sxbHcybXRYNnd4RURMY3BPUmVfblJtSjBPa0VqYUxlN0UyWUk0dGF0QVFQTmdYQ295VklBamZwSGdDWE1DaG1QUDAwRGwwcGRlUEdXS2phUWMweGl4b2RR?oc=5",
+        "published": "Tue, 13 Oct 2026 22:01:00 GMT",
         "category": "大口"
       },
       {
-        "source": "The Block",
-        "title_ja": "Striveが3,311ビットコインを2億8,000万ドルで購入、1月以来最大規模の取得",
-        "title_en": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVFjOGFOd1c0Nm5IOTYyclZxQXJVS1JHUXg1TWxFSWk0a2NiV2IwZnZhd20wZXBlVUQ2LXNZNEIxeDhqSFNwbmppQXpiYXZQQk5EQ1RSc28tZjlQOHJUZ01wQ0haeWV1d1lfQXRwTmlYYVc5SW53V0p2RkJSOFdkRldKVmdwbzNrbTlkZUxpbmNvMW1fcG9aS2QxR3IxVlFTSV80Z1ktY09PNWZSSlBBWTF3WXFxcUdLNFdBNU1LUERmVFZr?oc=5",
-        "published": "Tue, 13 Oct 2026 13:42:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "2020年以来全ての下落を乗り越えたビットコインクジラが3億7,700万ドルを移動",
+        "title_en": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHlVM1NzMHpQY3oyMVhCY3RVSk51ckF2WFRQOFgxcUxta1ZCS3hXSnZnZkJkRVZxb3h0RE1SVVc5cFh3NU9iMXF1Z2FpSXJIMXhPX2ZoVGpmVVdVa2lKQUFQdGpaU3JodEdnRGdxQzRBQkRZUzNVMWtOWkRiUzJOdHpzTFZxalR2Z2NBeHFBQnh0Y1hiU2VLekl3?oc=5",
+        "published": "Tue, 13 Oct 2026 19:38:12 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "インタラクティブ・ブローカーズが対象クライアントのイーサリアム・ステーキングを追加",
+        "title_ja": "インタラクティブ・ブローカーズが適格顧客向けイーサリアムステーキングを追加",
         "title_en": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcURnTEc5bVQtUE13Y3VMSTFNQ1o5cUpjd3NTTGMtc0RxUmtWMms0WG5IcVNDSzBiOHRDa3BCMTJFaGpaSng5c3FpaFZGMkIxei1yN1R2ZU5Fdy1jdElJaUhxeU5leDVlZXlxYlZieG1LYk52eHFRLXU4NDFxbXVsWHBkek92Y0JmNWJLVzlfT3g4eWN6VHhTX3hFa2gxci1iNU1rUUZHTC1FZw?oc=5",
         "published": "Tue, 13 Oct 2026 15:33:00 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "インタラクティブ・ブローカーズ、Zerohash経由のイーサリアム・ステーキングで仮想通貨サービスを拡大",
+        "title_ja": "インタラクティブ・ブローカーズ、Zerohashを通じたイーサリアムステーキングで暗号資産サービスを拡大",
         "title_en": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3FBMEdKSWxMNGRLeEFSUXpYd3huVjN0TGQ5VnpQOWh3YkhoMzZ3ZVNOX2JNWVNYbmRpNWFXNGhhNGo2T2REd09CZkZLeHFsbHJGZlpTVk9yT0lIY1BXVVZaaDhDRkhIWXU1a3JPYVhVZ2ROZnF3R1pLQTFiRUczQk11N05zSXZHUk5mOFhLcTd5SDZYY1VRTE53eGFzekpUWFJQS2J3?oc=5",
         "published": "Tue, 13 Oct 2026 15:24:00 GMT",
@@ -42,26 +42,34 @@
     "XRP": [
       {
         "source": "The Block",
-        "title_ja": "リップル、Stripe傘下のPrivyと提携しXRP Ledgerに組み込みウォレットをもたらす",
+        "title_ja": "Rippleがストライプ傘下のPrivyと提携、XRPレジャーに組み込みウォレットを導入",
         "title_en": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjBxczgtcTVHTmpuSU5wdE9oejBxUUlIMVZtRG8tVG14ZzUtVzFZLURnU1kxcnJZaGQ4T0NWRGplYlVyNkZFaEoxTEpLYzNvWnRUeEVBdTlwUE1FbExxZThiSnd6eDd0UnFMZGJPclZKTDkyNTJ1dHhDbU9FbEhPNUJRNlJDQy1nSG5WY3J4ZFNDaEtySTgyeW5B?oc=5",
         "published": "Tue, 13 Oct 2026 16:00:00 GMT",
         "category": "提携"
-      }
-    ],
-    "SOL": [
+      },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナ国庫企業DeFi開発がSOL買い続行、CHAD優先株が過去最高に",
-        "title_en": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXdWcDVSeEVNRTh5d20wT192VTAycmZKVXdIZC1zRmdNdGRsYmN3X0RiaTVGQjhSZzcybUl5Q3BVaDVpaEdSVGFGZjZNWmdVR1F2c01oSUZfZVZldUJrNHp5b0xzTXJhcF9qWUxzZVVvNndyenBacDRHWHBNS1VqODBsdVpRdjItTTZwTzVzWm1iYk5wU1FvckpfNlU0WnR2Q0FyXw?oc=5",
-        "published": "Mon, 12 Oct 2026 19:07:30 GMT",
+        "title_ja": "Evernorthの株主が株式上場前に4億7,300万XRPで4億4,300万ドルの損失を被る、ナスダック初値で残存分に市場評価が付く",
+        "title_en": "Evernorth’s Shareholders Watched 473 Million XRP Lose $443 Million Before the Stock Ever Traded. On Its First Day on Nasdaq the Market Put a Price on What Is Left.",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25sMGV2RnpRWVhVQjh1NU4wRG1zdHEyMjRLQ05jRzNrM2xlVVhmdWoxUDlERXJXNEJPUmM1S1MxaDZiZnpkMXF3UWo4MEVlMEpHbXNvOHMwQURPRnJITWxCR0VKWTk2Yjl3a0NxNXNiUkpjQmR4MDh4WkNMa1B4VUpJNXE0Q3l0XzM4TVdfSDBnNDlpcmdteFlSZDNCRjVJRzgtdlk1TmVzLTg?oc=5",
+        "published": "Tue, 13 Oct 2026 12:33:11 GMT",
         "category": "大口"
       }
     ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
-    "SUI": [],
+    "SUI": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "AI予測がSuiを評価、Suiがブロックチェーン全体を3,000万ドルで買収",
+        "title_en": "AI Predicts SUI as Sui Buys a Whole Blockchain for $30M",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzdsVEZOWll4TTVVQ3Y2V2ZDSVFydWwxaWlQSnYwN183OGh6YllJX190WjRtSHJfVGV6MXF0dUVwZndhSWZILXN3Y09Xa05nQ0duOHNBZFI5RXdscTFNQllEcUo4OFNlQ1NNbUlEMHBYRjBBdmF2ejRQeGFZNXhoc1NPRzRFbVp0U0o3N1dFT1A2cHM?oc=5",
+        "published": "Tue, 13 Oct 2026 15:47:17 GMT",
+        "category": "採用"
+      }
+    ],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
