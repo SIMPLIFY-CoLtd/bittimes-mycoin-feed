@@ -1,76 +1,51 @@
 {
-  "generated_at": "2026-10-14T11:36:54+00:00",
+  "generated_at": "2026-10-14T16:59:00+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "アナリストが見るU.S.インフレのビットコイン価格への影響",
-        "title_en": "Here's how analysts see U.S. inflation influencing the price of bitcoin ( BTC): Crypto Daily",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmpBcGVQNHNkTWptbzR2MkVidExyU1NjQWY4V2RsdmQ1cnM4MW54WTB3YmNFR3ROaVk3MzRKSmlITkxtS0stVVJwS29IeUJ3eXVJWlZEQTQ1czlwSzhuc2RPR1VBNmtBWjA5LVdUSlNldWc1ZXMxMGlNMHI3ZGJBWUZLemRrNl95MnFCSFpJRDhabUhaRFVLVWJJU1NkLTRZWWFrai1BOA?oc=5",
-        "published": "Wed, 14 Oct 2026 11:15:00 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "アルトコインが下落、ビットコイン価格はU.S.CPIレポート前に安定",
-        "title_en": "Altcoins slip as bitcoin (BTC) price steadies before U.S. CPI report: Crypto Markets Today",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkhIVjRGMU5mZmRCNWNGRXBTTE50OXU5UG9SSGxtYTBFQ2tBYlVoQm5TMTc2ekdzQmlEWEdJaEJhWjJMVXduYlFQbjhmTXBabHNLZnVjZHdzenlIWWtWMDNWR1c3SWRZZmRrbEwweXRmYWlXY0l0MS10REZ2QThDT3lleWN3TmMwSWx3SzFVSVFJTm9mcUtRXzhrakduR0FOSlh5c1lPWGpFM21lV0syOWU3VXhkZ2pB?oc=5",
-        "published": "Wed, 14 Oct 2026 10:51:39 GMT",
-        "category": "マクロ"
-      }
-    ],
-    "ETH": [
-      {
         "source": "Yahoo Finance",
-        "title_ja": "ETF投資家による10日連続売却の中、イーサリアムのFOMOが復活",
-        "title_en": "Ethereum FOMO Returns as ETF Investors Sell for 10 Straight Days",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFA0dmFMbFdkdHZJZlo2SUhfeEJ3OFJuZ1dEaXlvYzQwd280QW1xUXp3ZHFNSUtRVXNiNnBuRm1mUS15NGt5ajVXUlpib0tFeGQzYWFmVVJMdnlIQkhWRkQySEo1RVVybVVKdnVBTWZOMW5jeFJJR1FDMTdYeU8yMzBBTkZDRXQxQ1ExLWJ1c25leWI0ZklURjdBb2x2cmExMmc?oc=5",
-        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "インタラクティブ・ブローカーズが適格クライアント向けイーサリアム・ステーキングを追加",
-        "title_en": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcURnTEc5bVQtUE13Y3VMSTFNQ1o5cUpjd3NTTGMtc0RxUmtWMms0WG5IcVNDSzBiOHRDa3BCMTJFaGpaSng5c3FpaFZGMkIxei1yN1R2ZU5Fdy1jdElJaUhxeU5leDVlZXlxYlZieG1LYk52eHFRLXU4NDFxbXVsWHBkek92Y0JmNWJLVzlfT3g4eWN6VHhTX3hFa2gxci1iNU1rUUZHTC1FZw?oc=5",
-        "published": "Tue, 13 Oct 2026 15:33:00 GMT",
+        "title_ja": "スタンダードチャータード、UAEの富裕層顧客向けにビットコイン・イーサ取引を開始",
+        "title_en": "Standard Chartered Opens Bitcoin, Ether Trading to Wealthy UAE Clients",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVN4ZTEtRVB3NGpGaXlxdllWLVlablZCcjYzYlJsbU1zc1BXYVZDS1RBejdzTzBiUEJZYUYyT21EVXF3YU1RLUYtbjNiS0Zab2hqQXVaX0pCWkpma2p6d0hvZmZCWXdveEtWVmYweUFUOWg2QXVsWEU4QVcwQW9OamJXa2pTcWxmelhfbTF1SEpxNGlOd2k2OEFYM25uWlBFeWFSMFNn?oc=5",
+        "published": "Wed, 14 Oct 2026 16:14:00 GMT",
         "category": "採用"
       }
     ],
+    "ETH": [],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "プライビー・ウォレットがXRP Ledgerに来る、ステーブルコイン決済とAIエージェント向け",
-        "title_en": "Privy Wallets Are Coming to the XRP Ledger, Aimed at Stablecoin Payments and AI Agents",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemVjeXZWbm5seVZqZ1d6Szk2bUczUERQa2E5RHg1eF9RUV85eE9XcU13UjNxeVJRZDV1ZWo1cUN5Y0xNMllmV0NYY2cyNXoyYjhYZ0hVOWN4LWkxUnJkelpNSENkVHNHeEJyU3J0NXFxYWFlbVFTSDRHTUVXR0xaZ0I4Q3hIbVlRQWprOHZBVXJyN2NjUFVreWRHNk4?oc=5",
-        "published": "Wed, 14 Oct 2026 10:32:49 GMT",
+        "title_ja": "ドライブウェルス、リップルのRLUSDをステーブルコイン決済に採用、欧州から開始",
+        "title_en": "DriveWealth Taps Ripple’s RLUSD for Stablecoin Settlement, Starting in Europe",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBHMWZaMGpncWVwZHhFZ0tnM2dIeVQ0M3ctMmMxTU1STnAzMF9qSHN3MERmSjVGWUVTdkF3SC15RW1VdDY1N2Z3U250aHE2UXFjcm1sb0k0Z2M1VjRTaEh1RUM3LUxGeEZ3RWhFTzh6V2ZFQTFKVFZOLTlxZFpsLUoyZm80akhLWHJyMTAzTU83ZW5DNE9lWWl2UFFBQ1RaUkZnZEZHdC0?oc=5",
+        "published": "Wed, 14 Oct 2026 13:50:00 GMT",
         "category": "採用"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "リップル、ストライプ傘下プライビーとパートナーシップ――XRP価格への影響は",
-        "title_en": "Ripple Partners With Stripe-Owned Privy for AI Payments — Will XRP's Price Be Impacted?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzFWNEdpNmMxUGY3V1VBM1RhYzBnQ0FoSFh6VERIdVNUNWlhRWtvdFBJbm90bXlUV1RiTUdqbTdoQ2VHMUJZUHU4TDRQRjhfeW9jalFOd2RNR3FwLUoyX0lHTHlXRDV5UnYzQkFybkowVW51akpaWUpBZzlKakRZMVNBbDhPczJiWGxXVHdyQkQ5eXJKdUtCN1VCNXNpOTdV?oc=5",
-        "published": "Wed, 14 Oct 2026 08:54:02 GMT",
-        "category": "提携"
+        "source": "The Block",
+        "title_ja": "ドライブウェルス、リップルのRLUSDをステーブルコイン決済・国際送金に採用",
+        "title_en": "DriveWealth to use Ripple's RLUSD for stablecoin settlement, cross-border payments",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmRZMDc1VHpuTEZ3clNQTGs2bDkzQ1BuQ0NDOGNWQndvM3kzYnJyNmQwbjZMQzJMTkJmeXRFUHJheHN5UDMxOUpQaFFFSTU3ZERtcXNxZ0tSZ0VtMXRLV1V2OUVaOW5SclNSeGtmdjRpRUN4WVhjMGdBN29yQVhub2gyWGRYVkQzajJuLV9ic0N5b1pUUlpVVGV0ekloTHpiQmhsVw?oc=5",
+        "published": "Wed, 14 Oct 2026 13:00:00 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナニュース：ソラナが10月21日のアルペングロウ・アップグレードを予定、150ミリ秒の確定性を目指す",
-        "title_en": "SOL news: Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUpnTWVNQm9KamJndFI0bU13bGJRRDRKSXhNWTBueU8ydFFYa2ZpQkcxUDAyWlkxZzVyeXNkTWRjOWN1VEdhdUozLWlnTUNGU0JSeUdLTzFsNmRxbnl0MjRBa0JLYnVyVUlGNFZfaUZCYWNtNmE2MkNsYS1WaDZQcWkxSWRuWWFtNmw2MTBMWjA4bnVrZGxpVnlpcXY5dXhRVW5CWGZaRzZ5X1dTTVMwMWhnN1VaSWc?oc=5",
-        "published": "Wed, 14 Oct 2026 04:28:19 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナのアルペングロウ、来週ライブ開始。SOL価格はどう反応するか",
+        "title_en": "Solana's Alpenglow Goes Live Next Week: How Will SOL Price React?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc19reUFOQk9Yd3IzelNVS3JiSmtKaEtOTFp6aTdMdi1OWjBGVEVpM19tTWZwT3o3TFh1VVNxZFpSQ2gyaDh5WjlWTmM3WDBOWU9lNXJRNWMwZVBDSVMzcFplNmJsU2dTX3kyQm1KejNXVktPaTZrSDhSRXBRdjhFa3JiZFlZdWFWV1JsdEdYOEpSSDZldjlfZ1NoYktNQQ?oc=5",
+        "published": "Wed, 14 Oct 2026 14:51:08 GMT",
         "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナ、10月21日にアルペングロウ・アップグレードを実施、150ミリ秒の確定性を目指す",
-        "title_en": "ソラナ、10月21日にアルペングロウ・アップグレードを実施 150ミリ秒の確定性を目指す",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWVjeFdqQldOUkNmLUpWVnpnMXJFWl9WOHBEaFJwcWNVVDZxVi1xX29qOEpZb3lPRVBPUk1iVjBkV1YzZWpIeml5bHNMcEU3Tm9WNlktZTA2anE1cHR0ZkpjWEg3WHFGVHdxUS01emJtV242ZDl3UXBhQXcyR3EtM3ZzcUlDRW05YTAzeWE5dWNjZ3A0NW5Ec1AwQV9zc01yNUQ1RWpwTGJ5cWhPRnJadDhKMHlYcWhLdUkw?oc=5",
+        "title_ja": "ソラナ関連ニュース：ソラナ、10月21日にアルペングロウ・アップグレードを実施。150ミリ秒の確定性を目指す",
+        "title_en": "SOL news: Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUpnTWVNQm9KamJndFI0bU13bGJRRDRKSXhNWTBueU8ydFFYa2ZpQkcxUDAyWlkxZzVyeXNkTWRjOWN1VEdhdUozLWlnTUNGU0JSeUdLTzFsNmRxbnl0MjRBa0JLYnVyVUlGNFZfaUZCYWNtNmE2MkNsYS1WaDZQcWkxSWRuWWFtNmw2MTBMWjA4bnVrZGxpVnlpcXY5dXhRVW5CWGZaRzZ5X1dTTVMwMWhnN1VaSWc?oc=5",
         "published": "Wed, 14 Oct 2026 04:28:19 GMT",
         "category": "その他"
       }
@@ -80,10 +55,10 @@
     "SUI": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "AIが予測するSUI：Suiが3,000万ドルでブロックチェーン全体を買収",
-        "title_en": "AI Predicts SUI as Sui Buys a Whole Blockchain for $30M",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzdsVEZOWll4TTVVQ3Y2V2ZDSVFydWwxaWlQSnYwN183OGh6YllJX190WjRtSHJfVGV6MXF0dUVwZndhSWZILXN3Y09Xa05nQ0duOHNBZFI5RXdscTFNQllEcUo4OFNlQ1NNbUlEMHBYRjBBdmF2ejRQeGFZNXhoc1NPRzRFbVp0U0o3N1dFT1A2cHM?oc=5",
-        "published": "Tue, 13 Oct 2026 15:47:17 GMT",
+        "title_ja": "2027年に向けて注視すべきスイの3つの重大開発",
+        "title_en": "3 Major Sui Developments To Watch Heading Into 2027",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemxNODJ6c211QUx2ZEVEV1B5NHJKTm02V1pmR3luOVQxSXNMY2RIMzVNa3ZJOFJWcUItUFZNQWM1TkdsOUpHci10blNHM1VxVEFiZFNtQ3hEVFhpWi1DVnlHZ1JzQ3J6M0FNNU9pUzZUdWRNNVZHUVk3THRKMW1GOWZyWEhUOHpxbVd3N3JuTmh2WWJsbzl3ZUxoMA?oc=5",
+        "published": "Wed, 14 Oct 2026 12:59:43 GMT",
         "category": "その他"
       }
     ],
