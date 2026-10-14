@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-13T22:32:55+00:00",
+  "generated_at": "2026-10-14T04:33:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "BitFuFu、9月のビットコイン産出は167BTCへ減少、保有量は1,388BTCに増加",
-        "title_en": "BitFuFu September Bitcoin Output Slips to 167 BTC, Holdings Edge Up to 1,388",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjBRRjA0ekNGRG1YVW42RGVMd051T2pKNUtsMXB6R21hcUtJWTQ4YnZUZmxfVlA4czVkSHBuM19sS3lndXNJVUp3OWdNd0sxbHcybXRYNnd4RURMY3BPUmVfblJtSjBPa0VqYUxlN0UyWUk0dGF0QVFQTmdYQ295VklBamZwSGdDWE1DaG1QUDAwRGwwcGRlUEdXS2phUWMweGl4b2RR?oc=5",
-        "published": "Tue, 13 Oct 2026 22:01:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、FRB議長が2027年の利上げなしとの見方を示した後84000ドル付近へ上昇",
+        "title_en": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVBjSEY3cWEzRVlFWGJXX1J3a1JKNG1pNTBraW5uNHd1aTk0Y1lyaGtFdmN5YmFERTRLSkluSUpXLVJBZDgzc3RiVktKWmpLNWQzb3pFN1BweUpPVGI1WGUwelhPWGdnX0psWF9LeEhUbHpsNkQzU1BOazFDdEJ6YktxYnYtUHpjNFpnOFNRUW5zckswNktkTDJ6OTFyM0loX2oyc2FmeElxOFhWUHBDREFmOXZUY3NZdmVMQ0lQMmk?oc=5",
+        "published": "Wed, 14 Oct 2026 03:50:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "2020年以来全ての下落を乗り越えたビットコインクジラが3億7,700万ドルを移動",
-        "title_en": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHlVM1NzMHpQY3oyMVhCY3RVSk51ckF2WFRQOFgxcUxta1ZCS3hXSnZnZkJkRVZxb3h0RE1SVVc5cFh3NU9iMXF1Z2FpSXJIMXhPX2ZoVGpmVVdVa2lKQUFQdGpaU3JodEdnRGdxQzRBQkRZUzNVMWtOWkRiUzJOdHpzTFZxalR2Z2NBeHFBQnh0Y1hiU2VLekl3?oc=5",
-        "published": "Tue, 13 Oct 2026 19:38:12 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "Coinbase、ビットコインの耐量子暗号移行に向け柔軟な設計を重視と明示",
+        "title_en": "Coinbase lays out flexible designs as key priority for Bitcoin's post-quantum migration",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmM5bjU2RzlNTGR0a0J2MnZaSHVKdDdvX3RsRmJocE52UDQ0cFRta1B0R3R4dmhfNFVFUU5oYTN5bkdRVUlHR2QtVExJT1h0NVlNYTFTbXBpZ2NvZUQtbFBlUF9LZFlXT0g4RzRNME9NSGNxb2Y3cE8tR3VhODB5RzZMcTVieDh1dEFzdVJRUWlVNFhIVzUwbUFMY192Zw?oc=5",
+        "published": "Wed, 14 Oct 2026 02:49:00 GMT",
+        "category": "採用"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "インタラクティブ・ブローカーズが適格顧客向けイーサリアムステーキングを追加",
+        "title_ja": "Interactive Brokers、適格クライアント向けにイーサリアムステーキングを追加",
         "title_en": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcURnTEc5bVQtUE13Y3VMSTFNQ1o5cUpjd3NTTGMtc0RxUmtWMms0WG5IcVNDSzBiOHRDa3BCMTJFaGpaSng5c3FpaFZGMkIxei1yN1R2ZU5Fdy1jdElJaUhxeU5leDVlZXlxYlZieG1LYk52eHFRLXU4NDFxbXVsWHBkek92Y0JmNWJLVzlfT3g4eWN6VHhTX3hFa2gxci1iNU1rUUZHTC1FZw?oc=5",
         "published": "Tue, 13 Oct 2026 15:33:00 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "インタラクティブ・ブローカーズ、Zerohashを通じたイーサリアムステーキングで暗号資産サービスを拡大",
+        "title_ja": "Interactive Brokers、Zerohashを通じたイーサリアムステーキングで暗号資産サービスを拡大",
         "title_en": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3FBMEdKSWxMNGRLeEFSUXpYd3huVjN0TGQ5VnpQOWh3YkhoMzZ3ZVNOX2JNWVNYbmRpNWFXNGhhNGo2T2REd09CZkZLeHFsbHJGZlpTVk9yT0lIY1BXVVZaaDhDRkhIWXU1a3JPYVhVZ2ROZnF3R1pLQTFiRUczQk11N05zSXZHUk5mOFhLcTd5SDZYY1VRTE53eGFzekpUWFJQS2J3?oc=5",
         "published": "Tue, 13 Oct 2026 15:24:00 GMT",
@@ -42,7 +42,7 @@
     "XRP": [
       {
         "source": "The Block",
-        "title_ja": "Rippleがストライプ傘下のPrivyと提携、XRPレジャーに組み込みウォレットを導入",
+        "title_ja": "リップル、Stripe傘下のPrivyと提携しXRP Ledgerにエンベッドウォレット統合",
         "title_en": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjBxczgtcTVHTmpuSU5wdE9oejBxUUlIMVZtRG8tVG14ZzUtVzFZLURnU1kxcnJZaGQ4T0NWRGplYlVyNkZFaEoxTEpLYzNvWnRUeEVBdTlwUE1FbExxZThiSnd6eDd0UnFMZGJPclZKTDkyNTJ1dHhDbU9FbEhPNUJRNlJDQy1nSG5WY3J4ZFNDaEtySTgyeW5B?oc=5",
         "published": "Tue, 13 Oct 2026 16:00:00 GMT",
@@ -50,20 +50,29 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Evernorthの株主が株式上場前に4億7,300万XRPで4億4,300万ドルの損失を被る、ナスダック初値で残存分に市場評価が付く",
-        "title_en": "Evernorth’s Shareholders Watched 473 Million XRP Lose $443 Million Before the Stock Ever Traded. On Its First Day on Nasdaq the Market Put a Price on What Is Left.",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX25sMGV2RnpRWVhVQjh1NU4wRG1zdHEyMjRLQ05jRzNrM2xlVVhmdWoxUDlERXJXNEJPUmM1S1MxaDZiZnpkMXF3UWo4MEVlMEpHbXNvOHMwQURPRnJITWxCR0VKWTk2Yjl3a0NxNXNiUkpjQmR4MDh4WkNMa1B4VUpJNXE0Q3l0XzM4TVdfSDBnNDlpcmdteFlSZDNCRjVJRzgtdlk1TmVzLTg?oc=5",
-        "published": "Tue, 13 Oct 2026 12:33:11 GMT",
-        "category": "大口"
+        "title_ja": "XRP、ナスダック上場・ドバイ銀行提携・ETF流入を発表した週に8%下落。理由は",
+        "title_en": "XRP Fell 8% in the Week It Got a Nasdaq Listing, a Dubai Bank Deal and an ETF Inflow. Why Did None of It Count?",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWE5LXzFiQjZiaUJWVFFvaW9tQ3BZeEZ4TWhiZV9FMFA3NGgxZW1fby02NmhNZVNHZ2dUSGd4cEJ4d3l2enNtMWxGcGlkY2Nlczh1aHFOWURkdDNmTW9rckVVZ0ZOa3l2bVFFSWFTUmpSeVJwLVVobERaYTUySU9rYmJVdEMwLVU3bnVQVw?oc=5",
+        "published": "Tue, 13 Oct 2026 15:06:30 GMT",
+        "category": "上場"
       }
     ],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナ、10月21日にAlpenglow アップグレード実施、150ミリ秒のファイナリティを目指す",
+        "title_en": "SOL news: Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUpnTWVNQm9KamJndFI0bU13bGJRRDRKSXhNWTBueU8ydFFYa2ZpQkcxUDAyWlkxZzVyeXNkTWRjOWN1VEdhdUozLWlnTUNGU0JSeUdLTzFsNmRxbnl0MjRBa0JLYnVyVUlGNFZfaUZCYWNtNmE2MkNsYS1WaDZQcWkxSWRuWWFtNmw2MTBMWjA4bnVrZGxpVnlpcXY5dXhRVW5CWGZaRzZ5X1dTTVMwMWhnN1VaSWc?oc=5",
+        "published": "Wed, 14 Oct 2026 04:28:19 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "AI予測がSuiを評価、Suiがブロックチェーン全体を3,000万ドルで買収",
+        "title_ja": "AIがSUIを予測、Suiがブロックチェーンを3000万ドルで買収",
         "title_en": "AI Predicts SUI as Sui Buys a Whole Blockchain for $30M",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzdsVEZOWll4TTVVQ3Y2V2ZDSVFydWwxaWlQSnYwN183OGh6YllJX190WjRtSHJfVGV6MXF0dUVwZndhSWZILXN3Y09Xa05nQ0duOHNBZFI5RXdscTFNQllEcUo4OFNlQ1NNbUlEMHBYRjBBdmF2ejRQeGFZNXhoc1NPRzRFbVp0U0o3N1dFT1A2cHM?oc=5",
         "published": "Tue, 13 Oct 2026 15:47:17 GMT",
