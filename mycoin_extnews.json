@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-10-15T11:15:18+00:00",
+  "generated_at": "2026-10-15T16:46:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインが8000ドル付近から反発、コスピ8%下落に連動してアルトコインはより大きく下落",
-        "title_en": "Bitcoin rebounds from near $80,000 as Kospi plunges 8%, with altcoins falling harder",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU05xTmtQZXBkb0ctMEhfNWs1XzI3ODJKRjdUeVplV3ZOb3NEQ3RVZy1Jem5hczVicVBOTnpFYVRlUTNUcHZzNkROYXRrUks0VkZQWlpZNmJVUjg5RkhSNFlvamtvVWJCTlM4M1pGSl9kNjZodlVGVFRxMGxuMUFvS2sxSXUyY1lFN1RxOXd6VC1LalR5V01IaWFISlozdFpNN2lRQ1BiU2lMb1FIaG1YT2hRdndTUDFf?oc=5",
-        "published": "Thu, 15 Oct 2026 10:52:11 GMT",
-        "category": "マクロ"
+        "source": "The Block",
+        "title_ja": "CleanSpark と BitFuFu、9月のビットコイン生産量が低下、Canaan は横ばい",
+        "title_en": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGEyUGdfX1V3N09TYzNIX0VlbVNfNHUzRU95UWJKalJZY3VVZ3NyM2JUT0tfVXZVM2l4OVQzS3JmRkNMUDFzdWMtSUNqWS0yRU16UE1PU2FBRFlPVmpfUjJIWGI4NGFMTUNJcUlYSm9raFFMMVIzNVByMXhmdGkzYjR4aWRVNWZLYWRJcXFWWmo2b2FTTUxtR0d3QXZ2cnpIZG9tUHQ5ZmVjd0VpTFdkbTJ0Q3l5RS1EYmpZc3I0Y1J5c2t1Q3lB?oc=5",
+        "published": "Thu, 15 Oct 2026 16:06:00 GMT",
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "シティグループ、ビットコイン12ヶ月目標を11万3000ドルに引き上げ",
-        "title_en": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXNlNWRqbGJvSTFpSWQ5ZzBnNWhlN0t4VzhibkFkcmlVOHJIUTZfTUFzcTFLWUNrdmxTLWtZcjgyTUNIQWNGTU55ajBWWGp1ck41RWhZajVpUWpkV1ExdXpfQmFIQVdHY21PdzlCem9NTUxCZjRKWGFYMXJNOGdyNlAwNm5xYmkwekliMTExT0tLWDR3RlVDbDRKRzM?oc=5",
-        "published": "Thu, 15 Oct 2026 09:35:00 GMT",
-        "category": "発言"
+        "title_ja": "ビットコイン、80,000ドル下回る、売却をトリガー",
+        "title_en": "Bitcoin Just Fell Below $80,000: What Triggered the Selloff?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUdWQzhvSHREU3dfb1loc2kxOHptNmFSajVFQzROZGE4c3g0Xy0wSEFkRHdzSGpJclhMcmpMQnAxT3lldEFvaWJIbmRPamFkMnMtLUlIYU9wbUdsN3NwaUdRc3FjaWNQMDF4dGVJcUhTbGVTd0dPMFhRZHBnZzR2THZvZ0lPbVhiTHJlQXU5cHdwWlFIakE?oc=5",
+        "published": "Thu, 15 Oct 2026 14:44:59 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "VanEck、Lido Staked ETH ETFの上場を取り下げ",
-        "title_en": "VanEck Pulls Plug on Lido Staked ETH ETF After Yearlong Wait",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWkwclpTRE1zbV9MckVwY2QyejVwOThBcFNQUUVPNnpwdWlxb0NUVWUyZWd3ZHFXMHF1OWttQ2F1WmNkTHZSWFViUW12aEpDM0pCRVo2d1pZS29neFNaVXhhTHdtSFVBTHdneHFXSzlJQ3RKalowZ1NBWExPUEsyOUhFNldGQnRqX3JqdnZSYUROMUhoUmVUTjBn?oc=5",
-        "published": "Thu, 15 Oct 2026 07:04:49 GMT",
-        "category": "上場"
+        "source": "Decrypt",
+        "title_ja": "イーサリアムとアルトコイン、マクロ圧力で過度な下落",
+        "title_en": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ21jTVlkYjczN1lNREtzY2tXSmJSbWoycUN2YVBiWWlxNzM4b2ZIMmIzZHFKcHVoTGFxVEJUbnIwZV9tcjl4SXFRR0F2dE8zTWZGZzNvbHZaVlV4bnhkcl9DaXQtYWRrbU1VZ3gyYWZ4ZVdVVm9naGRfZ05rRUg0WXp1V1p6NURPOEFNWTAycS1MWTA?oc=5",
+        "published": "Thu, 15 Oct 2026 14:27:18 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン、イーサ、XRPの下落で約10億ドル分の暗号資産ポジションが清算",
-        "title_en": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblZQX0dpQWN2aUFZRklDRUdNZklJSzR5RDNhdXAyN0RlYk5qOW94TEROU09sdGR0X09tWXVQOEp3b1ZqTTY3X1RiSGMybEtaMTRfUko2X0pWbWhHMzYxRTNKTnQ2QTZYWW4yQWdCVmNmMVFVSGZULWJoekMyUExzQ3J4c0R0SXkwLWFFT01maDVpR2d4RFY4V1NIS0U3aEVielA4NTNTbGk1Ry13ZFlVVkowdWlPdmp3ZGg5ag?oc=5",
-        "published": "Thu, 15 Oct 2026 04:25:15 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインとイーサリアム ETF、1日で3.91億ドル流出、XRP ETF のみ資金流入",
+        "title_en": "Bitcoin and Ethereum ETFs Lost $391 Million in a Day. Only XRP ETFs Took Money In.",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUpiMlI1QTltNm91S0hqQUwxRUF3a0N6MnlkdEkzdmZ3cVd3bmhYa2l6V01aOGlzNG9oTndkUFlTVjFFblZxTlNJZjVzWkwzS0Z0STNRQlk3bXNRSDFGdFViNWE0QmpzcTBjY3haZWNKaXRvSGtaeExxX3RwcjZnTEd1ems5WjUzNTBFRUdCNDlXUXJ6Q244clEwSQ?oc=5",
+        "published": "Thu, 15 Oct 2026 14:18:18 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル、Privyと提携してXRP台帳ウォレットをアプリに組み込む",
-        "title_en": "Ripple partners with Privy to embed XRP ledger wallets in apps",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW1QMU4wUXo1TjFRbWhTeV9xLXhXQUgyRmdPZXBMUUdlYTB4NXk0ZW5RZWdBeEF1TFY3RkthSHRjMmx5VTZ4TDJvN0dNOWNUNGVOcl91VFVZb05fMlJsZTMtMnNLZW1ta2sySlMtb2lpY0JiZWljTG5KLWQ2XzlKR3ZEXzE?oc=5",
-        "published": "Wed, 14 Oct 2026 20:00:00 GMT",
+        "title_ja": "Ripple Prime、伝統市場連動スワップの24時間取引を追加",
+        "title_en": "Ripple Prime Adds 24/7 Trading for Swaps Linked to Traditional Markets",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0xQRUhrdWRPSTRneVA4YmJjcGwtSExwOWgyNGxaLTA0SnUyU0QtTkdsN0FfV3A3QmFYdlpTNU84Yk9lZF9XcG5LQy1VUUxtUU9JTzM0SVJISWYySURicnBQTE9rbTdEY1VBZTVhLU5lakJyRDJyTjFvaXc5UjFVYlhXZ3h2ZFBvOFdabVd1OUQ?oc=5",
+        "published": "Thu, 15 Oct 2026 15:41:00 GMT",
         "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "DriveWealth、リップルのRLUSDをステーブルコイン決済に採用、欧州で開始",
-        "title_en": "DriveWealth Taps Ripple’s RLUSD for Stablecoin Settlement, Starting in Europe",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBHMWZaMGpncWVwZHhFZ0tnM2dIeVQ0M3ctMmMxTU1STnAzMF9qSHN3MERmSjVGWUVTdkF3SC15RW1VdDY1N2Z3U250aHE2UXFjcm1sb0k0Z2M1VjRTaEh1RUM3LUxGeEZ3RWhFTzh6V2ZFQTFKVFZOLTlxZFpsLUoyZm80akhLWHJyMTAzTU83ZW5DNE9lWWl2UFFBQ1RaUkZnZEZHdC0?oc=5",
-        "published": "Wed, 14 Oct 2026 13:50:00 GMT",
+        "title_ja": "Ripple の DriveWealth 提携が XRP 支持層の反発を招く、RLUSD が焦点に",
+        "title_en": "Ripple’s DriveWealth Deal Sparks XRP Backlash as RLUSD Takes Center Stage",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHZhX3VhNEg2MlQ1Tzk4OXBwWkE1MnB2bTJvcFhwb2hCdXBsZ21NbkxBaUFPMnppbjNwSGxBdGYzeHh2by1zaEtMVGVOLTRTSG9YM2pTNkVsZzBqbEdaa2pzWkZ5dnJUZGFuN1VtZUEyTGxhcldEY2lzbEFGNThWbUpwcEJ5OUZCcmptQll2SU5QT3Bsc2dTbjZBTUU5Nk1T?oc=5",
+        "published": "Thu, 15 Oct 2026 13:09:37 GMT",
         "category": "提携"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナが中国で実現、バイナンス・チェーンはできなかったことをチャンペン・ジャオが指摘",
-        "title_en": "Solana Just Did Something in China That Changpeng Zhao Says BNB Chain Couldn’t",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnAzekI1VGlIRk1kMmFNUUlPeF8tbDhSS2FNeHAzMkV0ZldWUllpWkNyb3VaNlhoR0FSM2xYUFNMSnc0OXY5QjRhUHBTNFFCNDZtdFF0ZlRmNHdOVVk5SGVYOXRnbmZmTTJpdWw0Y1hhNFE2SDhweUVTYmlkUXUyUGtCclhHUkE5TXZLNC1TeHV0WjZGdXVGVXRGYmU?oc=5",
-        "published": "Thu, 15 Oct 2026 06:23:02 GMT",
-        "category": "採用"
+        "title_ja": "Solana Mobile、Seeker アプリを Ledger の新デバイス Atom に展開",
+        "title_en": "Solana Mobile brings its Seeker app to Ledger’s new Atom device",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhxYk1zNjFYYmFIT2drS2gtMWY1RjFoTEUyYkN6Y1hfT1MwTWlybU9RRXRRZjVPNlJhekFRQUp3T205X05lVURGSk5rQUpBOGUyWWp4UUd6WV9xb2E0OTRrZ01zTFcyYkVNSU1Oa3dDRm1GRlVXLVhhNHVYUURDbDBoa3JjU00zMEFiajBlNnM0Tzc1d1NoVFNtaFA?oc=5",
+        "published": "Thu, 15 Oct 2026 15:04:00 GMT",
+        "category": "提携"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "SkyAIがソラナ売却圧力、1ヶ月で財務が70%急落",
-        "title_en": "SkyAI Under Pressure Over Solana Sales as Treasury Plunges 70% in a Month",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUtOUl9URmZDa1JBRnFMMDEyWHJ4ZjJMUVV4MmJxMGNyWVNNUko0R0R0akI5U0FoZW9NWVhudVUzVk1hM09fTzA4TmdCY1pid3BUSHpZaDE5SGtpV0h2ODVrVHFSN2g4QnNycFlueTJZOEVPelNkcFA3WW94SEZwbnlpT1ZVY2ZoR1Y2elQ0bzVZUUdUZ0pocENKWWdXdw?oc=5",
-        "published": "Wed, 14 Oct 2026 19:53:00 GMT",
-        "category": "大口"
+        "source": "Decrypt",
+        "title_ja": "モーニング分析：ソラナがさらに高速化へ",
+        "title_en": "Morning Minute: Solana Is About To Get Faster",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4bE5YSWM2Qk5zLWV3d1oyQ0hlVm03anBFWk5sSUpza0J0RjQ5bklFLWg4NHY5N1hkZjlrd3V4b0JzQ1BidWhwMWJzOHNOUEVXSUtSbllfRFhPRUUwOVp5QW81cjVHejJnQVI4cXREdE1hV2xmZWhaMzNR?oc=5",
+        "published": "Thu, 15 Oct 2026 12:07:08 GMT",
+        "category": "その他"
       }
     ],
     "ADA": [],
