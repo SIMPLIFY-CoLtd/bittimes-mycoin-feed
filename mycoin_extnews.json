@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-10-15T04:15:49+00:00",
+  "generated_at": "2026-10-15T11:15:18+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコインが81,000ドル以下に下落、FRBの金利見通し不透明感が重し",
-        "title_en": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5",
-        "published": "Thu, 15 Oct 2026 03:57:00 GMT",
+        "title_ja": "ビットコインが8000ドル付近から反発、コスピ8%下落に連動してアルトコインはより大きく下落",
+        "title_en": "Bitcoin rebounds from near $80,000 as Kospi plunges 8%, with altcoins falling harder",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU05xTmtQZXBkb0ctMEhfNWs1XzI3ODJKRjdUeVplV3ZOb3NEQ3RVZy1Jem5hczVicVBOTnpFYVRlUTNUcHZzNkROYXRrUks0VkZQWlpZNmJVUjg5RkhSNFlvamtvVWJCTlM4M1pGSl9kNjZodlVGVFRxMGxuMUFvS2sxSXUyY1lFN1RxOXd6VC1LalR5V01IaWFISlozdFpNN2lRQ1BiU2lMb1FIaG1YT2hRdndTUDFf?oc=5",
+        "published": "Thu, 15 Oct 2026 10:52:11 GMT",
         "category": "マクロ"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "米インフレ率3.7%、ビットコインが82,000ドルを割り込む",
-        "title_en": "Bitcoin drops below $82,000 after U.S. inflation hits 3.7%",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVYV0hOSEZKelYwcVc4SHphZ3BycmM1cF92dnhtbkNKMmtwaW5zZ0s4VXJYZGZmNVR1X2hWR2JfX3RTRmtEZW41ZjRlaThDTkREUzdNZGNvN2pDd01nekJDLTFqUko1Ti02TEpZcnByRlNOSmJQbkxib1hzeDhzRDFIWTIwQXBBYnZpZHJvS0FlNVNZZUE?oc=5",
-        "published": "Wed, 14 Oct 2026 18:01:49 GMT",
-        "category": "マクロ"
+        "title_ja": "シティグループ、ビットコイン12ヶ月目標を11万3000ドルに引き上げ",
+        "title_en": "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXNlNWRqbGJvSTFpSWQ5ZzBnNWhlN0t4VzhibkFkcmlVOHJIUTZfTUFzcTFLWUNrdmxTLWtZcjgyTUNIQWNGTU55ajBWWGp1ck41RWhZajVpUWpkV1ExdXpfQmFIQVdHY21PdzlCem9NTUxCZjRKWGFYMXJNOGdyNlAwNm5xYmkwekliMTExT0tLWDR3RlVDbDRKRzM?oc=5",
+        "published": "Thu, 15 Oct 2026 09:35:00 GMT",
+        "category": "発言"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "VanEck、Lido Staked ETH ETFの上場を取り下げ",
+        "title_en": "VanEck Pulls Plug on Lido Staked ETH ETF After Yearlong Wait",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWkwclpTRE1zbV9MckVwY2QyejVwOThBcFNQUUVPNnpwdWlxb0NUVWUyZWd3ZHFXMHF1OWttQ2F1WmNkTHZSWFViUW12aEpDM0pCRVo2d1pZS29neFNaVXhhTHdtSFVBTHdneHFXSzlJQ3RKalowZ1NBWExPUEsyOUhFNldGQnRqX3JqdnZSYUROMUhoUmVUTjBn?oc=5",
+        "published": "Thu, 15 Oct 2026 07:04:49 GMT",
+        "category": "上場"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、イーサ、XRPの下落で約10億ドル分の暗号資産ポジションが清算",
+        "title_en": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblZQX0dpQWN2aUFZRklDRUdNZklJSzR5RDNhdXAyN0RlYk5qOW94TEROU09sdGR0X09tWXVQOEp3b1ZqTTY3X1RiSGMybEtaMTRfUko2X0pWbWhHMzYxRTNKTnQ2QTZYWW4yQWdCVmNmMVFVSGZULWJoekMyUExzQ3J4c0R0SXkwLWFFT01maDVpR2d4RFY4V1NIS0U3aEVielA4NTNTbGk1Ry13ZFlVVkowdWlPdmp3ZGg5ag?oc=5",
+        "published": "Thu, 15 Oct 2026 04:25:15 GMT",
+        "category": "その他"
+      }
+    ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple、Privyと提携しアプリにXRP Ledgerウォレットを統合",
+        "title_ja": "リップル、Privyと提携してXRP台帳ウォレットをアプリに組み込む",
         "title_en": "Ripple partners with Privy to embed XRP ledger wallets in apps",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW1QMU4wUXo1TjFRbWhTeV9xLXhXQUgyRmdPZXBMUUdlYTB4NXk0ZW5RZWdBeEF1TFY3RkthSHRjMmx5VTZ4TDJvN0dNOWNUNGVOcl91VFVZb05fMlJsZTMtMnNLZW1ta2sySlMtb2lpY0JiZWljTG5KLWQ2XzlKR3ZEXzE?oc=5",
         "published": "Wed, 14 Oct 2026 20:00:00 GMT",
@@ -33,35 +50,34 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "DriveWealth、RippleのRLUSDをステーブルコイン決済に採用　欧州から開始",
+        "title_ja": "DriveWealth、リップルのRLUSDをステーブルコイン決済に採用、欧州で開始",
         "title_en": "DriveWealth Taps Ripple’s RLUSD for Stablecoin Settlement, Starting in Europe",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBHMWZaMGpncWVwZHhFZ0tnM2dIeVQ0M3ctMmMxTU1STnAzMF9qSHN3MERmSjVGWUVTdkF3SC15RW1VdDY1N2Z3U250aHE2UXFjcm1sb0k0Z2M1VjRTaEh1RUM3LUxGeEZ3RWhFTzh6V2ZFQTFKVFZOLTlxZFpsLUoyZm80akhLWHJyMTAzTU83ZW5DNE9lWWl2UFFBQ1RaUkZnZEZHdC0?oc=5",
         "published": "Wed, 14 Oct 2026 13:50:00 GMT",
-        "category": "採用"
+        "category": "提携"
       }
     ],
     "SOL": [
       {
-        "source": "Decrypt",
-        "title_ja": "ソラナが次期メジャーアップグレードの実施日を決定",
-        "title_en": "Solana Sets a Date for Its Next Major Upgrade",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WmFHdGxFZGM4RnJFZVNiZWNBV01lM0U0MGxocHpxakliVHB0Q3E5VkNlbnhHYzFYZ0l6VGoyUDEzN3gyZ3hkWTJROFFQbE5oYzhNX0lqQkVKbUZ5WDJOVnREakhScnltSlkwR293?oc=5",
-        "published": "Wed, 14 Oct 2026 19:16:04 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナが中国で実現、バイナンス・チェーンはできなかったことをチャンペン・ジャオが指摘",
+        "title_en": "Solana Just Did Something in China That Changpeng Zhao Says BNB Chain Couldn’t",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnAzekI1VGlIRk1kMmFNUUlPeF8tbDhSS2FNeHAzMkV0ZldWUllpWkNyb3VaNlhoR0FSM2xYUFNMSnc0OXY5QjRhUHBTNFFCNDZtdFF0ZlRmNHdOVVk5SGVYOXRnbmZmTTJpdWw0Y1hhNFE2SDhweUVTYmlkUXUyUGtCclhHUkE5TXZLNC1TeHV0WjZGdXVGVXRGYmU?oc=5",
+        "published": "Thu, 15 Oct 2026 06:23:02 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "SkyAIがソラナ売却圧力、1ヶ月で財務が70%急落",
+        "title_en": "SkyAI Under Pressure Over Solana Sales as Treasury Plunges 70% in a Month",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUtOUl9URmZDa1JBRnFMMDEyWHJ4ZjJMUVV4MmJxMGNyWVNNUko0R0R0akI5U0FoZW9NWVhudVUzVk1hM09fTzA4TmdCY1pid3BUSHpZaDE5SGtpV0h2ODVrVHFSN2g4QnNycFlueTJZOEVPelNkcFA3WW94SEZwbnlpT1ZVY2ZoR1Y2elQ0bzVZUUdUZ0pocENKWWdXdw?oc=5",
+        "published": "Wed, 14 Oct 2026 19:53:00 GMT",
+        "category": "大口"
       }
     ],
     "ADA": [],
     "DOGE": [],
-    "SUI": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "2027年に向けて注視すべきSuiの3大動向",
-        "title_en": "3 Major Sui Developments To Watch Heading Into 2027",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemxNODJ6c211QUx2ZEVEV1B5NHJKTm02V1pmR3luOVQxSXNMY2RIMzVNa3ZJOFJWcUItUFZNQWM1TkdsOUpHci10blNHM1VxVEFiZFNtQ3hEVFhpWi1DVnlHZ1JzQ3J6M0FNNU9pUzZUdWRNNVZHUVk3THRKMW1GOWZyWEhUOHpxbVd3N3JuTmh2WWJsbzl3ZUxoMA?oc=5",
-        "published": "Wed, 14 Oct 2026 12:59:43 GMT",
-        "category": "その他"
-      }
-    ],
+    "SUI": [],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
