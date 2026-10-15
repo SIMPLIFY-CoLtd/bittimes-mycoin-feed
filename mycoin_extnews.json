@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-14T21:31:04+00:00",
+  "generated_at": "2026-10-15T04:15:49+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Decrypt",
-        "title_ja": "ロシア最大手銀行スベルバンク、ビットコイン取引の承認を取得",
-        "title_en": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdUlOQWNnVWZ2SS1NWl9nSEhzNFdqaG1Balk0RlFCZ1Jta2Jjd0c1V2hHenpxeGk2Z1NCanFITkhFMDJ2U3ZoVTNsVlF3aGVxYU1QckFOcmJrdzh5eXV5NTF5cHVNSjBoS2ZSVTUxcWo3YVFrbWc?oc=5",
-        "published": "Wed, 14 Oct 2026 19:46:03 GMT",
-        "category": "承認"
+        "source": "CoinDesk",
+        "title_ja": "ビットコインが81,000ドル以下に下落、FRBの金利見通し不透明感が重し",
+        "title_en": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5",
+        "published": "Thu, 15 Oct 2026 03:57:00 GMT",
+        "category": "マクロ"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "米インフレ率3.7%を受けビットコインが82,000ドル下回る",
+        "title_ja": "米インフレ率3.7%、ビットコインが82,000ドルを割り込む",
         "title_en": "Bitcoin drops below $82,000 after U.S. inflation hits 3.7%",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVYV0hOSEZKelYwcVc4SHphZ3BycmM1cF92dnhtbkNKMmtwaW5zZ0s4VXJYZGZmNVR1X2hWR2JfX3RTRmtEZW41ZjRlaThDTkREUzdNZGNvN2pDd01nekJDLTFqUko1Ti02TEpZcnByRlNOSmJQbkxib1hzeDhzRDFIWTIwQXBBYnZpZHJvS0FlNVNZZUE?oc=5",
         "published": "Wed, 14 Oct 2026 18:01:49 GMT",
@@ -25,7 +25,7 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple、Privyと提携しXRP Ledgerウォレットをアプリに組み込み",
+        "title_ja": "Ripple、Privyと提携しアプリにXRP Ledgerウォレットを統合",
         "title_en": "Ripple partners with Privy to embed XRP ledger wallets in apps",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW1QMU4wUXo1TjFRbWhTeV9xLXhXQUgyRmdPZXBMUUdlYTB4NXk0ZW5RZWdBeEF1TFY3RkthSHRjMmx5VTZ4TDJvN0dNOWNUNGVOcl91VFVZb05fMlJsZTMtMnNLZW1ta2sySlMtb2lpY0JiZWljTG5KLWQ2XzlKR3ZEXzE?oc=5",
         "published": "Wed, 14 Oct 2026 20:00:00 GMT",
@@ -33,7 +33,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "DriveWealth、Rippleの安定資産RLUSDをステーブルコイン決済に採用、欧州から開始",
+        "title_ja": "DriveWealth、RippleのRLUSDをステーブルコイン決済に採用　欧州から開始",
         "title_en": "DriveWealth Taps Ripple’s RLUSD for Stablecoin Settlement, Starting in Europe",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBHMWZaMGpncWVwZHhFZ0tnM2dIeVQ0M3ctMmMxTU1STnAzMF9qSHN3MERmSjVGWUVTdkF3SC15RW1VdDY1N2Z3U250aHE2UXFjcm1sb0k0Z2M1VjRTaEh1RUM3LUxGeEZ3RWhFTzh6V2ZFQTFKVFZOLTlxZFpsLUoyZm80akhLWHJyMTAzTU83ZW5DNE9lWWl2UFFBQ1RaUkZnZEZHdC0?oc=5",
         "published": "Wed, 14 Oct 2026 13:50:00 GMT",
@@ -42,16 +42,8 @@
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ、中国進出を加速。上海に世界最高層のオフィスビルを開設",
-        "title_en": "Solana Goes All In on China With World’s Highest Commercial Office in Shanghai",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFpfN0tnOTRxNXl1TnE2bUZPaUtfa256U250MWdNbGZNcUh3RGlld3JFNy1kc1h1UUFCblZtbmtISkVuWXR4dHZ1d3d0M2lVRjFxMzdLdVIySlkzX2p3OFZMWEszYkJMd2VxdDdoQTJocVVFUkxOQ2JWM3REUURPSHNrSEdTejlhakN4RFVFMnIzR0FQaTlBYWdDN2E?oc=5",
-        "published": "Wed, 14 Oct 2026 19:17:29 GMT",
-        "category": "採用"
-      },
-      {
         "source": "Decrypt",
-        "title_ja": "ソラナ、次の大型アップグレードの日程を決定",
+        "title_ja": "ソラナが次期メジャーアップグレードの実施日を決定",
         "title_en": "Solana Sets a Date for Its Next Major Upgrade",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WmFHdGxFZGM4RnJFZVNiZWNBV01lM0U0MGxocHpxakliVHB0Q3E5VkNlbnhHYzFYZ0l6VGoyUDEzN3gyZ3hkWTJROFFQbE5oYzhNX0lqQkVKbUZ5WDJOVnREakhScnltSlkwR293?oc=5",
         "published": "Wed, 14 Oct 2026 19:16:04 GMT",
@@ -60,7 +52,16 @@
     ],
     "ADA": [],
     "DOGE": [],
-    "SUI": [],
+    "SUI": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "2027年に向けて注視すべきSuiの3大動向",
+        "title_en": "3 Major Sui Developments To Watch Heading Into 2027",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemxNODJ6c211QUx2ZEVEV1B5NHJKTm02V1pmR3luOVQxSXNMY2RIMzVNa3ZJOFJWcUItUFZNQWM1TkdsOUpHci10blNHM1VxVEFiZFNtQ3hEVFhpWi1DVnlHZ1JzQ3J6M0FNNU9pUzZUdWRNNVZHUVk3THRKMW1GOWZyWEhUOHpxbVd3N3JuTmh2WWJsbzl3ZUxoMA?oc=5",
+        "published": "Wed, 14 Oct 2026 12:59:43 GMT",
+        "category": "その他"
+      }
+    ],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
