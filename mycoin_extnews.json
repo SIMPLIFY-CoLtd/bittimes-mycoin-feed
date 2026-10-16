@@ -1,78 +1,70 @@
 {
-  "generated_at": "2026-10-16T11:09:47+00:00",
+  "generated_at": "2026-10-16T16:28:47+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "量子脅威に対抗する団体が発足、640万ビットコインが将来のリスクに直面",
-        "title_en": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUlZOWlZmWmhreU14R1dRLWg4R2xhclRQRUpZVHhWNE4tSWtxa1VucW5QQmV5TF8tZUFfdUJ5emRRaWgxVWRHUzFadTZkUFZnNlI5RVZLOGZnaXNVb2xTbkVQOTItTmh5S3NuazdTUVFFdnkwVU9JMTgzSkF0dU9sOEJBbFhPZWFtejlhNG5LeE1iV0pfVmNSekJuaXpldVk0S3BvZzc4Ulo1SFg4QnFPZWN3cEthbXBxb0pBdldMZEJoaDJrLTZSWkFYVQ?oc=5",
-        "published": "Fri, 16 Oct 2026 10:52:26 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "数十億ドル規模のオプション満期時、ビットコインに何が起きるのか",
+        "title_en": "What Happens to Bitcoin When Billions in Options Expire?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbE5ENmRMSUg1al9Uc25FQVAyT0trTlJCaVlFd1FQZ1UyX3hKVlRtMG53WC1fNExyMnd6VmFSWUd5RXkycUhHLUlCYWlXUWlYSFBsLXJOdGhCZHRXaHdvemQzZW5ROXBLSkRGWTVpZ1BHN2U3cUlLejN6eE5kaVZjQ0ZGbTA4bHZ2WlpoOWtUbVBKVEt3Um9sc1NvVTBRSUVuNzczUjF6LUw?oc=5",
+        "published": "Fri, 16 Oct 2026 16:00:41 GMT",
         "category": "その他"
       },
       {
-        "source": "The Block",
-        "title_ja": "キャピタルB、ビットコイン減損計上で1H净損失が7800万ドルに拡大",
-        "title_en": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmlNYVRSeHNsb2JPa2JQTHRnN0p6X080ZkpSODV3S01TQXdBWUJrS0Z4NlNHbFBoUW5QOTF6Y29hRHFfX0MtcjJjSVNSc3IwWldxVlJiRXg2RzNXLVJTVUpQU1dFNjJvZEtISzM1OE8wSUh0UENsc2pnVGFXOVNpNnJUeVFabU1PRmZz?oc=5",
-        "published": "Fri, 16 Oct 2026 09:30:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "マイケル・セイラー率いるビットコイン巨大企業、インデックス組み入れの脅威に直面",
+        "title_en": "Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR242MmNRTnFjbm1fbWdzZDJnODhmSjc2aVpNS2VLYWVWQm9Xa2pqU2hUWDU2MzRXQ2dRQVlXTnJheFdvMTI5ZzJpTTBjOTNHenFvNWtZdlZaQ0VCdlpfamp2TkhkWi1Ndy1VdVBzaVRKUkQ3YTlyNFZrYzh6cGNId2Y2R2F1MW0zVll4TnVwZDhhbkJpQUdnNzNaRUM5UnlyRG5HUU05STlsamt6NWVZRzJ3M1ZXMTIzbXBxVHFKeU9xRVd6dm1KNVYyZUlTTmJpMDlEVlQtNnVKUQ?oc=5",
+        "published": "Fri, 16 Oct 2026 14:49:34 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
-        "source": "Decrypt",
-        "title_ja": "OpenAIモデルが許可なくテストネットイーサリアムウォレットを使用、コード完成に利用",
-        "title_en": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGtGNkhKWFVKZ3A0RmpiRFAxYS1hd3dIakNCRFNZRGZiUW1hb0kzWllsejRoQldjU2VCd1RsQ2hzeHQtUFFtUkdTTE56aVBvUzQwT2RYeGo3enJyb25CVVhhYWpSOE1ZXzA3aC16Z0ZlM1I3VjJkME9tSzZBTmtFcDRpc1pLZzdZQVgxeVd3WnB1dnIyS0h3X3Nvc1VHamx5cEJfX29lTFZ4MTJa?oc=5",
-        "published": "Fri, 16 Oct 2026 10:39:08 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアムが暗号資産の清算約10億ドルを主導、トレーダーは下落前に損切りせず",
+        "title_en": "Ethereum Led Nearly $1 Billion in Crypto Liquidations. Its Traders Never Cut Back Before the Drop.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJrbFNLbjQ2Tkg3d3pYVzdPOXYtUnlTYUY5VkhOT1RlTjY4SjJWODRDTUhvWWk2YkdFcmVpWHdPWnhwUUloT1NiWDRSODFZb3JVWXA1WXJqWFpleVpQUnpacE1VZ2QwbkNGVkxUVGJWQllCTC1XNVBETWJPenVhc2F4MXdwZmwtOUpyUGVFR0FhbU00LWN5SkRB?oc=5",
+        "published": "Fri, 16 Oct 2026 13:00:49 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "OpenAIのエージェントがイーサリアム資金を使い果たし、所有していないウォレットから資金を引き出し",
-        "title_en": "OpenAIのエージェントがイーサリアムの資金を使い果たし、所有していないウォレットから資金を引き出しました",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDcyd0U3bTJNQ0J1cGU5dHJ0VXhaY0hhS1FMXzZheGozUTlZaW84SklLVkJCV1NJQ2RNVEthTllienIyUkd4WW9leE9YNzdsX1dSUGQ4aVQtUERsYkhuNGFKWFkxUWstYnZDZV9IUjZRbUdUV3ZiRGh3WTBKd3hIZ1BWRUItRVItZFNnQkZQX1AwcTY2T3k0Nmw1UWtWdFVzU1dETTc0MEFYbkdpay1LYUNUTEFBRDhpMjdYUVdUOUU?oc=5",
-        "published": "Fri, 16 Oct 2026 04:41:30 GMT",
-        "category": "採用"
+        "source": "The Block",
+        "title_ja": "OpenAIの研究モデル、他人のテストネットETHを許可なくコーディングタスクで使用",
+        "title_en": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVOcklDR1NkOS03bk03Vm14YjFMa3VzYjEzcDktal9hQ0RndXUwYl81R0ZTYjZGS3JWTVVRRE5fdVRBeFVqakhOcXNQbkxpazBRV1cxNzVRWkFkWWFfdkZwdmtLdHgyWTlnT21QSUFnU2dtOW52a0Fselo1UHhWMmlBR1NlVEVKLWhQbTQ2cDNyUGxOVUFCU2ZQaGY0OVF0SnNXSW44WXlfQktvWkFJOWpsaXppbE5oQnp1QVBucktBMVFwU3Q0WTVRUVpmQ2U3WTEwWmlQN29LUzZjMGJ1SkZmOC1BZ0JE?oc=5",
+        "published": "Fri, 16 Oct 2026 11:34:00 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "4.73億XRP関連：エバーノース、リップル・コインベース・クラーケン・ビットゴーを機関投資家パートナーに指定",
-        "title_en": "473 Million XRP in Play: Evernorth Names Ripple, Coinbase, Kraken and BitGo as Institutional Partners",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU253ZXM3bFZ4bGVSUVpYYTA5OVV3MWNpb3VrRlFkRWE2aFo3LWZTdHFybzBYT2F2WFlpQkZCNnUxRk9FWU1aak1oUmM2clVHbHBRSGNJbUI3VkpCVVVLSFg5THdfbHluRzhyRUp4czVETHl1dFFoVWhEQWlSblVJNm9fR1pWeThlSXQwS2Vkb2VsNW5vT3d4anpPNA?oc=5",
-        "published": "Fri, 16 Oct 2026 08:29:45 GMT",
+        "title_ja": "XRPニュース：RLUSDの決済がクロス・リバー・フィンテックスに対応",
+        "title_en": "XRP News: RLUSD Settlement Comes to Cross River Fintechs",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3p4N3lvOUNyXzZKSnVMU3lDSnNaZmpVbFNKYkdtYUlyeDNMbjQwblVXd0xQa2dPY0FEV3ppV25IM29FeGgyZk9QRkFUM1F0NDN5RlVJZUJWTlRFNy12Z3hSaE9uYm5KcHBPdFpNZ2FjRG9OWTJ2ZEdhczUxbnBtelZFcVpBTGEwWW0zeHc5YnljYWJVRDBVRml0U20?oc=5",
+        "published": "Fri, 16 Oct 2026 13:42:00 GMT",
         "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP財務会社エバーノースがナスダック上場、XRP価格に与える影響は",
-        "title_en": "XRP Treasury Company Evernorth Just Went Public on Nasdaq. Here's How It Could Impact the Price of XRP.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTFfQWllY01VMEl5SEUxdGIwNGdzVlczVF9FcE5XSUZObG0talY1TTNkQUFEMjJBZUhtOEFMWHF4ZHJyMno4bmhXYTJVM3cwOUdWcXJYZWo1OUttYWEyQVE2SVVaVzRRZXBxckVMSDlmeUI2blZxYjZrbzNLS3N2ckxxdjZlaTRlS2RVaTRXdFFTLXZOYUwxZVUzVWMxd0ZrbFE?oc=5",
-        "published": "Fri, 16 Oct 2026 05:20:00 GMT",
-        "category": "上場"
+        "title_ja": "リップル、XRP超える事業展開、RLUSD担保ハイパーリキッド先物を100以上の市場で提供",
+        "title_en": "Ripple Expands Beyond XRP With RLUSD-Backed Hyperliquid Perps Across 100+ Markets",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0w5d0oxOVpqeWZod3ZUT1pESFowRjBGRUM2ZmY0eGNtOUVaODgxT2c1eklWRUc4dURSZG9Za1pSN2p6NlpsSENyU0ZMdElLRXBjN2xtbll6UFdzbFVuWk9IZFVLdXZ6QTUybnVpV21yUDEyOGNkWWpEZGtScENfU2doVFFtNU01eWJveXRnMVVyN2VjcmQtNHoyTXI?oc=5",
+        "published": "Fri, 16 Oct 2026 12:22:15 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナ上海イベントが警察訪問後に中止、中国リスク懸念が浮上",
+        "title_ja": "ソラナ上海イベント、警察訪問で中断、中国懸念が浮上",
         "title_en": "Solana Shanghai Event Halted After Police Visit, Raising China Fears",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVJKbGdGVUVQNTV3dEdYZHZJS2pZbVlGSHVyUFN4UllwNmhLNm9mQ2FkczJwMElTcVlKRllWSWVxZWp3UnV4YnBNRm1adTBIM01WcU1RNHZ4X1g0MDA1c2JFX3ZNaU8tOUFnY2ZZYklNNmZ3X3h5U0RkNHZCck1kVHppYXMxQUVhOUtPdFN1aHMwLWg1Zy1wV3NmS0lQeEJPYVE?oc=5",
         "published": "Fri, 16 Oct 2026 07:29:00 GMT",
         "category": "規制"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナモバイル、シーカーアプリをレジャーの新端末アトムに導入",
-        "title_en": "Solana Mobile brings its Seeker app to Ledger’s new Atom device",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhxYk1zNjFYYmFIT2drS2gtMWY1RjFoTEUyYkN6Y1hfT1MwTWlybU9RRXRRZjVPNlJhekFRQUp3T205X05lVURGSk5rQUpBOGUyWWp4UUd6WV9xb2E0OTRrZ01zTFcyYkVNSU1Oa3dDRm1GRlVXLVhhNHVYUURDbDBoa3JjU00zMEFiajBlNnM0Tzc1d1NoVFNtaFA?oc=5",
-        "published": "Thu, 15 Oct 2026 15:04:00 GMT",
-        "category": "採用"
       }
     ],
     "ADA": [],
@@ -82,7 +74,7 @@
     "SHIB": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "楽天ウォレット、柴犬硬貨の実物配付へ",
+        "title_ja": "楽天ウォレット、物理型柴犬コイン配布へ",
         "title_en": "Rakuten Wallet Will Hand Out Physical Shiba Inu Coins",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhEV05td2JVYTljRkp2R01CbndYZG9ZeTNDaUNGdE9Ua3lTRTBCMVUzM1BmLURMcU5LV3UxMUhObXVBbHhoQm16aTR6WFR6SmFBSHNiZkstZHVGLUpwckpEdmhhbkFyNTNaZUcwSG51SVlHRFpGOV9LTkJZVjBfRlBiSVFKWE9vWGVlNzNwTGhGZ2xLQXdhMk5aZXdha2Jr?oc=5",
         "published": "Thu, 15 Oct 2026 19:29:39 GMT",
