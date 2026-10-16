@@ -1,30 +1,38 @@
 {
-  "generated_at": "2026-10-15T21:13:06+00:00",
+  "generated_at": "2026-10-16T04:11:31+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "The Block",
-        "title_ja": "CleanSparkとBitFuFuが9月のビットコイン生産量を減少、Canaaanは横ばい",
-        "title_en": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGEyUGdfX1V3N09TYzNIX0VlbVNfNHUzRU95UWJKalJZY3VVZ3NyM2JUT0tfVXZVM2l4OVQzS3JmRkNMUDFzdWMtSUNqWS0yRU16UE1PU2FBRFlPVmpfUjJIWGI4NGFMTUNJcUlYSm9raFFMMVIzNVByMXhmdGkzYjR4aWRVNWZLYWRJcXFWWmo2b2FTTUxtR0d3QXZ2cnpIZG9tUHQ5ZmVjd0VpTFdkbTJ0Q3l5RS1EYmpZc3I0Y1J5c2t1Q3lB?oc=5",
-        "published": "Thu, 15 Oct 2026 16:06:00 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "10年債利回り低下、ビットコイン反発―相関関係か偶然か",
+        "title_en": "10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHBCVXFlWDgxTjdOS1lpUExkdzgzZjhxQ0RhNE1ZQU5TR241elpUQXk4czFUZE94WHkwSGQzR0JPdXhPY0JRcXZqX2xtbTA0X1RROVA0bkI3OXJpRkE2OFFnQ0g3UXFMWHNzeXJLUzYyd0hWNjY5U3l3M2hnQ0RPZTB0ejhqQlI2S1AtTldGLXF2NHFBcV9PcFdIUQ?oc=5",
+        "published": "Fri, 16 Oct 2026 02:36:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインが80,000ドル下回る、売却のきっかけは",
-        "title_en": "Bitcoin Just Fell Below $80,000: What Triggered the Selloff?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUdWQzhvSHREU3dfb1loc2kxOHptNmFSajVFQzROZGE4c3g0Xy0wSEFkRHdzSGpJclhMcmpMQnAxT3lldEFvaWJIbmRPamFkMnMtLUlIYU9wbUdsN3NwaUdRc3FjaWNQMDF4dGVJcUhTbGVTd0dPMFhRZHBnZzR2THZvZ0lPbVhiTHJlQXU5cHdwWlFIakE?oc=5",
-        "published": "Thu, 15 Oct 2026 14:44:59 GMT",
+        "source": "Bloomberg.com",
+        "title_ja": "ビットコイン保有のストラテジー、指数除外も―MSCIが新ルール",
+        "title_en": "ビットコイン保有のストラテジー、指数除外も－MSCIが新ルール",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HUjQzb3hCQWdPbkY5cHQ5UFJMa05ZTnVoSTVQaWtxOWFqZEp2dW5lVHJRQVFNZ0tJckNVMzVyX0NSSFdLNjhLSU1KRkVkMlh0eU1Rc2ZuOXFZY291SVZkV0VXWmwyRWhJUE93dk5KZVIteW02RFQ4?oc=5",
+        "published": "Fri, 16 Oct 2026 01:45:00 GMT",
         "category": "その他"
       }
     ],
     "ETH": [
       {
+        "source": "日本経済新聞",
+        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
+        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年10月16日(適時開示) ：日経会社情報DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OMElac0tfRkNwMUMwaFBsS1JBQ0hXek1xYXJUcDFkQ21ubGktZGFjN1JKdGdkZjcxT0J1S1ZsazJQSjh5WEVKSDZLQzZZdmxxN3FGVTJfZHN4c2RNWkM2eG5lc1NlN0ZPVnc?oc=5",
+        "published": "Thu, 15 Oct 2026 23:30:00 GMT",
+        "category": "採用"
+      },
+      {
         "source": "Decrypt",
-        "title_ja": "イーサリアムとアルトコイン、マクロプレッシャーで過度な下落を経験",
+        "title_ja": "イーサリアム、アルトコイン「特別大幅下落」、マクロ圧力に弱気",
         "title_en": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ21jTVlkYjczN1lNREtzY2tXSmJSbWoycUN2YVBiWWlxNzM4b2ZIMmIzZHFKcHVoTGFxVEJUbnIwZV9tcjl4SXFRR0F2dE8zTWZGZzNvbHZaVlV4bnhkcl9DaXQtYWRrbU1VZ3gyYWZ4ZVdVVm9naGRfZ05rRUg0WXp1V1p6NURPOEFNWTAycS1MWTA?oc=5",
         "published": "Thu, 15 Oct 2026 14:27:18 GMT",
@@ -34,22 +42,39 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPニュース：DriveWealthのRLUSD決済がヨーロッパで開始",
+        "title_ja": "XRPニュース：DriveWealth RLUSD決済、欧州で開始",
         "title_en": "XRP News: DriveWealth RLUSD Settlement Starting in Europe",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmZBQlFYSk5jYzQ0V2xLVlNRTXYwZ2k1VExORzdYN1pxSnFMQmNlY2JQTk9WWDkxNnF5aHNsS0U2SGRGcWN3RUptOUVzS1NkekpYWmtacGZ5Yzg5SEt1QjBzd2Z3eDdLRnc1Y1NuSVp6WjRVTER5ZTA4VzJDOEhjLXk1SlhadWdXVEhEd3VEVmtTUDBVV3BpU1M4TFllNW1QVkhtdw?oc=5",
         "published": "Thu, 15 Oct 2026 18:08:00 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ブラッド・ガーリングハウスとデビッド・シュワルツ、XRPの次のステップを語る―バイラル「1,000ドル予想」が再浮上",
+        "title_en": "Brad Garlinghouse and David Schwartz Spotlight XRP’s Next Steps as Viral $1,000 Prediction Resurfaces",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDFmWDV5Yi1xWWczU2pOUnF4QnBORXlIclcyV1FJUk11YlczQWtxcm1wWEZURjhyakZ0YzIySlBLUFRoZlFhUHozRm5sNXNOQzVFSXNHNkdreElSRjlzczVnQXJOTEJJcDlKcXlUOUotRk0xTV9pRllaOHJuRm1fbERJZVJjX3FlT0daTjB6Wlo4WEZCWG5BT3FxUUI3czQzSVhXUkhKQS0yaGc?oc=5",
+        "published": "Thu, 15 Oct 2026 17:55:40 GMT",
+        "category": "発言"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "The Block",
+        "title_ja": "DeFi開発がCHADの配当を14％に引き上げ、ソラナ保有拡大推進",
+        "title_en": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOURTTUZvYnNEc0RvNXpDYmVzNzhlaFcwYUd4OS1PWWxFRFRjRm5pSE9ZWnJGcGtZTWVXSDRTMFEtTkFySFktbXNzWTJWZXpZRVhLTExKaUZFTm1reTBadGMxaWlYRmw4RDRsVTNybFZVcC0ycGxPMXFXNHU1ZDBDeUw5Q0lKSmEwcHBNTHl0S0UtOWVoM1hNQQ?oc=5",
+        "published": "Thu, 15 Oct 2026 15:48:00 GMT",
         "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "RippleのDriveWealth提携がXRPの反発を呼ぶ、RLUSDが中心舞台に",
-        "title_en": "Ripple’s DriveWealth Deal Sparks XRP Backlash as RLUSD Takes Center Stage",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHZhX3VhNEg2MlQ1Tzk4OXBwWkE1MnB2bTJvcFhwb2hCdXBsZ21NbkxBaUFPMnppbjNwSGxBdGYzeHh2by1zaEtMVGVOLTRTSG9YM2pTNkVsZzBqbEdaa2pzWkZ5dnJUZGFuN1VtZUEyTGxhcldEY2lzbEFGNThWbUpwcEJ5OUZCcmptQll2SU5QT3Bsc2dTbjZBTUU5Nk1T?oc=5",
-        "published": "Thu, 15 Oct 2026 13:09:37 GMT",
+        "title_ja": "ソラナモバイル、シーカーアプリをLedgerの新Atomデバイスに展開",
+        "title_en": "Solana Mobile brings its Seeker app to Ledger’s new Atom device",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhxYk1zNjFYYmFIT2drS2gtMWY1RjFoTEUyYkN6Y1hfT1MwTWlybU9RRXRRZjVPNlJhekFRQUp3T205X05lVURGSk5rQUpBOGUyWWp4UUd6WV9xb2E0OTRrZ01zTFcyYkVNSU1Oa3dDRm1GRlVXLVhhNHVYUURDbDBoa3JjU00zMEFiajBlNnM0Tzc1d1NoVFNtaFA?oc=5",
+        "published": "Thu, 15 Oct 2026 15:04:00 GMT",
         "category": "提携"
       }
     ],
-    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
@@ -57,7 +82,7 @@
     "SHIB": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "楽天ウォレット、物理的な柴犬コインを配布",
+        "title_ja": "楽天ウォレット、シバイヌコインの物理コインを配布",
         "title_en": "Rakuten Wallet Will Hand Out Physical Shiba Inu Coins",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhEV05td2JVYTljRkp2R01CbndYZG9ZeTNDaUNGdE9Ua3lTRTBCMVUzM1BmLURMcU5LV3UxMUhObXVBbHhoQm16aTR6WFR6SmFBSHNiZkstZHVGLUpwckpEdmhhbkFyNTNaZUcwSG51SVlHRFpGOV9LTkJZVjBfRlBiSVFKWE9vWGVlNzNwTGhGZ2xLQXdhMk5aZXdha2Jr?oc=5",
         "published": "Thu, 15 Oct 2026 19:29:39 GMT",
