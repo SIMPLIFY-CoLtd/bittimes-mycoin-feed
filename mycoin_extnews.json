@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T20:51:51+00:00",
+  "generated_at": "2026-10-16T23:24:54+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Decrypt",
-        "title_ja": "ビットコイン財務戦略大手がMSCI規則確定下でのインデックス除外に直面",
+        "title_ja": "ビットコイン資産構成戦略、MSCI指数ルール確定によりインデックス除外の可能性",
         "title_en": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclQwOW93RHNtcjRhOXpBeUI5aXAzMUdCSUtLdnJSeFMyVk9fQkN6UktSVVI1UGM5ZktCRnBkZTR0eDktM1dFMGF0dEJPdWNCZTZNVUxKR19XVWwtR2ZZcHFCZi1ESGV3NlJTZUFBX1lhb2Z5dTctRF90Rk9NMU83cWM5MzZnRjgxRkREMGpJalhjVE9pY1hESmY2bllmcmxEYmVPVVJMNA?oc=5",
         "published": "Fri, 16 Oct 2026 18:16:04 GMT",
@@ -14,7 +14,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン財務株はインデックス特権を失う可能性",
+        "title_ja": "ビットコイン資産構成戦略が指数上の特権を失う可能性",
         "title_en": "Bitcoin treasury stocks could lose their index privileges",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMExKeWRheTJES3ZMZGlWblQ5ajdOQkNiZG5FOWF2STVjSnE2SGR1dHRLSU9iUHFFVkJuY042dU5zUHhKMkpoVTlPLXBzQzBwdWZhWE04eUhKQWQ4VzBhUElNeG1UTkFjT0M3UXRrWlozLUFMMm9ETGh0eEdrMUl1cU8xU3BMTllF?oc=5",
         "published": "Fri, 16 Oct 2026 16:30:00 GMT",
@@ -23,16 +23,8 @@
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "OpenAIの研究モデルがコーディングタスク中に他のウォレットのテストネットETHを無断使用",
-        "title_en": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVOcklDR1NkOS03bk03Vm14YjFMa3VzYjEzcDktal9hQ0RndXUwYl81R0ZTYjZGS3JWTVVRRE5fdVRBeFVqakhOcXNQbkxpazBRV1cxNzVRWkFkWWFfdkZwdmtLdHgyWTlnT21QSUFnU2dtOW52a0Fselo1UHhWMmlBR1NlVEVKLWhQbTQ2cDNyUGxOVUFCU2ZQaGY0OVF0SnNXSW44WXlfQktvWkFJOWpsaXppbE5oQnp1QVBucktBMVFwU3Q0WTVRUVpmQ2U3WTEwWmlQN29LUzZjMGJ1SkZmOC1BZ0JE?oc=5",
-        "published": "Fri, 16 Oct 2026 11:34:00 GMT",
-        "category": "採用"
-      },
-      {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムをインタラクティブブローカーズでステーキング可能に。ビットコインに対するETHのエッジは？",
+        "title_ja": "Interactive Brokersでのイーサリアムステーキングが可能に、ビットコインより優位性はあるか",
         "title_en": "You Can Now Stake Ethereum Through Interactive Brokers. Does That Give ETH an Edge Over Bitcoin?",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDIzVzgzV1J5UnR0NVJrSXlJZVYxZ1E0aF9RSmFqSVpvWnJEZkNiVUctSUhxRUpnSnZEdkJlYndpMVB5YVFtZnlPNHBCZkhzZ2s2Tk9wSzFsZ20xYzlOVHNqNDFVSjY4LU0tR0Y2cmdodzNibUFCOG5YVDJuYzJNSlRFWmx3Njh0N3ZTMXBia0tFVGtjVVdKaVk2bFJMLUpITUZFNUhn?oc=5",
         "published": "Fri, 16 Oct 2026 11:30:38 GMT",
@@ -42,31 +34,22 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPニュース：RLUSDクロスリバー・フィンテック決済へ",
+        "title_ja": "XRPニュース：RLUSDがクロスリバー・フィンテックのセットルメント対応",
         "title_en": "XRP News: RLUSD Settlement Comes to Cross River Fintechs",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3p4N3lvOUNyXzZKSnVMU3lDSnNaZmpVbFNKYkdtYUlyeDNMbjQwblVXd0xQa2dPY0FEV3ppV25IM29FeGgyZk9QRkFUM1F0NDN5RlVJZUJWTlRFNy12Z3hSaE9uYm5KcHBPdFpNZ2FjRG9OWTJ2ZEdhczUxbnBtelZFcVpBTGEwWW0zeHc5YnljYWJVRDBVRml0U20?oc=5",
         "published": "Fri, 16 Oct 2026 13:42:00 GMT",
-        "category": "提携"
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル、XRPを超えて拡大：100以上のマーケットでRLUSD裏付けハイパーリキッドパーペチュアル",
+        "title_ja": "Ripple、RLUSDを使った100以上のマーケットのHyperliquid無限先物で展開拡大",
         "title_en": "Ripple Expands Beyond XRP With RLUSD-Backed Hyperliquid Perps Across 100+ Markets",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0w5d0oxOVpqeWZod3ZUT1pESFowRjBGRUM2ZmY0eGNtOUVaODgxT2c1eklWRUc4dURSZG9Za1pSN2p6NlpsSENyU0ZMdElLRXBjN2xtbll6UFdzbFVuWk9IZFVLdXZ6QTUybnVpV21yUDEyOGNkWWpEZGtScENfU2doVFFtNU01eWJveXRnMVVyN2VjcmQtNHoyTXI?oc=5",
         "published": "Fri, 16 Oct 2026 12:22:15 GMT",
         "category": "提携"
       }
     ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ上海イベント警察訪問後に停止、中国懸念浮上",
-        "title_en": "Solana Shanghai Event Halted After Police Visit, Raising China Fears",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVJKbGdGVUVQNTV3dEdYZHZJS2pZbVlGSHVyUFN4UllwNmhLNm9mQ2FkczJwMElTcVlKRllWSWVxZWp3UnV4YnBNRm1adTBIM01WcU1RNHZ4X1g0MDA1c2JFX3ZNaU8tOUFnY2ZZYklNNmZ3X3h5U0RkNHZCck1kVHppYXMxQUVhOUtPdFN1aHMwLWg1Zy1wV3NmS0lQeEJPYVE?oc=5",
-        "published": "Fri, 16 Oct 2026 07:29:00 GMT",
-        "category": "規制"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
