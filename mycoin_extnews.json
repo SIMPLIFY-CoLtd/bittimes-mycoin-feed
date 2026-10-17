@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-10-17T15:23:20+00:00",
+  "generated_at": "2026-10-17T20:25:44+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
+    "BTC": [
+      {
+        "source": "Decrypt",
+        "title_ja": "暗号資産企業が量子耐性同盟を立ち上げ、600万BTCが危機にさらされる",
+        "title_en": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUVjdXhrUDJLZ3hzOE9HYko5ZjV0Qk5vLUMtaTdLbUowb0IxMHBHV2l0Ry0ydV9DTkZiUkdya0swSjVNYTAyNFdrVFJtRUJ6bW1nQzNDQ0xrdU1hRC1FTFVsZ3owVEhTRTFXVVljTG9PelRFcDEyaU5iMFBrdGQtWHowUXRESFdnUEY0YzA5aGZUeHF5RjBFNXI2VQ?oc=5",
+        "published": "Sat, 17 Oct 2026 16:01:03 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ドイツ銀行が数週間後にビットコインとイーサリアムを顧客向けに保有予定、他の大手銀行も追随する可能性",
+        "title_en": "Deutsche Bank Is Weeks From Holding Bitcoin and Ethereum for Clients. Could Other Big Banks Follow?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlHQnpKMEFSNjlXSVBXYjNVbk5FbG1ocmQ3WlM1bjVmUS15Y3VPTDlEZUxocG5WUkZwMmNBNk9CdmYwRkIwQ2cxb09IRC02VkRRemtkaWFOclpBOFQzLTBvSm5JR25rN0FXY0taTTVsMHRUSm56TzlzMWhoaENFeXQzaC1VQnN3eFJ0RVZfSldtZHk0ZnkxX2NZNzRUeGdkd0E?oc=5",
+        "published": "Sat, 17 Oct 2026 14:30:32 GMT",
+        "category": "採用"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ドイツ銀行が数週間後にビットコインとイーサリアムを顧客向けに保有予定、他の大手銀行も追随する可能性",
+        "title_en": "Deutsche Bank Is Weeks From Holding Bitcoin and Ethereum for Clients. Could Other Big Banks Follow?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlHQnpKMEFSNjlXSVBXYjNVbk5FbG1ocmQ3WlM1bjVmUS15Y3VPTDlEZUxocG5WUkZwMmNBNk9CdmYwRkIwQ2cxb09IRC02VkRRemtkaWFOclpBOFQzLTBvSm5JR25rN0FXY0taTTVsMHRUSm56TzlzMWhoaENFeXQzaC1VQnN3eFJ0RVZfSldtZHk0ZnkxX2NZNzRUeGdkd0E?oc=5",
+        "published": "Sat, 17 Oct 2026 14:30:32 GMT",
+        "category": "採用"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "リップル元顧問がXRPの最大の試練はまだ先にあると警告",
+        "title_en": "Former Ripple Adviser Warns XRP’s Biggest Test Is Still Ahead",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa21ndThBUHItYnJkaWM4ZEZKM3hnWFdReFdMdk4taUhBMEV5RnhONy1NdGF4a2Z0by1zR2NPN3oxZ25CUVdLV1FpZEd1SE9JYUpLRFN4TGNXaUY2SDkzc19HZmZYOGtWSmJ6VWI2dHRRTUFWV0dYdjRnNnd0bDJoUlFCY0J6dTU0UVlaTEdFNnF0NGV0bng5UURDTXM?oc=5",
+        "published": "Sat, 17 Oct 2026 00:00:00 GMT",
+        "category": "発言"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Solana財団幹部、GENIUS法がサムスンのステーブルコイン発表に影響したと述べる",
+        "title_en": "GENIUS Act factored into Samsung stablecoin move, Solana Foundation exec says",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFZDUXZfZnN6WlJydDZ3STN3R0xHRGMzYlNkdnJ5Z1AzNjNGdFRldXVMN2ZQSTN2VWRjS0dOdnhzM2w5cUE3cFV5NmNaal9PQmtNWjlzWkVmcnVlVmxWTzdseHd5YkNmTWgyb0ZhZVJJN1BHR3duUTdMZUdBMjZIVV8xSTd4bVcwUkRxZjQtQXZQU3RfRTJjRTZzbG11c3VfRXdOS3dR?oc=5",
+        "published": "Sat, 17 Oct 2026 01:59:00 GMT",
+        "category": "規制"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
