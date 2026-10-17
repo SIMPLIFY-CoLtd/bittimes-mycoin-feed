@@ -1,92 +1,75 @@
 {
-  "generated_at": "2026-10-17T04:01:43+00:00",
+  "generated_at": "2026-10-17T10:29:10+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン価格は81,000ドル以上を維持、ETFの流出がセンチメントに影響",
+        "title_en": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjFaT1doRzdLTHJ0a29KcWZORDR3YTNxdTJOOGRHcDlHQmVxQktkU2pJVUdTLU5Gb0J1THByOUN5RGxuMDM1VGRRU19rYmpIYkhVcEtpaWRTM2kyYVYzM3A3bmNjMzhhU1hZV0h1bHJfSmpIN0JlT3JEWmtRYjVsLVJvZGU2YWdOM0VBYnZ2ajU3Q1I4c2QwcQ?oc=5",
+        "published": "Sat, 17 Oct 2026 06:18:46 GMT",
+        "category": "マクロ"
+      },
+      {
         "source": "CoinDesk",
-        "title_ja": "Googleの量子コンピュータ「Willow」発表後、サトシ時代のビットコインがより大きな量子脅威に直面",
+        "title_ja": "GoogleのWillowブレークスルー後、サトシ時代のビットコインはより大きな量子脅威に直面",
         "title_en": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMC1lc1BqSkFEZlZycHhIN2ltczJTUC1fdVYzVXZwT3N0MGsteDlSejBTMWFjWE9PWGhWSFo5WE1pREJBZzdMMEJnZ2JMV1dYTHVaVkVEYkswTnlrcDRudF9zcFAxT3BVQWY2OUdnX0pNU0hNVDZSMW5NVDhzc3ZzN3ZjVzRNdjRvOXk2a3dRZWlfQm13T3RmU2Zxbkg2Xzd4YnVEYVY0MTRCZDgxZVpyVVQweXRCdmU1Z1QyT01RcnlrRWJ6Y3g0Sw?oc=5",
         "published": "Sat, 17 Oct 2026 02:30:00 GMT",
         "category": "その他"
-      },
-      {
-        "source": "Forbes JAPAN",
-        "title_ja": "マスク氏が示唆、「100兆ドル」規模の暗号資産業界のゲームチェンジャーとなるヒント",
-        "title_en": "マスクが暗示、「100兆ドル」規模の暗号資産のゲームチェンジャーになるヒント",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMS1UdlBZZVc5eHEzYS0wVDhzTks4TGw0ckJjR2l3cUx1MTIzUlh1YldYaHR4bG5sTjFBdEpfc0RZQ0ZrZktXelI4T3Z2eE5CaXBpcFJlbzNpUQ?oc=5",
-        "published": "Sat, 17 Oct 2026 01:30:00 GMT",
-        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Interactive Brokers Groupのイーサリアムステーキングサービス開始がクライアントにもたらす意味",
+        "title_ja": "Interactive Brokers Groupのイーサリアムステーキングローンチはクライアントにとって何を意味するのか",
         "title_en": "What Does Interactive Brokers Group (IBKR) Ethereum Staking Launch Mean For Clients?",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObllmUTRrUjBoeXE5cVd6cVFxQlFBTzJKOHFkTmtfaDU1S3lPaThVOEtLYUxMSkV1TjFmeU1sMzQwZWM3cXhObVdlMEp1OEYySVBycXM1bTRMR3QyX0tlcTdLT0ZoeEtha1dTaldyM1ViQnRQRzl5MV80SnRWclVlend4d09lX2U3c1piRWdjMm1vZGctNDZmRWFua1NSNDdSOXc?oc=5",
         "published": "Fri, 16 Oct 2026 19:15:20 GMT",
         "category": "採用"
       },
       {
-        "source": "The Block",
-        "title_ja": "OpenAIの研究モデルがコーディングタスク実行時に他人のウォレットのテストネットETHを無許可で使用",
-        "title_en": "OpenAI says research model spent another wallet's testnet ETH without authorization on coding task",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcFVOcklDR1NkOS03bk03Vm14YjFMa3VzYjEzcDktal9hQ0RndXUwYl81R0ZTYjZGS3JWTVVRRE5fdVRBeFVqakhOcXNQbkxpazBRV1cxNzVRWkFkWWFfdkZwdmtLdHgyWTlnT21QSUFnU2dtOW52a0Fselo1UHhWMmlBR1NlVEVKLWhQbTQ2cDNyUGxOVUFCU2ZQaGY0OVF0SnNXSW44WXlfQktvWkFJOWpsaXppbE5oQnp1QVBucktBMVFwU3Q0WTVRUVpmQ2U3WTEwWmlQN29LUzZjMGJ1SkZmOC1BZ0JE?oc=5",
-        "published": "Fri, 16 Oct 2026 11:34:00 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアムが暗号資産清算の約10億ドルを主導、トレーダーは下落前に減らさず",
+        "title_en": "Ethereum Led Nearly $1 Billion in Crypto Liquidations. Its Traders Never Cut Back Before the Drop.",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJrbFNLbjQ2Tkg3d3pYVzdPOXYtUnlTYUY5VkhOT1RlTjY4SjJWODRDTUhvWWk2YkdFcmVpWHdPWnhwUUloT1NiWDRSODFZb3JVWXA1WXJqWFpleVpQUnpacE1VZ2QwbkNGVkxUVGJWQllCTC1XNVBETWJPenVhc2F4MXdwZmwtOUpyUGVFR0FhbU00LWN5SkRB?oc=5",
+        "published": "Fri, 16 Oct 2026 13:00:49 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル元顧問、XRPの最大の試験はまだこれから来ると警告",
-        "title_en": "Former Ripple Adviser Warns XRP’s Biggest Test Is Still Ahead",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa21ndThBUHItYnJkaWM4ZEZKM3hnWFdReFdMdk4taUhBMEV5RnhONy1NdGF4a2Z0by1zR2NPN3oxZ25CUVdLV1FpZEd1SE9JYUpLRFN4TGNXaUY2SDkzc19HZmZYOGtWSmJ6VWI2dHRRTUFWV0dYdjRnNnd0bDJoUlFCY0J6dTU0UVlaTEdFNnF0NGV0bng5UURDTXM?oc=5",
-        "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPニュース：RLUSD決済がCross River Fintechで開始",
+        "title_ja": "XRPニュース：RLUSDがCross River Fintechsに対応",
         "title_en": "XRP News: RLUSD Settlement Comes to Cross River Fintechs",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3p4N3lvOUNyXzZKSnVMU3lDSnNaZmpVbFNKYkdtYUlyeDNMbjQwblVXd0xQa2dPY0FEV3ppV25IM29FeGgyZk9QRkFUM1F0NDN5RlVJZUJWTlRFNy12Z3hSaE9uYm5KcHBPdFpNZ2FjRG9OWTJ2ZEdhczUxbnBtelZFcVpBTGEwWW0zeHc5YnljYWJVRDBVRml0U20?oc=5",
         "published": "Fri, 16 Oct 2026 13:42:00 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "RippleがXRPを超えて拡大、RLUSD担保Hyperliquidパープスが100以上の市場で展開",
+        "title_en": "Ripple Expands Beyond XRP With RLUSD-Backed Hyperliquid Perps Across 100+ Markets",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0w5d0oxOVpqeWZod3ZUT1pESFowRjBGRUM2ZmY0eGNtOUVaODgxT2c1eklWRUc4dURSZG9Za1pSN2p6NlpsSENyU0ZMdElLRXBjN2xtbll6UFdzbFVuWk9IZFVLdXZ6QTUybnVpV21yUDEyOGNkWWpEZGtScENfU2doVFFtNU01eWJveXRnMVVyN2VjcmQtNHoyTXI?oc=5",
+        "published": "Fri, 16 Oct 2026 12:22:15 GMT",
         "category": "提携"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "GENIUS法がSamsungのステーブルコイン戦略に影響、Solana Foundationエグゼクティブが述べる",
+        "title_ja": "GENIUS法がSamsungステーブルコイン動向に反映されたとSolana Foundation幹部が述べる",
         "title_en": "GENIUS Act factored into Samsung stablecoin move, Solana Foundation exec says",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFZDUXZfZnN6WlJydDZ3STN3R0xHRGMzYlNkdnJ5Z1AzNjNGdFRldXVMN2ZQSTN2VWRjS0dOdnhzM2w5cUE3cFV5NmNaal9PQmtNWjlzWkVmcnVlVmxWTzdseHd5YkNmTWgyb0ZhZVJJN1BHR3duUTdMZUdBMjZIVV8xSTd4bVcwUkRxZjQtQXZQU3RfRTJjRTZzbG11c3VfRXdOS3dR?oc=5",
         "published": "Sat, 17 Oct 2026 01:59:00 GMT",
-        "category": "規制"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Solana Shanghai イベント、警察訪問後中止―中国への懸念が浮上",
-        "title_en": "Solana Shanghai Event Halted After Police Visit, Raising China Fears",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVJKbGdGVUVQNTV3dEdYZHZJS2pZbVlGSHVyUFN4UllwNmhLNm9mQ2FkczJwMElTcVlKRllWSWVxZWp3UnV4YnBNRm1adTBIM01WcU1RNHZ4X1g0MDA1c2JFX3ZNaU8tOUFnY2ZZYklNNmZ3X3h5U0RkNHZCck1kVHppYXMxQUVhOUtPdFN1aHMwLWg1Zy1wV3NmS0lQeEJPYVE?oc=5",
-        "published": "Fri, 16 Oct 2026 07:29:00 GMT",
-        "category": "その他"
+        "category": "発言"
       }
     ],
     "ADA": [],
     "DOGE": [],
-    "SUI": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Suiが月間49%上昇する中、Solanaは8%増。新興勢力は勢いを維持できるか",
-        "title_en": "Sui Is Up 49% This Month While Solana Gained 8%. Can the Newcomer Keep Pulling Ahead?",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGltYmJCWm9NRkNtZGo3LUJ5VUladlJpd2dTT1lheldaSDR1eGgxUXdnLVhzMndLbHF5Rk9FdGhieHFYRTVLYVphd0RuTFdhdHlhYjVDODFyNS1WcUxIUDVPRmJYLVRSU1VQWEVKSDRfM012TVQ2SVI5UW5jV0RjVlhwQlduWDJ3STNNN1U5YlVZcGpl?oc=5",
-        "published": "Fri, 16 Oct 2026 10:30:44 GMT",
-        "category": "その他"
-      }
-    ],
+    "SUI": [],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
