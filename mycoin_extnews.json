@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-18T20:26:47+00:00",
+  "generated_at": "2026-10-18T22:56:53+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインの次の動きは株と金属を揺さぶる可能性。ブルームバーグストラテジストが警告、フィデリティは強気相場を予想",
-        "title_en": "Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEJaSG14d0V2QlZnSldnQlJqb1ltc0NCN05uZ3B4bG41Z0Ftci1yWEFvUFM3ZjloSzNObzFxcUZ4Sk40YlppcnFtYlNyeGlxQzFlNXV2dzRfeHliWEZsSnlnZ2huNk8tWjdXZ3FiTi1oUE1BYjdVeWQwUnhXUzVGUGV2ckNWUzlzd0VuQlo5Q2Y0ZzNlWEgzbkVB?oc=5",
-        "published": "Sun, 18 Oct 2026 17:37:19 GMT",
+        "title_ja": "アーサー・ヘイズ氏「量子コンピューティングはビットコイン売却の理由にならない、本当のリスクはある習慣」",
+        "title_en": "Arthur Hayes Says Quantum Computing Is No Reason to Sell Bitcoin. The Real Risk Is One Common Habit.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXR2WU1JMEhRU1BudklQWTJTQU42RHZMSHA3U1Mwd2dqdnZhWDFTaEZ2MDc2WnJYWGpQM1hZOGhZZzgtX0xTbTc0RExhOXhUa205UGZiekNfdm1OVkVRYmRRNGlMY2p1b2U5N2JYZzJxRmpfQzJjWXBIcFBuZnFVNWNiUVRxWFNhV1NUTjVmNEZINGVqbllLSVFSWVhwb2JxX0E?oc=5",
+        "published": "Sun, 18 Oct 2026 20:40:14 GMT",
         "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "AIチップベットが3400万ドルの清算で壊滅。ビットコイン・イーサリアムが危険水域へ、ブラックマンデー懸念",
-        "title_en": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
-        "published": "Sun, 18 Oct 2026 16:52:52 GMT",
-        "category": "マクロ"
+        "title_ja": "ビットコインの次の動きが株価と貴金属を揺さぶる可能性、ブルームバーグ戦略家が警告、フィデリティは強気相場を予想",
+        "title_en": "Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEJaSG14d0V2QlZnSldnQlJqb1ltc0NCN05uZ3B4bG41Z0Ftci1yWEFvUFM3ZjloSzNObzFxcUZ4Sk40YlppcnFtYlNyeGlxQzFlNXV2dzRfeHliWEZsSnlnZ2huNk8tWjdXZ3FiTi1oUE1BYjdVeWQwUnhXUzVGUGV2ckNWUzlzd0VuQlo5Q2Y0ZzNlWEgzbkVB?oc=5",
+        "published": "Sun, 18 Oct 2026 17:37:19 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "AIチップベットが3400万ドルの清算で壊滅。ビットコイン・イーサリアムが危険水域へ、ブラックマンデー懸念",
+        "title_ja": "AIチップ投資が3400万ドルの清算で消滅、ビットコイン・イーサリアムが危険水域へ、ブラックマンデー懸念",
         "title_en": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
         "published": "Sun, 18 Oct 2026 16:52:52 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "Cysicがブリッジを一時停止。攻撃者がトークンをミントしイーサリアムへ727,000ドルを移動",
+        "title_ja": "Cysicがブリッジを停止、攻撃者がトークンをミントしイーサリアムに72万7000ドルを移動",
         "title_en": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTJYUUloSU9RYWtsSTJlS1BnOFh6RVl0RlpZRXVJWmNodlFWMzhobXhRdmZvekQ4ZEg3dm83bUFvSFotOEtsejdmTlZPTXdublNLa1A1bEN2QnBZbWg0Y01WWXpPRGVjUEJUNXA1c1F4bEY5S0VPQkhDR0tvRExrTVZ2b0VIRlV0U0NLOVpLR2tEQV9VWkh4N21XSFpocEI3WXdjbWZWcFp3aGhyV1FtYjZ1Vmg2V2I0SEJFUDdPaXhqSzJ0VDhwT0lR?oc=5",
         "published": "Sun, 18 Oct 2026 16:07:00 GMT",
