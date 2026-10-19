@@ -1,56 +1,73 @@
 {
-  "generated_at": "2026-10-19T04:18:11+00:00",
+  "generated_at": "2026-10-19T12:50:04+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインが82,500ドルまで上昇、中国GDP好調で株価も上げ",
-        "title_en": "Bitcoin jumps to $82,500, stocks rise as China GDP beats estimates",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOG04VV9paTdUeWhZMXhoaHVDLUJXLUt4RnplUzd1aFlIWWN0QjBSdW5Ia05ZMHh6bjdtZzdUWFk2TUh0dUhpUE1vbXN0eXpkaG91MC1HTGdIQW1CTWZ5aWVLS1IxM25FczJxdkg0NTJ3bFowclJuQXNkUDZNYm41Qm5xbE5YcWpSU1BuWWFtM0ZXQWdSUG1TUjZieDBHXy04ZUdWUDZyaHJNTlJvTDJTTWlkVTRtbmJZbW5B?oc=5",
-        "published": "Mon, 19 Oct 2026 03:38:00 GMT",
-        "category": "マクロ"
+        "source": "The Block",
+        "title_ja": "マイケル・セイラーのStrategory、追加でビットコイン267枚を2,200万ドルで購入",
+        "title_en": "'We found room for more orange': Michael Saylor's Strategy buys another 267 bitcoin for $22 million",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWJlcWdfdjZRU1JPNWtxMllfQTRHTzhLSEFoYlFUZGlDOXlIeWQzc1ppNkszR1RSR2xqeklXbk5JSksxd2hVd2xwR25Kcm1RaWVKdG5abVpVcUZ5c0JFUEtUZlFGc1RkWGNISXl1X1ZyY3Eza0Z0Y2tScC1laGxDZGxlV0o5VEZYYjFzWk1BWUNGRGVTamx1ZVY2VXE0OEJmM3Fzb01nZ3Z4c1RlQjVoME5xZklNU3JSVklKTnhrN2dIQkIxQU1Z?oc=5",
+        "published": "Mon, 19 Oct 2026 12:10:00 GMT",
+        "category": "大口"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ウォール街が金曜日に混乱、VIXとビットコイン取引は月曜日の恐怖緩和を示唆",
-        "title_en": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
-        "published": "Sun, 18 Oct 2026 23:24:37 GMT",
-        "category": "マクロ"
+        "title_ja": "ビットコイン採掘企業Nscale、マイクロソフトのAI取引が消滅、電力供給遅延は2030年代まで延伸",
+        "title_en": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2lTQ0JHSVJNZHc2TVVjbnZEZ0ZxZjh6TnB2NnNRSGF6anNfTXlaNGhfeC1tYi0ySmpWZDVsYUVLdDdHcmZEY0xobHVLUlJzOExCZUY4Y3ZNM3lSQ3dxaE9abXVfQ1ZIV1JYSUF0SGduNkJNNFM1b3BlaS1HZWJNaDdhbHRqVlBrQnVYQlNjLWFYelFYRk11LUJFVl80R0JQUVBWcWpXaWc3aTF4TFFJeDNUX0lfZzE5aGFJRzhob0VaeTlwbjQ0dWV4WQ?oc=5",
+        "published": "Mon, 19 Oct 2026 11:03:11 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが3倍以上大きなブロックをテスト中、ソラナに追いつく手助けになる可能性",
-        "title_en": "Ethereum Is Testing Blocks Over 3 Times Bigger. Could That Help ETH Catch Up With Solana?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThjSkYyXzJIanJDb1FwQnBObmdRSUVMY3puYlh3OF9GaDVFQnVyaFFoUmNzSHMtdmxQNXNWQzJvbjhzLVNFeEk4NDdXYnRzU1hxYzRGcUdzZlU2ZjRWQjRSR2tQelF1Z3IzY2VGVDVRNTN5bl9OendtTUJkcUZiaGdZM3VwZFJ0MlhQWEJiYjZZRnRDRXFfcEwtbw?oc=5",
-        "published": "Sun, 18 Oct 2026 20:20:24 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "JPモルガンのJPMコイン、ドル預金を表現、イーサリアムネットワークに展開予定＝Bloomberg",
+        "title_en": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5",
+        "published": "Mon, 19 Oct 2026 10:03:47 GMT",
+        "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "AIチップ投資が3,400万ドルの清算を被る、ビットコインとイーサリアムはブラックマンデー懸念前に危険ゾーン付近",
-        "title_en": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
-        "published": "Sun, 18 Oct 2026 16:52:52 GMT",
-        "category": "マクロ"
+        "title_ja": "速報：JPモルガン、JPMコイン預金トークンをイーサリアムネットワークに拡大",
+        "title_en": "BREAKING: JPMorgan Expands JPM Coin Deposit Token to Ethereum Network",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEY3UkZhdUU2SFh4bWZSVDVvRGY2dmpGZXVJQTVqRzJiZ25ab0JaTDFGSXU2VkFsMERqb3lKWGNpOUNwZ1lDYS0ybHMxb0NuMlF0Y3pwMWV3YmRvR21XZ2UwRFpLTXpyY2NkNXp1X25lakhlb3hvVi1la3o2b0pGaWdnUmhQVXpfa3M4LUFXS3hyc2ZkeFpraFhqOUNXNmtX?oc=5",
+        "published": "Mon, 19 Oct 2026 09:11:39 GMT",
+        "category": "提携"
       }
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Circle が6ヶ月間でパートナーに8億1,900万ドルを支払う、Ripple の RLUSD は競争できるか",
-        "title_en": "Circle Paid Its Partners $819 Million in Six Months. Can Ripple’s RLUSD Compete?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOE5aNzQ2djZaOVZickpCa2VNcVgyOUlKY21COXFFX2QwbG4zamJDczZ3eFhMYlRFVlFBZmV4Nm00cjhMdU9tOFNITEhvYkNPc1U5N3J3V1ZGd3hPUjA4bE1MdUFsYkZJeE5xWnJwcWI4QWlVWVRzN0NKVHIzR3FsUmYtUU9hNnVMdlpaNVYtLWR3cU82TDFlZTZGeUdOUQ?oc=5",
-        "published": "Sun, 18 Oct 2026 12:31:32 GMT",
-        "category": "提携"
+        "source": "CoinDesk",
+        "title_ja": "XRP Ledgerのバグ修正が稼働間近、リップルの銀行貸出システムは投票数で10票不足",
+        "title_en": "XRP Ledger bug fix nears activation while Ripple’s bank lending system stays 10 votes short",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcko4ZkJkbnlrcHQzVzljWVpObGZya2NwZURUSVBQVnQyYlQtTmdSa0pxZEdJRU1ZU0sxY3EzUXViM1R6UU1EVHl4LURuYXNMOGVKbmtyN3hiNldFQjg2aWZUcGdMWGk1WlpCRUV5TkN3VGE3THh1RmN6YlgtLXFQX19aT2loR3BLR3dmRnVzcllIQ2ppRG1jOXZ0SXg3U01DVS0xSWVtck9wcFE?oc=5",
+        "published": "Mon, 19 Oct 2026 04:54:31 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "リップルの銀行貸出システムは依然として10票不足する中、XRP Ledgerのバグ修正が稼働間近に",
+        "title_en": "リップルの銀行貸出システムは依然として10票不足する中、XRP Ledgerのバグ修正が稼働間近に",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3N6R1d6dUdkX2NnTk11YnB4WGM0WHpITFlnLTkyZDdCN1U4TDA4NTlCZzFwYnktZXdJWG9tVzFxZXRkQi0xanNtRG10TmUtbHp5dmxYM3lrRUhfQ2NlYW5pTHBrbFFTUDktWkZSdHM0bW9hNTh3SVlwMlUyMVp2QVd1LXg3TmtxTG9lemNZeHhILWJFOTA5VTV3NE5FQUVIT0tjWk42cGVTNGcxdHE0?oc=5",
+        "published": "Mon, 19 Oct 2026 04:54:31 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [],
-    "ADA": [],
+    "ADA": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノ創設者チャールズ・ホスキンソン、ネットワーク向けの新プログラミング言語を構築中",
+        "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5",
+        "published": "Mon, 19 Oct 2026 12:16:58 GMT",
+        "category": "その他"
+      }
+    ],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
