@@ -1,45 +1,54 @@
 {
-  "generated_at": "2026-10-18T22:56:53+00:00",
+  "generated_at": "2026-10-19T04:18:11+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "アーサー・ヘイズ氏「量子コンピューティングはビットコイン売却の理由にならない、本当のリスクはある習慣」",
-        "title_en": "Arthur Hayes Says Quantum Computing Is No Reason to Sell Bitcoin. The Real Risk Is One Common Habit.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXR2WU1JMEhRU1BudklQWTJTQU42RHZMSHA3U1Mwd2dqdnZhWDFTaEZ2MDc2WnJYWGpQM1hZOGhZZzgtX0xTbTc0RExhOXhUa205UGZiekNfdm1OVkVRYmRRNGlMY2p1b2U5N2JYZzJxRmpfQzJjWXBIcFBuZnFVNWNiUVRxWFNhV1NUTjVmNEZINGVqbllLSVFSWVhwb2JxX0E?oc=5",
-        "published": "Sun, 18 Oct 2026 20:40:14 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "ビットコインが82,500ドルまで上昇、中国GDP好調で株価も上げ",
+        "title_en": "Bitcoin jumps to $82,500, stocks rise as China GDP beats estimates",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOG04VV9paTdUeWhZMXhoaHVDLUJXLUt4RnplUzd1aFlIWWN0QjBSdW5Ia05ZMHh6bjdtZzdUWFk2TUh0dUhpUE1vbXN0eXpkaG91MC1HTGdIQW1CTWZ5aWVLS1IxM25FczJxdkg0NTJ3bFowclJuQXNkUDZNYm41Qm5xbE5YcWpSU1BuWWFtM0ZXQWdSUG1TUjZieDBHXy04ZUdWUDZyaHJNTlJvTDJTTWlkVTRtbmJZbW5B?oc=5",
+        "published": "Mon, 19 Oct 2026 03:38:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインの次の動きが株価と貴金属を揺さぶる可能性、ブルームバーグ戦略家が警告、フィデリティは強気相場を予想",
-        "title_en": "Bitcoin’s Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEJaSG14d0V2QlZnSldnQlJqb1ltc0NCN05uZ3B4bG41Z0Ftci1yWEFvUFM3ZjloSzNObzFxcUZ4Sk40YlppcnFtYlNyeGlxQzFlNXV2dzRfeHliWEZsSnlnZ2huNk8tWjdXZ3FiTi1oUE1BYjdVeWQwUnhXUzVGUGV2ckNWUzlzd0VuQlo5Q2Y0ZzNlWEgzbkVB?oc=5",
-        "published": "Sun, 18 Oct 2026 17:37:19 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "ウォール街が金曜日に混乱、VIXとビットコイン取引は月曜日の恐怖緩和を示唆",
+        "title_en": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
+        "published": "Sun, 18 Oct 2026 23:24:37 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "AIチップ投資が3400万ドルの清算で消滅、ビットコイン・イーサリアムが危険水域へ、ブラックマンデー懸念",
+        "title_ja": "イーサリアムが3倍以上大きなブロックをテスト中、ソラナに追いつく手助けになる可能性",
+        "title_en": "Ethereum Is Testing Blocks Over 3 Times Bigger. Could That Help ETH Catch Up With Solana?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThjSkYyXzJIanJDb1FwQnBObmdRSUVMY3puYlh3OF9GaDVFQnVyaFFoUmNzSHMtdmxQNXNWQzJvbjhzLVNFeEk4NDdXYnRzU1hxYzRGcUdzZlU2ZjRWQjRSR2tQelF1Z3IzY2VGVDVRNTN5bl9OendtTUJkcUZiaGdZM3VwZFJ0MlhQWEJiYjZZRnRDRXFfcEwtbw?oc=5",
+        "published": "Sun, 18 Oct 2026 20:20:24 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "AIチップ投資が3,400万ドルの清算を被る、ビットコインとイーサリアムはブラックマンデー懸念前に危険ゾーン付近",
         "title_en": "AI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnJwR3hJZTBhVVpqN0J0a2g0SDJHd29HWDIyUS1ndXZfOXJsTERSMnExTGlaSnRKN19ZYVRqdkh3bk5NNW16cG9tVks2NUE5eGl0VkQ3eXEyLXBWVFFNa2plZGpYQ3M3OE4tSENJZ2dRVWdHcFJCLXY5OFBBek5KTWNGc3RsR1VIV09kUHo2NTR0dw?oc=5",
         "published": "Sun, 18 Oct 2026 16:52:52 GMT",
         "category": "マクロ"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "Cysicがブリッジを停止、攻撃者がトークンをミントしイーサリアムに72万7000ドルを移動",
-        "title_en": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTJYUUloSU9RYWtsSTJlS1BnOFh6RVl0RlpZRXVJWmNodlFWMzhobXhRdmZvekQ4ZEg3dm83bUFvSFotOEtsejdmTlZPTXdublNLa1A1bEN2QnBZbWg0Y01WWXpPRGVjUEJUNXA1c1F4bEY5S0VPQkhDR0tvRExrTVZ2b0VIRlV0U0NLOVpLR2tEQV9VWkh4N21XSFpocEI3WXdjbWZWcFp3aGhyV1FtYjZ1Vmg2V2I0SEJFUDdPaXhqSzJ0VDhwT0lR?oc=5",
-        "published": "Sun, 18 Oct 2026 16:07:00 GMT",
-        "category": "ハッキング"
       }
     ],
-    "XRP": [],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Circle が6ヶ月間でパートナーに8億1,900万ドルを支払う、Ripple の RLUSD は競争できるか",
+        "title_en": "Circle Paid Its Partners $819 Million in Six Months. Can Ripple’s RLUSD Compete?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOE5aNzQ2djZaOVZickpCa2VNcVgyOUlKY21COXFFX2QwbG4zamJDczZ3eFhMYlRFVlFBZmV4Nm00cjhMdU9tOFNITEhvYkNPc1U5N3J3V1ZGd3hPUjA4bE1MdUFsYkZJeE5xWnJwcWI4QWlVWVRzN0NKVHIzR3FsUmYtUU9hNnVMdlpaNVYtLWR3cU82TDFlZTZGeUdOUQ?oc=5",
+        "published": "Sun, 18 Oct 2026 12:31:32 GMT",
+        "category": "提携"
+      }
+    ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
