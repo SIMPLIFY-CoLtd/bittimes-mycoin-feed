@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-10-19T12:50:04+00:00",
+  "generated_at": "2026-10-19T20:30:16+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "The Block",
-        "title_ja": "マイケル・セイラーのStrategory、追加でビットコイン267枚を2,200万ドルで購入",
-        "title_en": "'We found room for more orange': Michael Saylor's Strategy buys another 267 bitcoin for $22 million",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWJlcWdfdjZRU1JPNWtxMllfQTRHTzhLSEFoYlFUZGlDOXlIeWQzc1ppNkszR1RSR2xqeklXbk5JSksxd2hVd2xwR25Kcm1RaWVKdG5abVpVcUZ5c0JFUEtUZlFGc1RkWGNISXl1X1ZyY3Eza0Z0Y2tScC1laGxDZGxlV0o5VEZYYjFzWk1BWUNGRGVTamx1ZVY2VXE0OEJmM3Fzb01nZ3Z4c1RlQjVoME5xZklNU3JSVklKTnhrN2dIQkIxQU1Z?oc=5",
-        "published": "Mon, 19 Oct 2026 12:10:00 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン採掘企業Nscale、マイクロソフトのAI取引が消滅、電力供給遅延は2030年代まで延伸",
-        "title_en": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2lTQ0JHSVJNZHc2TVVjbnZEZ0ZxZjh6TnB2NnNRSGF6anNfTXlaNGhfeC1tYi0ySmpWZDVsYUVLdDdHcmZEY0xobHVLUlJzOExCZUY4Y3ZNM3lSQ3dxaE9abXVfQ1ZIV1JYSUF0SGduNkJNNFM1b3BlaS1HZWJNaDdhbHRqVlBrQnVYQlNjLWFYelFYRk11LUJFVl80R0JQUVBWcWpXaWc3aTF4TFFJeDNUX0lfZzE5aGFJRzhob0VaeTlwbjQ0dWV4WQ?oc=5",
-        "published": "Mon, 19 Oct 2026 11:03:11 GMT",
-        "category": "その他"
-      }
-    ],
+    "BTC": [],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "JPモルガンのJPMコイン、ドル預金を表現、イーサリアムネットワークに展開予定＝Bloomberg",
-        "title_en": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5",
-        "published": "Mon, 19 Oct 2026 10:03:47 GMT",
-        "category": "提携"
+        "source": "Yahoo Finance",
+        "title_ja": "JPモルガン、JPMコインをEthereumメインネットに展開—機関投資家向けステーブルコイン決済がマルチチェーン対応",
+        "title_en": "JPMorgan Deploys JPM Coin on Ethereum Mainnet — Institutional Stablecoin Payments Go Multi-Chain",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXJrSUUzdUlTZERVLXB5VmhWM3ZQcGlQaEtwM3U5cm9HZjg3dzQyZzZ6RDZUSzJhWTRJaHVUMUV0MnlSR0lCcFdnOGJUVHBCR2k5N1A1ZFNSUVNTQ3lkUWNiWVRRTDBPNHBXQUtvMVkwNlpxZlZPZXVDbzdwY1pJMmEtTWJkUWhGa2pvaWswNEdqcTFlTC1nT3VHUEJqcUht?oc=5",
+        "published": "Mon, 19 Oct 2026 19:41:41 GMT",
+        "category": "採用"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "速報：JPモルガン、JPMコイン預金トークンをイーサリアムネットワークに拡大",
-        "title_en": "BREAKING: JPMorgan Expands JPM Coin Deposit Token to Ethereum Network",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEY3UkZhdUU2SFh4bWZSVDVvRGY2dmpGZXVJQTVqRzJiZ25ab0JaTDFGSXU2VkFsMERqb3lKWGNpOUNwZ1lDYS0ybHMxb0NuMlF0Y3pwMWV3YmRvR21XZ2UwRFpLTXpyY2NkNXp1X25lakhlb3hvVi1la3o2b0pGaWdnUmhQVXpfa3M4LUFXS3hyc2ZkeFpraFhqOUNXNmtX?oc=5",
-        "published": "Mon, 19 Oct 2026 09:11:39 GMT",
-        "category": "提携"
+        "source": "Decrypt",
+        "title_ja": "JPモルガンのJPMコインがEthereumに到着、銀行資金がパブリックブロックチェーン上に",
+        "title_en": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcWtwc2Rpb2hOMUl0bS0xRmxqS1FFWXl1THg2VGtkOUJlbGZmNklkdFdjT1pYWlRnVEF0c01mcF9LOC1iaERnTURSOGQ5ZTlYV3lXcmEwUWpZd2Rqel9ycFZybDZYMUotTDlzT3c2amM1eWM?oc=5",
+        "published": "Mon, 19 Oct 2026 17:31:04 GMT",
+        "category": "採用"
       }
     ],
     "XRP": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP アナリスト、182%ラリーの背後のシグナルを指摘、デービッド・シュワルツ氏がウォレット警告を発表",
+        "title_en": "XRP Analyst Spots Signal Behind 182% Rally as David Schwartz Issues Wallet Warning",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDBUNW1tZm1oVmtFeWNRLXlHR1FESVV0bFFqYmVDY3h6SXpBZ0hQLVI3Ym1uYmNWcVB0b2V1ZlFhNm5TQ3dCVFNHazdNYTlsakNXZDFPUHpiTkdLMUVVS2pTYmNuU0hlUzA5OTNHd2Q5Q3VZTEdReXB5M2ZaSUE2ZnkxOTY4Q3dZSGlDN3g3MTlCSFdPYnRpZmowLW8?oc=5",
+        "published": "Mon, 19 Oct 2026 15:22:15 GMT",
+        "category": "発言"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "The Block",
+        "title_ja": "SkyAIがSolanaトレジャリー全体を売却、2億100万ドルの自社株買いを開始",
+        "title_en": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2xRbk5oc1dndzdOX21TUnhJTVlsQzZPWTRyc3RiQXJRSWZ6RnFVekdEVEdiY204ZjQxOU95VmtKNW1zVm9yZ1E0NW5tdE1CRzhtV0c2aElPUG16ZVJDM0gwTExuMWlJU0NDcTdMWkMzU0owWGVlcXNWeDFRd2xWV3dKUG1jSW80TDl5RXdaeW9NSXRELW1sVmJFWmF3SF93ekt6Y2ZxUW1IeHRib2RuT3ZXbGtOSHZrT2d6V3hTUDI?oc=5",
+        "published": "Mon, 19 Oct 2026 15:28:00 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Decrypt",
+        "title_ja": "StakerXのAIエージェント、Solana上で4,000万ドルのステーク資産超過、立ち上げから3ヶ月以内に達成",
+        "title_en": "StakerX's AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakFUUXItdXQ4dkI3ZGcyeHFoRmxyNHpIeXpaWkV0Y3I2ekp5U2xiem9qQ3p4amRENkM3Z3RpaFhNOHVVdVFrMkx2MWRrOVFLejQ5NnkxUmRXTG5KaEhuQVNkR25DdzFYdGZDU3ZIVVlOZTd2ZlplRWgxZ3gtd3JtOUJDdUtpWnNzMWtfRkFuMTZtXzhvN0stZEVnaEdFaEpfNi05alFCcmp5N2RXSVBOcUt6TFA0UHlwNUhUYVRoZVJ5QQ?oc=5",
+        "published": "Mon, 19 Oct 2026 11:55:37 GMT",
+        "category": "その他"
+      }
+    ],
+    "ADA": [
+      {
         "source": "CoinDesk",
-        "title_ja": "XRP Ledgerのバグ修正が稼働間近、リップルの銀行貸出システムは投票数で10票不足",
-        "title_en": "XRP Ledger bug fix nears activation while Ripple’s bank lending system stays 10 votes short",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcko4ZkJkbnlrcHQzVzljWVpObGZya2NwZURUSVBQVnQyYlQtTmdSa0pxZEdJRU1ZU0sxY3EzUXViM1R6UU1EVHl4LURuYXNMOGVKbmtyN3hiNldFQjg2aWZUcGdMWGk1WlpCRUV5TkN3VGE3THh1RmN6YlgtLXFQX19aT2loR3BLR3dmRnVzcllIQ2ppRG1jOXZ0SXg3U01DVS0xSWVtck9wcFE?oc=5",
-        "published": "Mon, 19 Oct 2026 04:54:31 GMT",
+        "title_ja": "Cardano創設者チャールズ・ホスキンソン氏がネットワーク向け新規プログラミング言語を開発中",
+        "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5",
+        "published": "Mon, 19 Oct 2026 12:16:58 GMT",
         "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "リップルの銀行貸出システムは依然として10票不足する中、XRP Ledgerのバグ修正が稼働間近に",
-        "title_en": "リップルの銀行貸出システムは依然として10票不足する中、XRP Ledgerのバグ修正が稼働間近に",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3N6R1d6dUdkX2NnTk11YnB4WGM0WHpITFlnLTkyZDdCN1U4TDA4NTlCZzFwYnktZXdJWG9tVzFxZXRkQi0xanNtRG10TmUtbHp5dmxYM3lrRUhfQ2NlYW5pTHBrbFFTUDktWkZSdHM0bW9hNTh3SVlwMlUyMVp2QVd1LXg3TmtxTG9lemNZeHhILWJFOTA5VTV3NE5FQUVIT0tjWk42cGVTNGcxdHE0?oc=5",
-        "published": "Mon, 19 Oct 2026 04:54:31 GMT",
-        "category": "その他"
-      }
-    ],
-    "SOL": [],
-    "ADA": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "カルダノ創設者チャールズ・ホスキンソン、ネットワーク向けの新プログラミング言語を構築中",
-        "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5",
+        "title_ja": "ADAニュース：チャールズ・ホスキンソン氏がカルダノのために新しいプログラミング言語を個人的に開発中",
+        "title_en": "ADAニュース：チャールズ・ホスキンソン氏がカルダノのために新しいプログラミング言語を個人的に開発中",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXR0OVZiaFFiYmxQRVJySHkxZ1lNMkdNelJDVVR6TGxaeUtXU3QyMTdBQVctUFF6UFlTTllXZkVaVWFYZUtITTNSNmtsdVNaZm5aRmJ2dlBBUUdqX09wdXZJU0piLXZ1cThucWFScXhCSWNVamRsM0R1TjhUdl9GUWpRTFdlQjg5Yk9DUVRLX29aSy1teHFoUkNDSkFDLWhTTnJlQTk4SV8zanM0NlQzR0dzUGN4N21fQlNiX3dZSXAyaU9EZkJiaExRSnY?oc=5",
         "published": "Mon, 19 Oct 2026 12:16:58 GMT",
         "category": "その他"
       }
