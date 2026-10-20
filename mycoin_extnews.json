@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-20T00:11:51+00:00",
+  "generated_at": "2026-10-20T08:23:05+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Striveが3億6,900万ドルの資金流入後、3億3,500万ドルのビットコインを購入",
-        "title_en": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXA2SldJZFcxeUdwTDgxWGwxMUZjNjN3X3Y1V3Z6bXVMV2xXS1BLWWV6RktETDJ3TGNXSldYZDhKSHVDbmRiVDJlOWppeFZNTzNPX0Z2YzI0Qm9ZY0dfZDluZHZVODZWUjN2bXlSaTMxSTZaQ28wT0tNSUt1VGI5ejhVbG1kUHRxMkx1eDNreGlnSVR3MFdibUZzMmY?oc=5",
-        "published": "Mon, 19 Oct 2026 21:46:05 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "BlackRockのIBIT Bitcoin ETFが6億6,500万ドルの流入、2025年10月以来最高",
+        "title_en": "BlackRock's IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekpIWFJCVjVhcjFIRjZqci1nUk43djNFLXlxTVNOaElOZjlpWUxTZVlJSTY4SFZEZnN0c0ZhTVpqQnZXV2FhWVVhOHFpVTQ3a1hWTmFPY2U3Uzl4MTlreGhFU3lrWjFlTTlMNTJpakV3b0RMTzRvWXFtY184UktPMXhjdXVjaVl0Q3JSV1pMV1prYlFnRm5ldA?oc=5",
+        "published": "Tue, 20 Oct 2026 07:05:00 GMT",
+        "category": "上場"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Strategy Buysがビットコインを買い戻し、850,000 BTCに接近",
-        "title_en": "Strategy Buys Back Their bitcoin, Closing in on 850K BTC",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVVeTdBajJyMUN6QTl1Zml3a3dPX09zaEQ4Vi1NLTluV2NiVlVSbmp2eVgtZDRqMEVZTlVlbXpRQWZfRlFvQ1RxZVIySmJpUmdSa2xZOFNZZHpLcElXQnNMMTBXdTBHWjBmOWJtcTZyTlVJWEthb1FCUmU5ejgwNzhKZTFOYW1sRmlHTEx2clQxc045Y0c5ZUN3QWg5R2k5TWpjTw?oc=5",
-        "published": "Mon, 19 Oct 2026 16:54:59 GMT",
-        "category": "大口"
+        "title_ja": "ビットコイン現物ETFが526.6百万ドル流出、9月22日以来の最大日",
+        "title_en": "Bitcoin ETFs Pull $526.6 Million, Their Biggest Day Since September 22",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldDeUhOaUZsUm50a0hfckk5enRabXRXb1BUVWktOGlvRzU1YUVwaENVck92RHZVS2dhbFM3TlRWZVp4UXVoNFpoeTRuX3B0SmZBM1BwMDd1TURmdlFuU1NWRy1PaGxSTE4zeGlTYWJXZkhtWkwwaFk1dUpLbGxIZlJvdy10My12UEtkbkFoNmxLZw?oc=5",
+        "published": "Tue, 20 Oct 2026 06:18:19 GMT",
+        "category": "上場"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "JPMorganがEthereumメインネットにJPMコインをデプロイ—機関投資家向けステーブルコイン決済がマルチチェーン化",
+        "title_ja": "JPモルガンがJPMコインをイーサリアムメインネットに展開—機関向けステーブルコイン決済が複数チェーン対応",
         "title_en": "JPMorgan Deploys JPM Coin on Ethereum Mainnet — Institutional Stablecoin Payments Go Multi-Chain",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXJrSUUzdUlTZERVLXB5VmhWM3ZQcGlQaEtwM3U5cm9HZjg3dzQyZzZ6RDZUSzJhWTRJaHVUMUV0MnlSR0lCcFdnOGJUVHBCR2k5N1A1ZFNSUVNTQ3lkUWNiWVRRTDBPNHBXQUtvMVkwNlpxZlZPZXVDbzdwY1pJMmEtTWJkUWhGa2pvaWswNEdqcTFlTC1nT3VHUEJqcUht?oc=5",
         "published": "Mon, 19 Oct 2026 19:41:41 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "Decrypt",
-        "title_ja": "JPMorganのJPMコインがEthereumに登場、銀行資金をパブリックブロックチェーンに投入",
+        "title_ja": "JPモルガンのJPMコインがイーサリアムに到着、銀行ドルが公開ブロックチェーンに登場",
         "title_en": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcWtwc2Rpb2hOMUl0bS0xRmxqS1FFWXl1THg2VGtkOUJlbGZmNklkdFdjT1pYWlRnVEF0c01mcF9LOC1iaERnTURSOGQ5ZTlYV3lXcmEwUWpZd2Rqel9ycFZybDZYMUotTDlzT3c2amM1eWM?oc=5",
         "published": "Mon, 19 Oct 2026 17:31:04 GMT",
@@ -42,27 +42,26 @@
     "XRP": [
       {
         "source": "Decrypt",
-        "title_ja": "XRPレジャーがローンチ前に貸付プロトコルを修復",
+        "title_ja": "XRPレジャーが公開前に貸付プロトコルを修復",
         "title_en": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDJGdnNrd2QxcmdmdWxNOTlxTFpfbjJoWnBZb2U2TjNYRkJHblA2Smh2UmppcDhpNzBnZFlnSVBIYTNlLVNRQ0NwRzk3a0xGUm5wdFdWa0VLLUpmTjNtQjI3a1VLT2U3Tk8yMEhhZHRzM3ZidWdpRndFT2tzVHBSNU0ybVBUQQ?oc=5",
         "published": "Mon, 19 Oct 2026 20:46:05 GMT",
         "category": "その他"
-      }
-    ],
-    "SOL": [
+      },
       {
-        "source": "Decrypt",
-        "title_ja": "StakerXのAIエージェントがSolana上で3か月以内に4,000万ドルのステーク資産を超過",
-        "title_en": "StakerX's AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakFUUXItdXQ4dkI3ZGcyeHFoRmxyNHpIeXpaWkV0Y3I2ekp5U2xiem9qQ3p4amRENkM3Z3RpaFhNOHVVdVFrMkx2MWRrOVFLejQ5NnkxUmRXTG5KaEhuQVNkR25DdzFYdGZDU3ZIVVlOZTd2ZlplRWgxZ3gtd3JtOUJDdUtpWnNzMWtfRkFuMTZtXzhvN0stZEVnaEdFaEpfNi05alFCcmp5N2RXSVBOcUt6TFA0UHlwNUhUYVRoZVJ5QQ?oc=5",
-        "published": "Mon, 19 Oct 2026 11:55:37 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "XRP アナリスト、182%上昇の背景シグナルを発見—ダビド・シュワルツ氏がウォレット警告を発出",
+        "title_en": "XRP Analyst Spots Signal Behind 182% Rally as David Schwartz Issues Wallet Warning",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDBUNW1tZm1oVmtFeWNRLXlHR1FESVV0bFFqYmVDY3h6SXpBZ0hQLVI3Ym1uYmNWcVB0b2V1ZlFhNm5TQ3dCVFNHazdNYTlsakNXZDFPUHpiTkdLMUVVS2pTYmNuU0hlUzA5OTNHd2Q5Q3VZTEdReXB5M2ZaSUE2ZnkxOTY4Q3dZSGlDN3g3MTlCSFdPYnRpZmowLW8?oc=5",
+        "published": "Mon, 19 Oct 2026 15:22:15 GMT",
+        "category": "発言"
       }
     ],
+    "SOL": [],
     "ADA": [
       {
         "source": "CoinDesk",
-        "title_ja": "Cardano創設者Charles Hoskinsonがネットワーク用の新しいプログラミング言語を構築中",
+        "title_ja": "カルダノ創業者チャールズ・ホスキンソン氏がネットワーク向け新プログラミング言語を構築中",
         "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5",
         "published": "Mon, 19 Oct 2026 12:16:58 GMT",
@@ -70,7 +69,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ADAニュース：チャールズ・ホスキンソン氏がカルダノのために新しいプログラミング言語を個人的に開発中",
+        "title_ja": "ADAニュース：チャールズ・ホスキンソン氏がカルダノ向け新プログラミング言語を個人的に開発中",
         "title_en": "ADAニュース：チャールズ・ホスキンソン氏がカルダノのために新しいプログラミング言語を個人的に開発中",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXR0OVZiaFFiYmxQRVJySHkxZ1lNMkdNelJDVVR6TGxaeUtXU3QyMTdBQVctUFF6UFlTTllXZkVaVWFYZUtITTNSNmtsdVNaZm5aRmJ2dlBBUUdqX09wdXZJU0piLXZ1cThucWFScXhCSWNVamRsM0R1TjhUdl9GUWpRTFdlQjg5Yk9DUVRLX29aSy1teHFoUkNDSkFDLWhTTnJlQTk4SV8zanM0NlQzR0dzUGN4N21fQlNiX3dZSXAyaU9EZkJiaExRSnY?oc=5",
         "published": "Mon, 19 Oct 2026 12:16:58 GMT",
@@ -79,7 +78,16 @@
     ],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Chainlinkが日本の流動化パートナーと契約、LINKは15ドルまで回復できるか",
+        "title_en": "Chainlink Just Signed a Tokenization Partner in Japan. Can LINK Get Back to $15?",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU1xb0FhWnFPV1BDWlBrWF9PTmdCbkFTT1JVT3JHdGtoZ2l2RGI5emdPX0JoTGZMSzI2cjktTEJjVHhpaDlpRFZ0VHlmSXpEWmpOdWk2YXhqS1pMSU52eHM3WlVCNWE5Q3pkMnc5R3lsZmp3NmZWeXFKUDRfZTNiNEFIbHJpUWtHVW12RHQ4X0FEUERmMXQtX2FDUGZpRHIyRW5ZNTlBRnlfRUk?oc=5",
+        "published": "Mon, 19 Oct 2026 13:00:34 GMT",
+        "category": "提携"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
