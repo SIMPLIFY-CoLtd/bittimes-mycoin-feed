@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-10-20T14:14:13+00:00",
+  "generated_at": "2026-10-20T19:06:40+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "スイス、国内初のスポットビットコインETFを承認",
-        "title_en": "Switzerland Approves Country's First Spot Bitcoin ETF",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQczlXcFV5VkdQZkRxTC1sejMxa3M1V296ZjNLRGFha0Z1MHgteW1USlJpWnc3emtSZW9oUkVNNjY4cjBwUFpuLXk0YTNJa0FoMTNPTFd5LVJidjV0Z01EbFdmTHpNRnVadE8zLWMyMmxrZkgyZE1QNC1OeXdjWFBGd1ZQNkd3QmgzN3NsVlNtaVdCVzdnQXhfMGd4NFM5Ums2NnlOMDIyNkY?oc=5",
-        "published": "Tue, 20 Oct 2026 13:27:00 GMT",
+        "title_ja": "ビットコインETFが約1ヶ月ぶりの最高の日を記録、ブラックロックが買い支え",
+        "title_en": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1JVUC1OQkwwcnNuVEo5bUJNdzFLeGljRHBzTnZDS3FiMXlxd3NmSURQTnlqd2Jpei16dTdVUjZraHN2Tlc4T0RMMXVLV3l6eURfcnRNOTJkbnVpTUVFaVR4SGdkalhuSGl0ZGJIQkh5ZmFKY1h6TkpTb1BzX19sOVFhdElHc3BzaGJfdEx4ZVh5Y01kR3c?oc=5",
+        "published": "Tue, 20 Oct 2026 18:31:04 GMT",
         "category": "承認"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF、1カ月ぶりの最高パフォーマンスを記録",
-        "title_en": "Bitcoin ETFs Post Best Day In A Month",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRmRWamxFYkRXX01ZM0dRaE8wc2hWb09rUVJCNUIyT2NOQ2l6SjVHSi05RGRkdWN3aUFZOVRyamZRM1FTU3hJcHFNZXJtd3FmVHlmbG8ybjZVM2EwcWpqVFFWd0FOY0FZMHkydVBWQi1HUHlpQTE3c1BvVlZSVmw2ckFGUjJkYlVpOHRqRU5MZnVzSFg4Ync?oc=5",
-        "published": "Tue, 20 Oct 2026 13:06:00 GMT",
-        "category": "その他"
+        "title_ja": "Striveが$630MのSATS IPOを調達、ビットコイン配分をオープンのままに",
+        "title_en": "Strive Raises $630M in SATS IPO, Keeps Bitcoin Allocation Open",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVhMOVM2bkRkT3NTaHMzSXRVXzBmQ2hGVVd3Mmo1THo0YW80RWh3bGdVaUZFZFlOZmx5RVh0TWVZWWQzR3FjSkRlS1l4YzhrcWJYcXo5bnFodlVmM2wxbU9GOXFqd3p3b19QTWZIRmhSanhuRktvcU1jSlplOGhZY3o5UzExM3VuaWtGQjlDcU5HNnpwNnRF?oc=5",
+        "published": "Tue, 20 Oct 2026 18:10:00 GMT",
+        "category": "上場"
       }
     ],
     "ETH": [
       {
-        "source": "Decrypt",
-        "title_ja": "JPモルガンのJPMコイン、イーサリアムに展開―銀行ドルが公開ブロックチェーンに",
-        "title_en": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcWtwc2Rpb2hOMUl0bS0xRmxqS1FFWXl1THg2VGtkOUJlbGZmNklkdFdjT1pYWlRnVEF0c01mcF9LOC1iaERnTURSOGQ5ZTlYV3lXcmEwUWpZd2Rqel9ycFZybDZYMUotTDlzT3c2amM1eWM?oc=5",
-        "published": "Mon, 19 Oct 2026 17:31:04 GMT",
-        "category": "提携"
+        "source": "The Block",
+        "title_ja": "イーサリアムステーキングが過去最高を更新、利回りは低下しSolanaアクティビティは増加：Bitwise",
+        "title_en": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
+        "published": "Tue, 20 Oct 2026 16:31:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "トム・リー率いるBitmineが3,000万ドル分のイーサリアムを追加購入、買いが終盤に",
-        "title_en": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWlc5cVBfbGdPYndJeXd0dDRzRF92Mmdkckgtb0JwcG9zam0takN5ZEdYLTBmUzc5S0kyNFhVVWhKS0hxZ2FsMnA5akphc1dDU2NDYVlKbEVTX1BIYnFPYkxuMTNVUU83YThQbTNRUlg1OHVyUXhXOVlibHdGRThoY2pWcXo2X2RXRm8wWF9EUE96QQ?oc=5",
-        "published": "Mon, 19 Oct 2026 15:13:42 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "トム・リーがイーサリアムは今後12ヶ月で$10,000を超える可能性があると指摘",
+        "title_en": "Tom Lee says Ethereum could surge past $10,000 in the next 12 months",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGZtVXJCWE9zSnlGdHhwYzlWQ215ZE5MeWQtQVgxamJrQWR4SmN3b2NCMzRGTGJOX294dDA2Rl9ZT0FWak05ekxwTGFpN2hTQTdWdTI2MDl6eWJycVhjMS1DdTExdUNTZlJ0anh1dUFYR3BzTUdobWU4cDFFTFhtRThCMXhUVXJraU1jNVhieW1vOGF4SVFacy14bTk1QQ?oc=5",
+        "published": "Tue, 20 Oct 2026 09:04:36 GMT",
+        "category": "発言"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル、DTCC兆ドル規模のトークン化構想に参加―XRPは2ドル目指す",
+        "title_ja": "RippleがDTCCの1兆ドルのトークン化推進に参加、XRPが$2を目指す",
         "title_en": "Ripple Joins DTCC's Trillion-Dollar Tokenization Push as XRP Eyes $2",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE8tVFd4V1lwbVhvYjBQamowR1ZOOTNHU2NfSEhRT3ZTNEczUFc1c0NWWHJacjNRSGRRZW54bmkzVm9IVGc2dTVzMnVlVjJRemlDeGdhbFoySjhwdWQtSGhZWl9ZT0xQTF9EdGdpUnVvaUoyWTlVX0lhdVgzc2NDMV9Ma0dCcTVoS1FST1FUVks2RUFtZGVNUmY4cTFMb3BE?oc=5",
         "published": "Tue, 20 Oct 2026 13:20:40 GMT",
@@ -50,28 +50,28 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP公式Xアカウント開設、リップルとXRPL財団が管理",
-        "title_en": "XRP Finally Gets Its Own Official X Account, Managed by Ripple and XRPL Foundation",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVk0dzU1RkFKOTdBRmdYSlFKMFBUQTk5aGlhMTk2SDhJb1IxSDVHLXpwWjdWTW1Ed0VySklJN1FMX05IMmJkYU5uSV9yRzdqYUdneF90bXVnVGpPZEN0M2QtSEQxZkFBaS1nNVBjZ19xQTB6Zk1ZbEdqeWVvdmVEOFpPVHVkTExHS3RwOU42ZWotRWNrYnVsM2l3?oc=5",
-        "published": "Tue, 20 Oct 2026 10:37:15 GMT",
-        "category": "その他"
+        "title_ja": "RippleのDavid Schwartz、2027年にはリテール向けDeFiが活況を呈する可能性を示唆。XRP Ledgerは恩恵を受けるか？",
+        "title_en": "Ripple’s David Schwartz Thinks Retail DeFi Could Get Exciting in 2027. Can the XRP Ledger Cash In?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY19FNTdBenhVdzQ3N2RFeHBRLTMwbnRBbFFUTFhobElGelJPdERvYWFfZnRzNDVUekMxTFJSWWpMWFNKdUkzVDR6NDY5a0RuT1RQUTFUU3BseWFmMVVUM0hDZkFlUTY0UDRWRDFaYW16TGRySWFDMnBBZ1p0MTh5ZGh5a2YwNC1tamQ3SzVTbDFTek8wUXN3UktUWnBvNUhCR0E?oc=5",
+        "published": "Tue, 20 Oct 2026 12:53:06 GMT",
+        "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SkyAI、ソラナ財務戦略を放棄―2.238億ドルの現金保有で自社株買い実施へ",
+        "title_ja": "SolanaのAlpenglow アップグレードが間もなくライブ化。SOLはXRPより買いか？",
+        "title_en": "Solana’s Alpenglow Upgrade Is About to Go Live. Is SOL a Better Buy Than XRP?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0FzaU1PSU9GNlMtMTlYZ2NyUm9qR251cnZmZFZjVldhaDlDTW9BWmtMTHl6Q2NBRmJzVV80anpDQmRzSWR4VG1sYkk3aTlkc3o0WDZKdm9NRkFtUjZfR1dsTl9zR05ORElPblg5VkxoNjFLQ0FYV3M4Wnd3MWU3eXRsaF9ralBhMGQ3d3FXZDdLQkR0YkRrWGM3WS1KQVE?oc=5",
+        "published": "Tue, 20 Oct 2026 14:00:11 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "SkyAIがSolana資金戦略を放棄、$223.8M現金保有で買戻しに充てる",
         "title_en": "SkyAI Abandons Solana Treasury Strategy, Holds $223.8 Million in Cash for Buyback",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWFFR2JKVU13TWg2a0xYTjBsRlV2ZURvQUtPVE5oUFVUQ0RkYVg1YjJiM0RkNTJRdEp2eTAzQUpNeUYzTmF2SWpWTWFnWXZKSmlNSmQ1Rmk3WnFKQldOb1ZBNFFhSTRXY2taU2pQQkhPeExHVWhDZUpMaGxHalpva3d1c1N4R3p2RWFBT1Ffc1ZrdkVwQldQT0dFeFZYbmNVVjdDci1Mbw?oc=5",
         "published": "Tue, 20 Oct 2026 02:00:00 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "SkyAI、ソラナ財務を全売却―2.01億ドルの自社株買い開始",
-        "title_en": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2xRbk5oc1dndzdOX21TUnhJTVlsQzZPWTRyc3RiQXJRSWZ6RnFVekdEVEdiY204ZjQxOU95VmtKNW1zVm9yZ1E0NW5tdE1CRzhtV0c2aElPUG16ZVJDM0gwTExuMWlJU0NDcTdMWkMzU0owWGVlcXNWeDFRd2xWV3dKUG1jSW80TDl5RXdaeW9NSXRELW1sVmJFWmF3SF93ekt6Y2ZxUW1IeHRib2RuT3ZXbGtOSHZrT2d6V3hTUDI?oc=5",
-        "published": "Mon, 19 Oct 2026 15:28:00 GMT",
         "category": "大口"
       }
     ],
