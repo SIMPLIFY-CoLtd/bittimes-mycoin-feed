@@ -1,13 +1,30 @@
 {
-  "generated_at": "2026-10-19T20:30:16+00:00",
+  "generated_at": "2026-10-20T00:11:51+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Striveが3億6,900万ドルの資金流入後、3億3,500万ドルのビットコインを購入",
+        "title_en": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXA2SldJZFcxeUdwTDgxWGwxMUZjNjN3X3Y1V3Z6bXVMV2xXS1BLWWV6RktETDJ3TGNXSldYZDhKSHVDbmRiVDJlOWppeFZNTzNPX0Z2YzI0Qm9ZY0dfZDluZHZVODZWUjN2bXlSaTMxSTZaQ28wT0tNSUt1VGI5ejhVbG1kUHRxMkx1eDNreGlnSVR3MFdibUZzMmY?oc=5",
+        "published": "Mon, 19 Oct 2026 21:46:05 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Strategy Buysがビットコインを買い戻し、850,000 BTCに接近",
+        "title_en": "Strategy Buys Back Their bitcoin, Closing in on 850K BTC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmVVeTdBajJyMUN6QTl1Zml3a3dPX09zaEQ4Vi1NLTluV2NiVlVSbmp2eVgtZDRqMEVZTlVlbXpRQWZfRlFvQ1RxZVIySmJpUmdSa2xZOFNZZHpLcElXQnNMMTBXdTBHWjBmOWJtcTZyTlVJWEthb1FCUmU5ejgwNzhKZTFOYW1sRmlHTEx2clQxc045Y0c5ZUN3QWg5R2k5TWpjTw?oc=5",
+        "published": "Mon, 19 Oct 2026 16:54:59 GMT",
+        "category": "大口"
+      }
+    ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "JPモルガン、JPMコインをEthereumメインネットに展開—機関投資家向けステーブルコイン決済がマルチチェーン対応",
+        "title_ja": "JPMorganがEthereumメインネットにJPMコインをデプロイ—機関投資家向けステーブルコイン決済がマルチチェーン化",
         "title_en": "JPMorgan Deploys JPM Coin on Ethereum Mainnet — Institutional Stablecoin Payments Go Multi-Chain",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXJrSUUzdUlTZERVLXB5VmhWM3ZQcGlQaEtwM3U5cm9HZjg3dzQyZzZ6RDZUSzJhWTRJaHVUMUV0MnlSR0lCcFdnOGJUVHBCR2k5N1A1ZFNSUVNTQ3lkUWNiWVRRTDBPNHBXQUtvMVkwNlpxZlZPZXVDbzdwY1pJMmEtTWJkUWhGa2pvaWswNEdqcTFlTC1nT3VHUEJqcUht?oc=5",
         "published": "Mon, 19 Oct 2026 19:41:41 GMT",
@@ -15,7 +32,7 @@
       },
       {
         "source": "Decrypt",
-        "title_ja": "JPモルガンのJPMコインがEthereumに到着、銀行資金がパブリックブロックチェーン上に",
+        "title_ja": "JPMorganのJPMコインがEthereumに登場、銀行資金をパブリックブロックチェーンに投入",
         "title_en": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcWtwc2Rpb2hOMUl0bS0xRmxqS1FFWXl1THg2VGtkOUJlbGZmNklkdFdjT1pYWlRnVEF0c01mcF9LOC1iaERnTURSOGQ5ZTlYV3lXcmEwUWpZd2Rqel9ycFZybDZYMUotTDlzT3c2amM1eWM?oc=5",
         "published": "Mon, 19 Oct 2026 17:31:04 GMT",
@@ -24,36 +41,28 @@
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "XRP アナリスト、182%ラリーの背後のシグナルを指摘、デービッド・シュワルツ氏がウォレット警告を発表",
-        "title_en": "XRP Analyst Spots Signal Behind 182% Rally as David Schwartz Issues Wallet Warning",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDBUNW1tZm1oVmtFeWNRLXlHR1FESVV0bFFqYmVDY3h6SXpBZ0hQLVI3Ym1uYmNWcVB0b2V1ZlFhNm5TQ3dCVFNHazdNYTlsakNXZDFPUHpiTkdLMUVVS2pTYmNuU0hlUzA5OTNHd2Q5Q3VZTEdReXB5M2ZaSUE2ZnkxOTY4Q3dZSGlDN3g3MTlCSFdPYnRpZmowLW8?oc=5",
-        "published": "Mon, 19 Oct 2026 15:22:15 GMT",
-        "category": "発言"
+        "source": "Decrypt",
+        "title_ja": "XRPレジャーがローンチ前に貸付プロトコルを修復",
+        "title_en": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDJGdnNrd2QxcmdmdWxNOTlxTFpfbjJoWnBZb2U2TjNYRkJHblA2Smh2UmppcDhpNzBnZFlnSVBIYTNlLVNRQ0NwRzk3a0xGUm5wdFdWa0VLLUpmTjNtQjI3a1VLT2U3Tk8yMEhhZHRzM3ZidWdpRndFT2tzVHBSNU0ybVBUQQ?oc=5",
+        "published": "Mon, 19 Oct 2026 20:46:05 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "The Block",
-        "title_ja": "SkyAIがSolanaトレジャリー全体を売却、2億100万ドルの自社株買いを開始",
-        "title_en": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2xRbk5oc1dndzdOX21TUnhJTVlsQzZPWTRyc3RiQXJRSWZ6RnFVekdEVEdiY204ZjQxOU95VmtKNW1zVm9yZ1E0NW5tdE1CRzhtV0c2aElPUG16ZVJDM0gwTExuMWlJU0NDcTdMWkMzU0owWGVlcXNWeDFRd2xWV3dKUG1jSW80TDl5RXdaeW9NSXRELW1sVmJFWmF3SF93ekt6Y2ZxUW1IeHRib2RuT3ZXbGtOSHZrT2d6V3hTUDI?oc=5",
-        "published": "Mon, 19 Oct 2026 15:28:00 GMT",
-        "category": "大口"
-      },
-      {
         "source": "Decrypt",
-        "title_ja": "StakerXのAIエージェント、Solana上で4,000万ドルのステーク資産超過、立ち上げから3ヶ月以内に達成",
+        "title_ja": "StakerXのAIエージェントがSolana上で3か月以内に4,000万ドルのステーク資産を超過",
         "title_en": "StakerX's AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakFUUXItdXQ4dkI3ZGcyeHFoRmxyNHpIeXpaWkV0Y3I2ekp5U2xiem9qQ3p4amRENkM3Z3RpaFhNOHVVdVFrMkx2MWRrOVFLejQ5NnkxUmRXTG5KaEhuQVNkR25DdzFYdGZDU3ZIVVlOZTd2ZlplRWgxZ3gtd3JtOUJDdUtpWnNzMWtfRkFuMTZtXzhvN0stZEVnaEdFaEpfNi05alFCcmp5N2RXSVBOcUt6TFA0UHlwNUhUYVRoZVJ5QQ?oc=5",
         "published": "Mon, 19 Oct 2026 11:55:37 GMT",
-        "category": "その他"
+        "category": "採用"
       }
     ],
     "ADA": [
       {
         "source": "CoinDesk",
-        "title_ja": "Cardano創設者チャールズ・ホスキンソン氏がネットワーク向け新規プログラミング言語を開発中",
+        "title_ja": "Cardano創設者Charles Hoskinsonがネットワーク用の新しいプログラミング言語を構築中",
         "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5",
         "published": "Mon, 19 Oct 2026 12:16:58 GMT",
