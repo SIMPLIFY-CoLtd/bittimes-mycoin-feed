@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-21T04:21:11+00:00",
+  "generated_at": "2026-10-21T11:35:22+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインがAI決算で回復により83,000ドル付近で推移、ZECは11%上昇",
-        "title_en": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTA0ODdEQWdWTkZYUUJPS25Na2h5SXJZWE1ldGZfUURkUm5tbGc4MldlUFlIV1QxSTVZRjVzRXdBUEJDNm1qVjE1NUxINnZ6dVpzekFuTTNUMFVWN2VfaFJBUlg0MDVYbjQyR1hJdm04d2V4RVJLWkZwVjI2ZTNOdDlEZGMxNjY1TVBLSHdSRm1kNmZLQ3UzejNKOWdPdmNPZmxsLVN2MTVfeVB4S3BBRVFvTWhmZw?oc=5",
-        "published": "Wed, 21 Oct 2026 04:07:07 GMT",
-        "category": "マクロ"
+        "source": "Yahoo Finance",
+        "title_ja": "スイス、ルール変更後に初の現物ビットコインETFを一般投資家向けに認可",
+        "title_en": "Switzerland Approves First Spot Bitcoin ETF for Retail Investors After Bending Its Rules",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDdkSFVhVmhJOUpRbFlFbFAtbjJwYlR1cFNib3RMbi1kNFFvbmREVHRja2F6SzZZaWRoY2tHeXc2clRnX2xOdmJIbFgyTXB3MkZQNmtKQkNYMVRndWVzQzMzUlVfVlJKVnhESDVlYWlOd3FONjVZdEZLRV85ZFg4MTkzLVNKTWlHd0p2WDN3OTJrMWxlU3BTVi0yc0J5N3hUaGhhb2NVVQ?oc=5",
+        "published": "Wed, 21 Oct 2026 11:00:00 GMT",
+        "category": "承認"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ジム・クレーマー、ポートフォリオ保険としてビットコインよりも金を選好、2つの仮想通貨を支持",
-        "title_en": "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 ‘Vetted’ Cryptos",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1JSYllRWGhZRTNRalNRUTJBWmdIQXZabGtGOTdpUy1XdllEVlNKcG81T2FvY1hGVXdHUlIxV2RkREN3NlZtMld4elB5MGpvNzlSVFpIUWNtRmxZazFtaHdvajRQbllrYWkzN2pJTGxJajEzQWZ5ODVLTEM5NHBfczExZ0RCb2cteWMtcWU5OWprU1l5MTRrY3BCOUs?oc=5",
-        "published": "Wed, 21 Oct 2026 01:19:00 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "スペースXとテスラが3万BTCの合併検討でビットコインが上昇：本日の暗号資産市場",
+        "title_en": "Bitcoin advances as SpaceX, Tesla explore a merger holding 30,000 BTC: Crypto Markets Today",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVFlN1FDYWE2WkhLODZ4bG41bUlkZXctNy1qdWFYeG5HY3ItVHlQRmp0QU84OXlYTTAtZHM4WURtRTNjTVd4aVJvV0tHOUwxV3NDTlozUXMzcFVJb3VDWkRNeFBzdlN6VF9nM2F4TGdvUmtKWExycXU1NWpJenlHMW9YRzhRekVUajNuLXl1dXh6cjQ3RUdMRDZFZTN4Q0paQVRYUUsxanQ2a3JwRmJ5MnBVb1VDWnRHT0ZhSW10ZG9wUFE?oc=5",
+        "published": "Wed, 21 Oct 2026 10:56:37 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Decrypt",
-        "title_ja": "Drift Exploitに関連するウォレット、6,100万ドル相当のイーサリアムをTornado Cashに送付",
+        "title_ja": "Drift Exploitに関連したウォレット、6,100万ドル相当のイーサリアムをTornado Cashに送信",
         "title_en": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDl3REFTUlJoTDNwWi1IYThwcFB6UEkyLW1LU3E1UktDZHZWQXZEeS1OLXNHN2E5SzhIRnZuWExiZnNuNzRpcWdicXMxRUZqQlZZLXFUSmQ1WEhuMjJWTnpHWFgteDVpSU80RDdJTm13ZlNyd3ItMV9YVTNRU2JOQmJWandZNG5Za09MczNlN0dZcXRRZlE?oc=5",
         "published": "Tue, 20 Oct 2026 20:46:04 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "イーサリアムのステーキングが過去最高を更新、利回り低下の中Solanaアクティビティが成長：Bitwise",
+        "title_ja": "イーサリアム・ステーキングが記録更新、利回り低下しソラナアクティビティが増加：ビットワイズ",
         "title_en": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2ZvajVSUVJGdFo2Y2d1emZVeFphZDR4UHp6UWNzNkEtVTd1RzY2RmdOZ0V5V2ZWTTdyMlZhZ0sxM0Q4WDlObG1GTzJ1VlYydk5tNDZwREJKQnN1UUt4R3Vwd3VDM1RzelZxLWFDQ1hWUWZDcGJnVnhlNUxncDFnTFJjSTZYNU5yR3ZWT1E5RG1hVUNYNEpGbG5ENEFDaEc1NzJjOXdkRlFiZ1czM2tCbQ?oc=5",
         "published": "Tue, 20 Oct 2026 16:31:00 GMT",
@@ -42,28 +42,36 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "RippleがDTCCの1兆ドルトークン化推進に参加、XRP弱気気配で2ドルを注視",
-        "title_en": "Ripple Joins DTCC's Trillion-Dollar Tokenization Push as XRP Eyes $2",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE8tVFd4V1lwbVhvYjBQamowR1ZOOTNHU2NfSEhRT3ZTNEczUFc1c0NWWHJacjNRSGRRZW54bmkzVm9IVGc2dTVzMnVlVjJRemlDeGdhbFoySjhwdWQtSGhZWl9ZT0xQTF9EdGdpUnVvaUoyWTlVX0lhdVgzc2NDMV9Ma0dCcTVoS1FST1FUVks2RUFtZGVNUmY4cTFMb3BE?oc=5",
-        "published": "Tue, 20 Oct 2026 13:20:40 GMT",
-        "category": "提携"
+        "title_ja": "Evernorthがリップルスウェルで『特別な発表』を示唆、強気予想が急増",
+        "title_en": "Evernorth Teases ‘Something Special’ at Ripple Swell as Bullish Predictions Surge",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFA0bFdwbU1XZ1QyWDhmaW1EN2I4cVg5MmhWUVVBZFQ5UFVhclJZcGk1SDNDQkowbzl1SzdMNkF6N0Z1N0k5U2c5N29KU0J2Q0pSNU9YYVV4NU1nbHk2Z00zTTF1Y1FwT3JIbjNxSUxZVTZCZmx5TWNWUWFXdUdsdnJ0bDlCV0tuSFkyamtiT2REMVVCZlJ4bVZfS05CYTI0S0tjSnB0Vkd5QQ?oc=5",
+        "published": "Wed, 21 Oct 2026 09:12:15 GMT",
+        "category": "発言"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "RippleのDavid Schwartz氏、2027年の小売りDeFiが面白くなる可能性を指摘、XRP Ledgerが恩恵か",
-        "title_en": "Ripple’s David Schwartz Thinks Retail DeFi Could Get Exciting in 2027. Can the XRP Ledger Cash In?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY19FNTdBenhVdzQ3N2RFeHBRLTMwbnRBbFFUTFhobElGelJPdERvYWFfZnRzNDVUekMxTFJSWWpMWFNKdUkzVDR6NDY5a0RuT1RQUTFUU3BseWFmMVVUM0hDZkFlUTY0UDRWRDFaYW16TGRySWFDMnBBZ1p0MTh5ZGh5a2YwNC1tamQ3SzVTbDFTek8wUXN3UktUWnBvNUhCR0E?oc=5",
-        "published": "Tue, 20 Oct 2026 12:53:06 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "リップル、ウォール街を24時間365日の株式取引へ、HSBCは流動性不足に警告",
+        "title_en": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUi1sQWppLWVjYzVDUWM3R1ROUEwwTk0wbUNqTlJhVW5fSTRHZ09RMmN6X3kxOFpKdGU0YjhGbGN5bm4tMEhrS0R6b1BXTFZid3RUa0hQZ1NtajBYM2xlTFZjRG5nWXpRQmNvRU5uV1pwZVhuaEs2dEJsZFlwQ01aTXZuNUpzOGkxLXNrUzk2MkdHT2dMdXNRZktJenk5T05ydGdnc0hndGtfZzNiVkZwOUs5TFJTbDdjVjktd2trUVNJRGNQU3gw?oc=5",
+        "published": "Wed, 21 Oct 2026 05:25:57 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Solana価格、オンチェーン採用の成長にもかかわらず新たなリスクに直面",
-        "title_en": "Solana Price Faces New Risk Despite Growing On-Chain Adoption",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLThubjFSRVl0UGRRTFktNnVlT0M5VkxJODhBRXBpYlpKZnZWSXRPREZNOVJsLTFVZzRwU2lrTXIyLXhYcHRnUWlLcGxseFVFejI5UXVqSkVjTGFtVmE2el9hOVpUUk9zS045VWowVjdqZDI2NTFoakFFdWNBblpjTVF4Wmx5X1ZUS1U0N2w0Z3VIVkFTX08tLUpQMXI?oc=5",
-        "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+        "source": "CoinDesk",
+        "title_ja": "ソラナのアルペングロー、2020年以来最大のネットワークオーバーホールが水曜日に稼働",
+        "title_en": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1lSeWdMZGp4VkNWSUl3d29HTXY1WE1haU5fVi1xcTBOTlpQMi1mTGxDMG5uRm14OTFXRlB0d0Z6czlHd085R1VlRFdhU29uYk82YTFZNHpvZ3BJaXJBLWlvNHgtenBMV1Q1eDB6TEc4YkF6ajZ0cU9sUzhZVnNsaWlHV1FMNDV2Z1BITHdUSXA1THhPV0Z3TklENUsyekloLVhfdUxadmw2RDNscktNVy1qZU5GMDFGRlBJ?oc=5",
+        "published": "Wed, 21 Oct 2026 10:40:27 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナのアルペングロー、2020年以来最大のネットワークオーバーホールが水曜日に稼働開始",
+        "title_en": "ソラナのアルペングロー、2020年以来最大のネットワークオーバーホールが水曜日に稼働開始",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzgydVd2TzFHRFN6bEF2SXd4Z09Zem56cHdLRldVUkVPRThJT05TelV1N3RXMjg0RnBOSUV4UGN5Q0tfczhzWURFXzVxYWE1NW1KWGFXaS1Ca2p6YWpTYU1rYXhqMVEwZDFSRksxREYzVUNLN1lhSnVMelZfRXJycG1QS1BYc2daMnZ2SS1EOF9vNmtfa1dvMG9TLWpVYWxkcFFBUDgwcTk3NG9VUUpnNm85aXgxUWstd3NxOWZuTQ?oc=5",
+        "published": "Wed, 21 Oct 2026 04:35:52 GMT",
         "category": "その他"
       }
     ],
