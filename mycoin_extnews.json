@@ -1,45 +1,37 @@
 {
-  "generated_at": "2026-10-22T17:00:22+00:00",
+  "generated_at": "2026-10-22T21:25:40+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF、10月の損失を3日間で10億ドルの流入で帳消し",
-        "title_en": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmVXZ1YxbVdXTF85MUZZV05FX2NTdjdVMVBPeWI4MFp6c2paUW9fMlJqUWlncE1BU0lIS0dDQ3lTdTc1LUJlbGJLTFE0WWwwdHcyZW9qbm1XSVBKTVZiemFFMlNpaFVVQWR2eFFEWkxDRnlKUnZRcF9Tcm80TmxxQzRwaHhIOHM3UTlJcl9DMkFBZXZkU0czYWd0UC1CNUU?oc=5",
-        "published": "Thu, 22 Oct 2026 16:31:07 GMT",
-        "category": "上場"
+        "title_ja": "中国、英国の57億ドル詐欺事件から61,800ビットコインの返還を要求。所有権は誰にあるのか",
+        "title_en": "China wants 61,800 Bitcoin from UK’s $5.7B fraud case. Who has the right to them?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejlLTENBb3U0S29uaFlKOEF2RHZFOHJ6dTkyTEw1czJpajNqM1Vsdzc5NERlOFpvQnFiZkRxLUp4d2U3NmlFX0FKQ0R6dUZvME9MOHdMajlqZUpPdUEwN0ZrVXJKZHNNczdQWE9ZcUloM1B2eV9oYXRyOFpMMEs5S1lxYUpMcFNreE9KSm5fQnlQZFNscFE?oc=5",
+        "published": "Thu, 22 Oct 2026 19:10:00 GMT",
+        "category": "規制"
       }
     ],
     "ETH": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "JPモルガンが外部AIエージェントをブロック、Ethereumにデポジットトークンを展開。両方の動きが保護する内容",
+        "title_en": "JPMorgan Is Blocking Outside AI Agents and Taking Its Deposit Token to Ethereum. Here’s What Both Moves Protect",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFlQTHdZekVtWVUzMERVYnZGZHRsVE5pcmVTd3VxbTczNFk1S2c0cWFVVmxMb09OcEdGV01HRUt5LWVySzNtLTJ6cVd4VWk4N1pQX1c2dkhiWldkR3ZyVGFXRjhOTTZjTzYwa3FtRC1tYUNBZkdBVkNzbFdENkRHMlQ3TlQwYmVyYnk5NkZhTTBPc1c3YzVGY1VHMS1XRWt0aEE?oc=5",
+        "published": "Thu, 22 Oct 2026 20:35:33 GMT",
+        "category": "提携"
+      },
+      {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムのニュース：4分間の決済プランが暗号資産の移動コストを低下させる可能性",
+        "title_ja": "Ethereumのニュース：4分間のセットルメント計画が暗号資産の移動コストを低下させる可能性",
         "title_en": "ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFF1SnAwNDM5VzBsUHVjZWR1ZkF0ZUNYR3FNZGpTa1VodUM0cjBqb0FnYk5vQ1p1RDJDc0d5ZDVveDF6NkI4Zm9OQ2paZWJBaWNiTHd2cVBIMGc2LXY0YjRpckRLQ0ZJV2V0Yms3R2xEZHVuU3NkMXN1SHVfb3JlZ084SFlxMFRKRzlSMWFlZ2M1SHBBa0VtckQ5VWdJUGlyT3hPWjVjNEZyQ201b3V0MW5IS21uNFJY?oc=5",
         "published": "Thu, 22 Oct 2026 12:14:29 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインETFが10月をプラスに転換、10億ドルの流入。一方イーサリアムファンドは10億ドル流出",
-        "title_en": "Bitcoin ETFs Turn October Positive With $1 Billion in Three Days While ETH Funds Bleed $1 Billion",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1JReEg0MHFLNkFWM01BSkthZ0prdVNGSF9pdUM5SU1wUW03V0k5X1hXa3c5ZXZwbjdqRWNDMUFqMGhxSlJ0TnRBbndxMjVORmliZjJBOXpkR2hOc3kyWk1LM0JIMzRVVzdXMU8tbi14b3pFRE1kdHdMSVY2REQ5MGNyaEMtSTIyUTBvY2lzMDIwY2gwdEtsU1QxWVJyekxH?oc=5",
-        "published": "Thu, 22 Oct 2026 09:26:17 GMT",
-        "category": "上場"
+        "category": "その他"
       }
     ],
     "XRP": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "XRPレジャーのバグ修正、バリデーターの支持が2時間低下したため11月に延期",
-        "title_en": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN24xLXdGdmt5SjRRZEx0RlpjWFNYTXh5amNoNnNGa28tdnhQOFZtVHNOYTdnR1M4aVhzT2ZHZ3Z0TXBOSUVoY193cVZ6WEwzaE9YS3laSmE3X3JYamJLaFIxaDhnUy1wbGNJSHlnd01Ta1ZUU2hRNkZlRTZ5QzRhYm91OEFHU0tlcnhGYmx3WXE3bUZSekluNEVBcGpVTlN0UmxaTnl4NXpQR2Fnei1fcTE4b1U5Y1ZtQTdoMExvRQ?oc=5",
-        "published": "Thu, 22 Oct 2026 04:36:20 GMT",
-        "category": "その他"
-      },
       {
         "source": "CoinDesk",
         "title_ja": "XRPレジャーのバグ修正、バリデーターの支持が2時間低下したため11月に延期",
@@ -52,34 +44,34 @@
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナの2020年以来の最大規模のネットワーク変更がライブ。ユーザーのメリット解説",
+        "title_ja": "Solanaの2020年以来最大のネットワーク変更がライブ。ユーザーへのメリット",
         "title_en": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejF2dEZTZUFnQWIySmpHZEpkM2pkekZUcWQ3WWQ4NWRCX0g3a2hQWTZ4T3QzSEo5WnVQalRLbkg0MUgtR3FkTFVqTWNQNDJwSDVsOW5sUTBERWkzbFNEbGtSdjM3WWlySlpVSlByXzUwUWZLREJobkZIZExkc2tGanFITElLVXRxUVRCVkJmUXpxZEtyb240b2xVUnhvTnl4bnNib2ZsclNuZw?oc=5",
         "published": "Thu, 22 Oct 2026 06:11:30 GMT",
-        "category": "採用"
+        "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "SOLニュース：ソラナがAlpenglowアップグレードを完了、ユーザーへの影響",
+        "title_ja": "SOLニュース：ソラナがAlpenglowアップグレードを完了。ユーザーにとっての意味",
         "title_en": "SOLニュース：ソラナがAlpenglowアップグレードを完了しました。ユーザーにとっての意味とは",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTURSTUpsd1RlVTBsbEtmenV5NWRuOG5lOUtzV0JKTlZxd3NsUVdxY3dmUDVSWXV6TXhlay1WdDJhSW1xT0JnVmZvMXBYWExlSXhMNW5UREJoRVp1OEo5NEVLM2VOLVpidjhHN0Z2SkZPQWxURGNsdkpObzRaNmxDQjZRUUc1RzhoTHB2bGFyV1ZZckFTZHVCS3JEWHIwWWhjYk1PUGNNX3A1OENZVXc?oc=5",
         "published": "Thu, 22 Oct 2026 05:31:25 GMT",
-        "category": "採用"
+        "category": "その他"
       }
     ],
     "ADA": [],
     "DOGE": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Dogecoin Labs、ドージコインの1ドル目標を支える経済圏の構築を目指す",
+        "title_ja": "Dogecoin Labsはミームコインの1ドル上昇を支えるエコノミーの構築を目指す",
         "title_en": "Dogecoin Labs Wants to Build the Economy Behind the Meme Coin’s $1 Rallying Cry",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYV9tOUJHdDl2T0dJRXZTTFMzXzR0UDFWSHBSTW9YbWJoV2E5Q19WOVdsVjE1X2lLUXF3NFo0YnRJTmVVSkFYc3dGLTRUcjRybzhsWlZTVTVyRVdwTEllUXM5SUxsSUdGSV90OHNkQlUtdFhqVjdqV1NWYWpQT3padDRDR2RrbUFvSzdGakFwbkc3eTF4OWNPZTVyNlZVQWM?oc=5",
         "published": "Thu, 22 Oct 2026 14:21:56 GMT",
-        "category": "提携"
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ドージコインの用途が拡大、Robinhoodのメメコインブームは暗号資産最大の採用エンジンを明かす",
+        "title_ja": "Robinhoodのミームコインブームがドージコインのユーティリティ拡大、暗号資産最大の採用エンジンを明らかに",
         "title_en": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDMtdWFmM0pBNW55QTNQQVlPZ0szVXExUTZWMEw3Mm9GWGZrZXgyRzIycTlKYm50Ynk5UFhSUXk3d3Jya0hzQlpIbjIydGhkWUtsT2lhUVRONWVxeTJ3SERDSE0yVFQ2b1EtaU9MVnpCQzRxM0VSVGtPU01vcDlrcC1KakZ5WFU2S2YzN2J0MTZmb205Snk4VlRWQmVESjJmTXAwbElrbmFKSC16?oc=5",
         "published": "Thu, 22 Oct 2026 08:29:21 GMT",
