@@ -1,48 +1,40 @@
 {
-  "generated_at": "2026-10-22T11:35:05+00:00",
+  "generated_at": "2026-10-22T17:00:22+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "暗号資産トレーダーがビットコインに殺到、アルトコイン下落とETFの流出で",
-        "title_en": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3dfcHo5NGd5ODB4WjZlUHEzLTBJM1pEOFJadnNxQUlraldmU20xWVlRSXUwVzRoZ0xRU1BrWmYxTlJZLWJfclZJZ0NYdzliZTYySUVfVURQdHVWbmQyclFiRGN6QkVnd283YUtzMW1aSWZMNGs2REZFeXo1ZlBiQ2puOXp5Q3pydVc3SkdYVXV5YjZTMUFSWnRzdDdiSnlJZ3BndURGM3ZGMWdkcmNpanBnN0E2SFJIVnk4UENmY1hudw?oc=5",
-        "published": "Thu, 22 Oct 2026 11:20:04 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "DeFiトークンが暗号資産を下押し、ビットコインは水曜日の上昇分を失う",
-        "title_en": "DeFi tokens lead crypto lower as bitcoin (BTC) price gives up Wednesday’s surge",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnRoM2Q1NklDRDh6eE5ydHVzV2FNbDlsbzRQeWRMM2RvT2h1U2pYUkNoN0dxRzJYZi1TeF9yd0JWaC1GbkRER1M5OERucFpwY05PbmRnei1uazJFZGpSYzk3WHFSeE80aFFOZS16RGctSTlYNDY4QndEbHlkTlJPaklwQ3F2TnJlcUJBb3FibDljblBYY09GNFFiNl93LURvZHhlRFNsd25kS0NGaVIyZ216Mi1od1JoeHduUzlyTGFiSC13clB3?oc=5",
-        "published": "Thu, 22 Oct 2026 10:50:04 GMT",
-        "category": "マクロ"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインETF、10月の損失を3日間で10億ドルの流入で帳消し",
+        "title_en": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmVXZ1YxbVdXTF85MUZZV05FX2NTdjdVMVBPeWI4MFp6c2paUW9fMlJqUWlncE1BU0lIS0dDQ3lTdTc1LUJlbGJLTFE0WWwwdHcyZW9qbm1XSVBKTVZiemFFMlNpaFVVQWR2eFFEWkxDRnlKUnZRcF9Tcm80TmxxQzRwaHhIOHM3UTlJcl9DMkFBZXZkU0czYWd0UC1CNUU?oc=5",
+        "published": "Thu, 22 Oct 2026 16:31:07 GMT",
+        "category": "上場"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "ビットコインETFが5億2800万ドル流入、イーサリアムファンドは5日連続流出を脱する",
-        "title_en": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObS00cHVoeFZOd2dkSFZaZGlrLWwzLVVmTFI0cXI5TVV5cEZoU28ycmd0OGZabU92My1wUHNQNnZPemtJamdueTRFUWllMGF0bDU2TkVCZVVHd1lBcVdnb3NDMnFRekFtVXBIbEQteHhORVk1UHlOXzE2Q1FHLU1xbkVVSzQ0bG00b1pmanZZbXEzNGhIbEEwZFNDeG1lcnlEbmViOUlRdW1SWGlUcHlZUllsM0RqUkhxbkE0VDlLY1R1LUpBYVZ3?oc=5",
-        "published": "Thu, 22 Oct 2026 09:56:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムのニュース：4分間の決済プランが暗号資産の移動コストを低下させる可能性",
+        "title_en": "ETH news: Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFF1SnAwNDM5VzBsUHVjZWR1ZkF0ZUNYR3FNZGpTa1VodUM0cjBqb0FnYk5vQ1p1RDJDc0d5ZDVveDF6NkI4Zm9OQ2paZWJBaWNiTHd2cVBIMGc2LXY0YjRpckRLQ0ZJV2V0Yms3R2xEZHVuU3NkMXN1SHVfb3JlZ084SFlxMFRKRzlSMWFlZ2M1SHBBa0VtckQ5VWdJUGlyT3hPWjVjNEZyQ201b3V0MW5IS21uNFJY?oc=5",
+        "published": "Thu, 22 Oct 2026 12:14:29 GMT",
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインETFが10月をプラスに、3日で10億ドル流入の一方、イーサリアムファンドは10億ドル流出",
+        "title_ja": "ビットコインETFが10月をプラスに転換、10億ドルの流入。一方イーサリアムファンドは10億ドル流出",
         "title_en": "Bitcoin ETFs Turn October Positive With $1 Billion in Three Days While ETH Funds Bleed $1 Billion",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1JReEg0MHFLNkFWM01BSkthZ0prdVNGSF9pdUM5SU1wUW03V0k5X1hXa3c5ZXZwbjdqRWNDMUFqMGhxSlJ0TnRBbndxMjVORmliZjJBOXpkR2hOc3kyWk1LM0JIMzRVVzdXMU8tbi14b3pFRE1kdHdMSVY2REQ5MGNyaEMtSTIyUTBvY2lzMDIwY2gwdEtsU1QxWVJyekxH?oc=5",
         "published": "Thu, 22 Oct 2026 09:26:17 GMT",
-        "category": "大口"
+        "category": "上場"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "XRPレジャーのバグ修正、バリデーター支持が2時間低下したため11月に延期",
+        "title_ja": "XRPレジャーのバグ修正、バリデーターの支持が2時間低下したため11月に延期",
         "title_en": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN24xLXdGdmt5SjRRZEx0RlpjWFNYTXh5amNoNnNGa28tdnhQOFZtVHNOYTdnR1M4aVhzT2ZHZ3Z0TXBOSUVoY193cVZ6WEwzaE9YS3laSmE3X3JYamJLaFIxaDhnUy1wbGNJSHlnd01Ta1ZUU2hRNkZlRTZ5QzRhYm91OEFHU0tlcnhGYmx3WXE3bUZSekluNEVBcGpVTlN0UmxaTnl4NXpQR2Fnei1fcTE4b1U5Y1ZtQTdoMExvRQ?oc=5",
         "published": "Thu, 22 Oct 2026 04:36:20 GMT",
@@ -50,7 +42,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "XRPレジャーのバグ修正、バリデーター支持が2時間低下したため11月に延期",
+        "title_ja": "XRPレジャーのバグ修正、バリデーターの支持が2時間低下したため11月に延期",
         "title_en": "XRP レジャーのバグ修正、バリデーターの支持が2時間低下したため11月に延期",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW96U0dxVW9abWdBVlhOa1ZMWHkyWWN3Z21mcWRVVVBRT0pHaUJfOURPZDF1SFExdWp1X3JOVWF0NUJTV0FqaGh5MGt2YmJNTEl2NjZVUU5BTjVBOUY3WHdKZ00ybUV5bWJ4a0VCc1dyTDJKZWliV21XbGtqcklrX25JSDFGUzl2YTlhaVRURjZBSXhTS3hrYkd4bGlhUXM4Tm4wb0hka2VKWUlRQzREZDFMblQxUGZqNUlnajNGd21FWVU?oc=5",
         "published": "Thu, 22 Oct 2026 04:36:20 GMT",
@@ -60,38 +52,38 @@
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナが2020年以来最大のネットワークアップデート実施、ユーザーへのメリット",
+        "title_ja": "ソラナの2020年以来の最大規模のネットワーク変更がライブ。ユーザーのメリット解説",
         "title_en": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejF2dEZTZUFnQWIySmpHZEpkM2pkekZUcWQ3WWQ4NWRCX0g3a2hQWTZ4T3QzSEo5WnVQalRLbkg0MUgtR3FkTFVqTWNQNDJwSDVsOW5sUTBERWkzbFNEbGtSdjM3WWlySlpVSlByXzUwUWZLREJobkZIZExkc2tGanFITElLVXRxUVRCVkJmUXpxZEtyb240b2xVUnhvTnl4bnNib2ZsclNuZw?oc=5",
         "published": "Thu, 22 Oct 2026 06:11:30 GMT",
-        "category": "その他"
+        "category": "採用"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "SOLニュース：ソラナがAlpenglowアップグレード完了、ユーザーへの影響とは",
+        "title_ja": "SOLニュース：ソラナがAlpenglowアップグレードを完了、ユーザーへの影響",
         "title_en": "SOLニュース：ソラナがAlpenglowアップグレードを完了しました。ユーザーにとっての意味とは",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTURSTUpsd1RlVTBsbEtmenV5NWRuOG5lOUtzV0JKTlZxd3NsUVdxY3dmUDVSWXV6TXhlay1WdDJhSW1xT0JnVmZvMXBYWExlSXhMNW5UREJoRVp1OEo5NEVLM2VOLVpidjhHN0Z2SkZPQWxURGNsdkpObzRaNmxDQjZRUUc1RzhoTHB2bGFyV1ZZckFTZHVCS3JEWHIwWWhjYk1PUGNNX3A1OENZVXc?oc=5",
         "published": "Thu, 22 Oct 2026 05:31:25 GMT",
-        "category": "その他"
+        "category": "採用"
       }
     ],
     "ADA": [],
     "DOGE": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ドージコインが拡大、ロビンフッドのミームコインブームが暗号資産最大の採用エンジンを明かす",
+        "title_ja": "Dogecoin Labs、ドージコインの1ドル目標を支える経済圏の構築を目指す",
+        "title_en": "Dogecoin Labs Wants to Build the Economy Behind the Meme Coin’s $1 Rallying Cry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYV9tOUJHdDl2T0dJRXZTTFMzXzR0UDFWSHBSTW9YbWJoV2E5Q19WOVdsVjE1X2lLUXF3NFo0YnRJTmVVSkFYc3dGLTRUcjRybzhsWlZTVTVyRVdwTEllUXM5SUxsSUdGSV90OHNkQlUtdFhqVjdqV1NWYWpQT3padDRDR2RrbUFvSzdGakFwbkc3eTF4OWNPZTVyNlZVQWM?oc=5",
+        "published": "Thu, 22 Oct 2026 14:21:56 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ドージコインの用途が拡大、Robinhoodのメメコインブームは暗号資産最大の採用エンジンを明かす",
         "title_en": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDMtdWFmM0pBNW55QTNQQVlPZ0szVXExUTZWMEw3Mm9GWGZrZXgyRzIycTlKYm50Ynk5UFhSUXk3d3Jya0hzQlpIbjIydGhkWUtsT2lhUVRONWVxeTJ3SERDSE0yVFQ2b1EtaU9MVnpCQzRxM0VSVGtPU01vcDlrcC1KakZ5WFU2S2YzN2J0MTZmb205Snk4VlRWQmVESjJmTXAwbElrbmFKSC16?oc=5",
         "published": "Thu, 22 Oct 2026 08:29:21 GMT",
         "category": "採用"
-      },
-      {
-        "source": "Decrypt",
-        "title_ja": "ドージコイン専門企業がエコシステム構築に参入",
-        "title_en": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sQ3IwbHN6WW9oOU54NnVveU5Lbkw0NFFkQ0ZFR01XazVHMm54eTFJQXlBaXM0OHVyZENIV2liMWJLWDBJc2RKXzFNQllTX2hMRzNHRGVFZ1BTbklhYThLSWtuT18tVFlvdzNFN1FPZ2t0NkR3RUJhdU1PXzVPUQ?oc=5",
-        "published": "Wed, 21 Oct 2026 16:46:04 GMT",
-        "category": "提携"
       }
     ],
     "SUI": [],
