@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-10-23T11:24:14+00:00",
+  "generated_at": "2026-10-23T16:52:40+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインが81,700ドルに回復、アルトコイン反発をミームコインが牽引",
-        "title_en": "Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakpZX3c5X1FHNW13TUdRTFlyQkI5YkwtWm9Fam5FRV9kVnlPUlk2dWo2SWpCWlJJTThCNWdUbFBIYmY0cVU0VkM2XzBweWdkenQ5eW5rX3M5RFFoY0ktc0FhOXVCcnUzV1lkSDZvVXVGNExQR0hNbGcyeVdrZUh6VnRKUTBLZVY5b3pKUVFLY2RqNXJZY0dyeWFJak1pQTBtZDVnQmJyRVNqcEdpdkxj?oc=5",
-        "published": "Fri, 23 Oct 2026 10:54:41 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインの中期的なボトムパターンがテストに直面、QQQは混合的なリターン",
-        "title_en": "Bitcoin’s midterm bottom pattern faces a test as QQQ shows mixed returns",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVl3VFJjQU1TWHE4Z3VIZFRwekxmR09rS2dXUUdJMVF0a2ZVVVM1RFMxUTEzTDNXUjdLSjBxc3I0S1dTZlNGc1dNX2pBeGpDSzgtNHQwb1p2SE05M29ldkRKc1ZLT1E0ZHhoYTJhUHZNMjNadTZiNkx1SmZ5ZkYxSjV0aHJlS0JJbFN1UktIU09rUXlIZWZDY3dNUkd2ZFkyRDI2dy1vZ29XRVVDT0JaOGJCeG41aXJ3QnA0?oc=5",
-        "published": "Fri, 23 Oct 2026 10:53:09 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "市場ボラティリティの悪化でビットコインETFに流出が戻る",
+        "title_en": "Bitcoin ETFs See Outflows Return As Market Volatility Worsens",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUtndm9KZzVuV3k3RDBuel9kdEZ1Vm84TmpXUV90TVExRGxHZ29xYU5xdE1zUURxVnNvMk5wTnk4UjN4b3ZuSEx0RHowZTVWLWlKN2cyVG1Ka09ZdHFRdUxDX09xWEdCdFBhLVhld0lYWlBfd3pQU1llSHRWX2MzQU0ySDZndWp2RjEyMEdjMm1tNFhDLWtNNHZHNFBFUQ?oc=5",
+        "published": "Fri, 23 Oct 2026 14:47:00 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "CoinDesk",
-        "title_ja": "セキュリティ開発者の警告を受けイーサリアムがGlamsterdamテストの延期を決定",
+        "title_ja": "セキュリティ開発者の警告を受け、イーサリアムはGlamsterdamテストの延期を決定",
         "title_en": "既存の契約に対するリスクを指摘したセキュリティ開発者の警告を受け、イーサリアムはGlamsterdamテストの延期を決定",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXVCdUwxMjVPcXBRVGpjUm1DeGcxNWtOdVVuNFM3Yi1LYk1HVXpYenlhbzAta3ZPMEd3RHN6aXE0am1jLWhyMG42X2FGNUNBcDduWHM3eWxPOGlUVXZkN3cyYXdNU1JvaWFldFFIalF0QmRfRFU5Z1dhRUNzeHpHZnRJbHdpS2VHUGRpUlBYSkpzY2dPNE9yZzE0SWFDdnhHQy1mcUROdXMyemdoRk1GWlMtZkJHMFZHUFB3d1ZBc1pQSGx0enRN?oc=5",
         "published": "Fri, 23 Oct 2026 04:59:34 GMT",
@@ -33,39 +25,30 @@
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPの話題の45.50ドル『スーパーサイクル』予想が急増、Rippleが100億ドル規模の決済パートナーを追加",
-        "title_en": "XRP’s Viral $45.50 ‘Supercycle’ Call Surges as Ripple Adds $10B Payments Partner",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWotTU10TjdSbElqdXFnSE80bnFHZTVLSWh3NUhMdktPQU1VQ1hnWDM2MkpfSnBxWmlXbUQ2SGlxdndZMnpjNlhNSzM3dTI5ZVJFTURPa3FGV01MUDZRUEszTVd2MzRRd3ZrdFdqblM3WGlUckVjenk5UDctYW9HVWt6XzV0d0txbFdhbUlfOWF0ZkdKNnc?oc=5",
-        "published": "Fri, 23 Oct 2026 09:07:26 GMT",
-        "category": "採用"
+        "source": "The Block",
+        "title_ja": "シンガポール、マレーシア、タイの中央銀行がリップル、ビザ、マスターカードを含むクロスボーダーステーブルコイン構想を拡大",
+        "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNWNPT2R6cmo2OU5waGNJM2d1MjViVEh2R2pwUnh0QXhHVkxmaW5uLTYxSExsVloyY2xBYzAtY2puRFpSNXlLR0xfdHJ1M3V5a21OS0Z4NHA0SHY3Q29TaTZhS2otOXdfNE9ka25rSjdnbnFGdlJhX0JZWWx3cno3RjY0TnpOQnctLTA0RWp3SHNUMXBOVGVQVW9qOS1LWk52WHlFLXdZdTllV0gxX0Z1cDFtVmRBWUxHT3hXR3dhTERJb0d2RUZwb1JhZmdMSkJWY1ViSFRhbGF3ZEJjVmI3N1M0Rm5JTEM5TXJIVUQ3UWlheUZZc0l0ektaZm9ZRFpVZmhXR1gwSkp4dzA2cTM4?oc=5",
+        "published": "Fri, 23 Oct 2026 12:55:00 GMT",
+        "category": "提携"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP ETFが上場以来18億ドルを集める。次はラリーか",
-        "title_en": "XRP ETFs pull in $1.8 billion since launch. Is a rally next?",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTBQVnBpWWRZdUZMZVRXM2Iwald1cHJCSWkwaXRTUklMQk1nNWZwUVA5VjFZVnVTZ0p6VnlFbDhJMkNNMW9oMElYWHRTRDh6YVFMVlhROXJXVGdRMTQ3b3RVWk0xNHI3Y1JTOUJVQ19COXZhTjVFUkZtT1ZtSXR1NGFRQ3NwZDNhT2c?oc=5",
-        "published": "Fri, 23 Oct 2026 00:30:00 GMT",
-        "category": "承認"
+        "title_ja": "リップルパートナーのArfが100億ドルの決済・融資事業をXRP台帳に展開",
+        "title_en": "Ripple Partner Arf Brings Its $10 Billion Payments Lending Business to the XRP Ledger",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXY5QzNPRmtDeC1GT21xZElNakt2Y3NmN0VHRi1OZHZhblZLWkk0SmRTcFE0aVJuTEtkcEpMR09Nb2VndkpVanhVMEpiczg1RTZlbU13UFE2WG01WkNsY2owMV9zTWFIZDJxSXpxczNXZ2pKOU1yLUhUUE5QRmdhQ0x6R0FUM3BQSmsyLWNWb3k2eGJ1VFhJag?oc=5",
+        "published": "Fri, 23 Oct 2026 11:30:50 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [],
     "ADA": [],
-    "DOGE": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ドージコイン・ラボスがミームコインの1ドル到達の背後にある経済圏の構築を目指す",
-        "title_en": "Dogecoin Labs Wants to Build the Economy Behind the Meme Coin’s $1 Rallying Cry",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYV9tOUJHdDl2T0dJRXZTTFMzXzR0UDFWSHBSTW9YbWJoV2E5Q19WOVdsVjE1X2lLUXF3NFo0YnRJTmVVSkFYc3dGLTRUcjRybzhsWlZTVTVyRVdwTEllUXM5SUxsSUdGSV90OHNkQlUtdFhqVjdqV1NWYWpQT3padDRDR2RrbUFvSzdGakFwbkc3eTF4OWNPZTVyNlZVQWM?oc=5",
-        "published": "Thu, 22 Oct 2026 14:21:56 GMT",
-        "category": "採用"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [
       {
         "source": "The Block",
-        "title_ja": "Chainlinkが韓国LG CNSと提携、韓国ウォン建てステーブルコイン展開を推進",
+        "title_ja": "チェーンリンクがLG CNSと提携し、ウォン建てステーブルコイン拡大を推進",
         "title_en": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGZuQ2hTbUxob3I3M3NSa3RfTXFFb19Ob2ptRXF6Sm9oTkJsT1k1YmxxSzItSEtLREJyd1UxdEdZRXlxU01Eam1NQnJKR1laaDNVbmkzR2tUT1g1T21ibXJWZUpLMGwtN0pZR3RaQjFMcDlnR2pRTnk2cGloYlRDUW0wbjhNb0lFanNDTVhyVQ?oc=5",
         "published": "Fri, 23 Oct 2026 02:48:00 GMT",
