@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-23T16:52:40+00:00",
+  "generated_at": "2026-10-23T21:17:08+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "市場ボラティリティの悪化でビットコインETFに流出が戻る",
+        "title_ja": "市場ボラティリティ悪化でビットコインETFの流出が再開",
         "title_en": "Bitcoin ETFs See Outflows Return As Market Volatility Worsens",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUtndm9KZzVuV3k3RDBuel9kdEZ1Vm84TmpXUV90TVExRGxHZ29xYU5xdE1zUURxVnNvMk5wTnk4UjN4b3ZuSEx0RHowZTVWLWlKN2cyVG1Ka09ZdHFRdUxDX09xWEdCdFBhLVhld0lYWlBfd3pQU1llSHRWX2MzQU0ySDZndWp2RjEyMEdjMm1tNFhDLWtNNHZHNFBFUQ?oc=5",
         "published": "Fri, 23 Oct 2026 14:47:00 GMT",
-        "category": "マクロ"
+        "category": "上場"
       }
     ],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "セキュリティ開発者の警告を受け、イーサリアムはGlamsterdamテストの延期を決定",
-        "title_en": "既存の契約に対するリスクを指摘したセキュリティ開発者の警告を受け、イーサリアムはGlamsterdamテストの延期を決定",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXVCdUwxMjVPcXBRVGpjUm1DeGcxNWtOdVVuNFM3Yi1LYk1HVXpYenlhbzAta3ZPMEd3RHN6aXE0am1jLWhyMG42X2FGNUNBcDduWHM3eWxPOGlUVXZkN3cyYXdNU1JvaWFldFFIalF0QmRfRFU5Z1dhRUNzeHpHZnRJbHdpS2VHUGRpUlBYSkpzY2dPNE9yZzE0SWFDdnhHQy1mcUROdXMyemdoRk1GWlMtZkJHMFZHUFB3d1ZBc1pQSGx0enRN?oc=5",
-        "published": "Fri, 23 Oct 2026 04:59:34 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "グラムステルダムとは？イーサリアムがテストネット立ち上げを遅延した理由",
+        "title_en": "What Is Glamsterdam, and Why Did Ethereum Just Delay Its Testnet Launch?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlVfdVdwTzZLTmRKRGpPNGRhSHNIZ0lZMmxpWUFZamVIam43RXp2Mng2RmRBa05xWVRjbk8wckgtenlOQ2UxdGYtcXV3MlR4QW1wUk05NDhhR0xOdDByUHQ1M3RIbk91bm84ZXZ1RkQtcWlvTmJlajdOOGRzZTdLWlV0UWd1aGM0aE5MOG5hbzd6aFNMcHU2QTVaYzBiOTA?oc=5",
+        "published": "Fri, 23 Oct 2026 17:30:59 GMT",
         "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "The Block",
-        "title_ja": "シンガポール、マレーシア、タイの中央銀行がリップル、ビザ、マスターカードを含むクロスボーダーステーブルコイン構想を拡大",
+        "title_ja": "シンガポール、マレーシア、タイの中央銀行がリップルを含む国境を越えたステーブルコイン構想を拡大",
         "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNWNPT2R6cmo2OU5waGNJM2d1MjViVEh2R2pwUnh0QXhHVkxmaW5uLTYxSExsVloyY2xBYzAtY2puRFpSNXlLR0xfdHJ1M3V5a21OS0Z4NHA0SHY3Q29TaTZhS2otOXdfNE9ka25rSjdnbnFGdlJhX0JZWWx3cno3RjY0TnpOQnctLTA0RWp3SHNUMXBOVGVQVW9qOS1LWk52WHlFLXdZdTllV0gxX0Z1cDFtVmRBWUxHT3hXR3dhTERJb0d2RUZwb1JhZmdMSkJWY1ViSFRhbGF3ZEJjVmI3N1M0Rm5JTEM5TXJIVUQ3UWlheUZZc0l0ektaZm9ZRFpVZmhXR1gwSkp4dzA2cTM4?oc=5",
         "published": "Fri, 23 Oct 2026 12:55:00 GMT",
@@ -34,7 +34,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルパートナーのArfが100億ドルの決済・融資事業をXRP台帳に展開",
+        "title_ja": "リップルのパートナー企業アーフが100億ドルの支払い融資事業をXRPレジャーに参入",
         "title_en": "Ripple Partner Arf Brings Its $10 Billion Payments Lending Business to the XRP Ledger",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXY5QzNPRmtDeC1GT21xZElNakt2Y3NmN0VHRi1OZHZhblZLWkk0SmRTcFE0aVJuTEtkcEpMR09Nb2VndkpVanhVMEpiczg1RTZlbU13UFE2WG01WkNsY2owMV9zTWFIZDJxSXpxczNXZ2pKOU1yLUhUUE5QRmdhQ0x6R0FUM3BQSmsyLWNWb3k2eGJ1VFhJag?oc=5",
         "published": "Fri, 23 Oct 2026 11:30:50 GMT",
@@ -48,7 +48,7 @@
     "LINK": [
       {
         "source": "The Block",
-        "title_ja": "チェーンリンクがLG CNSと提携し、ウォン建てステーブルコイン拡大を推進",
+        "title_ja": "チェーンリンクがLG CNSと提携、韓国ウォンステーブルコイン拡大を推進",
         "title_en": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGZuQ2hTbUxob3I3M3NSa3RfTXFFb19Ob2ptRXF6Sm9oTkJsT1k1YmxxSzItSEtLREJyd1UxdEdZRXlxU01Eam1NQnJKR1laaDNVbmkzR2tUT1g1T21ibXJWZUpLMGwtN0pZR3RaQjFMcDlnR2pRTnk2cGloYlRDUW0wbjhNb0lFanNDTVhyVQ?oc=5",
         "published": "Fri, 23 Oct 2026 02:48:00 GMT",
