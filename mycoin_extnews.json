@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-24T15:45:47+00:00",
+  "generated_at": "2026-10-24T20:34:20+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコイン、中東情勢の懸念で8万ドル割れ",
-        "title_en": "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5",
-        "published": "Sat, 24 Oct 2026 15:17:13 GMT",
-        "category": "マクロ"
+        "title_ja": "ビットコイン富裕層保有者、トレーディングからプライベートバンキングへ移行とXapo CEOが指摘",
+        "title_en": "Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO says",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pUb1VaQThvM3RscnZLWU93d0ZQSkttNnVLTmhzWUlzSmZ4SVV4Y1hPQlNfNXVySVkxelh5LV9TVnhkUU1uZEQ3TUluYWMwc0xCWDJVVVUyXzdvUUp1aDR5YkJTdnpfSTVtYklTNmRPSVlIU0pwQ3V0bVZCajJuVEEzcEhLWUxmRnhkSVZpTktFVURRM3dEd2luNFFOM3BKQnNqZER0UEt5WlVUSVBab0w5OVJoa3hqOWd0ZUNWcUhGUUtUSnB6ZXJ5STFWVkU?oc=5",
+        "published": "Sat, 24 Oct 2026 17:50:02 GMT",
+        "category": "発言"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "フランクリン・テンプルトン、株式配当をビットコインに変換するETFのNasdaq上場を準備",
-        "title_en": "Franklin Templeton Prepares Nasdaq Debut For ETFs That Turn Stock Dividends Into Bitcoin",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEc3Z2xtZ3VSQjl0LThJUkkzRlVVZFdqSnRQTHBvT0xlTEUwaG5Gdy14U3BJV0xNRlpXbDgzbmVCLWx5RTdVdUxhNmJpS0hYUDFTaFBlUjNDbUtZR0NJUkh3OU9lajRibVQ2XzFzLTVEN2RSNTY3LXN5ZXptamRhR3hJejkzcWkyTnMteUxTaHNJdWRMYkZic3JyZFRFWHVtRjhIekd6WWc?oc=5",
-        "published": "Sat, 24 Oct 2026 14:06:34 GMT",
-        "category": "上場"
+        "source": "The Block",
+        "title_ja": "暗号資産ロングポジション4時間で4億400万ドル損失、ビットコイン一時8万ドル割る",
+        "title_en": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDJ6WDZ1dnhtREhzQVU1ckVrSGttZE15eHZ6eTJ2czJ1eVFWM3JRekFRUWYyRUM3RGdMQ1YzS0VveDQ0RkRZaXVnUlNPU1FyUVZsWERhZDdxUnNRM1ZCdGRyYmNyYVlZb1ByUGRZaHd1OGxYQUZOaHBDSmZLRDlVanJ3ZlhVUFdKdVNZMEhUZGV3N2xyUUpWYklfcVRmT29SZHloak1YeDVZM3dWSXhFZHFDWmU1a0p2amlxcDFXTDlRLWE4NmEyVXd3MWRMVHdh?oc=5",
+        "published": "Sat, 24 Oct 2026 17:44:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアム共同創設者ジョセフ・ルービン、AIと暗号資産の融合を予測",
+        "title_ja": "イーサリアム共同創業者ジョセフ・ルービン、AIと暗号資産の融合を予測",
         "title_en": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZramFRZjBYZzk3dlBJeERnNlNZVUZGYkt3M19NYTEtcnFHc242QTlkVVhpRm1VLU9Gc19TYzRhYUg3VWdIYm9NYXc2b0RhSmZSenFwVk8xa012aTNLeTRoZmV6RWNtY0YzVUlkWU5OYlVLQ2thdERlR0hzZTBIdlRBamphOUVuYkRvZnJMTHRmdDUxTkhmTGFnekVfUQ?oc=5",
         "published": "Sat, 24 Oct 2026 11:42:00 GMT",
@@ -34,17 +34,9 @@
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加",
+        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェア追加",
         "title_en": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTZMcTFoM2wtYUtJcU43S2NSQWRMX3hwcFM3NnVwUl9TaU9NMG1MMHI2cHplMWlFNzA5M2tkTWhtYnlCTU93STRDckQ5SGMxdFBqeTNuSjk5M2FIMnFNSnV4WmpsWjJ2LXlxVjBkTldyM202d0wyUXI1a1M3elVqTlFReVlxSEdaSWdXM0E3bFlNdHNrTEFxM0xoUi1wVHRWTmZuZU56OWhUZENBcVpZVTl1VklBSkpNUXhndEhvRWE4ajN2bU1XWA?oc=5",
-        "published": "Sat, 24 Oct 2026 04:45:43 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
-        "title_en": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSklMaVJ6T0FZNGJlel9GNTVHRWw2eVZvZ3doZ3Rtdk1jdzc1TXZqNFYtNG12aUxncUZMNXFzZWFobFhickthY0ZpQzhkWHd3ZmVNU3Utd2IwaVMwcTRGVzFUaTZ5b0lUSHF5c1puU01NaXlEWG9pS3IyMUpyNi1zRTlnNUl0NmcyMUpDeW8zY09XamtacHl6cmVWczNsNFFOYlF2R3FBUHFFdmxib041UjE4ZV9uNVg4U2VteHA3a0U5aGd2S2hwNUYwa2s?oc=5",
         "published": "Sat, 24 Oct 2026 04:45:43 GMT",
         "category": "採用"
       }
