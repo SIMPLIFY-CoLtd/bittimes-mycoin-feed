@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-10-23T21:17:08+00:00",
+  "generated_at": "2026-10-24T04:15:19+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "市場ボラティリティ悪化でビットコインETFの流出が再開",
-        "title_en": "Bitcoin ETFs See Outflows Return As Market Volatility Worsens",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUtndm9KZzVuV3k3RDBuel9kdEZ1Vm84TmpXUV90TVExRGxHZ29xYU5xdE1zUURxVnNvMk5wTnk4UjN4b3ZuSEx0RHowZTVWLWlKN2cyVG1Ka09ZdHFRdUxDX09xWEdCdFBhLVhld0lYWlBfd3pQU1llSHRWX2MzQU0ySDZndWp2RjEyMEdjMm1tNFhDLWtNNHZHNFBFUQ?oc=5",
-        "published": "Fri, 23 Oct 2026 14:47:00 GMT",
-        "category": "上場"
+        "source": "Reuters",
+        "title_ja": "ビットコインに新たな逆風、中国で関連サービスの提供禁止",
+        "title_en": "ビットコインに新たな逆風、中国で関連サービスの提供禁止（字幕・19日）",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QUncxMWZLcERkMko3OWNhbFU0Vk9NVEVUSFk2dFdxdEQ1V3NSQWhGbUxaNFpfanVUcVE1cmttelpCU0F0cUlWbWthUWJ5Q3h1QjFfMDNYVlVFVzlHRUtER0FtYUVMLUQwVHdLd3E2SmcxT3dMRWVLVEJ1NVZwUQ?oc=5",
+        "published": "Fri, 23 Oct 2026 22:50:43 GMT",
+        "category": "規制"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "グラムステルダムとは？イーサリアムがテストネット立ち上げを遅延した理由",
+        "title_ja": "Glamsterdamとは何か、イーサリアムがテストネット立ち上げを延期した理由",
         "title_en": "What Is Glamsterdam, and Why Did Ethereum Just Delay Its Testnet Launch?",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlVfdVdwTzZLTmRKRGpPNGRhSHNIZ0lZMmxpWUFZamVIam43RXp2Mng2RmRBa05xWVRjbk8wckgtenlOQ2UxdGYtcXV3MlR4QW1wUk05NDhhR0xOdDByUHQ1M3RIbk91bm84ZXZ1RkQtcWlvTmJlajdOOGRzZTdLWlV0UWd1aGM0aE5MOG5hbzd6aFNMcHU2QTVaYzBiOTA?oc=5",
         "published": "Fri, 23 Oct 2026 17:30:59 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Decrypt",
+        "title_ja": "イーサリアム、ガスセキュリティ欠陥でGlamsterdamテストネット延期",
+        "title_en": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG5lUG9iWDkwY1dNdngtZU5LYl94MjduZ0RBd2xpbDV5M0lIdEhNa1VidjF0RlNPLWJkZU8yUnZKd1ZMYlFfWmU3aXFncTJhZEczWWNSeUZQWjNtbnBRQWZnSDhwQllIdjlRbHBrSHVfbkkzN0dXQTR1YVlxcTMxdk9kWEp6UmdWci1RWXJPSWtDU0lQ?oc=5",
+        "published": "Fri, 23 Oct 2026 11:49:37 GMT",
         "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "The Block",
-        "title_ja": "シンガポール、マレーシア、タイの中央銀行がリップルを含む国境を越えたステーブルコイン構想を拡大",
+        "title_ja": "シンガポール・マレーシア・タイの中央銀行、Ripple・Visa・Mastercardが関わるクロスボーダーステーブルコイン構想を拡大",
         "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNWNPT2R6cmo2OU5waGNJM2d1MjViVEh2R2pwUnh0QXhHVkxmaW5uLTYxSExsVloyY2xBYzAtY2puRFpSNXlLR0xfdHJ1M3V5a21OS0Z4NHA0SHY3Q29TaTZhS2otOXdfNE9ka25rSjdnbnFGdlJhX0JZWWx3cno3RjY0TnpOQnctLTA0RWp3SHNUMXBOVGVQVW9qOS1LWk52WHlFLXdZdTllV0gxX0Z1cDFtVmRBWUxHT3hXR3dhTERJb0d2RUZwb1JhZmdMSkJWY1ViSFRhbGF3ZEJjVmI3N1M0Rm5JTEM5TXJIVUQ3UWlheUZZc0l0ektaZm9ZRFpVZmhXR1gwSkp4dzA2cTM4?oc=5",
         "published": "Fri, 23 Oct 2026 12:55:00 GMT",
@@ -34,27 +42,18 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルのパートナー企業アーフが100億ドルの支払い融資事業をXRPレジャーに参入",
+        "title_ja": "Rippleパートナー企業Arf、100億ドル規模の決済貸付事業をXRPレジャーに導入",
         "title_en": "Ripple Partner Arf Brings Its $10 Billion Payments Lending Business to the XRP Ledger",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXY5QzNPRmtDeC1GT21xZElNakt2Y3NmN0VHRi1OZHZhblZLWkk0SmRTcFE0aVJuTEtkcEpMR09Nb2VndkpVanhVMEpiczg1RTZlbU13UFE2WG01WkNsY2owMV9zTWFIZDJxSXpxczNXZ2pKOU1yLUhUUE5QRmdhQ0x6R0FUM3BQSmsyLWNWb3k2eGJ1VFhJag?oc=5",
         "published": "Fri, 23 Oct 2026 11:30:50 GMT",
-        "category": "提携"
+        "category": "採用"
       }
     ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [
-      {
-        "source": "The Block",
-        "title_ja": "チェーンリンクがLG CNSと提携、韓国ウォンステーブルコイン拡大を推進",
-        "title_en": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGZuQ2hTbUxob3I3M3NSa3RfTXFFb19Ob2ptRXF6Sm9oTkJsT1k1YmxxSzItSEtLREJyd1UxdEdZRXlxU01Eam1NQnJKR1laaDNVbmkzR2tUT1g1T21ibXJWZUpLMGwtN0pZR3RaQjFMcDlnR2pRTnk2cGloYlRDUW0wbjhNb0lFanNDTVhyVQ?oc=5",
-        "published": "Fri, 23 Oct 2026 02:48:00 GMT",
-        "category": "提携"
-      }
-    ],
+    "LINK": [],
     "SHIB": [],
     "AVAX": []
   }
