@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-10-24T04:15:19+00:00",
+  "generated_at": "2026-10-24T10:43:34+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Reuters",
-        "title_ja": "ビットコインに新たな逆風、中国で関連サービスの提供禁止",
-        "title_en": "ビットコインに新たな逆風、中国で関連サービスの提供禁止（字幕・19日）",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QUncxMWZLcERkMko3OWNhbFU0Vk9NVEVUSFk2dFdxdEQ1V3NSQWhGbUxaNFpfanVUcVE1cmttelpCU0F0cUlWbWthUWJ5Q3h1QjFfMDNYVlVFVzlHRUtER0FtYUVMLUQwVHdLd3E2SmcxT3dMRWVLVEJ1NVZwUQ?oc=5",
-        "published": "Fri, 23 Oct 2026 22:50:43 GMT",
-        "category": "規制"
+        "source": "Yahoo Finance",
+        "title_ja": "「現金は溶ける氷」業界幹部の発言、ビットコイン採用が急速に進展へ",
+        "title_en": "'Cash Is A Melting Ice Cube,' Says Industry Executive as Bitcoin Adoption Poised to Surge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUFwVFJsWnhkVmREMkpwRWlpQ0pwTXVfRVQ0VTc0ZE85OWZyVkJ4NllBemk1dUFhT3JTeUxtSUJFRzgzdEdycHRKUHFuUTRJbXBaV3p0cXhRWWEwbUdEWnBIT3N1MkJETGxtQ1VpTE1RSmpTdWtfZXlKVFFJUFNhU1FlTnMtQUlWZGdXcVJxTUd5UGVrU0E?oc=5",
+        "published": "Fri, 23 Oct 2026 22:30:24 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ハッキング後ビットコインは「ゼロになる」、チャマス・パリハピティヤが予測",
+        "title_en": "Bitcoin ‘Goes to Zero’ After a Hack, Chamath Palihapitiya Predicts",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalREVGdETGFHV0VfWnhRdWVhVTVGbGJkcjk5NHo2R3pTM3FyTXBDQVpVUmFOS1I4V1phNGNFREZrd1Y3T2J2dGZEaElIbzhPNU05M0ZoVzlDTV9TSlNNcUZnNXE5MVlSNUFjWEFGblRrOGhmOGxuNFNBNUFNVng0MjdwVjdETDZSd0xyRzZSdU9LaVI0NlhrRlZqVQ?oc=5",
+        "published": "Fri, 23 Oct 2026 20:50:07 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Glamsterdamとは何か、イーサリアムがテストネット立ち上げを延期した理由",
+        "title_ja": "Glamsterdamとは何か、イーサリアムがテストネット立ち上げを遅延させた理由",
         "title_en": "What Is Glamsterdam, and Why Did Ethereum Just Delay Its Testnet Launch?",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlVfdVdwTzZLTmRKRGpPNGRhSHNIZ0lZMmxpWUFZamVIam43RXp2Mng2RmRBa05xWVRjbk8wckgtenlOQ2UxdGYtcXV3MlR4QW1wUk05NDhhR0xOdDByUHQ1M3RIbk91bm84ZXZ1RkQtcWlvTmJlajdOOGRzZTdLWlV0UWd1aGM0aE5MOG5hbzd6aFNMcHU2QTVaYzBiOTA?oc=5",
         "published": "Fri, 23 Oct 2026 17:30:59 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Decrypt",
-        "title_ja": "イーサリアム、ガスセキュリティ欠陥でGlamsterdamテストネット延期",
-        "title_en": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG5lUG9iWDkwY1dNdngtZU5LYl94MjduZ0RBd2xpbDV5M0lIdEhNa1VidjF0RlNPLWJkZU8yUnZKd1ZMYlFfWmU3aXFncTJhZEczWWNSeUZQWjNtbnBRQWZnSDhwQllIdjlRbHBrSHVfbkkzN0dXQTR1YVlxcTMxdk9kWEp6UmdWci1RWXJPSWtDU0lQ?oc=5",
-        "published": "Fri, 23 Oct 2026 11:49:37 GMT",
         "category": "その他"
       }
     ],
     "XRP": [
       {
-        "source": "The Block",
-        "title_ja": "シンガポール・マレーシア・タイの中央銀行、Ripple・Visa・Mastercardが関わるクロスボーダーステーブルコイン構想を拡大",
-        "title_en": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNWNPT2R6cmo2OU5waGNJM2d1MjViVEh2R2pwUnh0QXhHVkxmaW5uLTYxSExsVloyY2xBYzAtY2puRFpSNXlLR0xfdHJ1M3V5a21OS0Z4NHA0SHY3Q29TaTZhS2otOXdfNE9ka25rSjdnbnFGdlJhX0JZWWx3cno3RjY0TnpOQnctLTA0RWp3SHNUMXBOVGVQVW9qOS1LWk52WHlFLXdZdTllV0gxX0Z1cDFtVmRBWUxHT3hXR3dhTERJb0d2RUZwb1JhZmdMSkJWY1ViSFRhbGF3ZEJjVmI3N1M0Rm5JTEM5TXJIVUQ3UWlheUZZc0l0ektaZm9ZRFpVZmhXR1gwSkp4dzA2cTM4?oc=5",
-        "published": "Fri, 23 Oct 2026 12:55:00 GMT",
-        "category": "提携"
+        "source": "CoinDesk",
+        "title_ja": "フランクリン・テンプルトンがXRPレジャーに1億5,000万ドルのファンド相当額を追加",
+        "title_en": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTZMcTFoM2wtYUtJcU43S2NSQWRMX3hwcFM3NnVwUl9TaU9NMG1MMHI2cHplMWlFNzA5M2tkTWhtYnlCTU93STRDckQ5SGMxdFBqeTNuSjk5M2FIMnFNSnV4WmpsWjJ2LXlxVjBkTldyM202d0wyUXI1a1M3elVqTlFReVlxSEdaSWdXM0E3bFlNdHNrTEFxM0xoUi1wVHRWTmZuZU56OWhUZENBcVpZVTl1VklBSkpNUXhndEhvRWE4ajN2bU1XWA?oc=5",
+        "published": "Sat, 24 Oct 2026 04:45:43 GMT",
+        "category": "大口"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Rippleパートナー企業Arf、100億ドル規模の決済貸付事業をXRPレジャーに導入",
-        "title_en": "Ripple Partner Arf Brings Its $10 Billion Payments Lending Business to the XRP Ledger",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXY5QzNPRmtDeC1GT21xZElNakt2Y3NmN0VHRi1OZHZhblZLWkk0SmRTcFE0aVJuTEtkcEpMR09Nb2VndkpVanhVMEpiczg1RTZlbU13UFE2WG01WkNsY2owMV9zTWFIZDJxSXpxczNXZ2pKOU1yLUhUUE5QRmdhQ0x6R0FUM3BQSmsyLWNWb3k2eGJ1VFhJag?oc=5",
-        "published": "Fri, 23 Oct 2026 11:30:50 GMT",
-        "category": "採用"
+        "source": "CoinDesk",
+        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
+        "title_en": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSklMaVJ6T0FZNGJlel9GNTVHRWw2eVZvZ3doZ3Rtdk1jdzc1TXZqNFYtNG12aUxncUZMNXFzZWFobFhickthY0ZpQzhkWHd3ZmVNU3Utd2IwaVMwcTRGVzFUaTZ5b0lUSHF5c1puU01NaXlEWG9pS3IyMUpyNi1zRTlnNUl0NmcyMUpDeW8zY09XamtacHl6cmVWczNsNFFOYlF2R3FBUHFFdmxib041UjE4ZV9uNVg4U2VteHA3a0U5aGd2S2hwNUYwa2s?oc=5",
+        "published": "Sat, 24 Oct 2026 04:45:43 GMT",
+        "category": "大口"
       }
     ],
     "SOL": [],
