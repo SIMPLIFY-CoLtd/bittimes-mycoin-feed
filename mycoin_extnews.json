@@ -1,48 +1,40 @@
 {
-  "generated_at": "2026-10-25T11:08:44+00:00",
+  "generated_at": "2026-10-25T15:56:44+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SEC、レバレッジビットコイン・イーサリアムファンドの取引を承認",
-        "title_en": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
-        "published": "Sun, 25 Oct 2026 09:32:00 GMT",
-        "category": "承認"
+        "title_ja": "マイクロストラテジーが200億ドルのビットコイン利益を得たことで大規模なショートスクイーズが起きるか",
+        "title_en": "Will a $20 Billion Bitcoin Windfall Fuel a Massive MicroStrategy Short Squeeze Oct. 29?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0R6VXpOS1VDZkJhSUJlaHhDcHdzdGRrTTFLbDhNZ2xlUlA4dVNrVHJPa2hMbDRHMGFDcW5MLWJzNE5GOEpLVnlQRndHb0ZFcFcybmFrZFpXMnk2cnRxc245NGVEV3RfZXhySFVMc2M3QWxoVm00UU42T3hVLWt5ZEFacGpMWGdTd29ZNDhlWDExbXFTZ3V2ejYwWVA4UQ?oc=5",
+        "published": "Sun, 25 Oct 2026 15:15:19 GMT",
+        "category": "大口"
       },
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "著名投資家、ビットコイン「ハッキングされゼロになる」と警告",
-        "title_en": "ビットコインは「ハッキングされ、ゼロになる」、著名投資家が一転して警鐘",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbjdwQ2RQeDd0YmE2TnNvLUQyOWlYQ3VqRUZPSEduSUE1MjhwZE83aUJ0WW5YSE91N3VVU1h5T2FFV3BPUk9vUEItZThIZHBiT2ZqY3NEdGxBUQ?oc=5",
-        "published": "Sun, 25 Oct 2026 08:15:00 GMT",
-        "category": "発言"
+        "source": "Decrypt",
+        "title_ja": "ビットコインETFが2週間の下落トレンドを脱却、週後半の下げにもかかわらず",
+        "title_en": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RIdEYxUkFCazBpXzVzUUItWUNnNURnUTRTNTRXV1AwX3dPUjlwNnBJQ3lFNnJ5Qmp5YlozVFYzLWVqbjV2X1JEemU3WEdjRl9Ea2cwTjRvaHR6R1Nwb3RmdC1xcUdnMFdOd05RdTBqWVF0c0lVSVducnpIUlQzWVZ3R3c5T2tFOXdqOTBnR2tZU3Jh?oc=5",
+        "published": "Sun, 25 Oct 2026 14:01:03 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SEC、レバレッジビットコイン・イーサリアムファンドの取引を承認",
+        "title_ja": "SECがレバレッジ型ビットコイン・イーサリアムファンドの取引を承認、ただし投資価値は不透明",
         "title_en": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
         "published": "Sun, 25 Oct 2026 09:32:00 GMT",
         "category": "承認"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアム共同創設者ジョセフ・ルービン、AIと暗号資産の融合を予測",
-        "title_en": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZramFRZjBYZzk3dlBJeERnNlNZVUZGYkt3M19NYTEtcnFHc242QTlkVVhpRm1VLU9Gc19TYzRhYUg3VWdIYm9NYXc2b0RhSmZSenFwVk8xa012aTNLeTRoZmV6RWNtY0YzVUlkWU5OYlVLQ2thdERlR0hzZTBIdlRBamphOUVuYkRvZnJMTHRmdDUxTkhmTGFnekVfUQ?oc=5",
-        "published": "Sat, 24 Oct 2026 11:42:00 GMT",
-        "category": "発言"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP ETF、1週間で430万ドルの資金流入―WisdomTree新ファンドで変化する可能性",
+        "title_ja": "XRP ETFが1週間で430万ドルの流入、WisdomTreeのファンドが転機となるか",
         "title_en": "XRP ETFs Took In Just $4.3 Million in a Week. Could WisdomTree’s Fund Change That?",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjc2eTVBMjRmbUFFYUQ2TlZDRFpsZkNKVnF2d2ZnOWNrNlFNNXJFMkMxV2JxZFJ6dl9XdDB4Q3BENk1va3JtcW5PU25yZUVqU2dVb1BxdnA2QjJWLWliS1JMZmlEWi1BeDNMOFdUUFYzNERORV9CdGxCNWozaHFHaVhfRG9HMHVwTmI1X25n?oc=5",
         "published": "Sun, 25 Oct 2026 00:00:00 GMT",
