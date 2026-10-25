@@ -1,30 +1,38 @@
 {
-  "generated_at": "2026-10-25T04:18:31+00:00",
+  "generated_at": "2026-10-25T11:08:44+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン保有者がトレーディングからプライベートバンキングへ移行、Xapo CEOが指摘",
-        "title_en": "Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO says",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pUb1VaQThvM3RscnZLWU93d0ZQSkttNnVLTmhzWUlzSmZ4SVV4Y1hPQlNfNXVySVkxelh5LV9TVnhkUU1uZEQ3TUluYWMwc0xCWDJVVVUyXzdvUUp1aDR5YkJTdnpfSTVtYklTNmRPSVlIU0pwQ3V0bVZCajJuVEEzcEhLWUxmRnhkSVZpTktFVURRM3dEd2luNFFOM3BKQnNqZER0UEt5WlVUSVBab0w5OVJoa3hqOWd0ZUNWcUhGUUtUSnB6ZXJ5STFWVkU?oc=5",
-        "published": "Sat, 24 Oct 2026 17:50:02 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "SEC、レバレッジビットコイン・イーサリアムファンドの取引を承認",
+        "title_en": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
+        "published": "Sun, 25 Oct 2026 09:32:00 GMT",
+        "category": "承認"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインの富裕層保有者はトレーディングからプライベートバンキングへ移行している、とXapoのCEOが述べる",
-        "title_en": "ビットコインの富裕層保有者はトレーディングからプライベートバンキングへ移行している、とXapoのCEOが述べる",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWxmSTZZZU9CZHVuVFVUX05kOW1VV3BQblY4S2daLXhTTzJGX1piWGhwM3RObjVoQlZka3pkalprVXdsazJNM0ZLZHMtR3N1SW85ZUJhWDY4RVR5eWxUOUNNbVpNTDBwelU1NkU2RXZON3ZLQWllN21iM3JOcWNGT3R0eDVmNDhOVzdRZlg4YkNxY3pXN2picnJaRW9rTUY1a2RfS1Z1RkJ5VkhCa0pGYjRONGZtZU10TEhkRDgxR3NmRzkyOG5uQWhNdW1IcDV1ZFNj?oc=5",
-        "published": "Sat, 24 Oct 2026 17:50:02 GMT",
+        "source": "Forbes JAPAN",
+        "title_ja": "著名投資家、ビットコイン「ハッキングされゼロになる」と警告",
+        "title_en": "ビットコインは「ハッキングされ、ゼロになる」、著名投資家が一転して警鐘",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbjdwQ2RQeDd0YmE2TnNvLUQyOWlYQ3VqRUZPSEduSUE1MjhwZE83aUJ0WW5YSE91N3VVU1h5T2FFV3BPUk9vUEItZThIZHBiT2ZqY3NEdGxBUQ?oc=5",
+        "published": "Sun, 25 Oct 2026 08:15:00 GMT",
         "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアム共同創設者ジョセフ・ルービンがAIと暗号資産の融合を予測、イーサリアムの最も可能性が高いシナリオ",
+        "title_ja": "SEC、レバレッジビットコイン・イーサリアムファンドの取引を承認",
+        "title_en": "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5",
+        "published": "Sun, 25 Oct 2026 09:32:00 GMT",
+        "category": "承認"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアム共同創設者ジョセフ・ルービン、AIと暗号資産の融合を予測",
         "title_en": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZramFRZjBYZzk3dlBJeERnNlNZVUZGYkt3M19NYTEtcnFHc242QTlkVVhpRm1VLU9Gc19TYzRhYUg3VWdIYm9NYXc2b0RhSmZSenFwVk8xa012aTNLeTRoZmV6RWNtY0YzVUlkWU5OYlVLQ2thdERlR0hzZTBIdlRBamphOUVuYkRvZnJMTHRmdDUxTkhmTGFnekVfUQ?oc=5",
         "published": "Sat, 24 Oct 2026 11:42:00 GMT",
@@ -34,19 +42,11 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP ETFが1週間で343万ドルしか流入、ウィズダムツリーのファンドが流れを変えられるか",
+        "title_ja": "XRP ETF、1週間で430万ドルの資金流入―WisdomTree新ファンドで変化する可能性",
         "title_en": "XRP ETFs Took In Just $4.3 Million in a Week. Could WisdomTree’s Fund Change That?",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjc2eTVBMjRmbUFFYUQ2TlZDRFpsZkNKVnF2d2ZnOWNrNlFNNXJFMkMxV2JxZFJ6dl9XdDB4Q3BENk1va3JtcW5PU25yZUVqU2dVb1BxdnA2QjJWLWliS1JMZmlEWi1BeDNMOFdUUFYzNERORV9CdGxCNWozaHFHaVhfRG9HMHVwTmI1X25n?oc=5",
         "published": "Sun, 25 Oct 2026 00:00:00 GMT",
         "category": "上場"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドルのファンドシェアを追加",
-        "title_en": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTZMcTFoM2wtYUtJcU43S2NSQWRMX3hwcFM3NnVwUl9TaU9NMG1MMHI2cHplMWlFNzA5M2tkTWhtYnlCTU93STRDckQ5SGMxdFBqeTNuSjk5M2FIMnFNSnV4WmpsWjJ2LXlxVjBkTldyM202d0wyUXI1a1M3elVqTlFReVlxSEdaSWdXM0E3bFlNdHNrTEFxM0xoUi1wVHRWTmZuZU56OWhUZENBcVpZVTl1VklBSkpNUXhndEhvRWE4ajN2bU1XWA?oc=5",
-        "published": "Sat, 24 Oct 2026 04:45:43 GMT",
-        "category": "採用"
       }
     ],
     "SOL": [],
