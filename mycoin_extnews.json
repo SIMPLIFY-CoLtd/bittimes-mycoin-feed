@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T23:02:59+00:00",
+  "generated_at": "2026-10-25T04:18:31+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコイン富裕層がトレーディングからプライベートバンキングへ移行、XapoのCEOが指摘",
+        "title_ja": "ビットコイン保有者がトレーディングからプライベートバンキングへ移行、Xapo CEOが指摘",
         "title_en": "Bitcoin’s wealthy holders are moving from trading to private banking, Xapo CEO says",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pUb1VaQThvM3RscnZLWU93d0ZQSkttNnVLTmhzWUlzSmZ4SVV4Y1hPQlNfNXVySVkxelh5LV9TVnhkUU1uZEQ3TUluYWMwc0xCWDJVVVUyXzdvUUp1aDR5YkJTdnpfSTVtYklTNmRPSVlIU0pwQ3V0bVZCajJuVEEzcEhLWUxmRnhkSVZpTktFVURRM3dEd2luNFFOM3BKQnNqZER0UEt5WlVUSVBab0w5OVJoa3hqOWd0ZUNWcUhGUUtUSnB6ZXJ5STFWVkU?oc=5",
         "published": "Sat, 24 Oct 2026 17:50:02 GMT",
@@ -24,15 +24,7 @@
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "OpenAIモデルがイーサリアムを無許可で使用、暗号資産投資家への影響は",
-        "title_en": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXdjM1lJeFg0SF9wQ1FfYVpqMzZfY2R4aVhqaHVRT252Q2lZMm5QVTc3TDlkR3pCWG8yR3FPOTQxak1SUk4zVkhYaUhXdk9TbVhwcXhKSXU2SUw1OEZRNGpxS2tQOUhseW9lTGhreF9pTWtYaHRvVGxVVUcxME94dFU0OG9YanlHcjZxUHhTYzlpVHM3cVRTQUpXZnZjbVZJUVE?oc=5",
-        "published": "Sat, 24 Oct 2026 21:26:00 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアム共同創業者ジョセフ・ルービン、AIと暗号資産の融合を予測",
+        "title_ja": "イーサリアム共同創設者ジョセフ・ルービンがAIと暗号資産の融合を予測、イーサリアムの最も可能性が高いシナリオ",
         "title_en": "Ethereum Co-Founder Joseph Lubin Predicts the Merger of AI and Crypto. Here's the Most Likely Scenario for Ethereum.",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlZramFRZjBYZzk3dlBJeERnNlNZVUZGYkt3M19NYTEtcnFHc242QTlkVVhpRm1VLU9Gc19TYzRhYUg3VWdIYm9NYXc2b0RhSmZSenFwVk8xa012aTNLeTRoZmV6RWNtY0YzVUlkWU5OYlVLQ2thdERlR0hzZTBIdlRBamphOUVuYkRvZnJMTHRmdDUxTkhmTGFnekVfUQ?oc=5",
         "published": "Sat, 24 Oct 2026 11:42:00 GMT",
@@ -41,18 +33,18 @@
     ],
     "XRP": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP ETFが1週間で343万ドルしか流入、ウィズダムツリーのファンドが流れを変えられるか",
+        "title_en": "XRP ETFs Took In Just $4.3 Million in a Week. Could WisdomTree’s Fund Change That?",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjc2eTVBMjRmbUFFYUQ2TlZDRFpsZkNKVnF2d2ZnOWNrNlFNNXJFMkMxV2JxZFJ6dl9XdDB4Q3BENk1va3JtcW5PU25yZUVqU2dVb1BxdnA2QjJWLWliS1JMZmlEWi1BeDNMOFdUUFYzNERORV9CdGxCNWozaHFHaVhfRG9HMHVwTmI1X25n?oc=5",
+        "published": "Sun, 25 Oct 2026 00:00:00 GMT",
+        "category": "上場"
+      },
+      {
         "source": "CoinDesk",
         "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドルのファンドシェアを追加",
         "title_en": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTZMcTFoM2wtYUtJcU43S2NSQWRMX3hwcFM3NnVwUl9TaU9NMG1MMHI2cHplMWlFNzA5M2tkTWhtYnlCTU93STRDckQ5SGMxdFBqeTNuSjk5M2FIMnFNSnV4WmpsWjJ2LXlxVjBkTldyM202d0wyUXI1a1M3elVqTlFReVlxSEdaSWdXM0E3bFlNdHNrTEFxM0xoUi1wVHRWTmZuZU56OWhUZENBcVpZVTl1VklBSkpNUXhndEhvRWE4ajN2bU1XWA?oc=5",
-        "published": "Sat, 24 Oct 2026 04:45:43 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
-        "title_en": "フランクリン・テンプルトン、XRPレジャーに1億5,000万ドル相当のファンドシェアを追加、すべてを一つのウォレットで管理",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSklMaVJ6T0FZNGJlel9GNTVHRWw2eVZvZ3doZ3Rtdk1jdzc1TXZqNFYtNG12aUxncUZMNXFzZWFobFhickthY0ZpQzhkWHd3ZmVNU3Utd2IwaVMwcTRGVzFUaTZ5b0lUSHF5c1puU01NaXlEWG9pS3IyMUpyNi1zRTlnNUl0NmcyMUpDeW8zY09XamtacHl6cmVWczNsNFFOYlF2R3FBUHFFdmxib041UjE4ZV9uNVg4U2VteHA3a0U5aGd2S2hwNUYwa2s?oc=5",
         "published": "Sat, 24 Oct 2026 04:45:43 GMT",
         "category": "採用"
       }
