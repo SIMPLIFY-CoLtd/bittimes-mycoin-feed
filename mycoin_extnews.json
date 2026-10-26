@@ -1,22 +1,30 @@
 {
-  "generated_at": "2026-10-26T04:22:14+00:00",
+  "generated_at": "2026-10-26T12:42:44+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン鯨が控える中、小売層の入金が6ヶ月ぶり高水準",
-        "title_en": "Bitcoin Whales Hold Back as Retail Deposits Hit 6-Month High",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTk2UUMyVHhvYlVoU1YzVERzQXJHNkh2Y3VmX3c3MTBXX3ZfVzJ1d0I5OU44Z2FHa1pfUE1KRHhMb25VaW1vWllfRHYyNV9wcl93UTdPVHBsOWRYYVdIb1BhMHYtcExaSXVIeEZrSnF0ekVtTDBQUEhLLUlfRnRnNmhZUi1NcnluM1FBX3c4c0pCOXlUSmVtbVZCcTY?oc=5",
-        "published": "Mon, 26 Oct 2026 01:02:00 GMT",
-        "category": "大口"
+        "source": "Decrypt",
+        "title_ja": "ビットコイン、イラン懸念で週末に80,000ドル割れ",
+        "title_en": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3V4TGdUVjg1Vm8zb0R5UHo0eF9hS191UXBCSTlGTGgyZ2pBQVg1NE9WY1dMZ25wTVpTNy1YcnpfcGpfNHE4ajQybmpDejlPYkh1ZV9kaU1TeDFLeEtpaVl0UUgxZEFoNHFST0pKaUpFTkFQMi1XNG5PM0IxRHVKM29jM3JTOS0xNnl1WjlQcW5Fa1lyR2tvRGdkcmZYQQ?oc=5",
+        "published": "Mon, 26 Oct 2026 12:16:12 GMT",
+        "category": "マクロ"
+      },
+      {
+        "source": "Forbes",
+        "title_ja": "イーロン・マスク、ビットコイン急落で価格下落を警告",
+        "title_en": "‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5",
+        "published": "Mon, 26 Oct 2026 12:12:16 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "JPモルガン、イーサリアムとソラナでトークン化ファンド約9億ドル、どのチェーンが恩恵",
+        "title_ja": "JPモルガン、イーサリアムとソラナで9億ドル近い証券化ファンド運用",
         "title_en": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDU2amNrM09INFZtb0pRUXNOQkV1c29IRmdDNGNHdzlFd1BaZE8yWERqZ1pjeVFmSFE2R3NVeFQtbkJiSkVrVE5Ec0JTbkM2OVhjZDF4X3VfWlV0cHpKejBJMkVyS0dQTHBvWUtkVFU5bDlMbGNaNlJ4S2MxX3dyUVV0MUdJaDZmeGVUdEQwQ3haMG1lWHVHcGF0QnA3Ynl3aUw0Qg?oc=5",
         "published": "Sun, 25 Oct 2026 18:30:43 GMT",
@@ -26,17 +34,25 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル約500億ドル評価、IPOでXRP上昇へ",
-        "title_en": "Ripple Is Valued at About $50 Billion. Could an IPO Help XRP?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmRYa21MTHJ0YjRwWjkzNnp2VjA2R2V4eWF2QnBUcGV6QzhZbFkySFBiZ3BzRi02dWhvSWR5dk9haWNYV2ZNSXlGUTZHbjJPeUJwX01ONnRLTFlzaF9ROFRjT1JrbmtxUDNwQ0h6aWo4UjhWZmFKZzZaT1RRTlc4YVg0anJhbmNiblRHUW9IaHR4eTZVdWtJb1lOQQ?oc=5",
-        "published": "Sun, 25 Oct 2026 16:56:20 GMT",
-        "category": "上場"
+        "title_ja": "アビバ・インベスターズ、XRPレジャーに220億ポンドのファンド導入も、XRP価格は1.30ドル以下に低迷",
+        "title_en": "Aviva Investors Brings £22 Billion Sterling Fund to the XRP Ledger: So Why Is XRP Still Stuck Below $1.30?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVFDMVV0Wl9xaWQteHlUcHUxemZpaGxwbkthdkVnU2dCUDFtUHh4WUhWT203UlhYaEdhbk5aaEZsbGxoUjFYVkI3ZlM0ZkQtb1dmNHZobmNndVBKVUx1aE5OZF9SblBsWVJsUG93MnhMWjZwcEhTV2t3cmlQU0MtQmJ5N0VHQmFaai03M1R5WXZZN2tVSDNPdTJZRk5RN28?oc=5",
+        "published": "Mon, 26 Oct 2026 11:52:29 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "The Block",
+        "title_ja": "アビバ・インベスターズとリップル、290億ポンド規模の証券化ファンドをXRPレジャーで立ち上げ",
+        "title_en": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWVMakxYdkpheTNaWDlneFluclJIbXpEcTlzWlAzdnhqcnp5QjVFRlZVOVZxYVN6Smp1VFc2WHg4TktXU0o5cnBFME5Kb0dvRlhGaE1nOXJyT3NyYTQ3OUxmdTBJVjc4RlpiM1FHQzl1RERxREw2VEd0SEg4dGZ1blIzTnUwSms5eEpmOFBRRFVIcy0yckpjdEJYdkZKbTJ6c1lrbmFMQ1Z5SFFaNkVJSVJ5SHBGX0gyUVB5NHJvcG9naWs?oc=5",
+        "published": "Mon, 26 Oct 2026 11:34:00 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "JPモルガン、イーサリアムとソラナでトークン化ファンド約9億ドル、どのチェーンが恩恵",
+        "title_ja": "JPモルガン、イーサリアムとソラナで9億ドル近い証券化ファンド運用",
         "title_en": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana. Which Chain Benefits More?",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDU2amNrM09INFZtb0pRUXNOQkV1c29IRmdDNGNHdzlFd1BaZE8yWERqZ1pjeVFmSFE2R3NVeFQtbkJiSkVrVE5Ec0JTbkM2OVhjZDF4X3VfWlV0cHpKejBJMkVyS0dQTHBvWUtkVFU5bDlMbGNaNlJ4S2MxX3dyUVV0MUdJaDZmeGVUdEQwQ3haMG1lWHVHcGF0QnA3Ynl3aUw0Qg?oc=5",
         "published": "Sun, 25 Oct 2026 18:30:43 GMT",
