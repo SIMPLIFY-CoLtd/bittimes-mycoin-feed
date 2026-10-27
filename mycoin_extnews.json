@@ -1,12 +1,80 @@
 {
-  "generated_at": "2026-10-27T08:50:42+00:00",
+  "generated_at": "2026-10-27T15:16:09+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "アークインベストが保有するビットコインETF 1500万ドル分を売却",
+        "title_en": "Ark Invest Sells $15 Million Of Its Own Bitcoin ETF As Price Falls",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTMydnI3QjlEZjJ5TXFoZ2t0UmRfZFFocFJNM3RWaTNkQ05FZVNaeFZVbXpnQy00enNsOHp4MjdOcmp5ZC04U3g0MUk2Q19aYjBtUGc0RVdzcXJ6RmdxMTZrZndBcDFmMEo0S08wQ2h6dG9jbWI2VUFJYWtDZjJQS2NFOFd4bEgyTC1waUlOTU9QNEItWFI4?oc=5",
+        "published": "Tue, 27 Oct 2026 13:47:00 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ジェイソン・カラカニス氏、ビットコインに「極めて厳しい1年」を予想しAI投資へのシフトを提唱",
+        "title_en": "Jason Calacanis Predicts a ‘Brutal Year’ for Bitcoin, Urges Holders to Shift to AI",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3prTEZrOXpLX2RFOW9FVFFRcExWbVV6a0ZsMWZZMUF2YkhWeDNuVHdHeTJXRFh5UUw3bGFDbU5WYXBNcmc0ZlRBeTV0MVBnLXVpR3pRTHJMTEpwcWI2NmxsdnhFRDBTV1F5dEVpTVpJbXpxTUNER0hHM2h5VlVmWlF3RXZ3MWNIdWk5X1l2cm1iVTNQblYwaE5iTGIxNGVJa2ZzOFRISQ?oc=5",
+        "published": "Tue, 27 Oct 2026 13:02:49 GMT",
+        "category": "発言"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアム開発者がグラムステルダムバグを修正",
+        "title_en": "Ethereum Developers Have Fixed The ‘Glamsterdam Bug’",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFpwZkp3OUhHem1SbjBDUWZFenZILTZwVWVTMm82OXlHYTlDdUFQM1pGQllfbW54bXB2azJrNDEzOWRPNnZkcmlZMmt5bDUyVlNMenhpaTBZZ18yblFNdEJCTTdLZ2t4M2dLc1N5MFJBTTM3anAtc18wMUFrbFdiS1BPLVhyZENmVHVCOWU4UUFrZjc4d3pES0cycFpweTRWbXIzRW5OWkl1Zw?oc=5",
+        "published": "Tue, 27 Oct 2026 12:52:00 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムニュース：ステーキング預金がビルダーに送られるリスクがあったグラムステルダムバグを修正",
+        "title_en": "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5",
+        "published": "Tue, 27 Oct 2026 07:09:56 GMT",
+        "category": "その他"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "The Block",
+        "title_ja": "リップルとBNY、XRP台帳を使用した承認済み請求書の資金調達を検討",
+        "title_en": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczZzb1phcWdTdFAzd3BqLTBvbkNkajJod1VGNWhzbks2N0ExQVBBQnJxMHhaWXZudG1NS1JsM18tVk90d2Y4OUFCOUkzdnhaR2pVZThDT05neWdEOVZsY2ROb3NVeGZBQ0w1aXVvdnVZNWk3a3hMcU0yZVlnTmpqbmNYTkdObmt6bHZvSmpyMzdldXcyN0l0Yk5LSTg4N1BvcVN2MjdlNWVuZTUyTEgxOHA0eWxPRVFt?oc=5",
+        "published": "Tue, 27 Oct 2026 15:01:00 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "CNBC",
+        "title_ja": "リップルがロビンフッドと提携、RLSUDデジタル・ドルの展開を拡大",
+        "title_en": "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3dySnJ1ek9rRnU5LVR1NXd2bTQ3cDdHekdlYThtZDYyYk9MSkw4SXRlRXBybFZQYTZmQlBSWm9BUGVWYzF3eWVuOFBBYmJ5d1RxcXpnNTZVN3d1dTFwQS1Pamtfd29QdW1oVV9TcGxFblkweXp4emhlQVhOc3NWUnlSZi1OU0liM3ZJY256LXpfYlNIMDB0ekgwX2VjMW1yT3pqWTRkTGlqUdIBrwFBVV95cUxNd2FGQXBCc3h5SDhXUXF0SlFqaFpVUWYzRzRYcE8zNXRGbWZSOE9CVVp6MzNnVVVqeUdwOWNDUC04ZkRraTc5Tm0wY0FlaURxNDdaZW5pSkhtYjdIaFhsRjNOLTZaZjQ0d1FoZjZ0SjExRkVTOW1RMkFSN3pIQk41S0JDQ3FvT3dNQmNSSHZ5bnZSNUNhM0pXOC1rWV9lWW5LZ0JVS0diekdpcUsxVUhR?oc=5",
+        "published": "Tue, 27 Oct 2026 13:15:03 GMT",
+        "category": "提携"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナのニュース：AIのスパム殺到で、バグ報告への報酬が1 SOLに引き上げられる",
+        "title_en": "SOL news: Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMk9lbTFhSVdybDJPYktRTkVwUGtWWmR0NXhfSkpVS1RrZGhlalNJSE8wYlJYdUxSeFhKa2UwelVyV0RXNG5jQUlLZjAyOEFNLVBoUWx5bzhMQlpGNE9Va1JyVmRkNlJlMWlRQjRsNElRTGE5Z0JKcEgxX0c5T0ozVGthdjFtS0d3blE4eVhCOXY0MVRYRUcxU1lfQWYyN2tMeGg2bEZPMlR3MXl0cWlkaWxn?oc=5",
+        "published": "Tue, 27 Oct 2026 07:44:04 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "AIがセキュリティチームにスパムを大量送信、ソラナのバグ報告費用が1 SOLに引き上げ",
+        "title_en": "AIがセキュリティチームにスパムを大量送信し、Solanaのバグ報告には現在1 SOLの費用がかかる",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFBnLXktMjYxS01xeWpUU3RMdUx4YnRhOWZfVE5FUzkzNE5QVVVsc0p0MUloejFrMjZFdFdlVlFIRGlweFFuaDNJYjZNeDlRVVBHX1dGOUZjQ1Nobms4M1JLZVNjOF92SlpNRTZVMGFPcjdlMnlQdnlsYXR2bWtkSVh4WFFiUjFlRUk5Q2V6TnJMb3REM2N1aHNia1FvdHZ5cVY0Zl8zMWpHRDZCY0VVUGtOQzFGdw?oc=5",
+        "published": "Tue, 27 Oct 2026 07:44:04 GMT",
+        "category": "その他"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
