@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T20:23:50+00:00",
+  "generated_at": "2026-10-27T00:19:41+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "フランクリン・テンプルトン、株式配当をビットコイン義務に充当",
+        "title_ja": "フランクリン・テンプルトン、株式配当をビットコイン建てで運用",
         "title_en": "Franklin Templeton puts stock dividends on bitcoin duty",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMkdpLUVyNWRFSlVlZEZEcXRsX1hCdHlyVU5DUVl5T3RabjNIYkpSUDV1TGF3T0tNLWxwYThDRHFuWGRXajVhZ2ZvdFRYU3h4TjNfR1Q2WUVQb1BDYi10R1prZ1B2RmJ5R0kyVWdjU2VHTzNMN3VISk5Od09vOXlOaHlZSWNFd2xmMVFuT05ONA?oc=5",
         "published": "Mon, 26 Oct 2026 19:00:00 GMT",
@@ -14,7 +14,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リーがAI売却と同じ『リスク回避』の力がクリプトに作用していると指摘、複数企業がクリプト資産を追加",
+        "title_ja": "トム・リー氏、暗号資産はAI売却と同じ『リスク回避』の影響を受けた、複数企業が暗号資産を保有資産に追加",
         "title_en": "Tom Lee Says Crypto Faced Same ‘Risk Off’ Forces Behind AI Sell-Off: BMNR, ASST Add To Crypto Treasuries As MSTR Skips Bitcoin Buys",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQay1CbTU3a3FYcy1FZ045QWU0TGNSVFcwMnRuZC02dzQxdHFuOFNycWJhdGQwbUpWSnhQazRENEdKbzdDeTE0T0JUWFhVSXUweGdiZWY2b1pKbzBmbkxIUW1jX0dsYVBzaFZQRUZNMkx3LVhLQ1RPWi1aQlJNUUZKUnAtT0xnUVI2Y3NwOXUzclhSb0Rw?oc=5",
         "published": "Mon, 26 Oct 2026 17:22:11 GMT",
@@ -24,7 +24,7 @@
     "ETH": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットマイン、ETHをさらに買い増し、4,600万ドルの自社株買い実施、トム・リーはクリプトの耐性を見込む",
+        "title_ja": "Bitmine、ETHを追加購入し46百万ドル相当の株式を買い戻し、トム・リー氏が暗号資産の下支えを予想",
         "title_en": "Bitmine buys more ETH, repurchases $46 million in shares as Tom Lee sees crypto holding up",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1M3U2Qzd0UwMDJ1RVJDWXdXQ2k0M1NZSnFKd2l2d1hXNGVIUHZRUU9TVHRIdDI3bkxLWmdKNklyeWU0T3NrZDJIaWhaLUFralFUTG4tSEEtamZtSUJkQVl1ZXF2d20zVXRNZHZLRFdLdnRuMGZFdWJENVFZejlYanR4aVFRQlJkVEhmemFuM2RCaGZad2M4Umt0ZFN3Zjk5T08xd0FsMzJuOEJoZjhhRlM0QU1mdUNhNTZoSHV6aw?oc=5",
         "published": "Mon, 26 Oct 2026 16:05:12 GMT",
@@ -34,7 +34,7 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルのスウェル2026前のXRPがNYの地下鉄を占拠、価格が重要なテストに直面",
+        "title_ja": "XRP、Ripple Swell 2026を控えてニューヨーク地下鉄広告開始、価格が重要な局面を迎える",
         "title_en": "XRP Takes Over NYC Subways Ahead of Ripple Swell 2026 as Price Faces Key Tests",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWFxVk1rbEZaYXBJdnlDN0ZSMHpBajA0bjhMNnhWZm54Mk83cXFXajBmT3Z2Z2MxejVhTnpCN2l5b3RjVGs4QlYyczRJVFE0b2tIX1lVMXZTM2pnaFJ3bkxsc09oRVBNbmdVVTY4bGd0cnkxZ2RpLTVJQUw1RjlTbDFFMW82YW9NYjRaLXF5UlZ1S1I4TUE?oc=5",
         "published": "Mon, 26 Oct 2026 13:38:17 GMT",
@@ -42,7 +42,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルのニューヨーク地下鉄広告がスウェルへの期待を高める、XRP強気筋が10ドルを目指す",
+        "title_ja": "Rippleのニューヨーク地下鉄広告がSwellの期待を高める、XRP強気筋が10ドルを目指す",
         "title_en": "Ripple’s New York Subway Ad Builds Swell Hype as XRP Bulls Eye $10",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODVERk1xQlA3Vk81YmFiQjFqaklDWnhqQWUyMG9oUHV6SDVoMXp2cXZTRU1qb1A5UnRnS3licU1YYWo0OTBMSVRfMzlkLWZ0MjRadlJ1ckg1Q3h2ZFF2VkYybzBvSUxiNUczTEVPQzE3YlQ0clRtOFNJYXAzcnVJT3ZlMmQ0b0NRZVdvWTdyYks4R1pEYXR4bQ?oc=5",
         "published": "Mon, 26 Oct 2026 13:02:15 GMT",
