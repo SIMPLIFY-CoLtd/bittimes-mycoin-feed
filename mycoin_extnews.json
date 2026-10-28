@@ -1,70 +1,45 @@
 {
-  "generated_at": "2026-10-28T12:35:13+00:00",
+  "generated_at": "2026-10-28T20:11:14+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコインがFRB決定を前に81,000ドルを突破、メムコインがアルトコイン上昇を主導",
-        "title_en": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDNybUQtQnFUa2hNWGJUR2NNMGI5eVZEMmg3bWRYWnBaVGVPZGhQQWFvbXlwWk5NQTBwRnBLTTFWbXF3WkpVZEZTY0swNmwtTDFLa2sxekRnTjBuYlA1RENubmJlRHQyNWdzUF8wVGZxR0xYWC1idk1QMXFxeDJpRktITVlHc1dRVU4yQ253QldUQVZWZk5XX2Qxblh1bThia0QzckV2ZE44eTZ2bW1xS3VTdlFWWW1YSldBMHFhemw2YThIZ1cw?oc=5",
-        "published": "Wed, 28 Oct 2026 11:32:31 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "メムコインがアルトコインの上昇を牽引する中、FRBの決定を前にビットコインは81,000ドルを超える",
-        "title_en": "メムコインがアルトコインの上昇を牽引する中、米連邦準備制度理事会（FRB）の決定を前にビットコインは81,000ドルを超える",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmhYZGNVZU05bkZqY3BBRXg4MFc4czdZcTJVaE5VazNtQTlaNWktZ0M2NkQ2ekRmVHFEd3RPSVlIUFEybzE1WDRobGs3OUtpeDM2QkpHZ2dqWFI5dHlBcWxhaHNtYkZqOTV6YlpUU3FzYUNFLWltTC1WSXR4ajZDZVBTbEI4QWgtSl95ZTBseUZBQ0hYdDV4b0NjOW1EM1pNU1lyS0NtS3djcUFDY2J5QzBvZlJjNUlxMVJtdktkcWhPLUNZQUhlR1hZUQ?oc=5",
-        "published": "Wed, 28 Oct 2026 11:32:31 GMT",
-        "category": "マクロ"
-      }
-    ],
-    "ETH": [
-      {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアム開発者が『Glamsterdamバグ』を修正",
-        "title_en": "Ethereum Developers Have Fixed The ‘Glamsterdam Bug’",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFpwZkp3OUhHem1SbjBDUWZFenZILTZwVWVTMm82OXlHYTlDdUFQM1pGQllfbW54bXB2azJrNDEzOWRPNnZkcmlZMmt5bDUyVlNMenhpaTBZZ18yblFNdEJCTTdLZ2t4M2dLc1N5MFJBTTM3anAtc18wMUFrbFdiS1BPLVhyZENmVHVCOWU4UUFrZjc4d3pES0cycFpweTRWbXIzRW5OWkl1Zw?oc=5",
-        "published": "Tue, 27 Oct 2026 12:52:00 GMT",
-        "category": "その他"
+        "title_ja": "ウォール街のファストマネーがビットコインETFから流出、ソブリンファンドが参入",
+        "title_en": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEtGT3dkcGtXbnVYS0lmb2FlekM0TG11cHVuemNqeHZ3aE43RF9oc2FrNnpBeUhkdDROODVZZmhtNzFydUhoWEsyckpDbmcycGo5dXNpS2pRSzRXZTNJMVdTSW9URFZaSlItMjFzeU50OVNmdWdFQU14YVd0QjNKVjhRazFHa0xteHdvZ3ktbHFnUEFoQnpr?oc=5",
+        "published": "Wed, 28 Oct 2026 16:15:02 GMT",
+        "category": "大口"
       }
     ],
+    "ETH": [],
     "XRP": [
       {
-        "source": "Decrypt",
-        "title_ja": "ムーディーズがリップルの26億ドルのRLUSD安定通貨をA2格付け、OCC銀行承認の翌日",
-        "title_en": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUFVdWdIU0drMmJIaWwwbEJaV0Z4UW5PRjBrcVN4MHVmelQ1d0V0RTV6RjZseHN2M3NaSUpfMW5naGZnRHFtR3UwZkgxdS1jZ2w2QUw4SHo5STk3UEI4Nl9JNi0tSUlMeDlkSEM4c2tpcnl3RUVoUVBJMmxCOEZxeXMtRDM4dVZCYVk3R0hCZFRGMlZ1RDJIaFhhaS1uWmRtTGtz?oc=5",
-        "published": "Wed, 28 Oct 2026 12:16:30 GMT",
-        "category": "承認"
+        "source": "Yahoo Finance",
+        "title_ja": "Evernorthの8,000万ドルの取引がXRP購入をさらに促進する可能性があるが、注意点がある",
+        "title_en": "Evernorth's $80M Deal Could Fuel More XRP Purchases, but There's a Catch",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckRpY3UyZzFfWHhCRm53dlR5a29VUGZFZ1U3UjhJLWh4elNpWXVGQWN5ZU9jRXY4LXlCc25rLXpFWEtBVjRjZVNMb2RQYTNwX3N0MnlhTjVsazN1TER6UWt3MFZ4ZUNobWVkcTN4NXVPS2YtaFhOQTE4ZzgyYVM4cDI2MmVlc19aUHdGZTE4Y1pSclRhRFA0ZDZmOA?oc=5",
+        "published": "Wed, 28 Oct 2026 17:54:41 GMT",
+        "category": "採用"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "XRP Ledger開発者、安定通貨決済向けにXRP保有ゼロのウォレット作成を提案",
-        "title_en": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGlkNjhpWWZ0T3BjMlVSLXRuTTZLeHVaZlJTOGNLcWNfektZeG1zcEJjY3Myd0RQVDBmajQwWjNXcXNGSl81MUUybXpZSllpZDZTbWZzSXZRLWc4Ny1Zem42TmxrLXNaRlE1WXlETzlFTDlXbGdwZjhZUjdIWDJ4SXNPbVJLWFdxNFNOQXpJUkJXVHZGdHVtcWlRWjlUa2w0RTMyNVFjaTEyUzhkT21Ma0hLTXhmUkk1MlJ3eEtDZFZwUFE?oc=5",
-        "published": "Wed, 28 Oct 2026 11:52:14 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Bessent、リップルカンファレンスでステーブルコインが「財務省の重要な資金調達源になる」と述べる",
+        "title_en": "Bessent Tells Ripple Conference Stablecoins Will Be “An Important Source Of Funding For The Treasury.” Here’s What It Means For XRP Holders",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHNxVlRfblpzeFA5dWxhOUM2RHpMVE5fUGxvc1VORUJQRVhKeW5TaGVUaTNOYlFzQ04zXzUxNE9lUUtOcTZFQzFrSTVFWUxJV1BWRGZXdExFNXAyYnBNUTFYcUdhaUNLRDNoWnVpUU90aUtlWFVSLVpGazVRTUdZcTBiT0tnVEd6Mk5yeHlvR3Q1RnloczJBZ3dCMEhEZElSY1JxSTBUSmRjeVgy?oc=5",
+        "published": "Wed, 28 Oct 2026 16:04:20 GMT",
+        "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bloom Telegramボットがハッキング被害、94秒でソラナウォレット48個から953,000ドル盗難",
+        "title_ja": "Bloom Telegramボットハック：94秒間で48のソラナウォレットから953,000ドルが盗まれる",
         "title_en": "Bloom Telegram Bot Hack: $953K Stolen From 48 Solana Wallets in 94 Seconds",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXcwemdaTXZOcjJibDI5TzdGc1RHV3VBNWI3U1RTeVUzMDhKQWltSGEtZG5kOW4tWG5PdVBvQThqSnNta082blBBWUdZU28teWw1anl3UXJDMjZSMkxEQlExaXMwN2NmQlFJYWFQbl9teDloWVg1TDQzYjM4S0JDSkE5cklkX1lwdmt5NDdMcEdqVjN4WjkzNw?oc=5",
         "published": "Wed, 28 Oct 2026 09:57:57 GMT",
         "category": "ハッキング"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナがボリス・ジョンソン氏、Revolut会長をロンドンBreakpointに追加",
-        "title_en": "Solana adds Boris Johnson, Revolut chair to Breakpoint London lineup",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVEwWGVfTzJkc2tnZTFsaE5yV1c1a05ndjVUTDhtSjU2c1F6dVoydVFnamx5c0tfZjI2MERQaExPd29Halp3RTJRdGRZWVlzWXNYQ2JRbzhYbXI5MlhsRnBJQXdLVENCSkRFQ1pGRWRhb2c1WENpM2U1dzVSWktwandkQkVjRm9jOF91MnBwaGhaRGdqd19tVks0c1N2Ykk?oc=5",
-        "published": "Tue, 27 Oct 2026 19:21:21 GMT",
-        "category": "発言"
       }
     ],
     "ADA": [],
