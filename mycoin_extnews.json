@@ -1,78 +1,70 @@
 {
-  "generated_at": "2026-10-28T05:15:15+00:00",
+  "generated_at": "2026-10-28T12:35:13+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコイン、イーサリアム相場ニュース：FRB決定を控えビットコインが81,000ドル付近まで上昇、ZECは8%急伸",
-        "title_en": "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5",
-        "published": "Wed, 28 Oct 2026 04:15:20 GMT",
+        "title_ja": "ビットコインがFRB決定を前に81,000ドルを突破、メムコインがアルトコイン上昇を主導",
+        "title_en": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDNybUQtQnFUa2hNWGJUR2NNMGI5eVZEMmg3bWRYWnBaVGVPZGhQQWFvbXlwWk5NQTBwRnBLTTFWbXF3WkpVZEZTY0swNmwtTDFLa2sxekRnTjBuYlA1RENubmJlRHQyNWdzUF8wVGZxR0xYWC1idk1QMXFxeDJpRktITVlHc1dRVU4yQ253QldUQVZWZk5XX2Qxblh1bThia0QzckV2ZE44eTZ2bW1xS3VTdlFWWW1YSldBMHFhemw2YThIZ1cw?oc=5",
+        "published": "Wed, 28 Oct 2026 11:32:31 GMT",
         "category": "マクロ"
       },
       {
-        "source": "The Block",
-        "title_ja": "Datavault AI株が50%急落、1億5,000万ドル相当のビットコイン引き出し不可と発表",
-        "title_en": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlhtc3BvVm9uNG1nZWNUaTFtemxvRm9wUmdWWVVqeU5FMVZTZjRVVUFmSUlaRGF3US1FNlNndDd4R2hzbDZHaG50cWM0MEZqWS0yVFIxR3RjR1JGbjU2bTBnejdIX2RNdFZIdEZzVEZFQURMR0hXcnp5UFdXeXM1OS02aVN1YVN4SzlhYjFyOVJ0NnZFZ1ljUV84UjQ?oc=5",
-        "published": "Wed, 28 Oct 2026 03:00:00 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "メムコインがアルトコインの上昇を牽引する中、FRBの決定を前にビットコインは81,000ドルを超える",
+        "title_en": "メムコインがアルトコインの上昇を牽引する中、米連邦準備制度理事会（FRB）の決定を前にビットコインは81,000ドルを超える",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmhYZGNVZU05bkZqY3BBRXg4MFc4czdZcTJVaE5VazNtQTlaNWktZ0M2NkQ2ekRmVHFEd3RPSVlIUFEybzE1WDRobGs3OUtpeDM2QkpHZ2dqWFI5dHlBcWxhaHNtYkZqOTV6YlpUU3FzYUNFLWltTC1WSXR4ajZDZVBTbEI4QWgtSl95ZTBseUZBQ0hYdDV4b0NjOW1EM1pNU1lyS0NtS3djcUFDY2J5QzBvZlJjNUlxMVJtdktkcWhPLUNZQUhlR1hZUQ?oc=5",
+        "published": "Wed, 28 Oct 2026 11:32:31 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアム開発者が『グラムステルダムバグ』を修正",
+        "title_ja": "イーサリアム開発者が『Glamsterdamバグ』を修正",
         "title_en": "Ethereum Developers Have Fixed The ‘Glamsterdam Bug’",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFpwZkp3OUhHem1SbjBDUWZFenZILTZwVWVTMm82OXlHYTlDdUFQM1pGQllfbW54bXB2azJrNDEzOWRPNnZkcmlZMmt5bDUyVlNMenhpaTBZZ18yblFNdEJCTTdLZ2t4M2dLc1N5MFJBTTM3anAtc18wMUFrbFdiS1BPLVhyZENmVHVCOWU4UUFrZjc4d3pES0cycFpweTRWbXIzRW5OWkl1Zw?oc=5",
         "published": "Tue, 27 Oct 2026 12:52:00 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ETHニュース：イーサリアムがステーキング預金をビルダーに送信する可能性があったグラムステルダムバグを修正",
-        "title_en": "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5",
-        "published": "Tue, 27 Oct 2026 08:10:54 GMT",
         "category": "その他"
       }
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "スコット・ベセント財務長官、リップルカンファレンスで米中テクノロジー競争においてAIと半導体と並んで暗号資産を言及",
-        "title_en": "Scott Bessent puts crypto alongside AI and chips in U.S.-China tech race at Ripple conference",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUxhUlRwUmxacjE5Ym5nSktZZVdTdlc1T1JRQjZpbTRhaHpCTjB5TXFEeVUwa3U3a0Y1MjVmMEhnTVNDSTZnUmRBSjlVenJzR0pQZ3dSOW52SkRMcE5kclNKOEpmWGt2dlpxemxEcjZZQlhLQTdMc1A2em4zZGh4c3AyNVVLcm1Gem1KSVRHVDRPdTZNTVZ0czA4Qklla21zYzJtVU1BaUlkWjU4UzJrMGxtSWpTaWNEczZxVU9Uc3hEZmw0aFl5emhR?oc=5",
-        "published": "Tue, 27 Oct 2026 20:41:33 GMT",
-        "category": "発言"
+        "source": "Decrypt",
+        "title_ja": "ムーディーズがリップルの26億ドルのRLUSD安定通貨をA2格付け、OCC銀行承認の翌日",
+        "title_en": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUFVdWdIU0drMmJIaWwwbEJaV0Z4UW5PRjBrcVN4MHVmelQ1d0V0RTV6RjZseHN2M3NaSUpfMW5naGZnRHFtR3UwZkgxdS1jZ2w2QUw4SHo5STk3UEI4Nl9JNi0tSUlMeDlkSEM4c2tpcnl3RUVoUVBJMmxCOEZxeXMtRDM4dVZCYVk3R0hCZFRGMlZ1RDJIaFhhaS1uWmRtTGtz?oc=5",
+        "published": "Wed, 28 Oct 2026 12:16:30 GMT",
+        "category": "承認"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "スコット・ベセント氏は、リップル会議で米中テクノロジー競争において暗号資産をAIおよび半導体と並列に位置付けました",
-        "title_en": "スコット・ベセント氏は、リップル会議で米中テクノロジー競争において暗号資産をAIおよび半導体と並列に位置付けました",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT2lQV2NXemJtdWVYWXFjeGMxQlN6bmo4LWt1NVhrWm85Y0NUZHc2eVRXclc0dFBhZWczQXJfQ0pSZ0VzSVVhZERtbHc0QzRuUlpQZlc2WC1RRHJibkV3S3g1Z0JjM0VuY0c3Q2Z3bnpIeFJOMlM0Rm1ZM2RVazRQRmJkRnNJWUw5dU1UUFFGdTZueGUtS2JJOHpJUlNUYi14MXljY1hfZVAzWTNhcjlLdXZQeElVQkF3WW1LRmp4SjRLMW9xMUNsQUNVTlFsZw?oc=5",
-        "published": "Tue, 27 Oct 2026 20:41:33 GMT",
-        "category": "発言"
+        "title_ja": "XRP Ledger開発者、安定通貨決済向けにXRP保有ゼロのウォレット作成を提案",
+        "title_en": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGlkNjhpWWZ0T3BjMlVSLXRuTTZLeHVaZlJTOGNLcWNfektZeG1zcEJjY3Myd0RQVDBmajQwWjNXcXNGSl81MUUybXpZSllpZDZTbWZzSXZRLWc4Ny1Zem42TmxrLXNaRlE1WXlETzlFTDlXbGdwZjhZUjdIWDJ4SXNPbVJLWFdxNFNOQXpJUkJXVHZGdHVtcWlRWjlUa2w0RTMyNVFjaTEyUzhkT21Ma0hLTXhmUkk1MlJ3eEtDZFZwUFE?oc=5",
+        "published": "Wed, 28 Oct 2026 11:52:14 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "Bloomberg",
-        "title_ja": "FTX創業者お気に入りのソラナ、ウォール街へのアプローチで岐路に",
-        "title_en": "Bankman-Fried Favorite Solana Faces Crossroad While Courting Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUsxX2lEQ3ppa0Z2dmFCQ2tTZlU4OUVYc3gwMmNuc0UtY21MRGYwNDh2bVQyLXQ2NkVRVzJuTmNyWEZVTEdPNEpTRTBPMThxUFU2cm1qbzhwV1FlYWh3YmxiLUxIcHc1eUZXc1BuVjV6NjNlRm9vWnFybkdyelBLSkpjU3F2OWtJVWxwWkZXUzBIZHBpUlMyZjFXRkdsOHBkTThZVFFsbDJBdW5BdXUtb1V5azJOVktReUF5enFkdXBXQ2hO?oc=5",
-        "published": "Wed, 28 Oct 2026 03:38:00 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Bloom Telegramボットがハッキング被害、94秒でソラナウォレット48個から953,000ドル盗難",
+        "title_en": "Bloom Telegram Bot Hack: $953K Stolen From 48 Solana Wallets in 94 Seconds",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXcwemdaTXZOcjJibDI5TzdGc1RHV3VBNWI3U1RTeVUzMDhKQWltSGEtZG5kOW4tWG5PdVBvQThqSnNta082blBBWUdZU28teWw1anl3UXJDMjZSMkxEQlExaXMwN2NmQlFJYWFQbl9teDloWVg1TDQzYjM4S0JDSkE5cklkX1lwdmt5NDdMcEdqVjN4WjkzNw?oc=5",
+        "published": "Wed, 28 Oct 2026 09:57:57 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナがボリス・ジョンソン元首相、レボリュートの会長をBreakpoint Londonのラインアップに追加",
+        "title_ja": "ソラナがボリス・ジョンソン氏、Revolut会長をロンドンBreakpointに追加",
         "title_en": "Solana adds Boris Johnson, Revolut chair to Breakpoint London lineup",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVEwWGVfTzJkc2tnZTFsaE5yV1c1a05ndjVUTDhtSjU2c1F6dVoydVFnamx5c0tfZjI2MERQaExPd29Halp3RTJRdGRZWVlzWXNYQ2JRbzhYbXI5MlhsRnBJQXdLVENCSkRFQ1pGRWRhb2c1WENpM2U1dzVSWktwandkQkVjRm9jOF91MnBwaGhaRGdqd19tVks0c1N2Ykk?oc=5",
         "published": "Tue, 27 Oct 2026 19:21:21 GMT",
-        "category": "その他"
+        "category": "発言"
       }
     ],
     "ADA": [],
