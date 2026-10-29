@@ -1,52 +1,69 @@
 {
-  "generated_at": "2026-10-29T00:43:53+00:00",
+  "generated_at": "2026-10-29T09:44:10+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン5日連続下落、約15,000BTCが取引所から流出—反発見込み",
-        "title_en": "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2RtUWNxVGlYam45MEktVWpCWGoyQlNUVEhzaUVtM2ttTVVWV1Z3RVJUN2FLam5hLVBENmFsVEhWRFFEdzRFZGNsV1VBQlhzN1V5YVJaZmNzU0pySFhvYm1vTnhMV3FsN1FFejJ2UzFUcnhXeFFpTXdmdnZQTzEwOWxSckRqUXhGMm00Vk81a2JYank4cEE?oc=5",
-        "published": "Wed, 28 Oct 2026 22:37:37 GMT",
-        "category": "その他"
+        "source": "Forbes JAPAN",
+        "title_ja": "379兆円規模の「中国ショック」がビットコインを襲う可能性",
+        "title_en": "379兆円規模の「中国ショック」がビットコインを襲う可能性",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9McVU5Um9YRVloY04yQ2FHLVZGVGVMODQ4bHE2MFM2NGctVHlQaEVyQW5vTlUtVllaTkxMdC1RcDdOaWk4OFl1QkJaNnBUYUoxZEtyQjltaTdyQQ?oc=5",
+        "published": "Thu, 29 Oct 2026 08:15:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインの「アップトーバー」ラリーが失速、需要が弱まる",
-        "title_en": "Bitcoin’s ‘Uptober’ rally just fell apart as demand weakens",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTVPc2d0ek9ITHBOajdxRHZJMUFUNFNJUlFtRG5MRDY0c2x2YlBITUZUb2hDS3pTUjA3b1FJdU1ZNFl5MzcwNXhpY1FjV25waFl0RVhQR0lCNzg4OWJvOUVMLUtHQWQyN3g1MEdfSUl5bjRsWHMtUm1wMk9XNHRiSm55OUxleVk3SUhGR0xnTXMxVUFoZ1BhQ1MyOVQ?oc=5",
-        "published": "Wed, 28 Oct 2026 22:02:00 GMT",
+        "source": "Bloomberg.com",
+        "title_ja": "ビットコイン、1.7兆円相当のオプション満期へ－値動き拡大の可能性",
+        "title_en": "ビットコイン、1.7兆円相当のオプション満期へ－値動き拡大の可能性",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BYWVvWjBuTlRNR1A0RDJIeDJNdGpkaVhUVnlzaG00T3cxSlhmVEQyRkNXQVhLTk54Tm1vQmVaTFMtcXZJc2REbFEtRkVLQVJONURSaDk3ZTEtRzdCV3hsV0tESzdXVWtrOGFUc0J2ZHFkRVV4bVBB?oc=5",
+        "published": "Thu, 29 Oct 2026 07:19:53 GMT",
         "category": "その他"
       }
     ],
-    "ETH": [],
-    "XRP": [
+    "ETH": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムクライアントが攻撃者がエーテル報酬をリダイレクトできるセキュリティ欠陥にパッチを適用",
+        "title_en": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
+        "published": "Thu, 29 Oct 2026 05:34:38 GMT",
+        "category": "ハッキング"
+      },
       {
         "source": "Yahoo Finance",
-        "title_ja": "BNY、63兆ドルの顧客資産を保管しXRPのカストディを開始—その影響は",
+        "title_ja": "2400ドルのETHから1780万ドルへ：早期イーサリアム購入者が資産を移動、「Kanye」ウォレットが債務追加",
+        "title_en": "From $2.4K ETH to $17.8M: Early Ethereum Buyer Moves Fortune as ‘Kanye’ Wallet Adds Debt",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnk5Tl9iems2QXR3WEx2U0p6ZGVDNks0cTh4eW56WW5yeUVaNU1zZEtFUG5zU2Z5UFI2OUxDSVBreEFrR2Q1Zm4xd25ORXJjTjlvcThjcExmZE5PVFBzTTRWcTdvVUZyMjFTNjVXZ0JMd01NUWxkRVhBQkJ6Q1YtYVJJTlh3dw?oc=5",
+        "published": "Wed, 28 Oct 2026 11:19:05 GMT",
+        "category": "大口"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "CoinDesk Live at Ripple Swell 2026 Day 1",
+        "title_en": "CoinDesk Live at Ripple Swell 2026 Day 1",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uODVEQ0RTb2I3X0hnaTlaT2VPM1czb0N3UkIyM1R2cHJtRjdHU1Y4THZKdW8tczFPVXdLM0RaTlNTMHc1OVBhdkh3SGhqYU9YdFk2MFoxeDV5VURJWTlSWkl4aVpfMkI1LUxkYV9RYXBjdDd5RGJpclh3QQ?oc=5",
+        "published": "Thu, 29 Oct 2026 02:11:40 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "BNYが顧客向けに63兆ドル保管、XRPをカストディ対象に追加。その0.1%がXRPに流入した場合",
         "title_en": "BNY Holds $63 Trillion for Clients and Will Now Custody XRP. What If 0.1% of That Went Into XRP?",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmFFNVBvb1N0cGVoa21nc3JhTF9qTEtWRWdpTFg0VTVHeklhMmlXVGpyMnhvZ1RLOFQzZEp3Y1hvR1I1WDdlSlhxTVRtV0xLbW85MnJyamN0NmNsV2M5dG56aWNJTjduampQVVNaWjl2VXlLU1hGYmxrdGV0N2Jxd0JCVTNIeTNkcXhWWTRjYi1aOXF4c0UxRjZn?oc=5",
         "published": "Thu, 29 Oct 2026 00:19:00 GMT",
         "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップル、OMB待機期間中に着実に進展—規制対応の成果",
-        "title_en": "Charter in Hand: What Ripple Built in the Week Everyone Else Waited on OMB",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWV3SG8tLVZ6enM5SDg1el9JUFhuTXhvcnlia0VEb052VkJ1YVFsVjRCSGZUUmJVMllpSHdoQXBBN0x5NDdSUk5hRV9fWlpKb2JjdHNUcGZnbHdSVy04aTBJOHQ2QWlxbmlheUg5ZHVxM3NSUTRlOUlpQlpaM3BjcnUxU2JsRnAwdUpMRGhMQUUtWmU1eXVCSXdBUQ?oc=5",
-        "published": "Thu, 29 Oct 2026 00:13:00 GMT",
-        "category": "規制"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bloom Telegramボットハック：94秒間で48のソラナウォレットから953,000ドル盗難",
-        "title_en": "Bloom Telegram Bot Hack: $953K Stolen From 48 Solana Wallets in 94 Seconds",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXcwemdaTXZOcjJibDI5TzdGc1RHV3VBNWI3U1RTeVUzMDhKQWltSGEtZG5kOW4tWG5PdVBvQThqSnNta082blBBWUdZU28teWw1anl3UXJDMjZSMkxEQlExaXMwN2NmQlFJYWFQbl9teDloWVg1TDQzYjM4S0JDSkE5cklkX1lwdmt5NDdMcEdqVjN4WjkzNw?oc=5",
-        "published": "Wed, 28 Oct 2026 09:57:57 GMT",
+        "title_ja": "Solanaウォレット「Solflare」がプロバイダーのセキュリティ事象後にバリデータ移行を計画",
+        "title_en": "Solana Wallet Solflare Plans Validator Migration After Provider Reports Key Incident",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOal9iZG80c1FUdTRmQ09mNkM4TFpLb1loX19teHUwUUhkbXgxWG45M0llTi1waVZ6RnBKS05QeDVIYV9Rek5MUXYzeTVHbEtTTVdyTkpGMGZVWDJQbTFTYTF3bEZJbVFiQU8xclp5ZGZDSUVnbWhBNU8tcjRFZVpGNzl4NGNtVTlxRWVRVWowUHVHbnd2bTJ5TWV1MFRRV0h0b0xfQzZn?oc=5",
+        "published": "Wed, 28 Oct 2026 14:56:00 GMT",
         "category": "ハッキング"
       }
     ],
