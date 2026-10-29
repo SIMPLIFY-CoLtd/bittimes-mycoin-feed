@@ -1,41 +1,49 @@
 {
-  "generated_at": "2026-10-28T20:11:14+00:00",
+  "generated_at": "2026-10-29T00:43:53+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォール街のファストマネーがビットコインETFから流出、ソブリンファンドが参入",
-        "title_en": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEtGT3dkcGtXbnVYS0lmb2FlekM0TG11cHVuemNqeHZ3aE43RF9oc2FrNnpBeUhkdDROODVZZmhtNzFydUhoWEsyckpDbmcycGo5dXNpS2pRSzRXZTNJMVdTSW9URFZaSlItMjFzeU50OVNmdWdFQU14YVd0QjNKVjhRazFHa0xteHdvZ3ktbHFnUEFoQnpr?oc=5",
-        "published": "Wed, 28 Oct 2026 16:15:02 GMT",
-        "category": "大口"
+        "title_ja": "ビットコイン5日連続下落、約15,000BTCが取引所から流出—反発見込み",
+        "title_en": "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2RtUWNxVGlYam45MEktVWpCWGoyQlNUVEhzaUVtM2ttTVVWV1Z3RVJUN2FLam5hLVBENmFsVEhWRFFEdzRFZGNsV1VBQlhzN1V5YVJaZmNzU0pySFhvYm1vTnhMV3FsN1FFejJ2UzFUcnhXeFFpTXdmdnZQTzEwOWxSckRqUXhGMm00Vk81a2JYank4cEE?oc=5",
+        "published": "Wed, 28 Oct 2026 22:37:37 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインの「アップトーバー」ラリーが失速、需要が弱まる",
+        "title_en": "Bitcoin’s ‘Uptober’ rally just fell apart as demand weakens",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTVPc2d0ek9ITHBOajdxRHZJMUFUNFNJUlFtRG5MRDY0c2x2YlBITUZUb2hDS3pTUjA3b1FJdU1ZNFl5MzcwNXhpY1FjV25waFl0RVhQR0lCNzg4OWJvOUVMLUtHQWQyN3g1MEdfSUl5bjRsWHMtUm1wMk9XNHRiSm55OUxleVk3SUhGR0xnTXMxVUFoZ1BhQ1MyOVQ?oc=5",
+        "published": "Wed, 28 Oct 2026 22:02:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Evernorthの8,000万ドルの取引がXRP購入をさらに促進する可能性があるが、注意点がある",
-        "title_en": "Evernorth's $80M Deal Could Fuel More XRP Purchases, but There's a Catch",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckRpY3UyZzFfWHhCRm53dlR5a29VUGZFZ1U3UjhJLWh4elNpWXVGQWN5ZU9jRXY4LXlCc25rLXpFWEtBVjRjZVNMb2RQYTNwX3N0MnlhTjVsazN1TER6UWt3MFZ4ZUNobWVkcTN4NXVPS2YtaFhOQTE4ZzgyYVM4cDI2MmVlc19aUHdGZTE4Y1pSclRhRFA0ZDZmOA?oc=5",
-        "published": "Wed, 28 Oct 2026 17:54:41 GMT",
+        "title_ja": "BNY、63兆ドルの顧客資産を保管しXRPのカストディを開始—その影響は",
+        "title_en": "BNY Holds $63 Trillion for Clients and Will Now Custody XRP. What If 0.1% of That Went Into XRP?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmFFNVBvb1N0cGVoa21nc3JhTF9qTEtWRWdpTFg0VTVHeklhMmlXVGpyMnhvZ1RLOFQzZEp3Y1hvR1I1WDdlSlhxTVRtV0xLbW85MnJyamN0NmNsV2M5dG56aWNJTjduampQVVNaWjl2VXlLU1hGYmxrdGV0N2Jxd0JCVTNIeTNkcXhWWTRjYi1aOXF4c0UxRjZn?oc=5",
+        "published": "Thu, 29 Oct 2026 00:19:00 GMT",
         "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bessent、リップルカンファレンスでステーブルコインが「財務省の重要な資金調達源になる」と述べる",
-        "title_en": "Bessent Tells Ripple Conference Stablecoins Will Be “An Important Source Of Funding For The Treasury.” Here’s What It Means For XRP Holders",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHNxVlRfblpzeFA5dWxhOUM2RHpMVE5fUGxvc1VORUJQRVhKeW5TaGVUaTNOYlFzQ04zXzUxNE9lUUtOcTZFQzFrSTVFWUxJV1BWRGZXdExFNXAyYnBNUTFYcUdhaUNLRDNoWnVpUU90aUtlWFVSLVpGazVRTUdZcTBiT0tnVEd6Mk5yeHlvR3Q1RnloczJBZ3dCMEhEZElSY1JxSTBUSmRjeVgy?oc=5",
-        "published": "Wed, 28 Oct 2026 16:04:20 GMT",
-        "category": "発言"
+        "title_ja": "リップル、OMB待機期間中に着実に進展—規制対応の成果",
+        "title_en": "Charter in Hand: What Ripple Built in the Week Everyone Else Waited on OMB",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWV3SG8tLVZ6enM5SDg1el9JUFhuTXhvcnlia0VEb052VkJ1YVFsVjRCSGZUUmJVMllpSHdoQXBBN0x5NDdSUk5hRV9fWlpKb2JjdHNUcGZnbHdSVy04aTBJOHQ2QWlxbmlheUg5ZHVxM3NSUTRlOUlpQlpaM3BjcnUxU2JsRnAwdUpMRGhMQUUtWmU1eXVCSXdBUQ?oc=5",
+        "published": "Thu, 29 Oct 2026 00:13:00 GMT",
+        "category": "規制"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bloom Telegramボットハック：94秒間で48のソラナウォレットから953,000ドルが盗まれる",
+        "title_ja": "Bloom Telegramボットハック：94秒間で48のソラナウォレットから953,000ドル盗難",
         "title_en": "Bloom Telegram Bot Hack: $953K Stolen From 48 Solana Wallets in 94 Seconds",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXcwemdaTXZOcjJibDI5TzdGc1RHV3VBNWI3U1RTeVUzMDhKQWltSGEtZG5kOW4tWG5PdVBvQThqSnNta082blBBWUdZU28teWw1anl3UXJDMjZSMkxEQlExaXMwN2NmQlFJYWFQbl9teDloWVg1TDQzYjM4S0JDSkE5cklkX1lwdmt5NDdMcEdqVjN4WjkzNw?oc=5",
         "published": "Wed, 28 Oct 2026 09:57:57 GMT",
