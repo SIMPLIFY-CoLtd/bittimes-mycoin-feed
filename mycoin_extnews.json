@@ -1,58 +1,41 @@
 {
-  "generated_at": "2026-10-29T18:21:03+00:00",
+  "generated_at": "2026-10-30T00:45:00+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "110億ドルのビットコイン・オプションが明日満期—その意味するところ",
-        "title_en": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkgyV3YwVGl2Rm8ydlAwVjhSdkJCUXNnQjkwR05SVXhLNGtEaFozZURBRXZKT2FUNUlvUUIwbVBvWWhkc0VPZ0RSSFA4dFdCQW9fT1BWSEM1TDZsWkRiY2s1YkdzM0NvM2ZLSHNGbGg3T01UVHp4cDJ1cWZkYTdoSmZSZWwzdjhBS21DbUwzbXRmMHl2RkhoSG14cTJaX0pT?oc=5",
-        "published": "Thu, 29 Oct 2026 17:15:11 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "バイナンス、史上最大級の暗号資産ハッキングで57億ドルの損失",
+        "title_en": "バイナンスが史上最大の暗号資産ハッキングで57億ドルを失う",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVE9PUVo0SU9rLVBkWWY0a01KRlNXNG9VVG5NQjNieENaNlJKczNQQW9kSldDN1FRaGZmcElwVEl1MGRMUW1KaDhjSzVBZEtnUGlxNmpXbnllcVIwYjZvVEs1QjViMmJfUlRjY19wcGpQLW9GWFBPQmVjVFNaZ1J2X2tZXzZnWmowSXBUOWtBZTNtZHc2akl1SnNvdTZxaGoydDlmejVjNU9HMjg?oc=5",
+        "published": "Thu, 29 Oct 2026 22:20:48 GMT",
+        "category": "ハッキング"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "400万BTC、85000ドルで買われた可能性が回復を抑制—Glassnode",
-        "title_en": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEZlZVlUZndQQVlLUWtzNmhjejF1OUhVM0oxY2YzdnBFOGtpeU1ySWY0V3BldjB2d0RNdHl4QXVMVGVEbDMyLVBNWVlOaVNkNVVjMWlMMDB5eVBaaHNDNnZJcm03bUo2RGQ0N00ybngwamk2R2Z5aW5vM1ZLR2tfMjNhZHdYdmhNZUE?oc=5",
-        "published": "Thu, 29 Oct 2026 16:32:47 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "フランクリン・テンプルトン、株式配当をビットコインに転換するETFを新たにローンチ",
+        "title_en": "Franklin Templeton Just Launched ETFs That Turn Stock Dividends Into Bitcoin. Is That a Smarter Way to Own BTC?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0VxcXl2YjNwZHRacmNkTmRzNGJLXzZva3dkVG9wY1lXQUxpN1VTTDQwaXVBQXhjVlJSQnZyWW1HcnBGc0N3YktQSnN5S3pieVhaQ1NfRjNvdjc1NEdraXd3TjI0Tmo3VFVrREVGSThnRGhuV09aN1J5V1dnQXF5TUw5S0YxelVXQTBDZkFhZzh2TzlSU1ozTlNNQ285VlF3aDQwZA?oc=5",
+        "published": "Thu, 29 Oct 2026 21:03:32 GMT",
+        "category": "承認"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアム、2018年以来最悪の10月に向かう—初期クジラが活動再開",
-        "title_en": "Ethereum Heads for Worst October Since 2018 as Early Whales Wake Up",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQnpXVGxiZmRWbWZQZzF0NnkyT3RDYXFSdGc3ZHdLYS1pbWFJYTNsZ1hOQmZBWnNnc3ZjSEdSNWtWUXhyNEJHWFdROTNmSFRMM0gzWkFyM0RMT3BDWURnUnhaeDRINUMweFVJTEVNSkVmZnRPZUYyTkVSZkpNTHlWdEZMQnNJVEhDNVRNbGMzS2dBY1BlUkZDR2VxVTcxaU5K?oc=5",
-        "published": "Thu, 29 Oct 2026 08:07:41 GMT",
-        "category": "大口"
-      },
-      {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムクライアント、ETH報酬をリダイレクト可能な脆弱性を修正",
+        "title_ja": "イーサリアム・クライアント、攻撃者がエーテア報酬をリダイレクトできる脆弱性に対応",
         "title_en": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0hrMTRsNlVZYk9hb2FQTEprWXpvbnlhMUhWYlRidkNzdjhRWXNPNmRjQWhoZjVZNkNmd0k1MDBDZUNvUm9mdUY5bXdncXlZeUdhODlLaFpzUjN3Z2lVaTNfMHI1eHBEVkxuZkJyV0I1cTMxODZZSFdLa0VyYWVWTG85OGpHbEhaZzFjMWZpUXBGT3dRajk0SUVfeFNpWS1CMlZlOVZoaVluWjR6QzZDdzhSUTI?oc=5",
         "published": "Thu, 29 Oct 2026 05:34:38 GMT",
-        "category": "その他"
+        "category": "ハッキング"
       }
     ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Ripple、9億ドル売上を目指す—RLUSDが26億ドルに達成、XRP超の拡大を推進",
-        "title_en": "Ripple Targets $900M Revenue as RLUSD Hits $2.6B: What's Driving Its Expansion Beyond XRP?",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUxUZTdaWmx4ZWV5Z0hMNTZrZm0yR05iaVhvaDg0MzUzUjE4cE9XeTlLdTNNVWdPQklCLVlwY3h4QmZITTJNNWYwZUlROHdQNV9OVTlPa3NXTGZwNUtLLUl5eWx4Zzd5ZldubzFOY3RPWEJ4blZRMkgyMDIyclNHVlE2cWU0OHdqMUVuVDVTUzBCaEhqa1A4RVg0WVdjTnM?oc=5",
-        "published": "Thu, 29 Oct 2026 12:02:13 GMT",
-        "category": "提携"
-      }
-    ],
+    "XRP": [],
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "ライバルからパートナーへ—PolygonとSolanaが提携し、銀行へのステーブルコイン決済を推進",
+        "title_ja": "ライバルからパートナーへ：Polygon と Solana が銀行へのステーブルコイン決済導入で提携",
         "title_en": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdkxqSVRZWmI1UEdURTlxUVhZR0MzcnlPX1pMbEE5c05DY3ZMMEZRbExncHQ2NEhiaWhPWVRudU9Ed1k0UXdTRXFFM0RHdGZLaERTbmtwTjYxbzR2dzk1QWpZSHRFNFQ4UnZldVUtRnVSV0FGTnJyUTFtMkxJWmNsN041eGdTc0RkTldfZXY0YlBsanpQYlZjUXBSMjEtbWhWNjhzLWdfT0Vnd2JObk11N0lfZktQUmJWV0pqa0hSWjVXVG1zYU40Ukd3?oc=5",
         "published": "Thu, 29 Oct 2026 16:35:43 GMT",
@@ -60,7 +43,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ライバルからパートナーへ—Polygon と Solana が提携し、銀行へのステーブルコイン決済導入を推進",
+        "title_ja": "ライバルからパートナーへ：Polygon と Solana が銀行へのステーブルコイン決済導入で提携",
         "title_en": "ライバルからパートナーへ：Polygon と Solana が提携し、銀行へのステーブルコイン決済導入を推進",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmdNMDZGOFN4Q2REekxsV0dwUHRzMHBpa05fQkNJTDFIbUZJZ3YzUjJmR2V1SHg1QmE5UVJGQzZTVkRMcEVPVkV5YkZRZVU4bFJmMlNJNkQ0UXh3bzJtUlZVYXlmNGdqTlU4NFNmZ2xWTFhHZ3ZmTWM3YzZBX2E5NnowZ09UcnV6UmptT3VxcUNOZ3ZtNGZpb2hYOTF5bVQyVWxNeUZndVhTRFEtM2FWNVg4a2Rxc1VkOWoxOVR6ejBXVTJEZ3gtbUZ6RnZTUQ?oc=5",
         "published": "Thu, 29 Oct 2026 16:35:43 GMT",
@@ -73,19 +56,19 @@
     "LINK": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "AaveのHorizonがChainlinkの週末価格をトークン化された米国株に利用",
+        "title_ja": "Aave の Horizon、トークン化米国株式の週末価格提供に Chainlink を利用",
         "title_en": "Aave’s Horizon to Use Chainlink Weekend Prices for Tokenized U.S. Stocks",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEtKd3A2bHFuNWw5Zk1ISDU4OEhrMWxxakFwaXA3bnZROHJoY1YzNkZOR2QwQWQ5TUtXNk16aFFnVEF1TGpmc0h2RndfdThqOE5UUmZBbHRxT3RSNjlMOXg5ZTFtTFV6eHBvNlVCUnJ6MGFPQjQ1bEdoMGdEM1BJUlNyUDBSUFIzLVZJQkFYM0p6OVdXS19Wbk41cHUyU1JfVUNSUA?oc=5",
         "published": "Thu, 29 Oct 2026 14:27:00 GMT",
-        "category": "採用"
+        "category": "提携"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Chainlink、トークン化資産の週末価格提供を開始—ローンチパートナーにAaveを迎える",
+        "title_ja": "Chainlink、トークン化資産の週末価格提供を開始、ローンチパートナーに Aave を迎える",
         "title_en": "Chainlinkはトークン化資産の週末価格提供を開始、ローンチパートナーにAaveを迎える",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak04a0pBSlRGQnl5alZRekhBazdhV1p6Q1ZuOUl1R2JEMTdXRFV1UUNHV3RMVjFpNFEyTzEtNFprSFFJMnNlUmZieV9QSHo1ZWRWWXBLdHpvUW5EemRwREJVM2FvQWl5VEIyaGhrN1B4QmZWLVFOdlJmdjQ2NGNNSVVndnR4UnBYZE1WbDBsY0pEVEJrb1hkRTJlZTV6X28teFdQWGtWSmcyeXdwd3oyaFFLcnFHUnZwcTV2VnY5bGk?oc=5",
         "published": "Thu, 29 Oct 2026 14:15:00 GMT",
-        "category": "採用"
+        "category": "提携"
       }
     ],
     "SHIB": [],
