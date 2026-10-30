@@ -1,84 +1,50 @@
 {
-  "generated_at": "2026-10-30T09:50:33+00:00",
+  "generated_at": "2026-10-30T17:55:48+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン・デジタル資産が急落、バイナンスが63億ドルの被害を報告した史上最大級の暗号資産ハッキング",
-        "title_en": "Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2UxWkZ6bE9JSWJzdHlMUTE4aW04WUlETVFWQ0xjZGF0WXVwbm53RktXclJVdWFzY1ZyV3dXWUVjTTZudXMyZ0w2LVFUV3NMam1LNTNNZldRNXFHUTNQVkpIV1BJZ24wOHd2QjR0OE9WZU90UURsMTB1REV2Uy12Zl9HWGZRU3hWdzVlWnJmd0t6c09aVW9uMGwyNkdKZTJRMUZEZWJndklncXhHV3ZvNVd6UjdCbFAwdUsyd3lzUE9BQkEta0F0V284ZXRxdzBYTkk1aWRRRQ?oc=5",
-        "published": "Fri, 30 Oct 2026 08:34:06 GMT",
-        "category": "ハッキング"
-      },
-      {
-        "source": "Forbes JAPAN",
-        "title_ja": "バイナンス、史上最大の暗号資産ハッキングで1兆円被害を公表、出金を一時停止",
-        "title_en": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWc2tZNzFsZGt6X2N1cnI1Y1NMLTBXaUtvMXBBQnFmTmltc3hYVHVtRkFlbVRmN0Q5c1M0eVI4b0NIaFY1NERGakxxTU1KU1RqT1BYUl80cUg3QQ?oc=5",
-        "published": "Fri, 30 Oct 2026 08:00:00 GMT",
-        "category": "ハッキング"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン・イーサリアム・XRP が売却、レバレッジ取引15億ドルが強制決済",
-        "title_en": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbExNNHo3V1MzX2dKUHhjWTFpN1FHbjZ2Tmo2SFRDQVhHN2FwZ2M4Mm5udUdUcmNRNktMdjU1X0VrZVUxRkpnNTJwNW4zaGdWdVUxbDVTdTZNTTR5dklWLXFRdlJwM3R4bHpUMnZZWjI0UGZ2eHdldTlEb1lzN3VQZG5mV1B6TFJkZG1DY3padmJXanRJRWgwcnhma3drNU5DUjg1Y0VMREZtZjZ2bi1iTHd1TG13LW1QTzQ2VzNYODA?oc=5",
-        "published": "Fri, 30 Oct 2026 06:22:00 GMT",
+        "title_ja": "ビットコインが7万7000ドル割れでコイン株が2年半ぶり安値、ウォール街が目標株価を引き下げ",
+        "title_en": "COIN Stock Sinks To Over 2-Year Low As Bitcoin Sinks Below $77K, Wall Street Cuts Price Targets",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnJOWWo2MnhST09xTUJMSExCZVZxREdnd2ZMSE1ERHNJVVpxSTRybEpodmNZaXgtY0U5SV8yaS13Zm9rbDJZWThLTjJYeWNZRmQyNVFUcm1mZ3BrTUJnYzBMUldjeU9tUTFVT0lVcWU2WDFVTlFRR3J4N1lTMUtxbnhOQ1JHTmZBMEpJMzU5VGs3UQ?oc=5",
+        "published": "Fri, 30 Oct 2026 15:44:45 GMT",
         "category": "マクロ"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "バイナンスの60億ドルのハッキングがビットコイン・イーサリアムを急落させ、スタンダード・チャータード銀行は今後の悪化を予想",
-        "title_en": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlFkV2lYSU0xdXhvdG5RYkVtV01hTmRPbFZHRXNScnhseGpJMTEyU3F6Y0dUdll3NGdwMlBPSEtrVmxjaEF4MmgtVXJwSGo3Z2t6RnhfTmVKbFd0bVNyUjNzUC1acmhRMWhwa0RZblRFWUo1OHBiczZhSzQtY0NBRy12UFB0Vjg4VmItbnhNWjJWU3RaUTJQR1c2V3JXVXpRUjlfcWYwM2hUTnQ1T29GZWhzV0lVR214V0pXM1FoUWw3eVRKdDE2QnNjcHBmZVBZVDBxY1d2dw?oc=5",
-        "published": "Fri, 30 Oct 2026 04:00:43 GMT",
-        "category": "ハッキング"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン価格今日：13億ドルのロングが清算された後BTCが5週間ぶり安値に下落、7万6600ドルを下支えできるか",
+        "title_en": "Bitcoin Price Today: BTC Fell to a 5-Week Low After $1.3 Billion in Longs Were Liquidated. Can It Hold $76,600?",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObThmcUtXenVLZHc3dEttNG4tYnRRYVJsWllIZXNHemF1WlBNZEtzNzRIazkzTElYMEI5RUZ3aHR2UDZPV3Q5OVM0NFFubml6MjBFQXhzVzB0YWY3aklXTXFvVGVTeUY1SkR4VnYzUDEwdUEzZkFXZGNqc0xtTU9ROVV1a2ZEM3JtSXQxMjdIbUhKeFR1Rk0zMQ?oc=5",
+        "published": "Fri, 30 Oct 2026 14:53:19 GMT",
+        "category": "マクロ"
       }
     ],
-    "XRP": [],
-    "SOL": [
+    "ETH": [],
+    "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ライバルからパートナーへ、Polygon と Solana が提携して銀行へのステーブルコイン決済を実現",
-        "title_en": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdkxqSVRZWmI1UEdURTlxUVhZR0MzcnlPX1pMbEE5c05DY3ZMMEZRbExncHQ2NEhiaWhPWVRudU9Ed1k0UXdTRXFFM0RHdGZLaERTbmtwTjYxbzR2dzk1QWpZSHRFNFQ4UnZldVUtRnVSV0FGTnJyUTFtMkxJWmNsN041eGdTc0RkTldfZXY0YlBsanpQYlZjUXBSMjEtbWhWNjhzLWdfT0Vnd2JObk11N0lfZktQUmJWV0pqa0hSWjVXVG1zYU40Ukd3?oc=5",
-        "published": "Thu, 29 Oct 2026 16:35:43 GMT",
-        "category": "提携"
+        "source": "Yahoo Finance",
+        "title_ja": "ハッカーがバイナンス盗難から2億3300万XRPを保有。売却された場合どうなるか",
+        "title_en": "A Hacker Is Sitting on 233 Million XRP From the Binance Theft. What Happens if It Gets Sold?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTVGSThVSzd4ZWozdXd3ZklDeVFkUmpQX0NYODZzM3dJOV9Lb3ZsektCUndvZUd1Y1p3RkU2aU1HRVl6eS1KcVdIdmhWckxsQ3dUY2hKLU5DemlMd293R0s4VkY2d2RWZDlpdHRMUVhvRnptZGxGOEgtbmRFUkRBTElZYy1yR3UwbDVUZldTWHd2S0VmOFJweWxFYw?oc=5",
+        "published": "Fri, 30 Oct 2026 16:33:59 GMT",
+        "category": "ハッキング"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ライバルからパートナーへ：Polygon と Solana が提携し、銀行へのステーブルコイン決済導入を推進",
-        "title_en": "ライバルからパートナーへ：Polygon と Solana が提携し、銀行へのステーブルコイン決済導入を推進",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmdNMDZGOFN4Q2REekxsV0dwUHRzMHBpa05fQkNJTDFIbUZJZ3YzUjJmR2V1SHg1QmE5UVJGQzZTVkRMcEVPVkV5YkZRZVU4bFJmMlNJNkQ0UXh3bzJtUlZVYXlmNGdqTlU4NFNmZ2xWTFhHZ3ZmTWM3YzZBX2E5NnowZ09UcnV6UmptT3VxcUNOZ3ZtNGZpb2hYOTF5bVQyVWxNeUZndVhTRFEtM2FWNVg4a2Rxc1VkOWoxOVR6ejBXVTJEZ3gtbUZ6RnZTUQ?oc=5",
-        "published": "Thu, 29 Oct 2026 16:35:43 GMT",
-        "category": "提携"
+        "source": "Yahoo Finance",
+        "title_ja": "リップルのRLUSDが今年88%成長する一方XRPは29%下落。ステーブルコインがXRPに取って代わっているか",
+        "title_en": "Ripple’s RLUSD Grew 88% This Year While XRP Fell 29%. Is the Stablecoin Replacing XRP?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0ZMQTdwczNnSTFuUHdSalllbVhIcDFIT2hnWFI5WFpGQTFiSktNTTFmQVhfLVVta2dlQUtSTUh1eWpVVWlsaUZCSm05RGkyZ2dtU1lNdnJSUVdlVkRlMVVUQ3BfMGZIaUdyU0NOMUg2aDdiQVZmOUJyRklKTDR3aVVybG8yME5xVksza3dZRk44WUJSWFE?oc=5",
+        "published": "Thu, 29 Oct 2026 22:59:53 GMT",
+        "category": "その他"
       }
     ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Aave の Horizon が Chainlink の週末価格をトークン化米国株に採用",
-        "title_en": "Aave’s Horizon to Use Chainlink Weekend Prices for Tokenized U.S. Stocks",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEtKd3A2bHFuNWw5Zk1ISDU4OEhrMWxxakFwaXA3bnZROHJoY1YzNkZOR2QwQWQ5TUtXNk16aFFnVEF1TGpmc0h2RndfdThqOE5UUmZBbHRxT3RSNjlMOXg5ZTFtTFV6eHBvNlVCUnJ6MGFPQjQ1bEdoMGdEM1BJUlNyUDBSUFIzLVZJQkFYM0p6OVdXS19Wbk41cHUyU1JfVUNSUA?oc=5",
-        "published": "Thu, 29 Oct 2026 14:27:00 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "Chainlink がトークン化資産の週末価格提供を開始、ローンチパートナーに Aave を迎える",
-        "title_en": "Chainlinkはトークン化資産の週末価格提供を開始、ローンチパートナーにAaveを迎える",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak04a0pBSlRGQnl5alZRekhBazdhV1p6Q1ZuOUl1R2JEMTdXRFV1UUNHV3RMVjFpNFEyTzEtNFprSFFJMnNlUmZieV9QSHo1ZWRWWXBLdHpvUW5EemRwREJVM2FvQWl5VEIyaGhrN1B4QmZWLVFOdlJmdjQ2NGNNSVVndnR4UnBYZE1WbDBsY0pEVEJrb1hkRTJlZTV6X28teFdQWGtWSmcyeXdwd3oyaFFLcnFHUnZwcTV2VnY5bGk?oc=5",
-        "published": "Thu, 29 Oct 2026 14:15:00 GMT",
-        "category": "採用"
-      }
-    ],
+    "LINK": [],
     "SHIB": [],
     "AVAX": []
   }
