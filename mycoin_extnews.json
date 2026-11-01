@@ -1,31 +1,40 @@
 {
-  "generated_at": "2026-10-31T23:59:43+00:00",
+  "generated_at": "2026-11-01T05:51:50+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "CZがバイナンスハッキングはビットコイン換算でマウントゴックスより小規模と指摘、マウントゴックス後のビットコイン値動きを振り返る",
-        "title_en": "CZ Says the Binance Hack Is Smaller Than Mt. Gox in Bitcoin Terms. What Did Bitcoin Do After Mt. Gox?",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3JTRXhjWkF2THJmbTRRRmtnN0g3VlBPczlpYl9YdUFzQTZPLTdEOW5UYlo2bG83c08wYmJEX2luN3ZMdzFjWV92cGZOMS10ZVRsWDhiUXNTejJnaGVoNzhlZEN6eG9BUDZrYlRqS29lbmE1TFZDcEJYclNDNXdJMFBTY2xSNWFfR3l6Y0pFbVB2MFMwNFpxNg?oc=5",
-        "published": "Sat, 31 Oct 2026 21:17:04 GMT",
-        "category": "ハッキング"
+        "title_ja": "ストラテジーのミシェル・セイラーCEO、次のビットコイン強気相場は既に始まっていると主張",
+        "title_en": "Strategy's Michel Saylor Says the Next Bitcoin Bull Market Has Already Started. Here's Why He's Right.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHVJaUhRbF92ZDVIWjEzbklYWlRKME1pRzFnbVFpaVhBaENZTlowUEpZUVBCSXNBNXhwRE02cXZ6dzJuWjZPSDQxT1pFdTE4ZE1NNVZ2NGsweU41TmNOQW9rVjBEdDhxaFEtQ2IzMS1ScTNjbm5nNVZ0dzcxclFiWDdROFRVcVp4ZTdNYmt2M0h4cUdnV3YxVERybWlJYkE?oc=5",
+        "published": "Sun, 01 Nov 2026 03:20:00 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "バイナンスが盗まれたコインの数十億ドル規模の買い戻しが必要、バイナンスの買い戻しはビットコイン相場を押し上げる可能性があるか",
-        "title_en": "Binance Needs to Buy Back Billions in Stolen Coins. Could Its Buying Lift Bitcoin?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXRidWtYTmZVdmw4VTg0a3JaN3VUZU5Tb1RLcWtKUmc4MXNEU01aUF82bWlyVEh4bXdwbHBrQkVMTWxMbUVVUmMzazBTdFNtcGZOWWZMRGkyRzNNTlI4OVYxM3VuMW8zNHV6Z2pjQjBKQnRPSm44NDhFS2JQRklheXhrdFlOOTZ0WnZ5UkdPbk5XTzd2NDFtaXRyaGQ?oc=5",
-        "published": "Sat, 31 Oct 2026 19:37:55 GMT",
+        "title_ja": "JPモルガンがビットコインについて大胆な予測を発表、買うべきか",
+        "title_en": "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5",
+        "published": "Sun, 01 Nov 2026 01:20:00 GMT",
+        "category": "発言"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "FBI、北朝鮮の60億ドル規模バイナンスハック関与を確認、DeFiコミュニティにBTC・ETH・SOLアドレスのブロック要請",
+        "title_en": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
+        "published": "Sun, 01 Nov 2026 01:12:00 GMT",
         "category": "ハッキング"
       }
     ],
-    "ETH": [],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "SECの議長がほとんどの暗号資産は有価証券ではないと発言、XRPの5年間の法廷闘争の後どういう意味を持つか",
+        "title_ja": "SECチェアが大多数の暗号資産は有価証券ではないと発言、5年間の闘争後XRPはどうなるか",
         "title_en": "The SEC Chair Says Most Crypto Assets Are Not Securities. What Does That Mean for XRP After Its 5-Year Fight?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlVkVjBVVDJIRnhwNVBFMUVQZm1qUFAwR2hhLXpvazZCS0FWMHFLM1BvcXRiVmw0dGdoZnF1YVRHX2ZwTE81TzNLUld0YzdQa0JBQk5hajBtX3c3aHhjWmttdk5hYjJ4bmcwcDQydHQ0TE5JUVVmSzB5anhFbmx0X2pMUVZDbGlhWXJONzJ0RzJZMnVmV1E?oc=5",
         "published": "Sat, 31 Oct 2026 20:27:27 GMT",
