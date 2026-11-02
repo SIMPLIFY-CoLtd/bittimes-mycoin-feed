@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-11-02T00:30:17+00:00",
+  "generated_at": "2026-11-02T10:50:51+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "セイラー氏がMSCI裁定前のビットコイン追加購入を示唆、戦略が売却を迫られた場合BTCはどうなるか",
-        "title_en": "Saylor Is Hinting at Another Bitcoin Buy Before MSCI Rules on Strategy. What Happens to BTC if Strategy Has to Sell Instead?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1BHdkRUc1dxSWpaUFRtVkJDdVB6MklWQmdwTVBxVkdfejBIMEVwRjRzbmc3b2ZmQzR2QjlSYUh6TmtIS2Q2QlI4LVU1SGN5STdqamhXRVZlX3VDaWdnTW5kT01XYmxabXBDcHVNZ09XUll3SWxvRGZGLXdNd2RSc0VaOTVsMGs3UzFIdjdXX0tMSy1tNWg2Z2R6Mm4tZnk5?oc=5",
-        "published": "Sun, 01 Nov 2026 18:01:09 GMT",
-        "category": "大口"
+        "title_ja": "ビットコイン、バイナンス・ハックに耐性見せるも市場の警戒感は残存",
+        "title_en": "Bitcoin's Resilience After Binance Hack Masks Market Jitters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUU4NlBmaEp2RDNONi13ajNFNXRRMjNoNW5hTjlDZkFtT0oyMWZwN3ZnZTZYeUdSb0YzUkwxT3ZHWkluZWhyRm1pZ1o3bGRha1FSRW1KSUFSNmppVV9Bc1hGUkRDNW5PU2NhYmRuTlhlOS1JRVdCd1cyNVZzOWZaS2loaWJnN1FvaWhCZUZYdEZ2LWZENjIwVmJSeGxKdDU4aHNEbA?oc=5",
+        "published": "Mon, 02 Nov 2026 10:11:17 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "石油、インフレ、FRBリスク──マイクロストラテジーがいま一層のビットコイン購入を望む理由",
-        "title_en": "Oil, Inflation, and Fed Risk. Why MicroStrategy Still Wants More Bitcoin Now?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDRtXzR2cC02ODRmNFBZa2VSQU1tWUh1SXpQclZLTWY1cTlyOHJ3dVpHd2YydjZYd091dlFEYXp5bEROVDU2a1JDYndybjBsdkwtOWo0azhEYzk4d29nQS05TU5kTDlYRUpESFJTekVqLXotSUZVTUp6SmxUVExGX2txWWIzZEVyOFdTT3hYbDFrQnBJbFE?oc=5",
-        "published": "Sun, 01 Nov 2026 17:23:23 GMT",
-        "category": "大口"
+        "title_ja": "63億ドルのハック、ビットコイン強気相場を試す。強気相場が通過した3つの兆候",
+        "title_en": "A $6.3 Billion Hack Tested Bitcoin’s Bull Market. 3 Signs It Passed",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNocWNOYjBUSkFrNzZteVdUSEJTTHBKbDE1QVFkZjVEVHVsUUhfUWoyZXJyQnlGb2l2V0JwNG9uamd6VEdxZkpSQnlTVTk1WGVTNk1xc1dWNURYUHFMOURfY3JtZXNhWW1WLVVoVi04djkxY05KcjlIcWZKRkY4MnA0UWdscGkyMW83Rk9ZcXMxUQ?oc=5",
+        "published": "Mon, 02 Nov 2026 09:08:35 GMT",
+        "category": "ハッキング"
       }
     ],
     "ETH": [
       {
         "source": "CoinDesk",
-        "title_ja": "FBI、北朝鮮によるバイナンス60億ドル盗難を確認、DeFiコミュニティにBTC、ETH、SOLアドレスの遮断を要請",
-        "title_en": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
-        "published": "Sun, 01 Nov 2026 01:10:00 GMT",
-        "category": "ハッキング"
+        "title_ja": "中国共産党、暗号資産とブロックチェーン利用の腐敗摘発を呼び掛け",
+        "title_en": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWEtSQTFQOFlXTUVyWk9qc05Wb3hPeGU3THNsVHFSUG5tb3QtZ0VOWUVfaExNdXl3MUdHNlZ0d0paU2JpejdqS0tjUzh0TWxLeE14SVo2ZDRvX0s1QUM4RmZqU0dkNndvcEVPQzhCckN4TEUwWlVmTjQya3o5X1o3TThiejdWaWEzMzhDVlltaDZNVXFNQ05JYmdJWTBOQlJXLXQ5WTF0aG9rY3BYUjVKdW44S0R0NGNBa0g2Nl8tcE1rNC1jWmNWSGZOcVZLUVRz?oc=5",
+        "published": "Mon, 02 Nov 2026 08:41:28 GMT",
+        "category": "規制"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "AI エージェント、人間の承認なく暗号資産の支出制限を回避、新テストで判明",
+        "title_en": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY09RQkZtUy1pcGpmVXJHNXY1VzJueUNTWG9sZm9JMVRsRk5HRERRcWtWN2JiNEZBaURtbFVBX0VmcG1SN1dnVHd1ZEVHaC1JX3VOUTVUUHNlcmh0bkF6RmMzQUFEdS01ejFwUmFDSTR1Z25fVFA4Y2d5NV85U0drOG1JcVpFU0lScGlKYmtfTkZhOXM3TlhsN0RKem5BdDZ5MEF3RXRIMjdTbFVuN0htbzNQOHVYN3dad2wwb1NKdE5DQmlJalYtaUMwWUdaODZIdUE?oc=5",
+        "published": "Sun, 01 Nov 2026 17:00:00 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [],
