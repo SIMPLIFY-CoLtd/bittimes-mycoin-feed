@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-01T19:28:26+00:00",
+  "generated_at": "2026-11-02T00:30:17+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Decrypt",
-        "title_ja": "ビットコインETF投資家、バイナンス過去最大ハッキング後に売却へ",
-        "title_en": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRDFtc0xfbXJNejNUQjdvM1VQYTlmWXhVVTZQV1F3N3cyMWcxYndhdUFRZnV6V29KUHhveWZzMmdqVDh3d1NhVExCNV9Sdm8wZzRmVlN1ZHpSNFVUVkpjSkxDU1lFSUtyZ2p4SGdUdWdZLUUxUURXMjFKNWpKdw?oc=5",
-        "published": "Sun, 01 Nov 2026 16:01:02 GMT",
-        "category": "ハッキング"
+        "source": "Yahoo Finance",
+        "title_ja": "セイラー氏がMSCI裁定前のビットコイン追加購入を示唆、戦略が売却を迫られた場合BTCはどうなるか",
+        "title_en": "Saylor Is Hinting at Another Bitcoin Buy Before MSCI Rules on Strategy. What Happens to BTC if Strategy Has to Sell Instead?",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1BHdkRUc1dxSWpaUFRtVkJDdVB6MklWQmdwTVBxVkdfejBIMEVwRjRzbmc3b2ZmQzR2QjlSYUh6TmtIS2Q2QlI4LVU1SGN5STdqamhXRVZlX3VDaWdnTW5kT01XYmxabXBDcHVNZ09XUll3SWxvRGZGLXdNd2RSc0VaOTVsMGs3UzFIdjdXX0tMSy1tNWg2Z2R6Mm4tZnk5?oc=5",
+        "published": "Sun, 01 Nov 2026 18:01:09 GMT",
+        "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン78000ドル付近で推移、Polymarket複数セキュリティ事案後被害者返金",
-        "title_en": "Bitcoin Holds Near $78K Over Weekend As Polymarket Refunds Hack Victims After Crypto Security Scares",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXZfQjlDaHRWaTN4cEdjQXZ1SmxrQm5mU3dmRURHSUJGNmJMd04ta3E0VmFRNzY3NFYwbUdYLS1HdXdsUnEzbXVMV0l1Y1hJbEhvakpQZkpxMkRZOTFnV1g4a1dDNi1pYW8tb0RENThoemZZZS1yaDBGWjA4Q2lPb05TdENrb0tFR2xpdHZWS0J4OWlIMHIw?oc=5",
-        "published": "Sun, 01 Nov 2026 13:34:59 GMT",
-        "category": "ハッキング"
+        "title_ja": "石油、インフレ、FRBリスク──マイクロストラテジーがいま一層のビットコイン購入を望む理由",
+        "title_en": "Oil, Inflation, and Fed Risk. Why MicroStrategy Still Wants More Bitcoin Now?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDRtXzR2cC02ODRmNFBZa2VSQU1tWUh1SXpQclZLTWY1cTlyOHJ3dVpHd2YydjZYd091dlFEYXp5bEROVDU2a1JDYndybjBsdkwtOWo0azhEYzk4d29nQS05TU5kTDlYRUpESFJTekVqLXotSUZVTUp6SmxUVExGX2txWWIzZEVyOFdTT3hYbDFrQnBJbFE?oc=5",
+        "published": "Sun, 01 Nov 2026 17:23:23 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "CoinDesk",
-        "title_ja": "FBI北朝鮮によるバイナンス60億ドルハッキングを確認、DeFiコミュニティにBTC・ETH・SOLアドレス遮断を要請",
+        "title_ja": "FBI、北朝鮮によるバイナンス60億ドル盗難を確認、DeFiコミュニティにBTC、ETH、SOLアドレスの遮断を要請",
         "title_en": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEdVamZNQWJjQVJNcUxLMVpZYWt1VlJGUTlRRUJ5YzRmZm9hcnM2RjB2RDBpdUNkVlNWTkxZbVR2ZVpGU0IzaUpzYXNYc3dwSUpmUlZ3cWRxa2NNOGFuSkxGeFdJM3JjOEt4ZDZpNlY1NFVuX0l6aEx3RVV1VG5kX2hEM3NZQ2xDWG9EUnlBXzc5dnZmZWN6aE9iUWwtR1NVNTlLOTh2ZlRUVGk3RWZXREMwVXNCam5MT1I2V1p0LS13VXF2SmNlcWoyNEZPRkp1QmMxYkQ4ZDJIcWZBTmlEdUtsalp4Mk92WVE?oc=5",
         "published": "Sun, 01 Nov 2026 01:10:00 GMT",
