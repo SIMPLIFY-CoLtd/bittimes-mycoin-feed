@@ -1,78 +1,62 @@
 {
-  "generated_at": "2026-11-03T06:19:05+00:00",
+  "generated_at": "2026-11-03T16:57:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "バイナンスがSAFU保有ビットコインの半額約5.8億ドル相当を使用、データが示す",
-        "title_en": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzhLQ2t2TlZuNk42Q0hlX0E1Xzg1QkRIMHk1NjVhdFdqOXNBa2JkNkJjbTVON1o3dEdENE8wNDNvUm9xd2l4ZWtsb0dzS0U5RTZJZjdkbnhfcjlKN1pQOUNlV25yMnQxejhOUFI1SG1uM1F1cFpMbEpwUGJSWVhSalpxU1RaM1BZOTRXTU5zbjNnVThPUkczeUpmcFJkMHdFQklCSUZxVXZ4cGdZQlNWUlgzY0lUUmtzS1lfWnJn?oc=5",
-        "published": "Tue, 03 Nov 2026 05:36:56 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインETFが10億ドル流出、中間選挙とバイナンスハッキングが売り圧力に",
+        "title_en": "Bitcoin ETFs Lose $1 Billion as Midterms, Binance Hack Weigh on Sentiment",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkhqc214SjJ5RjRsRTV2Vm8tQ2N0QUlmNFBWb1psWHpiNDFaZFE4TVQ3ZlRnMlFfNmptZlo3akRfYmpmU3B3Q29NaGg0a0NKUG4xWTdSQ2pFSGJVb2w1SGdjQmNKUElHZE9kbjUyUlhvUnhKdFZuVWJkTW92MzdYdFRVNVV6bEY1aVZIREgwSFFQQzdVbzM4?oc=5",
+        "published": "Tue, 03 Nov 2026 15:18:58 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "BTC・ETH価格：米国中間選挙前にチップ株急落、ビットコイン77,000ドル割れ",
-        "title_en": "BTC, ETH price: Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTNyZUk3LXdveE1USkFpUlVmcFpwQW02R19zTU9HUFJwdWlKZEIxQ1dLSkNaVDF5blk0N2dmRTE2QnAwRmQtNUVDSFByY0xUWW14bWxTYUJPTXhOQ05WNnBHOUVQV0JaZ255bE5uWmJITmcwLW44ZmM2bkxmYk1Ja2NYM2RiZ1RXdEhSekVuZWFHV29LUzFodTdHZF9yNUtGc0VLLXVhNzJ4UFRxWkp3Rk9DUXVabEJLcjNLZQ?oc=5",
-        "published": "Tue, 03 Nov 2026 04:48:00 GMT",
-        "category": "マクロ"
+        "title_ja": "CFTCが米国株式市場に暗号通貨型のパーペチュアル先物を導入",
+        "title_en": "CFTCが米国株式市場に暗号通貨風のパーペチュアル先物を導入",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUZZMmdwWEMydmlVU1htM2IyZ0JsQllMbTFxU251dHc4Zi1KMVdHS2FuLTA2WUZBTUdFN2xZTld3b3FGRlZEbFRRVm82MW52QUMyTkwzWjNWOXNtdk1UQm1vTHZiQk1vVUFtZjJkdmpVdUEySklpQ0VoZjBzQUVkeXlwQlNScjMteFJBUE9hTDE2MVoxSGxFbG1uWmxZUDJzOUR0cWc0WmR6SlVpWWFEYWJQZXMwMUlQS0d4SHJzVUVxdVEyRGhkN1FB?oc=5",
+        "published": "Tue, 03 Nov 2026 15:02:13 GMT",
+        "category": "規制"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitmine がイーサリアムをさらに買増し、トム・リー氏はバイナンスハックをポジティブと評価",
-        "title_en": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW1vVjBEcFpqSC03SVpzOFlYNFFwbkg4OVZqUVRVSHBiWW5rQkdwRFVOWGdJejFoUG5SOVpBUjVuY2ZUbXk4RmxrYncxSHF5ZTZFdFYxYVRCZFBEbWRFTi14U1VCYmdoT2hGQ1BQWGV3eVNiNlZTdS1OcklzSmNuY2NzRjQtTzJZa3hYM0VSZWgzWFNHdGNodE1iTQ?oc=5",
-        "published": "Mon, 02 Nov 2026 16:23:24 GMT",
-        "category": "大口"
+        "source": "Decrypt",
+        "title_ja": "モーニングミニッツ：トム・リーがバイナンスハッキングはイーサリアムに強気と指摘",
+        "title_en": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2sxMzA0bEhoVWZkTkt4MW00WE9wZXp6ZnFUUFlUUWRONlI5LWdhRHMwRjRJRTNueHNYUVlnaHh6VXFLQWN3RlQyUVVSS3JKb2Y3eEtYV3JtYk10TVo2aUwxTEJ6UmhxR296RXFmbXlERWdSeGFyZFRkcXo4U0RuTXAzWDVSdzF6d1lmT1ZaaDFTbm5RU2E0?oc=5",
+        "published": "Tue, 03 Nov 2026 13:11:47 GMT",
+        "category": "発言"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitmine がさらに8,573 ETHを買増し、イーサリアム保有額が137億ドル超に",
-        "title_en": "Bitmine Buys Another 8,573 ETH, Pushes Ethereum Holdings Past $13.7B",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUxUaTRPa1Y0amwyeTVGeXVRSVpjY3ZVX3JsTkpjR1pfMllndXZTQmFQQjdhM1MyR0ZkNlVkYkduUUlYTkxpNDJDLTdlSEwweUpFRDZ2N0NGQ1pWYTVMN0ttNGhMVnZYdkpnQUFkUGxsa0RjSTJfZm5JZHd3NEJ0M0xjX1ptMTZJWDN5clZ2X2tyNkhYcVE?oc=5",
-        "published": "Mon, 02 Nov 2026 16:23:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "ETHGasが先制ブロック予約販売でウォール街をパブリックイーサリアムに招致",
+        "title_en": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFVGem1udEs1SHh0SnFQQ1ZOZS1yLU42eXhtWUc1amtEdUg0YTBsOFN6eUtHV1pzM1ItQnZ6MlVjeW1tNG1heDY2a25faE9oVi1PQ29feGhLZVJCeTZlSUtIc2hmVHQ2U3owRjZyS1gwLUNPWkFURjJ0TnJBWGlwSk1HVTVSU0s4eHVCNUYyaC1JN0tTQVhCRHRtaXRQaEFERG5PbjJIMWM1bl93V1VDV0Z4azJnb1V3ekQ5QjNsdUFpNnYwZlZxb3VDT0lhZHljeURmNg?oc=5",
+        "published": "Tue, 03 Nov 2026 12:01:05 GMT",
+        "category": "採用"
       }
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "XRP レジャー、ステーブルコイン関連企業が新規トークンを発行する可能性があった欠陥を修正へ",
-        "title_en": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDZCT0tYZ3pSM3N3S2FMb1ZWcDgtUHo2STJtQ1ZwZ1VlVXZLWFA0MXltbHZlTWs5UHFmd2FFRDEtZmMyZml4b2IwaVlDSXd2d0czUklocXBuOC13aHU1Q0k2OFdKV0EwekR5cTd6VFc0WVRlal8wbzJnYzhZc19DeklaUUJUOFA3TlVnQzhLWHdEbG9zb2dfRVJVOWpJbHl5QmtsdGdKaV9UMkN1TTAxMzVNMFhiVEtnQ0c0?oc=5",
-        "published": "Mon, 02 Nov 2026 16:56:21 GMT",
-        "category": "その他"
-      },
-      {
         "source": "Yahoo Finance",
-        "title_ja": "リップル CEOが20ドルのXRP要求に直面、投資家がRLUSD戦略を疑問視",
-        "title_en": "Ripple CEO Faces $20 XRP Demand as Investor Questions RLUSD Strategy",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQkVIYkdlRTdjVWpyMkNMb3g1MXpBd29mTUFtaGcwV2pwc21EQWF3X2ZmcVBISVEza29iY1pWRy1qMzA1cXBpOEtFQ3BZTXpVbTV1dVdZYVB4WWh3ZGJrVGVvNkgzbllKa3pHeHJjQ3JHYV96RWVfNmZXaGx1QmxpamdqYlh0MEdmc0l6TkFSOTZHdw?oc=5",
-        "published": "Mon, 02 Nov 2026 12:02:16 GMT",
-        "category": "発言"
+        "title_ja": "XRP ETFが運用開始から1年、XRP保有者の期待を達成したか",
+        "title_en": "XRP ETFs Mark Their First Year This Month. Have They Delivered What XRP Holders Expected?",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWIxR0tJRGU5OHBINDFZN0hyUXh4bzlNSjZLMTN2d0hLdUQ4UVNOOXZwT1dpX1FhT0ZRLVN2U0w2YmJEMDlwVko0R1Z3MUtWR1p5Zl9WOVM0WGlCR1lqN3FBZ3RmN2xTR2FNNWdDaHJTX3Iyc3Q0MGJKWFVaa2lISEcwWDhlWUgtYlpVaG1fUXQ1SFdW?oc=5",
+        "published": "Mon, 02 Nov 2026 17:57:30 GMT",
+        "category": "上場"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナの RWA時価総額が50億ドル超に、月間18%上昇",
+        "title_ja": "ソラナRWA価値が月間18%上昇で50億ドルを突破",
         "title_en": "Solana RWA value tops $5 billion after 18% monthly gain",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmx1cFEtajZpZDV1UGlRVkpwSHdicjFKbHRYZmgzbkpLMVlieDlKdGcyUC1URHZZT1BhcndCOHFpdzdqbXYtMGg4bFdyVDJtbXlpVzdmQUlpSFlKV1FWUlhES1pNRjhSejdGTGRxdWFJZEZGc2NrdjBEYjdEVnN2anpqSTBIT212c3ZpX3BJM0VfZw?oc=5",
         "published": "Mon, 02 Nov 2026 20:47:30 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Akash がソラナへの移行を発表、次世代 AI インフラを強化",
-        "title_en": "Akash Announces Migration to Solana to Power the Next Generation of AI Infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUNIVUdSS3FOSTdoZERJTi1VeHYwSnBtRlZlQXZFeGJuZVlFZlgwaXM2Wk95SjZiUWxjX2xxQ05kNnVfX3NIYVdsbmRSeGRyS3VKM1p0aDBSMW9FTGlMRTQtd1RLWXRMQUg1V2FqUDNselE1YjJnY3R4Rk5GUWVMUjBDQWVkYUFiZEJ5T0hSNXpQbUloYVhSUERKZG5ocHY1OHd2cA?oc=5",
-        "published": "Mon, 02 Nov 2026 17:10:00 GMT",
-        "category": "提携"
+        "category": "採用"
       }
     ],
     "ADA": [],
