@@ -1,47 +1,55 @@
 {
-  "generated_at": "2026-11-04T05:53:36+00:00",
+  "generated_at": "2026-11-04T14:14:02+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "米国が制裁するモスクワ取引所、12月にビットコインとUSDTの上場予定",
-        "title_en": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHMtOGFFdnZjeGR3U28tUjZwSkpNVVNwRXZNNmVsRkFvUXF0aDlYcEh0SGNKd2tzWXJkcXhYcjVWanBqNTA2U0tkcE9ab0luZHFWU01JU2IwWThGc3pUWFdkQ0NLcHBrdHZvTGxZVk1zcTBwVHJBTDNJNTdvNDltdEZadmhxTVdHSDF3eV9MT1ZLZmxCdGhuLVhBSDZZcjZzOGNRdjdSNHkwZkREd3E0M2hfZUxyNEpPQmNvNA?oc=5",
-        "published": "Wed, 04 Nov 2026 05:14:12 GMT",
-        "category": "上場"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン一時75,700ドルまで下落、民主党圧勝予想が市場を動揺させる",
-        "title_en": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamJBY0QtRnVoY3FlMXIyQUNJUk8wWl9xWGpwV2JyNlk4Tm5pTVdCamJqQUROR0plYWZnZjdCT180S3hZVm9UQmctdk1QbjlpLVVNYkphNHVMUHkyWVJZenM3UjlLVWFBaFNXM2h3VmRIaUd6SDljcHEyNjJpSks2bmh6Tk1lajRzeTFrOWNpcm1QdnFoZ3pfcTVhRm10MXVnU3l2VWFaZElrOEV3VUVzVkhlTjBnbEVfMVlBeTB6eEQ?oc=5",
-        "published": "Wed, 04 Nov 2026 04:48:00 GMT",
+        "title_ja": "ビットコインが中間選挙後の下落から反発、DeFiが上昇をリード",
+        "title_en": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdl9SZHZudE5rNGFQck5hakdMNWN5UmZEaGoyTF9iZXVSOVVvNzJ1VGIxM2prb1lCNUh5eHlNbHZ2T3ZaZEw1V282X0c4endZMEx6Z1FFYUZ1cWhETndoYVBCLTVMUU41WXpYZVdWUFlhTU53VFRYVEM3MzBmNEtzYXpneHR3U0tsYzlIN25YdVFocndWUEZURTN4NkY5UQ?oc=5",
+        "published": "Wed, 04 Nov 2026 10:38:58 GMT",
         "category": "マクロ"
       }
     ],
-    "ETH": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーサリアムが6日連続のETF売却にもかかわらず反発、ホルダーは数十億ドルの含み損を抱える",
-        "title_en": "Ethereum Price Recovers Despite 6 Straight Days Of ETF Selling, With Holders Sitting On Billions In Losses",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0w5S0pwV0U2NzdCcEt6RUt2WE43aUh3MktKMjBGT01qT3VnS1ptV2c1dVNnT1djbzA0WWdVWlVjMkU5aHFwWEwxNmZjMTB2R1FKUk1WQXRvZV9la1lVV3RIQTBjUXVJRzd0aHJ0UXpFVWU2S0dkUFA2dTJQNkZwamlFUC1JV0oxVG52YVlCOFVtZ3E5VFNybFlHaEt1VWc?oc=5",
-        "published": "Tue, 03 Nov 2026 18:03:53 GMT",
-        "category": "マクロ"
-      }
-    ],
+    "ETH": [],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPレジャー、パートナーが余分なステーブルコインを発行できた欠陥を修正。それはどの程度のリスクだったのか",
+        "title_ja": "Ripple CEO、RLUSDはXRPのライバルではないと発言、強気の新高値期待",
+        "title_en": "Ripple CEO Says RLUSD Isn’t XRP’s Rival as Bulls Eye New Price High",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDliUWQtZG43QnhkbEE3RmlGVmxRcWs2ZFU5OGpmYlk4VnRsUmpQalhYM0JlWjNxV2VYSjhQeUpiaVA5OUF1bV92SlVYSHZXNjdvekM4MUIwcjdMaHotblRPenNMeVp3OHpDd3JiNFphWjlORDJubFp3SGNMdFpxUkp2LXgyZW9GZDRGVkNhUm5oZ0Z0?oc=5",
+        "published": "Wed, 04 Nov 2026 13:36:37 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRPニュース：XRP Ledgerがステーブルコイン濫造を可能にするフロー修正",
         "title_en": "XRP News: The XRP Ledger Is Fixing a Flaw That Could Have Let Partners Print Extra Stablecoins. How Big a Risk Was It?",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDdOcDVRam9SZkFjZVVsbDdsc05aMlY0MG83WmlXUm1oeVVxUVp2YzhtOUdEVXJXNUZ2ZXYyS1hDMThBcEo2TXJ1M0hTenhrTVpreDU4S1hlNVdpak82QnY1b2p3UEh6RkJ2NFh2MHJBYjN5QkdoQ1ZMUGQxcG45WjkzdkN5RUJGYXl4N0hhNXg3enNWY1E?oc=5",
         "published": "Tue, 03 Nov 2026 20:53:58 GMT",
         "category": "その他"
       }
     ],
-    "SOL": [],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "グローバル資産運用会社シュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
+        "title_en": "Global asset manager Schroders brings emerging market bond fund to Solana",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTU0YkFMQjZ5OUc1MF9sUDNRYXdFdUZvRHdMNFkxLUtyUV91V3RsQ3JBa1hBazR3OENqYmFSVnMwY0RIdFB1Z3NHcWMtNHR1TWJVWEY1TnRMQnpVU2tsN25WamVXNFQ2SUN3R21RZXBId01tQkVGVmlaZ0RZV3pDakVHNWtPcllGeXlwUmZ5NElIdUNaVWlDajFONm9oa1oyRE4tQllSZFljeXd5MUNKRnJXelVNTGtMeGc?oc=5",
+        "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
+        "title_en": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzRob2FTcnVqUUN6OW1hbzQyZ0pXTjI2Ymx0X2NTMldKWmtxZFNzNTM3MmlIOU9ZSEYwU3FZb01ENmxDYnhfZGNTN1l2UUNhUmtTbXB6Nm5ITVJTclFOMldUNi1JY0xucVhpQTdIanhaRkNETk52NVhTOVlwZ2FuT0N6S1JQWGFBUjQ3YVB1RnhId3NfUlR3MTQ1cWEtdkpSRlVTY2Fyd0x2TlYtMzEyblBvZTVxTGpLVXo2NDJB?oc=5",
+        "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+        "category": "採用"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
