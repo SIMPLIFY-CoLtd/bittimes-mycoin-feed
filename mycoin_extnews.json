@@ -1,74 +1,66 @@
 {
-  "generated_at": "2026-11-05T17:16:59+00:00",
+  "generated_at": "2026-11-05T23:30:33+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、選挙後の株価上昇が減速し7万7000ドル割れ",
-        "title_en": "Bitcoin tumbles below $77,000 as post-election stock rally fades",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lwS0toZUVrbGlwcnJJWU1JYXY4ckoxOHJsQTYzQWtzOG9yRkFpekpMVTNqMXJ6VDNfVjdsR2N1ejh4MEFBeUxpUFpaZ1ZUb01HQ3JFNkpqX3JiTGdWUWZEQmNqQnQzOENpM1RIekgtZG5yVno4MUlkUnVYZHgzNUp6S2Y5NExFaFNjRTMyam1hbTVDQl9mMUJUOHM2QWZ0SmQ3T0xDeWIwN3NlOF9uSjQ5d0FvUEFfbDlZ?oc=5",
-        "published": "Thu, 05 Nov 2026 17:03:58 GMT",
+        "source": "CoinDesk",
+        "title_ja": "AI相場の崩壊で株価が急落、ビットコインは7万6000ドルまで下落",
+        "title_en": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3VFZFhZZVFocTFFbk1VWFpidzk5SlF6VzVpbk5aakNLT2RTVDZwVWJSX2xVY3F4MVpaV3lRM2JPM3MtNUpTVmxObkNxX0t6WjB2OUMtVmxueDBRcGMwZmNZN0s4WEFHQWhzbXVXSEdWcXpyM3d6UXdWWnlsc0tsY01ndE9TWWN6MXBxOFNqeTlpdW9oSkFHd1pxMi0tMFlUYnNyRnV4elhZczBRNWhsempubS1xc1BFNUZWT3F3MlhWMXRweVU2TS1BV0pjUU0zX3c?oc=5",
+        "published": "Thu, 05 Nov 2026 21:41:37 GMT",
         "category": "マクロ"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "ビットコイン、AI銘柄の急落とともに選挙ラリーを帳消し、暗号資産ロング4億2800万ドルが清算される",
-        "title_en": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0VyV1NobHZxRjFvRlE4R2R3VFBwX1pHUTR5MkowRWtScHloelgtTDBOZ3Q2UlVxV1dDLTVKTEQ5cUFFVnYxVnBodjVFdGtNUVpoSkt2OHl6WDdfNllBMmFUakVQQnFJUHgtVXdHMkx3MnNDaEU4RmtybVpYSTZCUlZ4UzJjT2REMHJSVERnOW1FTmgyZTA4WGpiYXV6Zw?oc=5",
-        "published": "Thu, 05 Nov 2026 16:29:11 GMT",
+        "source": "The Block",
+        "title_ja": "ウォールストリート売却でビットコイン選挙後の上昇分を消す、仮想通貨清算が10億ドル超",
+        "title_en": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGZzRkQ1RDZIajBuWW9GaHY2V0VQbzhaV3FPZ2FOakZYREgyMkt4Y1A0Zk5MN2VKdUs4d2l5SGJIaF9qUFc3em5kbkhhSTUtSGtXTm1jTm1UMkN2ODJfUDB0QzYwUHVjc0RhTm44YnJQQXlSek1renZ6RXVJbG1XMzdMSFBZSlUzX2RhcC16cGh3YkRIaWJUZ0VrNmRxWVZIYktJTWlSZkNMekVaSmstYjRqdmxDZkdydUU5NzhGRQ?oc=5",
+        "published": "Thu, 05 Nov 2026 20:11:00 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアム6%上昇も、ウォール街は9月以降一日も買い越していない",
+        "title_ja": "イーサリアムが6%反発も、ウォールストリートは9月以降1日も買越なし",
         "title_en": "Ethereum Bounces 6%, But Wall Street Hasn't Bought a Single Day Since September",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXhZWHNYV2ZfWHlCMmxOM05OTHJUMlZzcWptOThObWFDdnRTXzJmSDBxLWp3Q3N4NkRQYzM1S2RNeDVReGVIWTNCWDFnUzRDTHdsQVR4cTdXQ2FnSWVWMjhFeGlIWVJCRWNHc1NWSWU4dlJpcTdDZ1YwQ0g0YzVZSzg3UzdIa2x0X1lVMjRPaWlzTE9FbEZOY1Y4MA?oc=5",
         "published": "Thu, 05 Nov 2026 01:00:00 GMT",
         "category": "マクロ"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップルの26億ドルのステーブルコイン、XRPではなくイーサリアムで拡大",
-        "title_en": "Ripple’s $2.6 Billion Stablecoin is Growing on Ethereum, Not XRP",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZm5vZ3FIMkNmT0J5aHVlaHNTSXFQemhQWExFeXdwVTRHUnM5MURlY0tCSnJaQmFzY1k2a0dDazF4dlIxdDY5TDlaeTUtRFJfbU83RFFVaXdtVWRlWkJoeTJsSmlRYjh4X1pyMnBubWhfcEl0RGlRWUVyMk9lQlc2UHRHZGNndWdDUkZoVjN1aDg1Z1pJOEZDaEF3?oc=5",
-        "published": "Wed, 04 Nov 2026 21:04:03 GMT",
-        "category": "採用"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "バイナンスのXRP供給不足が2022年以降最高、準備金が2億8000万ジャンプ、週足チャートが示すもの",
+        "title_ja": "リップル、ロンドンオフィスが定員超過、英国の仮想通貨シフト加速を示唆",
+        "title_en": "Ripple’s London Office Is ‘Over Capacity’ as Exec Flags UK Crypto Shift",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3ZWWG5renZPS3doaFRFbTVHWUJrMGxNMXNXbXZ3c1YxSUg0aG8wVkQ0Z2ROZDEwWC1UTmNWY1pZVVFiQXVjR283VXpueWJqUlY3ZlZjQUhlTWtfMllLTC1qaVh4dVJuZnVuUk0yMk9XUGZMNC12UmhlWWVQeEZUZ1YxNHBEeHA4d0NDRFdub2I4SV9Tckg2UWpvV2JtTDRx?oc=5",
+        "published": "Thu, 05 Nov 2026 15:21:00 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "バイナンスのリップルXRP供給不足が2022年以来の高水準、リザーブが2億8000万トークン増加",
         "title_en": "Ripple XRP Scarcity on Binance Hits Highest Level Since 2022 as Reserves Jump by 280M: What Does the Weekly Chart Say?",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2t6X25tUUF2Q2NZRzE0eXFDaWpjalJ1c05qTjMzdWs5X3lPTHNkbElmRFVNTVl0Nms5S0k2dmVMOHRPUkhJMGRKdVpjd3J5X1lKb0ZzemxCLTJIVDJmb01uRUVmMmFHWmFDeDRiODFkcERJVlpMYktGaEd2SDNrNnZ4SElZNGhkeTAtbnhGa01vQlY3UWdXNDBnSHFJQQ?oc=5",
         "published": "Thu, 05 Nov 2026 14:50:29 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "XRPレジャー、新規トークン生成につながる可能性のあるバグを修正",
-        "title_en": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx4dThMZmtWdEVsY3VMVGxyZzBLbUhLWF9aMGd0Zlh4aHVHTXI2NEJBdm1PMmRQRlI2cVVsTWJrN0ZQaVJIcUFoWmQxYTRtSmhGYVFPNFBoejNlZUZhTFhSREd5SnVCT21iX3FDdzRzRWxqdk1QYkJVbnk2N2ZaQ0duVFVVSFpzZVlVOEJVTlRtMmpDV1o2VS1sSWVJNHVncGQ1VTBkdVNwanJFNzFfZHdnajZ2dw?oc=5",
-        "published": "Thu, 05 Nov 2026 05:40:34 GMT",
         "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "Decrypt",
-        "title_ja": "Solana Labs傘下Leap、トークン化株式と暗号資産の取引モバイルアプリをローンチ",
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナラボのLeap、トークン化株式と仮想通貨取引向けモバイルアプリを発表",
         "title_en": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjhrMzhkQ1p5MTlsZjdTaHZzSjRESm51NFFHSUNiWG96azlFRk9Iams3c3pFTklhV3ROaFN3ajE2VlJ0WEhURW5ZdXdhZkZNTEdfcmhZV2loUEZJZ0hPaE5RUkI3bVd0RHFVbGluTmo2a2J4d0pmaUx4T1cwVzJHN3hlbXRSU1VQQnVybWZUNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0hKdmtzaWxEZ1g4clRnZEVJUVh1bUhYSVVEU3g5QUhvV0Q1TXpONkkzRndKYkJLeW43VEsxdVhqLWFXVEx4cHpEWVdveGVGYTRUb1VWWjFfYnptVlNjOVJ6MWVwMlRPNlczeEJNMVFJRnd6bnpSSlBXbFdLYVBtcWUzVlhGUzY0ZE9FaGF2NC04ZXU4UEJySThNV1JLUQ?oc=5",
         "published": "Thu, 05 Nov 2026 17:01:03 GMT",
         "category": "採用"
       },
       {
         "source": "The Block",
-        "title_ja": "Samsung Walletが米国Galaxy利用者向けにSolana上のUSDCアカウントをローンチ",
+        "title_ja": "サムスンウォレット、米国のGalaxyユーザーを対象にソラナ上のUSDCアカウント開始",
         "title_en": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5",
         "published": "Thu, 05 Nov 2026 14:19:00 GMT",
