@@ -1,60 +1,77 @@
 {
-  "generated_at": "2026-11-05T06:15:34+00:00",
+  "generated_at": "2026-11-05T17:16:59+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "American Bitcoin Corp、Q3 2026決算説明会で1株当たりビットコイン保有量が5%増加",
-        "title_en": "American Bitcoin Corp (ABTC) Q3 2026 Earnings Call Highlights: Bitcoin Per Share Jumps 5% as ...",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEN5WkFPTGM3S2ZEeWxBTEd0ZVJ6NE05ZTJmWVNETzNvai1GbGxkQzBwUEhMYXZ2UWFuQVpxNVc1X1hsLUZXdHN5V1JjV2ZRaUFtSlVkYVVSbkRjWFhmb3E5d1pobVJTZGVBVEJ2UG5OWDE0SFlRME53cWpxd05NUEFrR1VzNVNYbldkeWxuS2NMV2NFN3JXcnRn?oc=5",
-        "published": "Thu, 05 Nov 2026 05:17:00 GMT",
-        "category": "その他"
+        "title_ja": "ビットコイン、選挙後の株価上昇が減速し7万7000ドル割れ",
+        "title_en": "Bitcoin tumbles below $77,000 as post-election stock rally fades",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lwS0toZUVrbGlwcnJJWU1JYXY4ckoxOHJsQTYzQWtzOG9yRkFpekpMVTNqMXJ6VDNfVjdsR2N1ejh4MEFBeUxpUFpaZ1ZUb01HQ3JFNkpqX3JiTGdWUWZEQmNqQnQzOENpM1RIekgtZG5yVno4MUlkUnVYZHgzNUp6S2Y5NExFaFNjRTMyam1hbTVDQl9mMUJUOHM2QWZ0SmQ3T0xDeWIwN3NlOF9uSjQ5d0FvUEFfbDlZ?oc=5",
+        "published": "Thu, 05 Nov 2026 17:03:58 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "トランプ・メディアが3億4200万ドルのビットコインをCrypto.comに移動、ブロックチェーンデータで判明",
-        "title_en": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2JhaWVYSkpWdGxJcWdZS2U2UnJuOXNRNGFQa0M2ZGV1c0E1RmtUaktXZHg4R28xVGNobkV1YkZMLUVuXzk3QTd0LWxHaE1ZeFpmVUx2dmtIUlRDUDN4cl95V2RlOWgxX0p2WUE1d2NkQjZ0WWZlcFQ1M1pvQnBtMVZoMklQWFdXemtYaDNReG5KWERPM1ZobFJ3YzZqQTZqOEtPd1dnRkNJM1VmSlFHcHFUNkZ5emctS29CekU0RQ?oc=5",
-        "published": "Thu, 05 Nov 2026 04:11:00 GMT",
-        "category": "大口"
+        "source": "Decrypt",
+        "title_ja": "ビットコイン、AI銘柄の急落とともに選挙ラリーを帳消し、暗号資産ロング4億2800万ドルが清算される",
+        "title_en": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0VyV1NobHZxRjFvRlE4R2R3VFBwX1pHUTR5MkowRWtScHloelgtTDBOZ3Q2UlVxV1dDLTVKTEQ5cUFFVnYxVnBodjVFdGtNUVpoSkt2OHl6WDdfNllBMmFUakVQQnFJUHgtVXdHMkx3MnNDaEU4RmtybVpYSTZCUlZ4UzJjT2REMHJSVERnOW1FTmgyZTA4WGpiYXV6Zw?oc=5",
+        "published": "Thu, 05 Nov 2026 16:29:11 GMT",
+        "category": "マクロ"
       }
     ],
-    "ETH": [],
-    "XRP": [
+    "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "XRP Ledgerが新トークン生成につながる可能性のあるバグを修正",
-        "title_en": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx4dThMZmtWdEVsY3VMVGxyZzBLbUhLWF9aMGd0Zlh4aHVHTXI2NEJBdm1PMmRQRlI2cVVsTWJrN0ZQaVJIcUFoWmQxYTRtSmhGYVFPNFBoejNlZUZhTFhSREd5SnVCT21iX3FDdzRzRWxqdk1QYkJVbnk2N2ZaQ0duVFVVSFpzZVlVOEJVTlRtMmpDV1o2VS1sSWVJNHVncGQ1VTBkdVNwanJFNzFfZHdnajZ2dw?oc=5",
-        "published": "Thu, 05 Nov 2026 05:40:34 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "イーサリアム6%上昇も、ウォール街は9月以降一日も買い越していない",
+        "title_en": "Ethereum Bounces 6%, But Wall Street Hasn't Bought a Single Day Since September",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXhZWHNYV2ZfWHlCMmxOM05OTHJUMlZzcWptOThObWFDdnRTXzJmSDBxLWp3Q3N4NkRQYzM1S2RNeDVReGVIWTNCWDFnUzRDTHdsQVR4cTdXQ2FnSWVWMjhFeGlIWVJCRWNHc1NWSWU4dlJpcTdDZ1YwQ0g0YzVZSzg3UzdIa2x0X1lVMjRPaWlzTE9FbEZOY1Y4MA?oc=5",
+        "published": "Thu, 05 Nov 2026 01:00:00 GMT",
+        "category": "マクロ"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "100万XRP保有ウォレットが2026年高値を更新、XRPが1.30ドル上回る。保持できるか",
-        "title_en": "Wallets Holding 1 Million XRP Hit a 2026 High as XRP Climbs Back Above $1.30. Can It Hold?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2NQYTdjYnJOZXFkUVFVcEFZbFpEbFczcWJSQzdCN2hTVDR3TllJZ1E0bzQzOHI0VDMzN0dYc01XUXp4bzdRWlF5MUdZZEdQQmxhTFh6MzBUblhvZVVOTUowN29QU0E3M21OYmpkdlN6RTdmYVBFcklWazQwUV9TY2dmQ1pNUmRvTy1Dd0tXUTJib1ZyaDFFV25B?oc=5",
-        "published": "Wed, 04 Nov 2026 17:41:38 GMT",
+        "title_ja": "リップルの26億ドルのステーブルコイン、XRPではなくイーサリアムで拡大",
+        "title_en": "Ripple’s $2.6 Billion Stablecoin is Growing on Ethereum, Not XRP",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZm5vZ3FIMkNmT0J5aHVlaHNTSXFQemhQWExFeXdwVTRHUnM5MURlY0tCSnJaQmFzY1k2a0dDazF4dlIxdDY5TDlaeTUtRFJfbU83RFFVaXdtVWRlWkJoeTJsSmlRYjh4X1pyMnBubWhfcEl0RGlRWUVyMk9lQlc2UHRHZGNndWdDUkZoVjN1aDg1Z1pJOEZDaEF3?oc=5",
+        "published": "Wed, 04 Nov 2026 21:04:03 GMT",
+        "category": "採用"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "バイナンスのXRP供給不足が2022年以降最高、準備金が2億8000万ジャンプ、週足チャートが示すもの",
+        "title_en": "Ripple XRP Scarcity on Binance Hits Highest Level Since 2022 as Reserves Jump by 280M: What Does the Weekly Chart Say?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2t6X25tUUF2Q2NZRzE0eXFDaWpjalJ1c05qTjMzdWs5X3lPTHNkbElmRFVNTVl0Nms5S0k2dmVMOHRPUkhJMGRKdVpjd3J5X1lKb0ZzemxCLTJIVDJmb01uRUVmMmFHWmFDeDRiODFkcERJVlpMYktGaEd2SDNrNnZ4SElZNGhkeTAtbnhGa01vQlY3UWdXNDBnSHFJQQ?oc=5",
+        "published": "Thu, 05 Nov 2026 14:50:29 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "XRPレジャー、新規トークン生成につながる可能性のあるバグを修正",
+        "title_en": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx4dThMZmtWdEVsY3VMVGxyZzBLbUhLWF9aMGd0Zlh4aHVHTXI2NEJBdm1PMmRQRlI2cVVsTWJrN0ZQaVJIcUFoWmQxYTRtSmhGYVFPNFBoejNlZUZhTFhSREd5SnVCT21iX3FDdzRzRWxqdk1QYkJVbnk2N2ZaQ0duVFVVSFpzZVlVOEJVTlRtMmpDV1o2VS1sSWVJNHVncGQ1VTBkdVNwanJFNzFfZHdnajZ2dw?oc=5",
+        "published": "Thu, 05 Nov 2026 05:40:34 GMT",
         "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "CoinDesk",
-        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
-        "title_en": "Tokenization news: $1.1T Schroders brings emerging market bond fund to Solana",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTU0YkFMQjZ5OUc1MF9sUDNRYXdFdUZvRHdMNFkxLUtyUV91V3RsQ3JBa1hBazR3OENqYmFSVnMwY0RIdFB1Z3NHcWMtNHR1TWJVWEY1TnRMQnpVU2tsN25WamVXNFQ2SUN3R21RZXBId01tQkVGVmlaZ0RZV3pDakVHNWtPcllGeXlwUmZ5NElIdUNaVWlDajFONm9oa1oyRE4tQllSZFljeXd5MUNKRnJXelVNTGtMeGc?oc=5",
-        "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+        "source": "Decrypt",
+        "title_ja": "Solana Labs傘下Leap、トークン化株式と暗号資産の取引モバイルアプリをローンチ",
+        "title_en": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjhrMzhkQ1p5MTlsZjdTaHZzSjRESm51NFFHSUNiWG96azlFRk9Iams3c3pFTklhV3ROaFN3ajE2VlJ0WEhURW5ZdXdhZkZNTEdfcmhZV2loUEZJZ0hPaE5RUkI3bVd0RHFVbGluTmo2a2J4d0pmaUx4T1cwVzJHN3hlbXRSU1VQQnVybWZUNA?oc=5",
+        "published": "Thu, 05 Nov 2026 17:01:03 GMT",
         "category": "採用"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
-        "title_en": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzRob2FTcnVqUUN6OW1hbzQyZ0pXTjI2Ymx0X2NTMldKWmtxZFNzNTM3MmlIOU9ZSEYwU3FZb01ENmxDYnhfZGNTN1l2UUNhUmtTbXB6Nm5ITVJTclFOMldUNi1JY0xucVhpQTdIanhaRkNETk52NVhTOVlwZ2FuT0N6S1JQWGFBUjQ3YVB1RnhId3NfUlR3MTQ1cWEtdkpSRlVTY2Fyd0x2TlYtMzEyblBvZTVxTGpLVXo2NDJB?oc=5",
-        "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+        "source": "The Block",
+        "title_ja": "Samsung Walletが米国Galaxy利用者向けにSolana上のUSDCアカウントをローンチ",
+        "title_en": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5",
+        "published": "Thu, 05 Nov 2026 14:19:00 GMT",
         "category": "採用"
       }
     ],
