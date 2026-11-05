@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-11-04T21:12:41+00:00",
+  "generated_at": "2026-11-05T06:15:34+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン・XRP・暗号資産関連株が上昇、中間選挙で共和党が敗北",
-        "title_en": "Bitcoin, XRP, crypto stocks surge after GOP loses midterm 2026",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWDNOSHY1N2dUcGdrMEVNYm9FS2NsM1hEdFlYa0xEZXQ0S3hLSlpCTWtBblJpd1FfRU9ySDNDQktBcDc5QVBmeGNoaEdzaE5VVUlfVWtXWllJenY4YkFVVVB5QVUxQ3FFSmd2UnFnbTJuTlBRQVEyanRBV0xKU0FWOEN4WGYyd09BSFpERU44cnM0VTRHQzBWaVhLaXg?oc=5",
-        "published": "Wed, 04 Nov 2026 20:34:41 GMT",
-        "category": "マクロ"
+        "title_ja": "American Bitcoin Corp、Q3 2026決算説明会で1株当たりビットコイン保有量が5%増加",
+        "title_en": "American Bitcoin Corp (ABTC) Q3 2026 Earnings Call Highlights: Bitcoin Per Share Jumps 5% as ...",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEN5WkFPTGM3S2ZEeWxBTEd0ZVJ6NE05ZTJmWVNETzNvai1GbGxkQzBwUEhMYXZ2UWFuQVpxNVc1X1hsLUZXdHN5V1JjV2ZRaUFtSlVkYVVSbkRjWFhmb3E5d1pobVJTZGVBVEJ2UG5OWDE0SFlRME53cWpxd05NUEFrR1VzNVNYbldkeWxuS2NMV2NFN3JXcnRn?oc=5",
+        "published": "Thu, 05 Nov 2026 05:17:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "日本経済新聞",
-        "title_ja": "ビットコイン反発、8万ドル台を回復 中間選挙の結果でも買い戻し",
-        "title_en": "ビットコイン反発、8万ドル台を回復 トランプ与党大敗でも買い戻し",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdEZoZ1VGU2RmdzZGMmZnWDJIVTYxYWdfaGJCWDNLamNxRmtPTW5OTWFacl9mZWNZWVF2VWtzTjBhcHNJNjdXTHNWWXhFZll2Z2FEVU5aU3N2M3FZNWlpOFhRU0I5UXlXX05ZdQ?oc=5",
-        "published": "Wed, 04 Nov 2026 20:09:24 GMT",
-        "category": "マクロ"
+        "source": "CoinDesk",
+        "title_ja": "トランプ・メディアが3億4200万ドルのビットコインをCrypto.comに移動、ブロックチェーンデータで判明",
+        "title_en": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2JhaWVYSkpWdGxJcWdZS2U2UnJuOXNRNGFQa0M2ZGV1c0E1RmtUaktXZHg4R28xVGNobkV1YkZMLUVuXzk3QTd0LWxHaE1ZeFpmVUx2dmtIUlRDUDN4cl95V2RlOWgxX0p2WUE1d2NkQjZ0WWZlcFQ1M1pvQnBtMVZoMklQWFdXemtYaDNReG5KWERPM1ZobFJ3YzZqQTZqOEtPd1dnRkNJM1VmSlFHcHFUNkZ5emctS29CekU0RQ?oc=5",
+        "published": "Thu, 05 Nov 2026 04:11:00 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [],
     "XRP": [
       {
+        "source": "CoinDesk",
+        "title_ja": "XRP Ledgerが新トークン生成につながる可能性のあるバグを修正",
+        "title_en": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx4dThMZmtWdEVsY3VMVGxyZzBLbUhLWF9aMGd0Zlh4aHVHTXI2NEJBdm1PMmRQRlI2cVVsTWJrN0ZQaVJIcUFoWmQxYTRtSmhGYVFPNFBoejNlZUZhTFhSREd5SnVCT21iX3FDdzRzRWxqdk1QYkJVbnk2N2ZaQ0duVFVVSFpzZVlVOEJVTlRtMmpDV1o2VS1sSWVJNHVncGQ1VTBkdVNwanJFNzFfZHdnajZ2dw?oc=5",
+        "published": "Thu, 05 Nov 2026 05:40:34 GMT",
+        "category": "その他"
+      },
+      {
         "source": "Yahoo Finance",
-        "title_ja": "100万XRP保有ウォレットが2026年高値を更新、XRPが1.30ドル超に回復",
+        "title_ja": "100万XRP保有ウォレットが2026年高値を更新、XRPが1.30ドル上回る。保持できるか",
         "title_en": "Wallets Holding 1 Million XRP Hit a 2026 High as XRP Climbs Back Above $1.30. Can It Hold?",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2NQYTdjYnJOZXFkUVFVcEFZbFpEbFczcWJSQzdCN2hTVDR3TllJZ1E0bzQzOHI0VDMzN0dYc01XUXp4bzdRWlF5MUdZZEdQQmxhTFh6MzBUblhvZVVOTUowN29QU0E3M21OYmpkdlN6RTdmYVBFcklWazQwUV9TY2dmQ1pNUmRvTy1Dd0tXUTJib1ZyaDFFV25B?oc=5",
         "published": "Wed, 04 Nov 2026 17:41:38 GMT",
         "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "リップルCEO、RLUSDが拡大する中でもXRPは「北極星」と表明",
-        "title_en": "Ripple CEO says XRP remains the \"North Star\" even as RLUSD expands",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmFPOGVDdEZ6blhReVdIbi1WalhXVDVmeGp6WmMyYzd1VUJCZzNESjBLcndjWG5ISUEyRFV5TlFUMklhV3hlNVZJTTFSNjlna2dkOW9WTEtRRUYxS0tWS2JvWWVaVGEtQmRGSlgzd2dxTzk3N0JHM1BJbVg1WWNibGRuamFud0hzbnNMLW5qWEh5LWtpVl9EcUltUQ?oc=5",
-        "published": "Wed, 04 Nov 2026 14:39:04 GMT",
-        "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズがエマージングマーケット債券ファンドをソラナに導入",
+        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
         "title_en": "Tokenization news: $1.1T Schroders brings emerging market bond fund to Solana",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTU0YkFMQjZ5OUc1MF9sUDNRYXdFdUZvRHdMNFkxLUtyUV91V3RsQ3JBa1hBazR3OENqYmFSVnMwY0RIdFB1Z3NHcWMtNHR1TWJVWEY1TnRMQnpVU2tsN25WamVXNFQ2SUN3R21RZXBId01tQkVGVmlaZ0RZV3pDakVHNWtPcllGeXlwUmZ5NElIdUNaVWlDajFONm9oa1oyRE4tQllSZFljeXd5MUNKRnJXelVNTGtMeGc?oc=5",
         "published": "Wed, 04 Nov 2026 13:00:00 GMT",
@@ -51,7 +51,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズがエマージングマーケット債券ファンドをソラナに導入",
+        "title_ja": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
         "title_en": "トークン化ニュース：1.1兆ドルのシュローダーズ、エマージングマーケット債券ファンドをソラナに導入",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzRob2FTcnVqUUN6OW1hbzQyZ0pXTjI2Ymx0X2NTMldKWmtxZFNzNTM3MmlIOU9ZSEYwU3FZb01ENmxDYnhfZGNTN1l2UUNhUmtTbXB6Nm5ITVJTclFOMldUNi1JY0xucVhpQTdIanhaRkNETk52NVhTOVlwZ2FuT0N6S1JQWGFBUjQ3YVB1RnhId3NfUlR3MTQ1cWEtdkpSRlVTY2Fyd0x2TlYtMzEyblBvZTVxTGpLVXo2NDJB?oc=5",
         "published": "Wed, 04 Nov 2026 13:00:00 GMT",
