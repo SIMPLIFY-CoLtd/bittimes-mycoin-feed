@@ -1,30 +1,38 @@
 {
-  "generated_at": "2026-11-06T16:41:05+00:00",
+  "generated_at": "2026-11-06T22:57:10+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "The Block",
-        "title_ja": "Striveのビットコイン利益がQ3に5億900万ドルをもたらし、BTC購入が加速",
-        "title_en": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmdiRW96Wkg1Q3dEdjNRTHFCNzhuNUh2WGgwd0k5UTRnVzh1Rk5KZ2NwMjRhR2pEbGpra3NjU1pDSkF2d0EzYzFpbDZQam9CcDAydWJxY2x1VzQxbU9veVNBcFFWZlpSb19ZODdDSG9mcjQxNS0tNkRLOEcyV21qdnYxTGktRFVqd0Z1ejBuSXNvVjBjbm5kLW90VlpDNnlVRGZVczZKbzg2QU5tbDBweDJ1Z2I5WEtKYlFN?oc=5",
-        "published": "Fri, 06 Nov 2026 16:07:00 GMT",
-        "category": "大口"
+        "title_ja": "Elliptic、バイナンス詐欺犯が盗難トークンを1億2400万ドル相当のビットコインに交換と報告、取引所は出金再開を計画",
+        "title_en": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlAyU3M0bmJNUmRYSFJ0T3F6dF9wOXEyZHNKRmZiZmh4bzFmNjk3MHZ3TmRlaGxEVlJsekRtT2VTR3pQcUFCNlpEZ3JiNlhPcU0wMmY5ZFhjVTJBS2JLVVUwZTY1bFZmVjlGcHpEWWg1cWprSUJCbXlIcEUzNkZuczdBTTZVbkhQMGNaTzBpZkNpR3pVNUM2MXItNGcyRnpqbTNReFJsYkM3MjNtXzZZME9tVUd4eEFPSnF4RjB0SldNaE9PVXRlXzFYVzhwTEY2eTlJaDRzc3BNeDFaaVBv?oc=5",
+        "published": "Fri, 06 Nov 2026 18:06:00 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "米国市場急落の中、ビットコインETFから4億3000万ドルの流出",
-        "title_en": "Bitcoin ETFs See $430 Million Of Outflows As U.S. Market Plunges",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDZJeGZYU2x0Z294YkE2Wnh0WUhWY1lpRU1nc08yWnRROU1GOVFrM2hsYlRhSDk2NVJOMXJSZkVKcHYtN0pmeDZiTzItR21OdW9YOU9XVXAwZlBfdy01YXdLMGJpeFBkd1ZsZTNBVm4wSXRrTmh3VUhmVjVONXpuZ1hjSE1pdzZvZEY1VzlMbjVibkJtRlRGVQ?oc=5",
-        "published": "Fri, 06 Nov 2026 14:32:00 GMT",
-        "category": "その他"
+        "title_ja": "ビットコインが430万ドルのETF流出後に7万6000ドルを下回る、底打ったか",
+        "title_en": "Bitcoin Under $76,000 After $430M ETF Outflows. Has It Bottomed?",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUpZRTM2M0x5SVBnRGhQOTRXTjY3MGktZGltVDJJaVprYUs3OXFXa1BFUTFiNmt0MjltcmtpdExhVUE2VHIwSGpTN1kzN2hJd3Jpc084Z2Fpcnhndmp4dDNJR0R4aHZUc1Zod1lTdDdPdm1MSnlMRUdYTHRxdkFKWThZaTJZX1lFb0J3WDAzSW9Ed19W?oc=5",
+        "published": "Fri, 06 Nov 2026 18:01:24 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "1500万ドルのイーサリアム権限付与によるバイナンス25億ドル流出",
+        "title_en": "A $15 ethereum permission led to a $2.5B Binance drain",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaktQQVEyVDJIWm42RnltZ1djVTJaT1ItUldNcWg1Qk11OE1jbDBLZi1LSDJZXzNVck9oeDI0QlFzdC1qMnNqNDFlelNOV3h2NFVkUnlkVkVVSDFWSWxrZVdxNlREQjZoYWFnNjI0Q2UzLTU3M3Fsc1VvbG00OGVfdQ?oc=5",
+        "published": "Fri, 06 Nov 2026 19:00:00 GMT",
+        "category": "ハッキング"
+      },
+      {
         "source": "日本経済新聞",
-        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
+        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ（2026年11月6日）",
         "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bGo1X1FKWmJoR040S0s5b3lMMnhQQWNwa1g2Zy1ZcGphQ2l1T2E5Z3o5aC1fSFRPc01fQldTZUpBd3BzMFBrN2tMWkMxcmhodjdtMER5anJTcC1TSVBDejBScVhudTBYT2c?oc=5",
         "published": "Thu, 05 Nov 2026 23:30:00 GMT",
@@ -34,51 +42,17 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple CEOが暗号資産の後退懸念を反論：「親暗号資産派メンバーが両サイドで勝利した」",
+        "title_ja": "リップルCEO、暗号資産の後退懸念に反論「親暗号資産勢力が両側で勝利した」",
         "title_en": "Ripple CEO Pushes Back on Crypto Setback Fears: ‘Pro-Crypto Members Won on Both Sides’",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjc3azRLVEFqM0VIRThPRTZ4c1ZDano4Sng2SVhHWTQxR0pHc19Ec2htd1oyc0Q3ODZJWGpmaVlCOERmQlJQTHYzV3JzaDM4ZVAtWGgyWUY1TEw5a1J5bGI5RU5UWGRZdlByYkJnYUVJeC0tWHVYRGp1RVhURHFrOW1hSlVFODNZUlUtY0VRS0NURHNONVZtb21B?oc=5",
         "published": "Fri, 06 Nov 2026 13:00:08 GMT",
         "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ナスダックのXRP資産が1ヶ月でほぼ50%下落",
-        "title_en": "Nasdaq's XRP Treasury Crashed Nearly 50% In a Month",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlpvZXlxU0ltY1BzMDNQQVhiOTVsY1BiR1N3NmJLbkhVM0dKNGJYLUtsZUNHRnVvc2I4aXltYlhIb2ExS05JR29ESUo1LTBBdEdBZXVvbGYtdU9BcEEzc1dfMzJMX1ZaOEJwWEhOdW95Z3BUNEh1d1NDNW9VRUt0SDg5N3hkZ1ZOLXJRV1VuX2l6S3pzeXRDS0l6Y3NBQ0VROUE?oc=5",
-        "published": "Fri, 06 Nov 2026 01:00:00 GMT",
-        "category": "その他"
       }
     ],
-    "SOL": [
-      {
-        "source": "The Block",
-        "title_ja": "Samsung WalletがSolana上のUS Galaxy ユーザー向けUSDCアカウントをローンチ",
-        "title_en": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5",
-        "published": "Thu, 05 Nov 2026 19:16:00 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Solana LabsのLeapがトークン化株式と暗号資産の取引用モバイルアプリをローンチ",
-        "title_en": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0hKdmtzaWxEZ1g4clRnZEVJUVh1bUhYSVVEU3g5QUhvV0Q1TXpONkkzRndKYkJLeW43VEsxdVhqLWFXVEx4cHpEWVdveGVGYTRUb1VWWjFfYnptVlNjOVJ6MWVwMlRPNlczeEJNMVFJRnd6bnpSSlBXbFdLYVBtcWUzVlhGUzY0ZE9FaGF2NC04ZXU4UEJySThNV1JLUQ?oc=5",
-        "published": "Thu, 05 Nov 2026 17:01:03 GMT",
-        "category": "採用"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
-    "SUI": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Sui Group Holdings Ltd（SUIG）Q3 2026決算説明会のハイライト",
-        "title_en": "Sui Group Holdings Ltd (SUIG) Q3 2026 Earnings Call Highlights: $47. ...",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMThmNEE1MEoyb2lYQkNmY0RoeDFyY2VsNTdfSUFMbWZXZllkbUItQUcxdVdDNm84UXNTbm1wSko0SWY0RGhTVDV3UkVhdUlDM19DdDNSM0JLNElXX0E0aUlUMFNZOEtweGdkREpOR2c2bzI3S2ppWUR6VENxcEo3VXhILXB0US1FVzNDNWxMNzlPekVRLUlj?oc=5",
-        "published": "Fri, 06 Nov 2026 07:20:00 GMT",
-        "category": "その他"
-      }
-    ],
+    "SUI": [],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
