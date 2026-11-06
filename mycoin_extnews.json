@@ -1,74 +1,66 @@
 {
-  "generated_at": "2026-11-06T06:09:57+00:00",
+  "generated_at": "2026-11-06T16:41:05+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "The Block",
-        "title_ja": "IRENのビットコイン採掘収益が58%減少、年末までの完全撤退を計画",
-        "title_en": "IREN's bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHBpaFhuNVgxWWF4WUlsWUN2UENoUHZHdXNYb0NiWUN5TXJBei1IbmwtdGJFZGFwWkVvcmtCcEZCdXEtUWg5cUFzZWl0bk9yelA0UzhoTTRWLWwxMGhFMUdkdVZhMXVDSV93SHR4bDd0M3VwUnZLQktLbGc0cm9ZUWI5N3IzX0pMYVE?oc=5",
-        "published": "Fri, 06 Nov 2026 04:29:00 GMT",
-        "category": "その他"
+        "title_ja": "Striveのビットコイン利益がQ3に5億900万ドルをもたらし、BTC購入が加速",
+        "title_en": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmdiRW96Wkg1Q3dEdjNRTHFCNzhuNUh2WGgwd0k5UTRnVzh1Rk5KZ2NwMjRhR2pEbGpra3NjU1pDSkF2d0EzYzFpbDZQam9CcDAydWJxY2x1VzQxbU9veVNBcFFWZlpSb19ZODdDSG9mcjQxNS0tNkRLOEcyV21qdnYxTGktRFVqd0Z1ejBuSXNvVjBjbm5kLW90VlpDNnlVRGZVczZKbzg2QU5tbDBweDJ1Z2I5WEtKYlFN?oc=5",
+        "published": "Fri, 06 Nov 2026 16:07:00 GMT",
+        "category": "大口"
       },
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "『金持ち父さん』ロバート・キヨサキ、金・銀・ビットコインの暴落を予測",
-        "title_en": "『金持ち父さん』ロバート・キヨサキ、金・銀・ビットコインの暴落を予測",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zN0c3MFZmeXFvTkdJclNmU29UT0ZCQXoxdWZkRExJcWd0NzA4TlBoMnpzUnZNdlBENjZ0UERFSDhCa3B3QXFjaWZYVEEyMDl2ZmN1ampCcWVUdw?oc=5",
-        "published": "Fri, 06 Nov 2026 02:45:00 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "米国市場急落の中、ビットコインETFから4億3000万ドルの流出",
+        "title_en": "Bitcoin ETFs See $430 Million Of Outflows As U.S. Market Plunges",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDZJeGZYU2x0Z294YkE2Wnh0WUhWY1lpRU1nc08yWnRROU1GOVFrM2hsYlRhSDk2NVJOMXJSZkVKcHYtN0pmeDZiTzItR21OdW9YOU9XVXAwZlBfdy01YXdLMGJpeFBkd1ZsZTNBVm4wSXRrTmh3VUhmVjVONXpuZ1hjSE1pdzZvZEY1VzlMbjVibkJtRlRGVQ?oc=5",
+        "published": "Fri, 06 Nov 2026 14:32:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "日本経済新聞",
-        "title_ja": "ＴＯＲＩＣＯ、イーサリアム（ETH）の追加取得に関するお知らせ",
+        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ",
         "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bGo1X1FKWmJoR040S0s5b3lMMnhQQWNwa1g2Zy1ZcGphQ2l1T2E5Z3o5aC1fSFRPc01fQldTZUpBd3BzMFBrN2tMWkMxcmhodjdtMER5anJTcC1TSVBDejBScVhudTBYT2c?oc=5",
         "published": "Thu, 05 Nov 2026 23:30:00 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitmine、イーサリアム購入が鈍化する中で自社株買戻しを再開",
-        "title_en": "Bitmine Resumes Stock Buybacks As Ethereum Purchases Slow",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkNHT3RLSmhZTGM4UDBIallEVWNQdWhST0dLS1FWT3JXMWJxdWI5a1Q5cGlwb3I0MEI2V214UGVBeElCLXhZb25yV1NBSDBlZ2hEanVwRTJCd1VWS2RxS0JUNjNvOVVjQzlvNjhQSTJENThTcmp1cEwyeWwwdUR3cmNWNjJUek1iMnNQeVpGMDJ2UE01eG5YcElyMUlkaUtZME5ORDBRdw?oc=5",
-        "published": "Thu, 05 Nov 2026 14:49:00 GMT",
         "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Rippleのロンドンオフィスが『過剰収容』状態、英国の暗号資産シフトを経営幹部が指摘",
-        "title_en": "Ripple’s London Office Is ‘Over Capacity’ as Exec Flags UK Crypto Shift",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3ZWWG5renZPS3doaFRFbTVHWUJrMGxNMXNXbXZ3c1YxSUg0aG8wVkQ0Z2ROZDEwWC1UTmNWY1pZVVFiQXVjR283VXpueWJqUlY3ZlZjQUhlTWtfMllLTC1qaVh4dVJuZnVuUk0yMk9XUGZMNC12UmhlWWVQeEZUZ1YxNHBEeHA4d0NDRFdub2I4SV9Tckg2UWpvV2JtTDRx?oc=5",
-        "published": "Thu, 05 Nov 2026 15:21:00 GMT",
+        "title_ja": "Ripple CEOが暗号資産の後退懸念を反論：「親暗号資産派メンバーが両サイドで勝利した」",
+        "title_en": "Ripple CEO Pushes Back on Crypto Setback Fears: ‘Pro-Crypto Members Won on Both Sides’",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjc3azRLVEFqM0VIRThPRTZ4c1ZDano4Sng2SVhHWTQxR0pHc19Ec2htd1oyc0Q3ODZJWGpmaVlCOERmQlJQTHYzV3JzaDM4ZVAtWGgyWUY1TEw5a1J5bGI5RU5UWGRZdlByYkJnYUVJeC0tWHVYRGp1RVhURHFrOW1hSlVFODNZUlUtY0VRS0NURHNONVZtb21B?oc=5",
+        "published": "Fri, 06 Nov 2026 13:00:08 GMT",
         "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple XRPのバイナンス上の希少性が2022年以来の最高水準、リザーブが2億8000万枚増加",
-        "title_en": "Ripple XRP Scarcity on Binance Hits Highest Level Since 2022 as Reserves Jump by 280M: What Does the Weekly Chart Say?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2t6X25tUUF2Q2NZRzE0eXFDaWpjalJ1c05qTjMzdWs5X3lPTHNkbElmRFVNTVl0Nms5S0k2dmVMOHRPUkhJMGRKdVpjd3J5X1lKb0ZzemxCLTJIVDJmb01uRUVmMmFHWmFDeDRiODFkcERJVlpMYktGaEd2SDNrNnZ4SElZNGhkeTAtbnhGa01vQlY3UWdXNDBnSHFJQQ?oc=5",
-        "published": "Thu, 05 Nov 2026 14:50:29 GMT",
-        "category": "大口"
+        "title_ja": "ナスダックのXRP資産が1ヶ月でほぼ50%下落",
+        "title_en": "Nasdaq's XRP Treasury Crashed Nearly 50% In a Month",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlpvZXlxU0ltY1BzMDNQQVhiOTVsY1BiR1N3NmJLbkhVM0dKNGJYLUtsZUNHRnVvc2I4aXltYlhIb2ExS05JR29ESUo1LTBBdEdBZXVvbGYtdU9BcEEzc1dfMzJMX1ZaOEJwWEhOdW95Z3BUNEh1d1NDNW9VRUt0SDg5N3hkZ1ZOLXJRV1VuX2l6S3pzeXRDS0l6Y3NBQ0VROUE?oc=5",
+        "published": "Fri, 06 Nov 2026 01:00:00 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ZetaChain、12月9日のブロックチェーン停止とSolanaへのZETA移行を予定",
-        "title_en": "ZetaChain Targets Dec. 9 to Switch Off Its Blockchain and Move ZETA to Solana",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzd0TkZMRTV2YVhxQWtNT1ZfQXFrTUphMVFqR3lTeE03TFZadGVPTGhIdU1BQXpxaDJsbTlfWWpLMUJkTlF3WXlQS1dpTU41LVoyRkFIRGZRV2xWRFZHTjB3Nk1NV2xWLXJWbERRZXlCc040QjM3dmZBUG9ySnRWV3ozZDdlRUtxdDhzdDI4dFhncEUzRGtaUEFHdw?oc=5",
-        "published": "Thu, 05 Nov 2026 21:57:46 GMT",
-        "category": "その他"
+        "source": "The Block",
+        "title_ja": "Samsung WalletがSolana上のUS Galaxy ユーザー向けUSDCアカウントをローンチ",
+        "title_en": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5",
+        "published": "Thu, 05 Nov 2026 19:16:00 GMT",
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "Solana Labs傘下Leap、トークン化株式と暗号資産の取引モバイルアプリを開始",
+        "title_ja": "Solana LabsのLeapがトークン化株式と暗号資産の取引用モバイルアプリをローンチ",
         "title_en": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0hKdmtzaWxEZ1g4clRnZEVJUVh1bUhYSVVEU3g5QUhvV0Q1TXpONkkzRndKYkJLeW43VEsxdVhqLWFXVEx4cHpEWVdveGVGYTRUb1VWWjFfYnptVlNjOVJ6MWVwMlRPNlczeEJNMVFJRnd6bnpSSlBXbFdLYVBtcWUzVlhGUzY0ZE9FaGF2NC04ZXU4UEJySThNV1JLUQ?oc=5",
         "published": "Thu, 05 Nov 2026 17:01:03 GMT",
@@ -77,7 +69,16 @@
     ],
     "ADA": [],
     "DOGE": [],
-    "SUI": [],
+    "SUI": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Sui Group Holdings Ltd（SUIG）Q3 2026決算説明会のハイライト",
+        "title_en": "Sui Group Holdings Ltd (SUIG) Q3 2026 Earnings Call Highlights: $47. ...",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMThmNEE1MEoyb2lYQkNmY0RoeDFyY2VsNTdfSUFMbWZXZllkbUItQUcxdVdDNm84UXNTbm1wSko0SWY0RGhTVDV3UkVhdUlDM19DdDNSM0JLNElXX0E0aUlUMFNZOEtweGdkREpOR2c2bzI3S2ppWUR6VENxcEo3VXhILXB0US1FVzNDNWxMNzlPekVRLUlj?oc=5",
+        "published": "Fri, 06 Nov 2026 07:20:00 GMT",
+        "category": "その他"
+      }
+    ],
     "LINK": [],
     "SHIB": [],
     "AVAX": []
