@@ -1,48 +1,40 @@
 {
-  "generated_at": "2026-11-06T22:57:10+00:00",
+  "generated_at": "2026-11-07T05:39:14+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "The Block",
-        "title_ja": "Elliptic、バイナンス詐欺犯が盗難トークンを1億2400万ドル相当のビットコインに交換と報告、取引所は出金再開を計画",
-        "title_en": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlAyU3M0bmJNUmRYSFJ0T3F6dF9wOXEyZHNKRmZiZmh4bzFmNjk3MHZ3TmRlaGxEVlJsekRtT2VTR3pQcUFCNlpEZ3JiNlhPcU0wMmY5ZFhjVTJBS2JLVVUwZTY1bFZmVjlGcHpEWWg1cWprSUJCbXlIcEUzNkZuczdBTTZVbkhQMGNaTzBpZkNpR3pVNUM2MXItNGcyRnpqbTNReFJsYkM3MjNtXzZZME9tVUd4eEFPSnF4RjB0SldNaE9PVXRlXzFYVzhwTEY2eTlJaDRzc3BNeDFaaVBv?oc=5",
-        "published": "Fri, 06 Nov 2026 18:06:00 GMT",
-        "category": "ハッキング"
+        "source": "Yahoo Finance",
+        "title_ja": "VanEck CEO、次の米金融危機はワシントンから始まると警告 金やビットコインなど「実物資産」の保有を促す",
+        "title_en": "VanEck CEO Warns Next US Financial Crisis Will Start In Washington, Urges Investors To Hold ‘Real Assets’ Like Gold and Bitcoin",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5yblhkV2JWS3pCYkNfQWpKdjM1OG14ak9OVjM3REtFaVZmT3NSMENZR0FuV1RxM1A2Ymw5ajluM3pFdWlUNzQ1bXdTcnd1b2VVdWtNQl9TUnQ2d0djTGtDX1NTd2dEMjE1eE80Q2tROGQxRTk3bTdOVjNoUEFFWXBZRW95RWcxRUdZMlFwM2gtOWM?oc=5",
+        "published": "Sat, 07 Nov 2026 03:40:16 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコインが430万ドルのETF流出後に7万6000ドルを下回る、底打ったか",
-        "title_en": "Bitcoin Under $76,000 After $430M ETF Outflows. Has It Bottomed?",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUpZRTM2M0x5SVBnRGhQOTRXTjY3MGktZGltVDJJaVprYUs3OXFXa1BFUTFiNmt0MjltcmtpdExhVUE2VHIwSGpTN1kzN2hJd3Jpc084Z2Fpcnhndmp4dDNJR0R4aHZUc1Zod1lTdDdPdm1MSnlMRUdYTHRxdkFKWThZaTJZX1lFb0J3WDAzSW9Ed19W?oc=5",
-        "published": "Fri, 06 Nov 2026 18:01:24 GMT",
-        "category": "大口"
+        "title_ja": "トランプ前大統領の次男エリック氏、ビットコイン8万1000ドル超の上昇を「安全への逃避」に例える",
+        "title_en": "Eric Trump Likens Bitcoin's Latest Spike Above $81,000 as 'Almost Like a Flight to Security' After Democrats Take Congress",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFFONGlabUhicjJsUlJCd0wycHVzUFR3S3ozUlgxQ3lxSEl1ZnNVdkRtU0FaaHk2dDdrZUJXM1hRdlJWaXhsSEk0ZTZncGo2U0J4U0hmcFVhR1Fjcm9mWXBvNS1jZ0ppcGpzSlY3a0dxMTJFQlNJOTB1TVFsZnlYNzZBTTEwS2t4ZjFjUkRpbEY0Mkhhc1VBNHBKMDdibnM?oc=5",
+        "published": "Fri, 06 Nov 2026 23:30:07 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "1500万ドルのイーサリアム権限付与によるバイナンス25億ドル流出",
+        "title_ja": "1500万ドルのEthereum許可承認から25億ドルのバイナンス資金流出",
         "title_en": "A $15 ethereum permission led to a $2.5B Binance drain",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaktQQVEyVDJIWm42RnltZ1djVTJaT1ItUldNcWg1Qk11OE1jbDBLZi1LSDJZXzNVck9oeDI0QlFzdC1qMnNqNDFlelNOV3h2NFVkUnlkVkVVSDFWSWxrZVdxNlREQjZoYWFnNjI0Q2UzLTU3M3Fsc1VvbG00OGVfdQ?oc=5",
         "published": "Fri, 06 Nov 2026 19:00:00 GMT",
         "category": "ハッキング"
-      },
-      {
-        "source": "日本経済新聞",
-        "title_ja": "TORICO[7138]：イーサリアム（ETH）の追加取得に関するお知らせ（2026年11月6日）",
-        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bGo1X1FKWmJoR040S0s5b3lMMnhQQWNwa1g2Zy1ZcGphQ2l1T2E5Z3o5aC1fSFRPc01fQldTZUpBd3BzMFBrN2tMWkMxcmhodjdtMER5anJTcC1TSVBDejBScVhudTBYT2c?oc=5",
-        "published": "Thu, 05 Nov 2026 23:30:00 GMT",
-        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルCEO、暗号資産の後退懸念に反論「親暗号資産勢力が両側で勝利した」",
+        "title_ja": "Ripple CEO、仮想通貨逆風への懸念を否定 「両サイドでプロクリプト勢が勝利」",
         "title_en": "Ripple CEO Pushes Back on Crypto Setback Fears: ‘Pro-Crypto Members Won on Both Sides’",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjc3azRLVEFqM0VIRThPRTZ4c1ZDano4Sng2SVhHWTQxR0pHc19Ec2htd1oyc0Q3ODZJWGpmaVlCOERmQlJQTHYzV3JzaDM4ZVAtWGgyWUY1TEw5a1J5bGI5RU5UWGRZdlByYkJnYUVJeC0tWHVYRGp1RVhURHFrOW1hSlVFODNZUlUtY0VRS0NURHNONVZtb21B?oc=5",
         "published": "Fri, 06 Nov 2026 13:00:08 GMT",
