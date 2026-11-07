@@ -1,40 +1,48 @@
 {
-  "generated_at": "2026-11-07T05:39:14+00:00",
+  "generated_at": "2026-11-07T12:48:32+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "VanEck CEO、次の米金融危機はワシントンから始まると警告 金やビットコインなど「実物資産」の保有を促す",
-        "title_en": "VanEck CEO Warns Next US Financial Crisis Will Start In Washington, Urges Investors To Hold ‘Real Assets’ Like Gold and Bitcoin",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5yblhkV2JWS3pCYkNfQWpKdjM1OG14ak9OVjM3REtFaVZmT3NSMENZR0FuV1RxM1A2Ymw5ajluM3pFdWlUNzQ1bXdTcnd1b2VVdWtNQl9TUnQ2d0djTGtDX1NTd2dEMjE1eE80Q2tROGQxRTk3bTdOVjNoUEFFWXBZRW95RWcxRUdZMlFwM2gtOWM?oc=5",
-        "published": "Sat, 07 Nov 2026 03:40:16 GMT",
-        "category": "発言"
+        "title_ja": "ビットコイン7万6000ドルまで反発、13億ドルのETF流出が回復を試す",
+        "title_en": "Bitcoin rebounds to $76,000, but $1.3 billion ETF exodus tests recovery",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb043bWczQlVwMjV4cnJ1Ym9BWjZaUGIySU5SYWYzVVhEQ3p0aW9hOG5BVmotam5pWmZvSHJEenlsUGozMERZNkVJZ0hnWWFhdTF2ZkNDbFh3WGMxYmZJcmJsQ2p6eEt5UDVxS1VwaVF6dHQ4eXhTeVMzdnF4YlNrS1VvemtyVmNwMmRTN0ZwbC1fRlVX?oc=5",
+        "published": "Sat, 07 Nov 2026 08:42:35 GMT",
+        "category": "その他"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "トランプ前大統領の次男エリック氏、ビットコイン8万1000ドル超の上昇を「安全への逃避」に例える",
-        "title_en": "Eric Trump Likens Bitcoin's Latest Spike Above $81,000 as 'Almost Like a Flight to Security' After Democrats Take Congress",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFFONGlabUhicjJsUlJCd0wycHVzUFR3S3ozUlgxQ3lxSEl1ZnNVdkRtU0FaaHk2dDdrZUJXM1hRdlJWaXhsSEk0ZTZncGo2U0J4U0hmcFVhR1Fjcm9mWXBvNS1jZ0ppcGpzSlY3a0dxMTJFQlNJOTB1TVFsZnlYNzZBTTEwS2t4ZjFjUkRpbEY0Mkhhc1VBNHBKMDdibnM?oc=5",
-        "published": "Fri, 06 Nov 2026 23:30:07 GMT",
+        "title_ja": "マイク・マグローン氏、ビットコイン1万ドル悲観論を改めて主張：「株式弱気相場が始まった」",
+        "title_en": "Mike McGlone Doubles Down On $10K Bitcoin Doom Call: 'Stock Bear Market Has Started'",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUNnSmhDbnBYYlpZZmJBTk9JX3JFSk5iWHpfWjN4ZjA5UHNtYndKNzBBSkVYWWYwQ3FQd2M4bTV1ZzFodUNwcWNrdWhUTXJmOWFuelVYLWV0cWZpSUZBMkVsNmVDbGtrZVJBNFpmTkt6SU1mejZqNFp4cURmYU1GZ3JyZWtKY1FiU3RkdmF6Y25UMTd0b0t1d09n?oc=5",
+        "published": "Sat, 07 Nov 2026 05:21:33 GMT",
         "category": "発言"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "1500万ドルのEthereum許可承認から25億ドルのバイナンス資金流出",
+        "title_ja": "イーサリアムの1つの権限設定が引き金に、バイナンス25億ドルが流出",
         "title_en": "A $15 ethereum permission led to a $2.5B Binance drain",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaktQQVEyVDJIWm42RnltZ1djVTJaT1ItUldNcWg1Qk11OE1jbDBLZi1LSDJZXzNVck9oeDI0QlFzdC1qMnNqNDFlelNOV3h2NFVkUnlkVkVVSDFWSWxrZVdxNlREQjZoYWFnNjI0Q2UzLTU3M3Fsc1VvbG00OGVfdQ?oc=5",
         "published": "Fri, 06 Nov 2026 19:00:00 GMT",
         "category": "ハッキング"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "Robinhoodの暗号チェーン、前四半期の収益でイーサリアムを上回る、経営幹部が明かす",
+        "title_en": "Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9RWUw3WWhrRDJRWk93eGVFZzRaTTlPTWdLdlA2S3hXeEZyOVBPMGhISlV5ZWFpZ2sxMXUyZzI2RGRUb3Z1Ukxmb0tGLWd2S2xGdEZmbDJhcU1RUlZFMjE0V1IxWkVfQU5TRHg3WW5ydGJVMGhBVVFPZkdSc0hoN2E5TkJLUXh2bWdNdGxuRi1YM000SDQwYUdIamZ2ZkZ3R0NBWm5HN0xGSkhPSEJISVIwS01OXzkt?oc=5",
+        "published": "Fri, 06 Nov 2026 14:25:25 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple CEO、仮想通貨逆風への懸念を否定 「両サイドでプロクリプト勢が勝利」",
+        "title_ja": "リップルCEO、仮想通貨後退懸念に反論：「両陣営で親暗号メンバーが勝利した」",
         "title_en": "Ripple CEO Pushes Back on Crypto Setback Fears: ‘Pro-Crypto Members Won on Both Sides’",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYjc3azRLVEFqM0VIRThPRTZ4c1ZDano4Sng2SVhHWTQxR0pHc19Ec2htd1oyc0Q3ODZJWGpmaVlCOERmQlJQTHYzV3JzaDM4ZVAtWGgyWUY1TEw5a1J5bGI5RU5UWGRZdlByYkJnYUVJeC0tWHVYRGp1RVhURHFrOW1hSlVFODNZUlUtY0VRS0NURHNONVZtb21B?oc=5",
         "published": "Fri, 06 Nov 2026 13:00:08 GMT",
