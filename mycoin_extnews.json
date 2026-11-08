@@ -1,27 +1,36 @@
 {
-  "generated_at": "2026-11-07T19:19:34+00:00",
+  "generated_at": "2026-11-08T00:21:03+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "コア・サイエンティフィック、ビットコインマイニングから撤退 AI顧客へのレンタルが収益の92%に",
+        "title_en": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1N0SUFaeEc4TnJSYlZMRTh1WkdkSUE5QlhWTmFlMThNQm1uMVVYbUFWdnpiajVVX1RVdExpMFFCQTNKMXlTMmlPT016M3Y2NGlBbzdRcEZUMWoxdTRkT1ZwcTMwNmJTRUJpbVRPZTR1RzF0ZVlaLU5NWXZDbS1iTlJRYmdVRjNhRWMyWUdqenZBMl9tcXFFTk93Q3FLWTFfc2NIR1RfTQ?oc=5",
+        "published": "Sat, 07 Nov 2026 19:52:50 GMT",
+        "category": "その他"
+      },
+      {
         "source": "Forbes",
-        "title_ja": "イーロン・マスクが『世界的経営危機』の懸念を確認、テスラとスペースXがビットコイン価格の転機を模索",
+        "title_ja": "イーロン・マスク氏が「世界的破産」懸念を認める テスラとスペースXがビットコイン価格の転換点を模索",
         "title_en": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5",
         "published": "Sat, 07 Nov 2026 12:30:45 GMT",
         "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインが76,000ドルに反発、13億ドルのETF流出が回復を試す",
-        "title_en": "Bitcoin rebounds to $76,000, but $1.3 billion ETF exodus tests recovery",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb043bWczQlVwMjV4cnJ1Ym9BWjZaUGIySU5SYWYzVVhEQ3p0aW9hOG5BVmotam5pWmZvSHJEenlsUGozMERZNkVJZ0hnWWFhdTF2ZkNDbFh3WGMxYmZJcmJsQ2p6eEt5UDVxS1VwaVF6dHQ4eXhTeVMzdnF4YlNrS1VvemtyVmNwMmRTN0ZwbC1fRlVX?oc=5",
-        "published": "Sat, 07 Nov 2026 08:42:35 GMT",
-        "category": "マクロ"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ロビンフッドの暗号資産チェーン、先四半期のネットワーク収益でイーサリアムを上回る、経営陣が指摘",
+        "title_en": "Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9RWUw3WWhrRDJRWk93eGVFZzRaTTlPTWdLdlA2S3hXeEZyOVBPMGhISlV5ZWFpZ2sxMXUyZzI2RGRUb3Z1Ukxmb0tGLWd2S2xGdEZmbDJhcU1RUlZFMjE0V1IxWkVfQU5TRHg3WW5ydGJVMGhBVVFPZkdSc0hoN2E5TkJLUXh2bWdNdGxuRi1YM000SDQwYUdIamZ2ZkZ3R0NBWm5HN0xGSkhPSEJISVIwS01OXzkt?oc=5",
+        "published": "Sat, 07 Nov 2026 02:26:35 GMT",
+        "category": "その他"
+      }
+    ],
     "XRP": [],
     "SOL": [],
     "ADA": [],
