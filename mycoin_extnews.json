@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-08T10:05:42+00:00",
+  "generated_at": "2026-11-08T17:51:03+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、Binance EUの閉鎖で市場圧力増す中、7万6000ドル以下で推移",
-        "title_en": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5",
-        "published": "Sun, 08 Nov 2026 06:30:00 GMT",
+        "title_ja": "民主党、CLARITY法改正を推進しSEC権限拡大を検討",
+        "title_en": "Democrats Reportedly Push CLARITY Act Rewrite to Expand SEC Powers",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUdYclpTVkZveUprVlFBUzFuNW9ETWhxUEVyUks1amhDYVJCTDVXLTNxSG1fUlNDR2Z1QXFiSzRIWW5odzZHdWZFVlgxa2VQbzl5am5XSm9jZm9WcDNXNlY0RExxNU5fNHZ6TzNWdDdLbWNPdEdfQWxlUzBjUXlXZlZ0Mnc0cWxabEFlQnZmalFEWjdNcEdMaDZpbzVTbkZFMEg1SQ?oc=5",
+        "published": "Sun, 08 Nov 2026 12:30:05 GMT",
         "category": "規制"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ロバート・キヨサキ氏、次の下落時にビットコイン・金・銀の買い増しを検討と表明",
-        "title_en": "Robert Kiyosaki Says 'Why Worry?' as He Eyes Buying Bitcoin, Gold, Silver in Next Crash",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlQ3N2E4V0oyWDhkMFNGYXp3X3BXQnBwcjZLME5aUnJuZDNpN3kyNkNmVTF6cklDUnRRVHN5ZVNyb2pGaTdDLUU2OGl3cGhPdFA2eHZtdVJyNy0yX21NMmVuTkdZNG5zNnRRd0l5RHZOSFZyVGVadnMwd2tFV051X1Vac3ZnTEFGNVBWbEhlb3hVR1hqMnRNdng2RQ?oc=5",
-        "published": "Sat, 07 Nov 2026 22:30:09 GMT",
-        "category": "発言"
+        "title_ja": "ビットコイン76,000ドル以下で推移、バイナンスEU廃止がクリプト市場に圧力",
+        "title_en": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5",
+        "published": "Sun, 08 Nov 2026 06:30:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [],
