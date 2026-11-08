@@ -1,36 +1,27 @@
 {
-  "generated_at": "2026-11-08T00:21:03+00:00",
+  "generated_at": "2026-11-08T10:05:42+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "コア・サイエンティフィック、ビットコインマイニングから撤退 AI顧客へのレンタルが収益の92%に",
-        "title_en": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1N0SUFaeEc4TnJSYlZMRTh1WkdkSUE5QlhWTmFlMThNQm1uMVVYbUFWdnpiajVVX1RVdExpMFFCQTNKMXlTMmlPT016M3Y2NGlBbzdRcEZUMWoxdTRkT1ZwcTMwNmJTRUJpbVRPZTR1RzF0ZVlaLU5NWXZDbS1iTlJRYmdVRjNhRWMyWUdqenZBMl9tcXFFTk93Q3FLWTFfc2NIR1RfTQ?oc=5",
-        "published": "Sat, 07 Nov 2026 19:52:50 GMT",
-        "category": "その他"
+        "title_ja": "ビットコイン、Binance EUの閉鎖で市場圧力増す中、7万6000ドル以下で推移",
+        "title_en": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5",
+        "published": "Sun, 08 Nov 2026 06:30:00 GMT",
+        "category": "規制"
       },
       {
-        "source": "Forbes",
-        "title_ja": "イーロン・マスク氏が「世界的破産」懸念を認める テスラとスペースXがビットコイン価格の転換点を模索",
-        "title_en": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5",
-        "published": "Sat, 07 Nov 2026 12:30:45 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "ロバート・キヨサキ氏、次の下落時にビットコイン・金・銀の買い増しを検討と表明",
+        "title_en": "Robert Kiyosaki Says 'Why Worry?' as He Eyes Buying Bitcoin, Gold, Silver in Next Crash",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlQ3N2E4V0oyWDhkMFNGYXp3X3BXQnBwcjZLME5aUnJuZDNpN3kyNkNmVTF6cklDUnRRVHN5ZVNyb2pGaTdDLUU2OGl3cGhPdFA2eHZtdVJyNy0yX21NMmVuTkdZNG5zNnRRd0l5RHZOSFZyVGVadnMwd2tFV051X1Vac3ZnTEFGNVBWbEhlb3hVR1hqMnRNdng2RQ?oc=5",
+        "published": "Sat, 07 Nov 2026 22:30:09 GMT",
         "category": "発言"
       }
     ],
-    "ETH": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "ロビンフッドの暗号資産チェーン、先四半期のネットワーク収益でイーサリアムを上回る、経営陣が指摘",
-        "title_en": "Robinhood's crypto chain out-earned Ethereum in network revenue last quarter, exec says",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9RWUw3WWhrRDJRWk93eGVFZzRaTTlPTWdLdlA2S3hXeEZyOVBPMGhISlV5ZWFpZ2sxMXUyZzI2RGRUb3Z1Ukxmb0tGLWd2S2xGdEZmbDJhcU1RUlZFMjE0V1IxWkVfQU5TRHg3WW5ydGJVMGhBVVFPZkdSc0hoN2E5TkJLUXh2bWdNdGxuRi1YM000SDQwYUdIamZ2ZkZ3R0NBWm5HN0xGSkhPSEJISVIwS01OXzkt?oc=5",
-        "published": "Sat, 07 Nov 2026 02:26:35 GMT",
-        "category": "その他"
-      }
-    ],
+    "ETH": [],
     "XRP": [],
     "SOL": [],
     "ADA": [],
