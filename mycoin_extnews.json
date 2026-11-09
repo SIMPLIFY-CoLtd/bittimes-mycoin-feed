@@ -1,29 +1,54 @@
 {
-  "generated_at": "2026-11-08T21:54:57+00:00",
+  "generated_at": "2026-11-09T05:51:29+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Decrypt",
-        "title_ja": "ビットコイン開発者の量子攻撃対策アイデア",
-        "title_en": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwQWg4c1pyeGJzTmdlR3dldnVGbEFtaTB0WFhHRngzd0daRVRFNDBleFJQcXRxU0p2Z3oyTWt1VUJqWExnWG15d3hWSldhaTlIUHZfZExneGplb2JqVlR6X21SY2ZVLTRxQTM2LWlZbjBEbThVaFI1SmYwZkg?oc=5",
-        "published": "Sun, 08 Nov 2026 14:01:03 GMT",
+        "source": "CoinDesk",
+        "title_ja": "BTC：バイナンスのビットコイン採掘プール、シャットダウン間近で1週間でわずか1ブロック発見",
+        "title_en": "BTC news: Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTlEWlYtN1R4VVVtb2w0akhHTW83ZjduQi1najNCQ0M5dDJxZFBaNGZBWGl6cTBndGVvd1BTTnkzQ2gxU0NMOE00a1I1N2dfWk5PNmNUc0Y2TG5GNm5rWk9IeWhidUZBTXI3aGdsZXRpWXYzNzhIMC0zWXRXTFdYVDhpT2FpRG9nYl9GVm4yci1OOE5vODRwNTRFOHRmVnNuNEVrUy1DRFZUUERZWk8yOXlnLUcyMjR0VWZB?oc=5",
+        "published": "Mon, 09 Nov 2026 04:54:00 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "BTC：ビットコイン下落と上昇が10億ドルの清算を引き起こす",
+        "title_en": "Bitcoin's drop and pop triggers $1 billion in liquidations",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1lCdHhqRkREYU9TTjQ2Zm1ENDd0T0Z2WHB3MW1RcmhocVdpQzc5WlhfUWdwX0xWWkdLM2t6SVg5VzZfQmd3STZZd1lsNjhjREYxZmpiMzJoaUxIZ19CNUJEZjFGajEyWF8xaVBocjlWa0pWdHdsY29ORTg5VWw0RDZoRHpIdWF1QmN1cGRyVzl4MW5EdFAxSFpJcFJXWTRYcGpEeURGbDFIQ2xublBPN3JidVF4U1A2T0JoWFZyUEQ5RkEtTmdhbEw4czhXY3A3?oc=5",
+        "published": "Mon, 09 Nov 2026 03:21:00 GMT",
         "category": "その他"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "Vitalik Buterinが、ETHは手数料焼却トークンではなく価値保蔵資産として評価されるべきと発言",
-        "title_en": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGlONVQtQWJZS1U1RXJoQjlkSGVVcE5kZ0FhNzZRdER4N1A3c3hNZnpxaFRZbjhxb25GYURlUWlVWDdteUhYdGdYVlp3ZEdDN2dWMEhMaGhPRWpMbEI2QjVXMERkaDR4LU5kcEJBNWwwRmkzR2liZDRDS1g4UGFnNjVzYk1MZG9IRHR1U3JoQzNSLW15Y1F5Y2dvY3hydlpHYU1yYU9kTU9PUXRyMHQ5RDJueTVreEVjTWFGd3gzaHV0ajF0NDJuRVJ4ZzRqU1I0UjB6ZmJma3RMejQ?oc=5",
-        "published": "Sun, 08 Nov 2026 15:52:00 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "ETH：2つの競合するイーサリアム提案がグラムステルダムによる旧契約の破棄を阻止することを目指す",
+        "title_en": "ETH news: Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlNQUEFhVmFUOU93ODJpVTYwTFBVY0tIM25zVjFDbVAycmRUSkdoYVpZRnZpSExqSS1DSG8wbWxfR1dxMTFENTlwQ2NoN2wzcW1JT0ZQbzNmT1VWU3c5WE1Uc291TU0xY0N4X0dzT2pXUTlTMHF4MlMyUEdySEhPdDRzSVdXT0RvU0x6R2RfSWNKd2hQLWhKcVJwTnFNcVliUjhhTkNoQ1VTMUhNc3M3U24wU2dJaVE?oc=5",
+        "published": "Mon, 09 Nov 2026 05:16:54 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "ETH：2つの競合するイーサリアムの提案が、グラムステルダムによる旧契約の破棄を阻止することを目指す",
+        "title_en": "ETHニュース：2つの競合するイーサリアムの提案が、グラムステルダムによる旧契約の破棄を阻止することを目指す",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmR2akJBODg3dWtkeUVSZEZGcUE4RUlmeHJtUVlra3V5ZkZKUzFJZGtkRzJmczVPa1p5RGRYa0FJeHJPeXgxX2ZHTGYyaTZybzQyeldrbGUzb0ppZVh5bWZDVU1EYk11dVBLeXFLbXdtcGJSY0hUWjBKc0lvZnpBR1NlY1VyV2N0SEFhTG5QMmVBY1BCdlU4SHlQYjFmNlhBMjJSMEVYcEdHT3pCWmd5WEFlZ0hBMTZZUG5n?oc=5",
+        "published": "Mon, 09 Nov 2026 05:16:54 GMT",
+        "category": "その他"
       }
     ],
-    "XRP": [],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRP：Meta AIがリップル最近のセキュリティインシデント後のXRPセキュリティ予測",
+        "title_en": "Meta AI Predicts How Secure is XRP Following Recent Ripple Security Incident",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWgzMnNYMld0UURLYjlUU29wU3NYYVBzMW9iNWVrZ3VRUHp2eUJydEhELWJ2SEZJcnozYzBvT2l0eGpVaUpJdWxwUjU3b2hrcjNuSnVfZnNuMVF1UG9NeUg0VGJWQ2NiTzdQZ0Q1TEtXb0RIV0VVSWZtUXlRQmU5TDNoMlJqVDhKbFV5dXhBTGc3UEYyRkxj?oc=5",
+        "published": "Sun, 08 Nov 2026 22:33:48 GMT",
+        "category": "ハッキング"
+      }
+    ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
