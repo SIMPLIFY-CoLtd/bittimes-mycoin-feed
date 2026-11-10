@@ -1,16 +1,77 @@
 {
-  "generated_at": "2026-11-10T10:56:44+00:00",
+  "generated_at": "2026-11-10T19:35:17+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
+    "BTC": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "暗号通貨は現在、詐欺犯罪者を巡る2件の法的闘争で米国政府と連携しています",
+        "title_en": "暗号通貨は現在、詐欺犯罪者を巡る2件の法的闘争で米国政府と連携しています",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlB5WVp4eU5jRmhNTEc4N2pna1o4ZzdkdlVBZ2pVaWhKSVRqdWdYX3ZMWF9kc3d4UEhMZk05OVlfaGJERUh1RlpObEdFN2hYV3drVl8wcFk2cktpbVhJbFA2VWFZOVdBX1c1Y1Q2TzF4UjJVM25UYmhoZ01KZlp6eGV4XzBobkR5SnRfNkVpcE9TZEp1VVU5Q0N6MV9nU240QjgxZmY2SmhFTGc4eGRZbFVKbTZTdTU4LUpGRl9vU1VYa2c?oc=5",
+        "published": "Tue, 10 Nov 2026 17:42:27 GMT",
+        "category": "規制"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ウォーレン上院議員がトランプ家の暗号資産企業を標的、鉱夫MARAが11億ドルでBTCを売却",
+        "title_en": "Sen. Warren targets Trump family crypto firms, and miner MARA sold BTC for $1.1 B",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSG9TMXNYeGl2MzZwSlVhN00yUGJ5cVBlMXEzamdTaldtN2RHTl92Uzd0anZaTXBaZklzLXQ5VTBqcUhCVk5qNHVZQ3RjMmdsM0pkTGNjNVZUeTc5eFFDR0VhYVZZY1lERzJvMk9rUXp0eE5YNEJncE1fbERHb25LM0VzQVA?oc=5",
+        "published": "Tue, 10 Nov 2026 17:03:00 GMT",
+        "category": "発言"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ビタリックがETHを価値保蔵資産として再定義",
+        "title_en": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2wxd3NHcWRTTTE3Y2dkdmk4aW44SVFFaHgtTnI2dTU0SHlyV281U0VNM2ppZDBlOTBlREVYRTRKMUpvRE5hNWI2dXpXLV9EZWZZeVI3SU1kVkFqSUM2UElORGpxMDRXY2tGa1dzWWpJUVdqcTRFQW52RFhQMl8zUXNXblhLRnlkR0pjZTJYaTFFVXRmQk5SZzFlZkVCd1B2?oc=5",
+        "published": "Tue, 10 Nov 2026 13:24:51 GMT",
+        "category": "発言"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "高インフレデータ後、XRP価格が1.05ドルに急落。サポートは保つか",
+        "title_en": "XRP Price Plunges to $1.05 After a Hot CPI Report: Will the Support Stand?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFJCUVBtQVVJdHRmRDlXTTN4WWE3RzB0aWM5NE1rR1NNNk84dDR5TU5ablJiWXJXeWNEaUEzQXBmX1N4V0M5eVJRcEs5RWxjUDZpSmdXMU84Wk03aHZ3NEJ0UWdydFh4Qk9yZHNjYkJnVzFBbGdQamVjZVd4MktwMFN2U3RJRUdnZ1E4bmswUHk?oc=5",
+        "published": "Tue, 10 Nov 2026 15:25:38 GMT",
+        "category": "マクロ"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "XRP台帳の量子計画、ユーザーに旧ウォレットキーのスイッチオフを要請",
+        "title_en": "XRP Ledger’s quantum plan needs owners to switch off old wallet keys",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFM2UXBKT2p4ZHZsLTh1ZnVyanczMXQ1WjdmdjdyZmRSRzhTVVhEZ3Zhc25QbjBGMzBXUkZfb2lsZ1J1dTdsc0o5clZKd1d5UUdxT1JZTm4tSFBNejAwdXlOOWR1TEQ1M1RQNFkzZHgweXJMLXNPNkVoQkJFN2dQWmw3bXhNajAzSXRjQkJPQlJzejVVcVdlNDgyaVp6SVpaY2dlMk1tc0lGc193RUNMY0R3?oc=5",
+        "published": "Tue, 10 Nov 2026 14:21:09 GMT",
+        "category": "その他"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナのジュピターが取引の枠を超えた拡大、トークンバスケット・イールドボルト・新ポートフォリオ機能を追加",
+        "title_en": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTJoMXdsRWVyTzB0SThSbkRZam9EbjRnc1o1VUVZQnlVanZtenNmWXdKbm91UEl3VWN4dk9kRVdZZVp5aEF0bzVpUWFBYmhBU1RSNUVyNXc0QnNoZjZ2NXhBd2ZLSUdmMGc1VG10SXJWRnFRY3hrUVBDOF92d09JRlJhR0t6UmFKLTY0T29xYjdoMHFWMWRIV1NOaXdSc01yU3FjM2tn?oc=5",
+        "published": "Tue, 10 Nov 2026 15:01:02 GMT",
+        "category": "提携"
+      }
+    ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ムーディーズがチェーンリンクを活用、複数ブロックチェーン間で信用格付けを配信",
+        "title_en": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2hhc19ONTVETkl0SjdkV0tBeGRsbTJBdkM5VXVncl9mWVVvcDg4V2E4a2xQVV9vLW9xcjVVVWRjWEFLNU51b0pjZlozSXJzNWpWM0JQWl9WMWlBQi1ac3FkRjVxMUhsbjZreGFMVFJmX0RIUlY4NHpBanBuVlROTE5LUy1lTDlfWlR4ZDMwSVFFTlhReHBYYVRZQTMzQQ?oc=5",
+        "published": "Tue, 10 Nov 2026 14:01:02 GMT",
+        "category": "採用"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
