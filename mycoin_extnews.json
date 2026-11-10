@@ -1,77 +1,17 @@
 {
-  "generated_at": "2026-11-09T15:54:30+00:00",
+  "generated_at": "2026-11-10T01:24:35+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインETF、2026年のフローが負転し13億8000万ドルの流出",
-        "title_en": "Bitcoin ETFs Bleed $1.28B as 2026 Flows Turn Negative",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0RtbXJPUmxGTWt4UWM2UWRsdmN0cVJGLWNtSnBlMkczVzRfSWw1d3Y0Uzc4Z1ZQQ2JSS3E5aFJPRV9PQWh1Z2tPX2JUUEFRLVBRR2ZEZjFXNHc3RU5DWFdEY3FFN2VCR01pelEyWElXR29BY2IwZFR3MnVnYklFTTlyQ0UwUDl3S1RIbFRfck9FZ2c?oc=5",
-        "published": "Mon, 09 Nov 2026 15:42:00 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "大手運用戦略、ビットコイン保有量が85万トークンを突破",
-        "title_en": "Strategy’s Bitcoin Holdings Top 850,000 Tokens",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzFnSUNIbHhzRmJlRDc3SlRRMUMtX1YyY1hxVGFTajRzTjFxcTFkdlVWNC10dGxwdF9aUlM4R3kyRVE1dFpsQUE0RDE2bGd0QnN1dW5NTmZlLXdfUGwtOXZzR0NhMVhjcHEyeDktSk1hbVFTNHJCMUFXVGdxVlhEYlpOOTRVNVViS2JzQnR5bHhDdWNxMHZyMTdGb0lIbDg?oc=5",
-        "published": "Mon, 09 Nov 2026 15:10:00 GMT",
-        "category": "大口"
-      }
-    ],
-    "ETH": [
-      {
-        "source": "The Block",
-        "title_ja": "イーサリアム財務のSharplink、Q3純利益が未実現イーサリアム利益で7億5100万ドルに到達",
-        "title_en": "Ethereum treasury Sharplink's Q3 net income hits $751 million on unrealized ether gains",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3M3d2p3dUVId0pyV0ZQYjN1ek1sazJrRWVuN0JDOVAwekJHclg0ZW5YNDNVdkRtSnA4WncwTi1kYzFEdDZZTGdHWW0xTG1MYWNEYzJfMjRtWEd0VGpJbWRpVE9wUU9kdzA5NVZMQ3Z0R19Xb2xxazBoS2lhUzU3OFdzR1gwdHV0NFdMWE5FOEV2T1ByNGkyd1ZteUZ4Y2J2anNmSVU5TVE?oc=5",
-        "published": "Mon, 09 Nov 2026 15:40:00 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "トム・リーのBitmineがイーサリアム供給量の5%目標に接近、2000万ドルのETH買い付け時にトークン化とAI『スーパーサイクル』を予測",
-        "title_en": "Tom Lee's Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI 'supercycle'",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHpjZEVXQ0NvMURLeE5mQlJxaXFEUmQ0czE2MkRyZGVUWHVkT1JBQ2dKQ25ZMTkwZjhNWTI2ajMzMTRzQVpHdUQ1UnFuMVFuVnpNM0psOVB2VmFXRWhSTVI0aEJCMjZQbTE4UTh4LV83QnZiRmVsQWRNdkpoMWNnYjdUa3p1cmo2anV1cmF1bDZTZE5UT0hpZkt6RGE1ZXNvSWp4Tmtsc1VjWVJ3WGhaMzJnbVVCVUdWeFVPUkNTWFN1eXEtQ05kREVWSUIwMFphS1FoRFRLV09UQQ?oc=5",
-        "published": "Mon, 09 Nov 2026 14:32:00 GMT",
-        "category": "発言"
-      }
-    ],
+    "BTC": [],
+    "ETH": [],
     "XRP": [],
-    "SOL": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "Solana、SEC枠組み下でトークン化株式取引所を取得、Galaxy（GLXY）とForward（FWDI）を取引",
-        "title_en": "Solana (SOL) gets tokenized stock venue under SEC framework, trading Galaxy (GLXY), Forward (FWDI)",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU01tWUFMQXNEeGJvek9hU0tKWkJJaHpUbF9pMlVrOTRpUWk4Q2kzc09wMkd3Y1kwcm1GNG82ZHc2YmlSekN2aVFrOUg4TzFRZlJWOVNEVUJ1RXFZNjI5T0pCVmRBMEhIaXp2eENJZEhEYzVTRnRxS054TnNYYzV1TmZwMEtvX2VBUXhnbEtzT25lRkVpMGVRRHB6ZmJMd3R1d2l1eHkyOS1lMTJyTkNJQjV2VUxHREVoSUpuX0tfeWt4VUpMRXc?oc=5",
-        "published": "Mon, 09 Nov 2026 12:41:35 GMT",
-        "category": "承認"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "FormationがSolanana初のトークン化証券取引所の運営をSECに通知",
-        "title_en": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVB2YndHNkJPaHFRRVUzUjVSUXNCZk80TzNONTJWYmVhcUlYSFhodldzZEZqOEFkWTVrUm01UVlsakYtZ2Zub1phRlNVOEZNdTUxNHB0QXZPZFUyT2NjRlRyM0tRaWQtNXFmRTVvWUgwYm95UzNQTWVVUDhrV2g5bEw1eklVZnNlTE9KWkt1TWtOV2M?oc=5",
-        "published": "Mon, 09 Nov 2026 12:30:00 GMT",
-        "category": "承認"
-      }
-    ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "NYSEがトークン化株式決済でAvalancheを採用、AVAX価格上昇",
-        "title_en": "NYSE taps Avalanche for tokenized stock settlement; AVAX price gains",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUG40X0oxMTlnbW1RVU12blpRN0N1SkJiM2FwNXd4cjVEZ3FmQnBTVlBzam5jUEh4R3Q0SF9Tc1F4RUVKajZKR2dteWZDa1ZnRVJBVC1TMXVNZWV6Zlo1VldyTHdEV25tZVJEN0NkQXZ0RUlvcjNXU1F5bGczNHVFQVFVVG1qaU5DaG94MWxGaVE5TUlXMGFaSTZtaVFFc09fU05XemRRdWJpbXZONVNVZTdnVElrZkI5Y0hldzlRd1ZOVW5mb3c?oc=5",
-        "published": "Mon, 09 Nov 2026 13:40:06 GMT",
-        "category": "採用"
-      }
-    ]
+    "AVAX": []
   }
 }
