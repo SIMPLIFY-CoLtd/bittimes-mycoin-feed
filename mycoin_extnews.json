@@ -1,41 +1,58 @@
 {
-  "generated_at": "2026-11-11T10:38:31+00:00",
+  "generated_at": "2026-11-11T19:28:27+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン7.3万ドル割れ、Zcashが暗号資産全体の下落を主導",
-        "title_en": "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlVFdUctN1doQWlBaWpuX3lSbVAxdi1WTEZpYS1TdkR4S3dvZHVlM0FMUHRnMDVSRnhKeG1xRHpySUhjOW1ZbXR3dWhGX2Zqckt5cV9mSVZ4cmVIYkhGWkxoSmFiWlRpWm94WnNyOVo3ekxCYjBQTlFDRGE4cEVHOUtIbTJPYWZYamhUQ0cxVUVuRDBweEcxUjJjblJZWW8?oc=5",
-        "published": "Wed, 11 Nov 2026 09:48:24 GMT",
-        "category": "マクロ"
+        "source": "Decrypt",
+        "title_ja": "ドイツ銀行が5年の準備期間を経て暗号資産カストディサービスを開始",
+        "title_en": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUVReDhvLXBuNU5KekFONzFhQUtNcExJWDBpbGRIYVQ5djU0am85TUp1WFJKZGVWZmtTT3A0SWtqbXRXak5UTkNqVExaTk9zYkNMY1gwbW5sU2thTWxYdno0aDl5MFMtQTV1M0s3azlTUFhzUU5wU3EwUjdXaU5EZ3hlYk9VZTlTaUQ5VDdJdm14dXllTGFTLWFtRQ?oc=5",
+        "published": "Wed, 11 Nov 2026 19:06:02 GMT",
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ドイツ最大手銀行がビットコイン参入、ドイツ銀行がカストディサービス開始",
-        "title_en": "Germany’s Biggest Bank Goes Crypto: Deutsche Bank Launches Bitcoin Custody",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWJiUDVvMWJqRVZ2c3dfVjJxSVlYSlFFaXprTkk4c1cyQk5UTXY2Rjl0WXdnWVZ5SEVDc1o2SEJ3aFpTdmtoZ0k5VkJsWGNVZGRhRC1FdnVhUWdiSHZISEJaUHoyTTNibVhNVWlFTHNLbFFzVFZWMTYtR0FIY2hyUFJYRGhrdzVGNHpyVmszekIwOHJwZEg5bW9pUEFCZw?oc=5",
-        "published": "Wed, 11 Nov 2026 09:30:15 GMT",
+        "title_ja": "マイアミ・デイド郡住民、ビットコインで固定資産税納付が可能に",
+        "title_en": "How Miami-Dade residents can use bitcoin to pay their property taxes",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZVRObkNMbGdzV2V6aHQ1UDhvQ3NiV2tWSEt1bWFuM0xocGhYbEoyMHY1NDNMSW1NSk1CSHN1dmQ3YVZHS2M3ZUFFTGQxR2YtTUMwd2NsZldGNFpwNkd5UDh5LVhVQzBBbG1Pb1lPVEtTSDd4cmpsY0pTRlE4MHRIckwzUVhEUQ?oc=5",
+        "published": "Wed, 11 Nov 2026 18:30:00 GMT",
         "category": "採用"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "BitMine間もなくETH買付停止、新規コインの出所はここ",
+        "title_en": "BitMine Will Soon Stop Buying ETH. Here’s Where Its New Coins Come From",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1rbnVVR3J0eFVpRDQzbDhUNGoxcF80R0IydlpGekJERUlCdzNaa1RLQTB5eUNoWGdzdnd2UUJNUWNMUDMzX3FOcHZGNEIyUHZaZVVDc2NGd3lGb3FZR2R6Y2VUYW9UNFVESTBUekVoQWpqcXdybEhVMHBZVjdBZXdFaXE3LVdZRW43QklRS043SnFpUlZKSA?oc=5",
+        "published": "Wed, 11 Nov 2026 15:04:49 GMT",
+        "category": "大口"
+      }
+    ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRPレジャー、2028年までに量子耐性ウォレット導入予定、保有者は移行が必要か",
-        "title_en": "The XRP Ledger Plans Quantum-Proof Accounts by 2028. Will XRP Holders Have to Move Their Coins?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQU9jemZXX1N6WHVwa2g2LWRyajFhaXltckQ3S245NDlxcTlETk5NN01mdWxxaWxsUWNZVGZwZXlFaUZpalVlUHIzcS1vb3N5NkZ3bXVTQndrZ2tIVVptY3hhZlQ2MGpFWGo4MHFCMGE5RXI3UmRUR3kxQUxYbFhjem10M0JlVlJyV0xlT3R2TndWa242aUFPY1QzVQ?oc=5",
-        "published": "Tue, 10 Nov 2026 20:29:27 GMT",
-        "category": "その他"
+        "title_ja": "リップル幹部デイビッド・シュワルツ、保有する2,600万XRPとBTC・ETHを90%以上売却した理由",
+        "title_en": "Ripple’s David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0QtZmNkektNSFRzaFJmSzIyY2ZWWnlFMjhUTFdmNzUtX1JwQ2FpRmpuQWxhQlA0NVVCci1ON3VMTFJSelU5akpGTzZGdDVwZHNYX3B5RmlHY0FTRy1rU2NkZUVuWHB3N2FxdjdEeFhWT1RaX3FlV1c3M29pRFRXTmZBaWJ5WlB2TkFGQ1FlMUk5bU5YMm1JUWhrMVQ?oc=5",
+        "published": "Wed, 11 Nov 2026 12:31:58 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "XRPニュース：リップルのデイビッド・シュワルツが保有量を88%削減、投資家は懸念すべき？",
+        "title_en": "XRP News: Ripple’s David Schwartz Cut His Holdings By 88% – Should Investors Worry?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHNlMGlpZ0NMend3M3gzMklibmJVRUZfRFA0bDZtNGtRZ0VvVTgyWFBEYlE1UUtwdzdYcWFFWWFoMUR3VkFtd2kyLUxwYWxzMjBCRWluSEVqZjEwTGpiYWRGX25kV3Z0dkcyWU5wSmV3MXFiV3dLSVFnTmdLSGNWa0RpN0E1NmNrbmtlR1ptNDJaQjVlVUw2RTBFSQ?oc=5",
+        "published": "Wed, 11 Nov 2026 10:27:28 GMT",
+        "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "The Block",
-        "title_ja": "フォワード・インダストリーズ、ソラナトレジャリーを870万トークンに拡大、ほぼ3ヶ月ぶり安値",
+        "title_ja": "フォワード・インダストリーズがSOL財務を870万に増加、トークンは3カ月近い安値に",
         "title_en": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSC1TVlNoWXJiY213RndGRFZSS3dPY3EzS2ZKSkZJbEVvcDJkcUdrd0pkbGhrdi1scndEcEFSeUo4elpwMjROY2djbW9yVjFjaXNLQURtMWRUdG9QeU1fVnM2MjlleWVuekEzZ0JFWTRQNlBhVkFHUVFjLW9wQ1lxTVpKd1RGUmc0YnZza2ZvRkhBLXpIS1k4b2loU0N1dWRNdEdObzRRdnphNEU3bGdDTmdUTThVUTdKQ1FlNUYxcHNCVkprUnFiX0pFOA?oc=5",
         "published": "Tue, 10 Nov 2026 21:51:00 GMT",
@@ -48,22 +65,39 @@
     "LINK": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ムーディーズがチェーンリンク経由でマルチチェーン格付け配信をテスト",
-        "title_en": "Moody’s Tests Multichain Credit Rating Distribution Through Chainlink",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSllGN0hvVTdyVDNnN1ptckc5bUZPdGtIbTlGQV9JWXBkMERqZXgxQ0Itamg1WTBHRFhxX1djczdIZWtGNno2VHhLYzY5YjlmYnExUWF3ZnBfZWU4TUtHS0dQd0tBZ21zdnFhNWVKM3FYTk5kOE01bzZ3cG4ySzk3M1cwZUdCR29zNWlHRnZuN1kyZHZhdkxrbjZZdDQyVENvUGxZ?oc=5",
-        "published": "Tue, 10 Nov 2026 19:49:00 GMT",
-        "category": "提携"
+        "title_ja": "チャールズ・シュワブがソラナ、アバランチ、チェーンリンクを追加することで何を示唆している？",
+        "title_en": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
+        "published": "Wed, 11 Nov 2026 15:17:15 GMT",
+        "category": "採用"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ムーディーズがチェーンリンク活用、複数ブロックチェーン上で格付けテスト配信",
-        "title_en": "Moody’s Pilot With Chainlink Puts Test Ratings on Several Blockchains in One Pass",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRS1WRWJhUm56S0hRYXNxR3FubGh5Yl9RSGdiWmRTN3BMWXpNRy1KRkh6ckFEMDV6OXdtbWloSzlHTVVEVlFmbjZoQnNWMHlRN0ppaTEwSlNKYm1yaXZYUjVRZ1g0cEVTNFdTZUFkS1U3N1dWU0NlU2ZiUUE0eHdEcmQ2SVFzSjBlRG5RaENjTUlpLV9neTlaQzNYWUk?oc=5",
-        "published": "Tue, 10 Nov 2026 19:20:24 GMT",
-        "category": "提携"
+        "title_ja": "ムーディーズがチェーンリンク経由で複数チェーン対応クレジットレーティング配信をテスト",
+        "title_en": "Moody’s Tests Multichain Credit Rating Distribution Through Chainlink",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSllGN0hvVTdyVDNnN1ptckc5bUZPdGtIbTlGQV9JWXBkMERqZXgxQ0Itamg1WTBHRFhxX1djczdIZWtGNno2VHhLYzY5YjlmYnExUWF3ZnBfZWU4TUtHS0dQd0tBZ21zdnFhNWVKM3FYTk5kOE01bzZ3cG4ySzk3M1cwZUdCR29zNWlHRnZuN1kyZHZhdkxrbjZZdDQyVENvUGxZ?oc=5",
+        "published": "Tue, 10 Nov 2026 19:49:00 GMT",
+        "category": "採用"
       }
     ],
     "SHIB": [],
-    "AVAX": []
+    "AVAX": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "チャールズ・シュワブがソラナ、アバランチ、チェーンリンクを追加することで何を示唆している？",
+        "title_en": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
+        "published": "Wed, 11 Nov 2026 15:17:15 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "アバランチがNYSEを支持した今、AVAXの価値獲得に取り組む必要がある",
+        "title_en": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTVhbFh2Z203VXZ6dnVJd0tfcDBiaUtmYlozVkNoVVZlNGE4b2Q0STVmYjlHU3htVjZYdHR1ZmNZRkpRaEdhS2FjXzhib1p1WHczZ0g3bFhKaTl5SXZUdmp0TWJhMUpYZEVwMGdqUFVlektJV2hIb3NDWnFxQkZjQUU1OFZxekk2b2hTS0JTeEhlLTF3OUFJ?oc=5",
+        "published": "Wed, 11 Nov 2026 10:53:11 GMT",
+        "category": "採用"
+      }
+    ]
   }
 }
