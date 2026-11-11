@@ -1,58 +1,66 @@
 {
-  "generated_at": "2026-11-10T19:35:17+00:00",
+  "generated_at": "2026-11-11T01:10:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "暗号通貨は現在、詐欺犯罪者を巡る2件の法的闘争で米国政府と連携しています",
-        "title_en": "暗号通貨は現在、詐欺犯罪者を巡る2件の法的闘争で米国政府と連携しています",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlB5WVp4eU5jRmhNTEc4N2pna1o4ZzdkdlVBZ2pVaWhKSVRqdWdYX3ZMWF9kc3d4UEhMZk05OVlfaGJERUh1RlpObEdFN2hYV3drVl8wcFk2cktpbVhJbFA2VWFZOVdBX1c1Y1Q2TzF4UjJVM25UYmhoZ01KZlp6eGV4XzBobkR5SnRfNkVpcE9TZEp1VVU5Q0N6MV9nU240QjgxZmY2SmhFTGc4eGRZbFVKbTZTdTU4LUpGRl9vU1VYa2c?oc=5",
-        "published": "Tue, 10 Nov 2026 17:42:27 GMT",
-        "category": "規制"
+        "source": "The Block",
+        "title_ja": "ビットコイン、予想外に高いCPI受け74,000ドル下回る アナリストが70,000ドルへの下落警告",
+        "title_en": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjY2aUZoX1pGM2VQVDNPdlp2cVU2WmlyR0dDQ1B0eTFxY1F2VDU5NGpOOVhWOXN0ejJ2ZHN0QjlHclZOTXlhRnlQTGxiOFU5dU9NcWRuN2hiTUVhcjJQUENJWlNOODBJMm1fTUxMaUREMm5NNG91MERBZW1OTE56WU1GU1ZFTUE3YlVhckZlNG5qLUJ2MF9nemVPUW0?oc=5",
+        "published": "Tue, 10 Nov 2026 19:38:00 GMT",
+        "category": "マクロ"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウォーレン上院議員がトランプ家の暗号資産企業を標的、鉱夫MARAが11億ドルでBTCを売却",
+        "title_ja": "ウォーレン上院議員、トランプ家の暗号資産企業に照準 マイナー企業MARがBTC 1.1B ドルで売却",
         "title_en": "Sen. Warren targets Trump family crypto firms, and miner MARA sold BTC for $1.1 B",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSG9TMXNYeGl2MzZwSlVhN00yUGJ5cVBlMXEzamdTaldtN2RHTl92Uzd0anZaTXBaZklzLXQ5VTBqcUhCVk5qNHVZQ3RjMmdsM0pkTGNjNVZUeTc5eFFDR0VhYVZZY1lERzJvMk9rUXp0eE5YNEJncE1fbERHb25LM0VzQVA?oc=5",
         "published": "Tue, 10 Nov 2026 17:03:00 GMT",
-        "category": "発言"
+        "category": "規制"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビタリックがETHを価値保蔵資産として再定義",
-        "title_en": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2wxd3NHcWRTTTE3Y2dkdmk4aW44SVFFaHgtTnI2dTU0SHlyV281U0VNM2ppZDBlOTBlREVYRTRKMUpvRE5hNWI2dXpXLV9EZWZZeVI3SU1kVkFqSUM2UElORGpxMDRXY2tGa1dzWWpJUVdqcTRFQW52RFhQMl8zUXNXblhLRnlkR0pjZTJYaTFFVXRmQk5SZzFlZkVCd1B2?oc=5",
-        "published": "Tue, 10 Nov 2026 13:24:51 GMT",
-        "category": "発言"
+        "source": "The Block",
+        "title_ja": "スポット イーサリアムETF出来高、イーサリアムスポット市場全体出来高に占める割合（7日移動平均）",
+        "title_en": "Spot Ethereum ETF Volumes as Share of Total ETH Spot Market Volume (7DMA)",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHZaajRIeVZPZUhQZ2pTMmZicjJKU0JNdzVuTVdkRGZqWWp4OUdVLWctMURtRkhyYzctb1I0SDdGQm9TS0hiWm5aMDd0MEZVSXdGSDhNRG1LeERkY3JsRWdtTlhUaDNvbDlwMGtjUEZjbGljMjRWNVBGYXBsbUttNU1KTnJmR2kzSFVjSW5tLVVrUmw4WHZFY1A4UDhOR2JTajdwaUd2dnc?oc=5",
+        "published": "Tue, 10 Nov 2026 03:35:00 GMT",
+        "category": "上場"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "高インフレデータ後、XRP価格が1.05ドルに急落。サポートは保つか",
-        "title_en": "XRP Price Plunges to $1.05 After a Hot CPI Report: Will the Support Stand?",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFJCUVBtQVVJdHRmRDlXTTN4WWE3RzB0aWM5NE1rR1NNNk84dDR5TU5ablJiWXJXeWNEaUEzQXBmX1N4V0M5eVJRcEs5RWxjUDZpSmdXMU84Wk03aHZ3NEJ0UWdydFh4Qk9yZHNjYkJnVzFBbGdQamVjZVd4MktwMFN2U3RJRUdnZ1E4bmswUHk?oc=5",
-        "published": "Tue, 10 Nov 2026 15:25:38 GMT",
-        "category": "マクロ"
+        "title_ja": "XRP台帳、2028年までに量子耐性ウォレットを計画 XRP保有者はコイン移動が必要か",
+        "title_en": "The XRP Ledger Plans Quantum-Proof Accounts by 2028. Will XRP Holders Have to Move Their Coins?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQU9jemZXX1N6WHVwa2g2LWRyajFhaXltckQ3S245NDlxcTlETk5NN01mdWxxaWxsUWNZVGZwZXlFaUZpalVlUHIzcS1vb3N5NkZ3bXVTQndrZ2tIVVptY3hhZlQ2MGpFWGo4MHFCMGE5RXI3UmRUR3kxQUxYbFhjem10M0JlVlJyV0xlT3R2TndWa242aUFPY1QzVQ?oc=5",
+        "published": "Tue, 10 Nov 2026 20:29:27 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "XRP台帳の量子計画、ユーザーに旧ウォレットキーのスイッチオフを要請",
-        "title_en": "XRP Ledger’s quantum plan needs owners to switch off old wallet keys",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFM2UXBKT2p4ZHZsLTh1ZnVyanczMXQ1WjdmdjdyZmRSRzhTVVhEZ3Zhc25QbjBGMzBXUkZfb2lsZ1J1dTdsc0o5clZKd1d5UUdxT1JZTm4tSFBNejAwdXlOOWR1TEQ1M1RQNFkzZHgweXJMLXNPNkVoQkJFN2dQWmw3bXhNajAzSXRjQkJPQlJzejVVcVdlNDgyaVp6SVpaY2dlMk1tc0lGc193RUNMY0R3?oc=5",
-        "published": "Tue, 10 Nov 2026 14:21:09 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "リップルのデイビッド・シュワルツ、暗号資産のほぼ全てを売却 保有していたのは何か",
+        "title_en": "Ripple’s David Schwartz Says He Sold Nearly All of His Crypto. What Did He Keep?",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclYwRlBVajVHek54d1ZMejFUU1dDWTk2bTZWWVktNjBzcDRlNVFmTi1OSnpiRjFwSTVWaDNkMDZ0NnBzRU9PeWNnbTR1eXpEUl8wV2NvbzM4YkpLNnI4b29fSkNFc3hlWnRGU2ZyV1RMU21YOXAwNXQxbVgxTVpIcTdkNXNzbXphcl9kaFBfckJyR2JYMWdYbTNMdDQ?oc=5",
+        "published": "Tue, 10 Nov 2026 16:44:49 GMT",
+        "category": "発言"
       }
     ],
     "SOL": [
       {
+        "source": "The Block",
+        "title_ja": "フォワード・インダストリーズ、SOL財務を870万トークンまで拡大 ソラナが約3ヶ月ぶり安値",
+        "title_en": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSC1TVlNoWXJiY213RndGRFZSS3dPY3EzS2ZKSkZJbEVvcDJkcUdrd0pkbGhrdi1scndEcEFSeUo4elpwMjROY2djbW9yVjFjaXNLQURtMWRUdG9QeU1fVnM2MjlleWVuekEzZ0JFWTRQNlBhVkFHUVFjLW9wQ1lxTVpKd1RGUmc0YnZza2ZvRkhBLXpIS1k4b2loU0N1dWRNdEdObzRRdnphNEU3bGdDTmdUTThVUTdKQ1FlNUYxcHNCVkprUnFiX0pFOA?oc=5",
+        "published": "Tue, 10 Nov 2026 21:51:00 GMT",
+        "category": "大口"
+      },
+      {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナのジュピターが取引の枠を超えた拡大、トークンバスケット・イールドボルト・新ポートフォリオ機能を追加",
+        "title_ja": "ソラナのジュピター、トークンバスケット・利回りコンテナ・ポートフォリオ機能で取引の域を超える拡張",
         "title_en": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTJoMXdsRWVyTzB0SThSbkRZam9EbjRnc1o1VUVZQnlVanZtenNmWXdKbm91UEl3VWN4dk9kRVdZZVp5aEF0bzVpUWFBYmhBU1RSNUVyNXc0QnNoZjZ2NXhBd2ZLSUdmMGc1VG10SXJWRnFRY3hrUVBDOF92d09JRlJhR0t6UmFKLTY0T29xYjdoMHFWMWRIV1NOaXdSc01yU3FjM2tn?oc=5",
         "published": "Tue, 10 Nov 2026 15:01:02 GMT",
@@ -65,11 +73,19 @@
     "LINK": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ムーディーズがチェーンリンクを活用、複数ブロックチェーン間で信用格付けを配信",
-        "title_en": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2hhc19ONTVETkl0SjdkV0tBeGRsbTJBdkM5VXVncl9mWVVvcDg4V2E4a2xQVV9vLW9xcjVVVWRjWEFLNU51b0pjZlozSXJzNWpWM0JQWl9WMWlBQi1ac3FkRjVxMUhsbjZreGFMVFJmX0RIUlY4NHpBanBuVlROTE5LUy1lTDlfWlR4ZDMwSVFFTlhReHBYYVRZQTMzQQ?oc=5",
-        "published": "Tue, 10 Nov 2026 14:01:02 GMT",
-        "category": "採用"
+        "title_ja": "ムーディーズ、チェーンリンク経由で複数ブロックチェーン対応の信用格付配信をテスト",
+        "title_en": "Moody’s Tests Multichain Credit Rating Distribution Through Chainlink",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSllGN0hvVTdyVDNnN1ptckc5bUZPdGtIbTlGQV9JWXBkMERqZXgxQ0Itamg1WTBHRFhxX1djczdIZWtGNno2VHhLYzY5YjlmYnExUWF3ZnBfZWU4TUtHS0dQd0tBZ21zdnFhNWVKM3FYTk5kOE01bzZ3cG4ySzk3M1cwZUdCR29zNWlHRnZuN1kyZHZhdkxrbjZZdDQyVENvUGxZ?oc=5",
+        "published": "Tue, 10 Nov 2026 19:49:00 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "ムーディーズ、チェーンリンク試験運用で複数ブロックチェーン上に試験格付を配置",
+        "title_en": "Moody’s Pilot With Chainlink Puts Test Ratings on Several Blockchains in One Pass",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRS1WRWJhUm56S0hRYXNxR3FubGh5Yl9RSGdiWmRTN3BMWXpNRy1KRkh6ckFEMDV6OXdtbWloSzlHTVVEVlFmbjZoQnNWMHlRN0ppaTEwSlNKYm1yaXZYUjVRZ1g0cEVTNFdTZUFkS1U3N1dWU0NlU2ZiUUE0eHdEcmQ2SVFzSjBlRG5RaENjTUlpLV9neTlaQzNYWUk?oc=5",
+        "published": "Tue, 10 Nov 2026 19:20:24 GMT",
+        "category": "提携"
       }
     ],
     "SHIB": [],
