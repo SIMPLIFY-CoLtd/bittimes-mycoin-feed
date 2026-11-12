@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-12T02:11:42+00:00",
+  "generated_at": "2026-11-12T10:51:35+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "11月11日の暗号資産市場：ウォール街の暗号見通しが転換する中、ビットコインが7万4000ドル上回りに回復",
-        "title_en": "Crypto Market Today, Nov. 11: 2. Bitcoin Climbs Back Above $74,000 as Wall Street's Crypto Outlook Begins to Shift",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORk9ScXgtanU2N1BfMl96WG1mbkVaRzFKUzFLdXF6RzEzbm4waUJuNk9jRi14VnZienZlS2t1cHdyRDBkc056OWdtV2VMTmNnbElVaGhZcHV1VzVXOTE0V0E5dnFrbHczTnBqcm9zN2xMdWRXbm15MWFPTkpyZWhvSXlJekg5TXlTZ3phUGpOdnlfUlFMYVE?oc=5",
-        "published": "Wed, 11 Nov 2026 22:20:03 GMT",
+        "source": "日本経済新聞",
+        "title_ja": "ビットコイン冷やす「青い波」 ETFから資金流出、強まる先安観",
+        "title_en": "ビットコイン冷やす「青い波」 ETFから資金流出、強まる先安観",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vNmp3WmphUS00WUJGc2hLUmROVncxSXE0QW85cmpsN3JHTGpJcWwxY292SzV1Y3ZWU082ZGY2bUcyTFhtMXNFbUR0VFBYOWRsVHNtb0txMkVkYVEyZVlMeVNXZnlNTzlPOEhKMQ?oc=5",
+        "published": "Thu, 12 Nov 2026 09:00:00 GMT",
         "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ステーブルコイン流出とETF売却でビットコイン「ガス欠」状態に",
-        "title_en": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUldTb2puMWM2c0lZN0p6aTdWTk5femtkZ2lRR3ZTSFJ5YUZMZ19BSFhmYnJUWlk1RWZjM0ZaQ3BrdjkzdTJjUElhYnZtWXktZWFJSkZzcVNxZFJDMUVBMHhac082MnBleUw5SWRWMFpQMWhQME5XR3EydGJPbVRQa3JyWDR2VWVmdnY3a2otbFBuSy1KZ25uVnFPLXh0elN2a2c?oc=5",
-        "published": "Wed, 11 Nov 2026 21:46:03 GMT",
+        "source": "CoinDesk",
+        "title_ja": "カナン、マイニングリグ売上96%激減後にビットコイン売却して自社株買戻しか",
+        "title_en": "BTC news: Canaan may sell bitcoin to buy back its own stock after mining-rig sales collapsed 96%",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzZFcTBWWUk5aWJPQ2lKOGI3T1phcHFvdEg1RzhIcGhJRmpQOEFWZGpwMDRDR1dXOXU1LUk0UG95SHFwUWJ1RHNBbmRxampfbE42MTZpcXZXZ19mNVF5dnJOT05qaHEyMTg0dllhZGU2YkRSZ1NRR2VmOFZFSjg5VktSWjV2VnQzRVY0a3puUW1rVmp4OFJjdU9sVkJpV2FuNFA2cE81endCVFVSTV9kMWdLY0ZYRzh1LWhCSlBpcw?oc=5",
+        "published": "Thu, 12 Nov 2026 07:55:37 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "BitMineがまもなくETH買い付けを停止、新しいコインの調達先は",
+        "title_ja": "BitMineはまもなくETH買付を中止、新規コインの獲得方法は",
         "title_en": "BitMine Will Soon Stop Buying ETH. Here’s Where Its New Coins Come From",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1rbnVVR3J0eFVpRDQzbDhUNGoxcF80R0IydlpGekJERUlCdzNaa1RLQTB5eUNoWGdzdnd2UUJNUWNMUDMzX3FOcHZGNEIyUHZaZVVDc2NGd3lGb3FZR2R6Y2VUYW9UNFVESTBUekVoQWpqcXdybEhVMHBZVjdBZXdFaXE3LVdZRW43QklRS043SnFpUlZKSA?oc=5",
         "published": "Wed, 11 Nov 2026 15:04:49 GMT",
@@ -33,37 +33,45 @@
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ロスチャイルド・インベストメント、ビットコインとXRPへの保有を開示",
-        "title_en": "Rothschild Investment discloses Bitcoin, XRP exposure",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0JOSVlfR2VZZ3pRTmJSZVFKQ2JULURYUFQ5MHFNVGRDQzcycmh1MXhJODA2NmJJd1NudDhYOElOSmdubnFEX180Mm9XSTd1VC1hQk94a3huWGN0SGRrcXBNSWRacGtxTllHQWpqckFkOHctcUxnNzJRdVJjaEN5b3NCQ0NoZGVFbmV6S2ROWjMzX01UTFozOUU1TS1kSFlpRE45bm9sN2t2TDRt?oc=5",
-        "published": "Wed, 11 Nov 2026 19:59:01 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "リップルの銀行融資システムがXRPレジャー上でのローンチに向けて進行中",
+        "title_en": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXlZRW1tRnZQck5BTTZqeUluYmE4cnpweEdHTEtwQ3NyYWVCSHljSlBqN21fT3ZnUzdON3o3Y0VRQnYtVGZSbVg2UENvYk9yUFVKejZDVHphdnU4WXA2anE0SlBsdVpuOU5mOVM3WnN4QnZvYklVSERXTVluZzBXYW1FRlhHRUQyODlzd015N0RHNjg1R195OGVTUG5OTHpBOEgxX05JNl9MdDhLOXNj?oc=5",
+        "published": "Thu, 12 Nov 2026 05:18:43 GMT",
+        "category": "採用"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "リップル幹部デイビッド・シュワルツ、2600万XRP保有から9割以上を売却、その理由は",
-        "title_en": "Ripple’s David Schwartz Once Held 26 Million XRP, 1,500 Bitcoin and 40,000 Ethereum. Why Did He Sell Over 90% of His Crypto?",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0QtZmNkektNSFRzaFJmSzIyY2ZWWnlFMjhUTFdmNzUtX1JwQ2FpRmpuQWxhQlA0NVVCci1ON3VMTFJSelU5akpGTzZGdDVwZHNYX3B5RmlHY0FTRy1rU2NkZUVuWHB3N2FxdjdEeFhWT1RaX3FlV1c3M29pRFRXTmZBaWJ5WlB2TkFGQ1FlMUk5bU5YMm1JUWhrMVQ?oc=5",
-        "published": "Wed, 11 Nov 2026 12:31:58 GMT",
-        "category": "発言"
+        "source": "CoinDesk",
+        "title_ja": "リップルの銀行融資システムがXRPレジャーでのローンチに一歩近づく",
+        "title_en": "リップルの銀行融資システムがXRPレジャーでのローンチに一歩近づく",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWG9MTENTeVBhZk8tMGpaalJ0eTVFUUpBaVlnOF9QekJOdXJaakZ3UHFyRlVmeGZSQUZfQjkxemwxeFJETXRPbm1mMlV6RlZuWFV2NWctQ2lEbkcyc1d6T1J6aWticEZUd0pCQ1E3S1RkV2I5VDdYamUwR1g1S3FBX1dZdi1LS0E5VmUwaDB2cVFqMjdXcnlFZ3d6aDVoazBCSEJ1aG1KSnJiczBOSGtkRnBjSQ?oc=5",
+        "published": "Thu, 12 Nov 2026 05:18:43 GMT",
+        "category": "採用"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナ・カンパニーが第3四半期利益1億520万ドル、SOL125,000枚を追加取得",
+        "title_ja": "ソラナ・カンパニーが第3四半期で1億520万ドルの利益を計上、125,000SOLを追加保有",
         "title_en": "Solana Company Swings to $105.2 Million Q3 Profit, Adds 125,000 SOL",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkRQQm9EVzJRWTZManZvcnhObGZfUW1nUVcwdENPWUN4aEx1d1pNRnpFOG5LMGliRVc3X2xkY1ROdkdMbGVWUWlKbWZQaWo1Y09YREI2emN6d1l6eEdEWVNOSlBVd05XcmUwSFppWkJCblBDU1VxWm9wQTlkSUlYTVhPRDJnckNraUtCU280UVJ4UTdVcEk0?oc=5",
         "published": "Wed, 11 Nov 2026 21:41:00 GMT",
         "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "チャールズ・シュワブがソラナ、アバランチ、チェーンリンクを追加することが示唆する意図は",
+        "title_en": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
+        "published": "Wed, 11 Nov 2026 15:17:15 GMT",
+        "category": "採用"
       }
     ],
     "ADA": [],
     "DOGE": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ドージコイン、DogeOSでミームコインの枠を超える",
+        "title_ja": "ドージコイン、ミームコイン の枠を超えDogeOSで展開",
         "title_en": "Dogecoin Expands Beyond Meme Coin Roots With DogeOS",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU8yQ25VVUxFamxiUl9vdmxaeWxWV3M5N20yRzNiZ0ZWaTJ5WEViYTVUZVgzZ1pod3M5VDdDMU1uVEdEdTFZbXIwQzZEM3hDUEZMOUNsckhTc3QtbWliVlZOUnpjQ0E1czJnUmUyd1R2d25OMjg2QXZkb0g3bEhPV3V2MGZiZm4xTWVfU0M4OXBIeW1pcG8zdVlNeHVreTA?oc=5",
         "published": "Wed, 11 Nov 2026 22:38:00 GMT",
@@ -71,24 +79,41 @@
       },
       {
         "source": "The Block",
-        "title_ja": "DogeOS、ドージコイン向けDeFi機能とアプリレイヤーの立ち上げが「非常に近い」とCEO",
+        "title_ja": "DogeOSのDeFi機能とアプリレイヤーのローンチが「非常に近い」とCEO",
         "title_en": "DogeOS 'very, very close' to launching DeFi features, app layer for Dogecoin: CEO",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNak1NWjZuMnIxV0U2cy1JRGp2d2xVLTdZNkhSQl8wZDBOLUdNM0xNX2M3T1N6LU9IblVXSG96cUVLeGFzUDR2OEF5Vm02S0lKSFFzRWk0RU54cGtwWWdzdVZlN0l3NVhnblV4VzJZWl9KOEhqdjA0dnZmQlhSMWV0dWFiOU1ndVBYTVpDX1FPRDZGVVJLNktWV3FUVUs0akhuNlBINFBiaThKUDBvTklWX2hLU2xiOGhhczZKbWxn?oc=5",
-        "published": "Wed, 11 Nov 2026 20:32:00 GMT",
-        "category": "発言"
+        "published": "Wed, 11 Nov 2026 20:49:00 GMT",
+        "category": "採用"
       }
     ],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "チャールズ・シュワブがソラナ、アバランチ、チェーンリンクを追加することが示唆する意図は",
+        "title_en": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
+        "published": "Wed, 11 Nov 2026 15:17:15 GMT",
+        "category": "採用"
+      }
+    ],
     "SHIB": [],
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "アバランシェがNYSEを獲得、次は「AVAX向けの価値創造」を実現させる必要がある",
+        "title_ja": "チャールズ・シュワブがソラナ、アバランチ、チェーンリンクを追加することが示唆する意図は",
+        "title_en": "What Is Charles Schwab (SCHW) Signaling By Adding Solana, Avalanche And Chainlink?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2p3WG9NSmZCbDZZUzZDaFh4RE9QeEg4YVZBTUFmbHpxWUZVTWdUR24tX1NaWEVBYVVUMWJiZ1NSWVhJUVNTN2Y5ZEZvbjM5Y3hoczdZLWpmdGJ3UFE5WXZXcU8zcTMwVmM5MVl4Xy1xQmMzNXRwOXFmTm9nOTQxZ1JreEVjMFhMWWItYmdZcEV2R1FsZlI4ZnB1RDdELWd0RWpB?oc=5",
+        "published": "Wed, 11 Nov 2026 15:17:15 GMT",
+        "category": "採用"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "アバランチはNYSEを獲得、次はAVAXの「価値獲得」が課題",
         "title_en": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTVhbFh2Z203VXZ6dnVJd0tfcDBiaUtmYlozVkNoVVZlNGE4b2Q0STVmYjlHU3htVjZYdHR1ZmNZRkpRaEdhS2FjXzhib1p1WHczZ0g3bFhKaTl5SXZUdmp0TWJhMUpYZEVwMGdqUFVlektJV2hIb3NDWnFxQkZjQUU1OFZxekk2b2hTS0JTeEhlLTF3OUFJ?oc=5",
         "published": "Wed, 11 Nov 2026 10:53:11 GMT",
-        "category": "提携"
+        "category": "採用"
       }
     ]
   }
