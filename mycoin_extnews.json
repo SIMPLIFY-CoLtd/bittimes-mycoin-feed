@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-13T10:47:12+00:00",
+  "generated_at": "2026-11-13T19:29:28+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコインが69000ドルを下回る理由、5つの圧力要因",
-        "title_en": "Why Is Bitcoin Crashing? 5 Pressures That Pushed BTC Below $69,000",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1R3em9xY0M3R3gxc1NSUG8xZThjalJsN2s4QW5PbDJzTVlSOHNyMkVhYVVnWjl4YTI5eVpBQ01nZWhhaVp1T3BpYzdsY3NuQXh5emVvdFpIQk94cGxfcU14LW5CQVpKYzByS294Wnlnd3YyNW1PZktyR3o3UlhVMFlpYU91ckl1VER2V25JX09tUUk4NnMyR0hKUk5CZw?oc=5",
-        "published": "Fri, 13 Nov 2026 09:04:29 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、Anthropic上場熱でマーケット不安が増す中68,000ドルまで急落",
+        "title_en": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVg5eFZrR292cU51UDRvU0piaHlybGw4MkNaRFFzclNieGdmUEhDVGNYcklBYjJDUDFTcmg1aDcxYVdvdnItMW1UQ1VkS05vTzBUeXRESGF1bTQyWVREMDB2enBybHBxWXFzZHhQdkZiWnhLRVR4b2VLUTN6SmY1czhycEFQbzU0OTdyMUNvbnl0TUtabkNnbFNyWC1LMFdfVFBuUXQ2cE5mVDRmSnlNRms0ak96U05UYmJUbmw2eUVGUWUwNHBmZw?oc=5",
+        "published": "Fri, 13 Nov 2026 18:39:58 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "The Block",
-        "title_ja": "ビットコイン69000ドル割れ、Nvidia下落とFRB売圧で",
-        "title_en": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1Fkdm0tU241MEpVNkhLM0JQX1VZeWw5dElYVlRzaHBvaThkYVdXWXhtUFNHTkJXSk9XOXBpT1p5eVoyVHVkMmctU3lOMXVTbXd2UEwxWTliaElSWUpra2JSRFhkT2hqbGNmN1N1TjBYMXNDWWxMdTVnLTEtejdvNmgyUUc1TnNIcVE?oc=5",
-        "published": "Fri, 13 Nov 2026 06:23:00 GMT",
-        "category": "マクロ"
+        "source": "Decrypt",
+        "title_ja": "FRB議長ウォルシュがAIインフレについて説明要求、ビットコインが影響受ける可能性",
+        "title_en": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0tXZkJ2R2JfbWRDVnpfQXpRUEVuYlI2TUVzb2JxY0lIOFRWYm5XUEE3bENNNk1ISGZfZ1VtM3NCVDhSNWhTWDhsVklGY093bzZCQTJRbncteVg1TVBzSFY3UVRxUDZkazg5dGlmdC1DRjZJLURlcjVOUjA1bHVFZUxn?oc=5",
+        "published": "Fri, 13 Nov 2026 18:36:02 GMT",
+        "category": "発言"
       }
     ],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアム資産管理企業BTCSが6400万ドル規模のAaveローン維持のため損失を出してイーサを売却",
-        "title_en": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHFhRk1sNXA0eVBZTHM2TXZRNXNPbl9DS1l2QmE4UGVSM2tEN2Z6RUJWa2JVVW4ta1BaSkpxVHpxMWZoejZtRl85WEY5b1JlZzFid3R0bUVvSHJmQUhxeDM2cXdCOGd1c1RWek8tUnRfZGQyeGF0cHpUMlM3dWhlSkVESWpWa1hsYXVTbVk4bk5uWExBc21jbFF0SzVtWHB4R2FXNUNNTkpVZ01iRVFMWm11cndISGhzSVNfSnRGQlRadERic2U1ZGpKcE0?oc=5",
-        "published": "Fri, 13 Nov 2026 07:05:29 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "Sofi、Polygonにステーブルコインを導入",
+        "title_en": "Sofi brings stablecoins to Polygon",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEVtQTNvVG1JZWhkMVM0cFIxNVo1SER3SWlPLThUYnZreXRXTjI3T09xeWU4eW9wajVkMzlVdzVFNjdRa3Fqdm96bEU0dTU2cndfNzB1M05IRjFkQXdwdmZpWW41WExfRjd4T1YzNEdWZWoxZmYwb1RieExJRThiZFEwVm8?oc=5",
+        "published": "Fri, 13 Nov 2026 19:00:00 GMT",
+        "category": "提携"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムの資金管理会社BTCSが、6400万ドルのAaveローンを健全に保つために損失を出してイーサを売却",
-        "title_en": "イーサリアムの資金管理会社BTCSは、6400万ドルのAaveローンを健全に保つために、損失を出してイーサを売却しました",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGs5VGl4RXgtZkFUeVBjS3VQSWNzVER6Rmd4VnhBNGk3UmxmMkViMGcyUU9IY09saFozbnNtWHBzS0NvU3ZGWmNuV0Z6WUVpa1pwOE1kNG1ybkZ3YjdSNjJTQU03bnVVSFhVRFdEdUN0Y0NUZE13VlZnMENrVlN0eW5YODFDUWlEU0ZiSEUtLUdjT0VxQ0o5dWx6NlZkRjZRYVNEel9BYTNfVFFkR1NONEI4bG1YLWl3NWlaTHhualhxRDd3VFVGamducnZ4ZkdH?oc=5",
+        "title_ja": "イーサリアム資金管理企業BTCS、6,400万ドルのAaveローン維持のため損失覚悟でイーサ売却",
+        "title_en": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHFhRk1sNXA0eVBZTHM2TXZRNXNPbl9DS1l2QmE4UGVSM2tEN2Z6RUJWa2JVVW4ta1BaSkpxVHpxMWZoejZtRl85WEY5b1JlZzFid3R0bUVvSHJmQUhxeDM2cXdCOGd1c1RWek8tUnRfZGQyeGF0cHpUMlM3dWhlSkVESWpWa1hsYXVTbVk4bk5uWExBc21jbFF0SzVtWHB4R2FXNUNNTkpVZ01iRVFMWm11cndISGhzSVNfSnRGQlRadERic2U1ZGpKcE0?oc=5",
         "published": "Fri, 13 Nov 2026 07:05:29 GMT",
         "category": "大口"
       }
@@ -42,32 +42,24 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP価格、ガーリングハウスの『絶対に諦めない』宣言以来22%下落、リップルの戦略は",
-        "title_en": "XRP Price Falls 22% Since Garlinghouse’s “Never Give Up” Pledge: What Is Ripple’s Plan?",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeG9lVFZ0OWM3cjRhN2k1bEVxSVA5YlNxOWlRblZnbU1DemNOVjF3czIxTTFhMkU3M2psSUlWN0pQZDNnLUhTMUtEREtQYklmXzY4dFhERGVUREdob3BsSlI3cXd0NjdHTWd5TVkzOVFsSUlLeU5oSXNCbGNUODZBUk1uLXN5eXgwU0Qzb3UzY25QZzg?oc=5",
-        "published": "Thu, 12 Nov 2026 14:44:55 GMT",
+        "title_ja": "XRP、11月25日に大規模リセット実施予定、価格反応なるか",
+        "title_en": "XRP Announces Major Reset on November 25 – Will Price React?",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmdHSTlsWTc5djN6TVVxVVk5NEVISnROWXVqa0JaZS11aDZMcU5aUFlncFJUVVNwYWVzWTktMS02dVJiQVpBTmlfc180TXhJZGIyM3pnRFZwZDFKcjZEdjNRNkhlN3Z5b3FhZ1ZMS0l2ZGh1Vi1LZE1BaGJTUnhOaVdLaVJLOWJmbXhjYkNTcFBzZ2djZ19RZmVCdXR0Y2I2?oc=5",
+        "published": "Fri, 13 Nov 2026 00:55:48 GMT",
+        "category": "その他"
+      }
+    ],
+    "SOL": [],
+    "ADA": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Cardano創設者ホスキンソン「ロードマップは完成」と表明",
+        "title_en": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEZkRjlFdEUzVnJtY2h4M0p0bWQ1X0tNQXZia2JqbC1veEIwUDJGeW1JUzlCM3BhNk90YXhVLTJjNUVHMVAxTjBUSG5EM2Q2ajZ2U2FvRUViUHJsS0VRNmJ6ZEpiT1BtNFY1cDNVSlFrN19lT1BGbE1vWDB2N1FLQ1paa2xsUlFld0FGZGZNS3FSMU5FSzg5SkdxZWV1c0lsSnVocTl6bTM?oc=5",
+        "published": "Fri, 13 Nov 2026 13:36:29 GMT",
         "category": "発言"
       }
     ],
-    "SOL": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "Solanaニュース：ウォール街大手DTCCが2027年にブロックチェーンのトークン化を拡大",
-        "title_en": "Solana news: Wall Street giant DTCC to expand tokenization to blockchain in 2027",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmwxUk9PX09vdXhNUlpMVUgyXzVpaFhIaTBpQ1pmYVdiNUxlV1lsZHZxemZLWTRXZ2lROUxNcjJaMWt5ZnMxXzRDMHFKUXg5UUVfd2tnNGdfcE0wOWNZYmpoWlZXUi0yendXT0FYVUltZXVQTkt1YVV1OWtYX0VDQi1xVjd4S2xzbTlOVVNkamctc3FORzlVeXExRlB2LWowa09MUldpOTBXNGpHNnpCdnFCWWxDamJfMmc?oc=5",
-        "published": "Thu, 12 Nov 2026 15:45:48 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "Jupiterが10億ドル規模SolanaレンディングプラットフォームにAnchorageが支援するUSDGOを追加",
-        "title_en": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlDS0FxY293NldmRTdHMXNzWjhLcXdnbzlfS3NrdmZzQU1IS0QxV25CSExoRzZ5QWk3UXdKaXFrUnNrUkNuaFI3aE9KclBIOWFkTXBqdXYxVGNNN3lTd2o0N0dRY1lUWVAtNlFpVUlqclVhOVR6U1VnNTFxRUhXS1FfUmE0R3pRc0pYdjJJMzBUM0J6NFd4YUpNSkJVVXV0MHpQa2hZN2kwQnJRejdDWjY4U3IwemNqYVFFekNzb2VUUQ?oc=5",
-        "published": "Thu, 12 Nov 2026 14:45:00 GMT",
-        "category": "提携"
-      }
-    ],
-    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
