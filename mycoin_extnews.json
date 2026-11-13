@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-11-12T19:47:18+00:00",
+  "generated_at": "2026-11-13T01:44:24+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、7万2000ドル割れ後の重要サポートレベル",
-        "title_en": "Bitcoin key support levels to watch after break below $72,000",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlpDMWhZT2ZaS05OSklsWWxhSFNXMEhPQ0JIektuWFhJcmc0b09mMEExQU83Mm5kekJqQlBlYTVQNVpqNDVSYVNwZGdWMDV1RVgtejVtNmxYR0FyRkhvbmdhem1aUUJobl9fNjhKN1lhUmFSRXkwcEllOUI5cWJtODlfaHdSaEZvWE9rQnEtbktZenBTQkxNNmNlOE4tUQ?oc=5",
-        "published": "Thu, 12 Nov 2026 15:36:05 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン8月以来初めて7万3000ドル割れ、アナリストが下押し後の買いを想定",
-        "title_en": "Bitcoin Falls Below $73K For First Time Since August: Michael Van De Poppe Wants One More Flush Before Buying The Dip",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUljcHBYLVlFUElEenJPdHVnZDZmYllvX2lLNi1CQXRDVDdzN1h4OGZJRWMxNFRnbGVOa2lUU3VIT2xQUWxjTXF6M0hDMzJoNkpBSmM4S0IxSHNnQVlNSzJnTDFrdUtYNUQydWRvM1RSVXRjYmpCZ2otcy1Tb2daa2VwVGZBc1hHR2Y2UDg1SHE5VmhGa2Zka0Z3?oc=5",
-        "published": "Thu, 12 Nov 2026 13:03:38 GMT",
+        "title_ja": "ビットコインが200日移動平均線を下回る、67,000ドル向けか",
+        "title_en": "Bitcoin Loses Key 200-Day Average: Is $67,000 Next?",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEE3V0tuNV8xb3ZGcmdGdzNvOWYtY2VsTS1CTVRGRUtWajU2X3cyZFpHanhaYjBQY2gxakxzUlFXdjJWOG5rdFR6azY4VElJajQyeW1vVVRlM3JZSXp3NWJSSUoteDBrWkM0X3BqU25wWktBV2k3X3JJZUxMNlU0d0pUM2NUQllrTjJDTG1YdmVVUG9M?oc=5",
+        "published": "Thu, 12 Nov 2026 20:53:50 GMT",
         "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "The Block",
-        "title_ja": "Unocoin取引所がログイン停止継続、BitGo経由のETH出金を停止",
+        "title_ja": "Unocoin『ログイン停止』継続、BitGo発のETH送信をフラグ",
         "title_en": "Unocoin 'login suspension' continues as exchange flags outgoing BitGo ETH transactions",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQak9MeHpucEh4MW5tckd2ZXhRMUJHalZlX0xZbjQycGVNeUtEaUlYUFpwaGV6OXJpSjhXNE9zc3JPaW9ZRkNZU2c5dFNpbXg5bkoxd2x4YWVLNlN5bjdLS2NwOGZpcDdDRkFJel9qU2ZDWENZQVZRTW8zTXIwcnZjOWI5TEFNWWN1Tk1XTWI2QVBHYWM0ZHRzTi15eUtfTldhWFV5d0JaU2tqU2ZoMHM0TEpXVVpKZ091aWdfeXlVNVl1Q2dnMXM1UXVSeVlOajVtNFJQNnEta25aZw?oc=5",
         "published": "Thu, 12 Nov 2026 15:36:00 GMT",
@@ -32,7 +24,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアム研究者ら、2027年の量子耐性化に向けブロック生成高速化を推進",
+        "title_ja": "イーサリアムの研究者が2027年の量子耐性化へ向けてブロック生成高速化に取り組む",
         "title_en": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG5nQ21keXQ0VlB5TDhaYThnMlBRcFdOYXpPZFdLOHEtYkhCWUtXbjJMWGNGZW1ZSUVkRnZHdFFaX3g3YVE3RWJQR1VJamhmOHJnZkdhVE9RNGJtdGNtRkY4TWRLSUEtMTFudTRISDBBZDJkS0xBZU5BRTZPWUdSYzl0WkV4dzljeDcxb2d2N0psOGktc2FmNDFPSkJmRGc3NERYQzBvb1BsNHlHdnNrdndFaEZIb1MtZ1ZMaQ?oc=5",
         "published": "Thu, 12 Nov 2026 11:43:41 GMT",
@@ -41,59 +33,42 @@
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "リップルの銀行融資システム、XRPレジャーでのローンチが間近",
-        "title_en": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXlZRW1tRnZQck5BTTZqeUluYmE4cnpweEdHTEtwQ3NyYWVCSHljSlBqN21fT3ZnUzdON3o3Y0VRQnYtVGZSbVg2UENvYk9yUFVKejZDVHphdnU4WXA2anE0SlBsdVpuOU5mOVM3WnN4QnZvYklVSERXTVluZzBXYW1FRlhHRUQyODlzd015N0RHNjg1R195OGVTUG5OTHpBOEgxX05JNl9MdDhLOXNj?oc=5",
-        "published": "Thu, 12 Nov 2026 05:18:43 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "XRP、11月25日に大型リセットを発表——価格は反応するか",
+        "title_en": "XRP Announces Major Reset on November 25 – Will Price React?",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmdHSTlsWTc5djN6TVVxVVk5NEVISnROWXVqa0JaZS11aDZMcU5aUFlncFJUVVNwYWVzWTktMS02dVJiQVpBTmlfc180TXhJZGIyM3pnRFZwZDFKcjZEdjNRNkhlN3Z5b3FhZ1ZMS0l2ZGh1Vi1LZE1BaGJTUnhOaVdLaVJLOWJmbXhjYkNTcFBzZ2djZ19RZmVCdXR0Y2I2?oc=5",
+        "published": "Fri, 13 Nov 2026 00:37:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "リップルの銀行融資システム、XRPレジャーでのローンチが間近",
-        "title_en": "リップルの銀行融資システムがXRPレジャーでのローンチに一歩近づく",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWG9MTENTeVBhZk8tMGpaalJ0eTVFUUpBaVlnOF9QekJOdXJaakZ3UHFyRlVmeGZSQUZfQjkxemwxeFJETXRPbm1mMlV6RlZuWFV2NWctQ2lEbkcyc1d6T1J6aWticEZUd0pCQ1E3S1RkV2I5VDdYamUwR1g1S3FBX1dZdi1LS0E5VmUwaDB2cVFqMjdXcnlFZ3d6aDVoazBCSEJ1aG1KSnJiczBOSGtkRnBjSQ?oc=5",
-        "published": "Thu, 12 Nov 2026 05:18:43 GMT",
-        "category": "採用"
+        "source": "Yahoo Finance",
+        "title_ja": "XRP価格がガーリングハウスの「決して諦めない」宣言以降22%下落——リップルの今後は",
+        "title_en": "XRP Price Falls 22% Since Garlinghouse’s “Never Give Up” Pledge: What Is Ripple’s Plan?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeG9lVFZ0OWM3cjRhN2k1bEVxSVA5YlNxOWlRblZnbU1DemNOVjF3czIxTTFhMkU3M2psSUlWN0pQZDNnLUhTMUtEREtQYklmXzY4dFhERGVUREdob3BsSlI3cXd0NjdHTWd5TVkzOVFsSUlLeU5oSXNCbGNUODZBUk1uLXN5eXgwU0Qzb3UzY25QZzg?oc=5",
+        "published": "Thu, 12 Nov 2026 14:44:55 GMT",
+        "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "CoinDesk",
-        "title_ja": "Jupiter、10億ドル規模のSolanaレンディングプラットフォームにUSDGOを追加",
-        "title_en": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlDS0FxY293NldmRTdHMXNzWjhLcXdnbzlfS3NrdmZzQU1IS0QxV25CSExoRzZ5QWk3UXdKaXFrUnNrUkNuaFI3aE9KclBIOWFkTXBqdXYxVGNNN3lTd2o0N0dRY1lUWVAtNlFpVUlqclVhOVR6U1VnNTFxRUhXS1FfUmE0R3pRc0pYdjJJMzBUM0J6NFd4YUpNSkJVVXV0MHpQa2hZN2kwQnJRejdDWjY4U3IwemNqYVFFekNzb2VUUQ?oc=5",
-        "published": "Thu, 12 Nov 2026 14:45:00 GMT",
-        "category": "提携"
+        "title_ja": "Solana関連ニュース：ウォール街大手DTCC、2027年にブロックチェーン上の証券化を拡大へ",
+        "title_en": "Solana news: Wall Street giant DTCC to expand tokenization to blockchain in 2027",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmwxUk9PX09vdXhNUlpMVUgyXzVpaFhIaTBpQ1pmYVdiNUxlV1lsZHZxemZLWTRXZ2lROUxNcjJaMWt5ZnMxXzRDMHFKUXg5UUVfd2tnNGdfcE0wOWNZYmpoWlZXUi0yendXT0FYVUltZXVQTkt1YVV1OWtYX0VDQi1xVjd4S2xzbTlOVVNkamctc3FORzlVeXExRlB2LWowa09MUldpOTBXNGpHNnpCdnFCWWxDamJfMmc?oc=5",
+        "published": "Thu, 12 Nov 2026 15:45:48 GMT",
+        "category": "採用"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Jupiter、10億ドル規模のSolanaレンディングプラットフォームにUSDGOを追加",
-        "title_en": "Jupiterは、Anchorageが支援するUSDGOを10億ドル規模のSolanaレンディングプラットフォームに追加しました",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUNZanhwRVc1RGRuQUtlYlJKUnAyX2VXTHJPb0hiQmxlRHRzUS1hSzdvaWNCZkdGYndSM1YyMVpTNWczVnVGc0VQd200UHVSbHMyeDJhLV83bUpzeGNnRFBsc1hweXhTMXRvRmY5V2RaamxiczU3NFRfWVhqcEduR0FZN2sxS3pucmxUc0tVelM2TmpiUGd4bVV3UTE4ZjcyZER6TVhqYW9EV0Rab3hwc0N4M3B1bHBuZjJUVk1DSVU2X2VQOWc?oc=5",
+        "title_ja": "JupiterがAnchorage支援のUSDGOを10億ドル規模のSolanaレンディングプラットフォームに追加",
+        "title_en": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlDS0FxY293NldmRTdHMXNzWjhLcXdnbzlfS3NrdmZzQU1IS0QxV25CSExoRzZ5QWk3UXdKaXFrUnNrUkNuaFI3aE9KclBIOWFkTXBqdXYxVGNNN3lTd2o0N0dRY1lUWVAtNlFpVUlqclVhOVR6U1VnNTFxRUhXS1FfUmE0R3pRc0pYdjJJMzBUM0J6NFd4YUpNSkJVVXV0MHpQa2hZN2kwQnJRejdDWjY4U3IwemNqYVFFekNzb2VUUQ?oc=5",
         "published": "Thu, 12 Nov 2026 14:45:00 GMT",
         "category": "提携"
       }
     ],
     "ADA": [],
-    "DOGE": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ドージコイン、DogeOSでミームコインの枠を超える",
-        "title_en": "Dogecoin Expands Beyond Meme Coin Roots With DogeOS",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU8yQ25VVUxFamxiUl9vdmxaeWxWV3M5N20yRzNiZ0ZWaTJ5WEViYTVUZVgzZ1pod3M5VDdDMU1uVEdEdTFZbXIwQzZEM3hDUEZMOUNsckhTc3QtbWliVlZOUnpjQ0E1czJnUmUyd1R2d25OMjg2QXZkb0g3bEhPV3V2MGZiZm4xTWVfU0M4OXBIeW1pcG8zdVlNeHVreTA?oc=5",
-        "published": "Wed, 11 Nov 2026 22:38:00 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "DogeOS、DeFi機能とアプリレイヤーのローンチが『非常に間近』とCEO",
-        "title_en": "DogeOS 'very, very close' to launching DeFi features, app layer for Dogecoin: CEO",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNak1NWjZuMnIxV0U2cy1JRGp2d2xVLTdZNkhSQl8wZDBOLUdNM0xNX2M3T1N6LU9IblVXSG96cUVLeGFzUDR2OEF5Vm02S0lKSFFzRWk0RU54cGtwWWdzdVZlN0l3NVhnblV4VzJZWl9KOEhqdjA0dnZmQlhSMWV0dWFiOU1ndVBYTVpDX1FPRDZGVVJLNktWV3FUVUs0akhuNlBINFBiaThKUDBvTklWX2hLU2xiOGhhczZKbWxn?oc=5",
-        "published": "Wed, 11 Nov 2026 20:49:00 GMT",
-        "category": "その他"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
