@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-13T19:29:28+00:00",
+  "generated_at": "2026-11-14T01:22:01+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン、Anthropic上場熱でマーケット不安が増す中68,000ドルまで急落",
-        "title_en": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVg5eFZrR292cU51UDRvU0piaHlybGw4MkNaRFFzclNieGdmUEhDVGNYcklBYjJDUDFTcmg1aDcxYVdvdnItMW1UQ1VkS05vTzBUeXRESGF1bTQyWVREMDB2enBybHBxWXFzZHhQdkZiWnhLRVR4b2VLUTN6SmY1czhycEFQbzU0OTdyMUNvbnl0TUtabkNnbFNyWC1LMFdfVFBuUXQ2cE5mVDRmSnlNRms0ak96U05UYmJUbmw2eUVGUWUwNHBmZw?oc=5",
-        "published": "Fri, 13 Nov 2026 18:39:58 GMT",
+        "source": "Forbes JAPAN",
+        "title_ja": "ビットコインの市場心理が弱気へ、米FRBの利上げ観測が強まる",
+        "title_en": "ビットコインの市場心理は弱気へ、米FRBの利上げ観測が強まり",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CT0xUSlFnTC1nRkZnZ0pjMnpNTWxPLXB0Q1p2cWRSa192aElVQjBGYXItc0tDNjVfajFNbFo1X08tLWpUZjJ0YzRpdDhjaXozYmdXaWV1bmpYQQ?oc=5",
+        "published": "Sat, 14 Nov 2026 01:15:00 GMT",
         "category": "マクロ"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "FRB議長ウォルシュがAIインフレについて説明要求、ビットコインが影響受ける可能性",
-        "title_en": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0tXZkJ2R2JfbWRDVnpfQXpRUEVuYlI2TUVzb2JxY0lIOFRWYm5XUEE3bENNNk1ISGZfZ1VtM3NCVDhSNWhTWDhsVklGY093bzZCQTJRbncteVg1TVBzSFY3UVRxUDZkazg5dGlmdC1DRjZJLURlcjVOUjA1bHVFZUxn?oc=5",
-        "published": "Fri, 13 Nov 2026 18:36:02 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "週間ラップ：ビットコインが7万ドルを下回る、暗号資産売却が加速",
+        "title_en": "Weekly Wrap: Bitcoin Falls Below $70,000 As Crypto Selling Worsens",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2o2c1RnWTJUNHpMWm94TmRSUDhlTWwyY09kQWNqNlJXTmZMc19uNFB2aGM0eGZRVTJnUkxWUXBqd3V2b2ZvZ3hRR3gyN3NEQ0Q4R01PdWxRSkN5MnV0SWtkX0p5ZmpZWXZhMjJFbmJDUmo2QnhLWFJFLUJlMF9OSGRjX0E3ZDZLU2ppYzhEdU1Ccnk5ZTJBcjRqazQ?oc=5",
+        "published": "Fri, 13 Nov 2026 20:21:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Sofi、Polygonにステーブルコインを導入",
+        "title_ja": "Sofiがポリゴン上でステーブルコインを提供開始",
         "title_en": "Sofi brings stablecoins to Polygon",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEVtQTNvVG1JZWhkMVM0cFIxNVo1SER3SWlPLThUYnZreXRXTjI3T09xeWU4eW9wajVkMzlVdzVFNjdRa3Fqdm96bEU0dTU2cndfNzB1M05IRjFkQXdwdmZpWW41WExfRjd4T1YzNEdWZWoxZmYwb1RieExJRThiZFEwVm8?oc=5",
         "published": "Fri, 13 Nov 2026 19:00:00 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "イーサリアム資金管理企業BTCS、6,400万ドルのAaveローン維持のため損失覚悟でイーサ売却",
+        "title_ja": "イーサリアム資金管理会社BTCSが6400万ドルのAaveローン維持のためイーサを損失売却",
         "title_en": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRHFhRk1sNXA0eVBZTHM2TXZRNXNPbl9DS1l2QmE4UGVSM2tEN2Z6RUJWa2JVVW4ta1BaSkpxVHpxMWZoejZtRl85WEY5b1JlZzFid3R0bUVvSHJmQUhxeDM2cXdCOGd1c1RWek8tUnRfZGQyeGF0cHpUMlM3dWhlSkVESWpWa1hsYXVTbVk4bk5uWExBc21jbFF0SzVtWHB4R2FXNUNNTkpVZ01iRVFMWm11cndISGhzSVNfSnRGQlRadERic2U1ZGpKcE0?oc=5",
         "published": "Fri, 13 Nov 2026 07:05:29 GMT",
@@ -42,20 +42,20 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP、11月25日に大規模リセット実施予定、価格反応なるか",
-        "title_en": "XRP Announces Major Reset on November 25 – Will Price React?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmdHSTlsWTc5djN6TVVxVVk5NEVISnROWXVqa0JaZS11aDZMcU5aUFlncFJUVVNwYWVzWTktMS02dVJiQVpBTmlfc180TXhJZGIyM3pnRFZwZDFKcjZEdjNRNkhlN3Z5b3FhZ1ZMS0l2ZGh1Vi1LZE1BaGJTUnhOaVdLaVJLOWJmbXhjYkNTcFBzZ2djZ19RZmVCdXR0Y2I2?oc=5",
-        "published": "Fri, 13 Nov 2026 00:55:48 GMT",
+        "title_ja": "XRP価格が1ドルを下回る、大型ウォレットアラートで72%上昇の可能性か",
+        "title_en": "XRP Price Falls Below $1 in Big Wallet Alert: Is a 72% Rally Next?",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOF9ucVZSbTF3RDJEbnBWTUR4MjMzTzJrb05oRVIzYVZkcWhYVmlrVTFBcVU2VDYyeG5xUXFmYUJZdTR5TGlEMFB3LWprcWtsVzRsOENpaXl0MkVPaEVCa1VhOU1zVEZaYVpVQlhMdGxZWkJiSzVTMjVDdlF3c21SVUdMakV3YXNMcE9kREg2M3Yydw?oc=5",
+        "published": "Fri, 13 Nov 2026 10:26:56 GMT",
         "category": "その他"
       }
     ],
     "SOL": [],
     "ADA": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Cardano創設者ホスキンソン「ロードマップは完成」と表明",
+        "source": "Decrypt",
+        "title_ja": "カルダノ創業者チャールズ・ホスキンソン氏が「ロードマップは完了した」と述べる",
         "title_en": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEZkRjlFdEUzVnJtY2h4M0p0bWQ1X0tNQXZia2JqbC1veEIwUDJGeW1JUzlCM3BhNk90YXhVLTJjNUVHMVAxTjBUSG5EM2Q2ajZ2U2FvRUViUHJsS0VRNmJ6ZEpiT1BtNFY1cDNVSlFrN19lT1BGbE1vWDB2N1FLQ1paa2xsUlFld0FGZGZNS3FSMU5FSzg5SkdxZWV1c0lsSnVocTl6bTM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJQNm1lOThJekJlZXhzcVhrblo4NV80bGlLNjhqeVVtWDZPMDc5a3A4V1pQZ014SEliQnFKZjNRV2RweVc1SVA3MVZJQ3ZleGNtS2pPSTkzQ1JPVl9acC1Jb2o3ZmZFYWtYTEZKQlFsTXdYa2NHcjdkc2w1V0dLd0dGUWlsa2lqdjBDYQ?oc=5",
         "published": "Fri, 13 Nov 2026 13:36:29 GMT",
         "category": "発言"
       }
