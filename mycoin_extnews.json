@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-11-14T17:52:38+00:00",
+  "generated_at": "2026-11-14T22:13:23+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "CoinDesk",
-        "title_ja": "英国が風力発電所の停止に対価を支払う。暗号資産推進派がビットコインマイナーの活用を提案",
-        "title_en": "UK pays wind farms to switch off. Crypto advocates say bitcoin miners can fix it.",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2dSTVgteC1yX2VlNTZtTVNGSDBmZGIxQjhKN3VZclU2UDh2NEpBak40REhBcm41REFGaHBKQ3pZcnlyaWZPc2FJVnJiZ3pZWFUtSHM3ZG0wbnJDNEg2a1hoTkkwOXJfVUl6aWdKRm1pVGVHVHBlOGpMYWhKaExDeW9rdi1DRWp5OEhQS3pZWEExSVJsZkpxUmtEb0VVY3dtcDJlTGphNlBnNmFWSTNEUko5cWgtcUdWTkM3REU2ZUVrMEsxdlFhM0k1aHI0OFNvV2hR?oc=5",
-        "published": "Sat, 14 Nov 2026 13:00:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、6万5000ドル割れ、1週間の下落が継続",
+        "title_en": "Bitcoin Drops Below $65,000, Extending Weeklong Slide",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGcyWWZKcXJBaExnOVZqTGw5THdCSXUzWW4yc1NSNUh5RVJLLXNFVkp6RWtPWC11QVBMSHdsaGdwLVB0Zm1aYUxFT21vREFlWVI1TVFmLTlsTFNuQndSb0M2ZG5rN1dCZmFRWGNMdUNvYnJJXzNSWXVUZmdMV3Jock9PX1pjaEptQ21mSEt5LUYyOE5KYXc?oc=5",
+        "published": "Sat, 14 Nov 2026 21:28:00 GMT",
         "category": "その他"
-      }
-    ],
-    "ETH": [
+      },
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムスケーリング企画MegaETH、AI事業推進のため人員削減",
-        "title_en": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVUzWkdWN3k3TlAycEdwT21HZmgwNUh2Sms2YzMzS2Qzc3BKV1FqNENqLWJLdGlXU1NhYkhlbXg2TjlicUxVel9PME1kSW8tRVJuMEVoNm5TUnpNVjVLb0thMHBoVTlVVTNxSnowc1JsMGVmd25Nem5uLUtGcFo1dzZUTzV5ZEZLd3pkc251Mmg4MEE4TmViRkdCOEEzRml5bGQzaU4wRzVsUFFpdjBiSkdjOVJJZ0ZWZ3NOR0l0NUw?oc=5",
-        "published": "Sat, 14 Nov 2026 16:33:23 GMT",
-        "category": "その他"
+        "source": "The Block",
+        "title_ja": "ビットコインETF、2週連続で10億ドルの流出、暗号ファンドが一部を除いて資金流出継続",
+        "title_en": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd2RhQ3lIWVBkNjRaQ1ZucjBhNkItQ21qZi1NMFhuRE1Kd0FPMWhsb0F6eWVLVkpRVDZtSHJoQWdCQ0RacUNkdEJLQ1dHLVdHYzN4MkpUdU1od1FUcm8ybmdUdFEzb25BYTl0WUtJQy1oQ21nSnRybXBUbFExQmpmZDN2b3g2dTRZMjRHWE9FVlZ5UldzMVhMb0ZiWktmcjJHOElUYndGbG5XQS10dm5oLTlQQkphTEFTYUZubTVRbUpyV0pWV3VuV2ZESVpyOHdvSG9ieW5Bck9sTDFHUVhHZWY0WGJXYW9yelBHcA?oc=5",
+        "published": "Sat, 14 Nov 2026 17:50:00 GMT",
+        "category": "大口"
       }
     ],
+    "ETH": [],
     "XRP": [],
     "SOL": [],
     "ADA": [],
-    "DOGE": [],
+    "DOGE": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "イーロン・マスクのツイートはもう重要でない、ドージコイン・ラボズ創業者が述べ、それはドージコインにとって「健全」",
+        "title_en": "Elon Musk’s Tweets Don’t Matter Anymore, Says Dogecoin Labs Founder and That’s ‘Healthy’ for DOGE",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3BKNFZsc1pVQnZraXU3TE5vdGtpUnV5N0tyOHFJN0ZuUEQ3c0NXdFhNUnFES3VHYmkySVVfbU9JZG5adVZWRUU4aktxZ2EzX1B4MzM1Z25aU3RjbV9yV0dwbEdjem44YXJ2dmozdkMtd2FzZHZvamplSWVlYkxrWXpQeE4tOE5aQnJYalBYcFo?oc=5",
+        "published": "Sat, 14 Nov 2026 18:43:23 GMT",
+        "category": "発言"
+      }
+    ],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
