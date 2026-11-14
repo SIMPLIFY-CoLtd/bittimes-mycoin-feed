@@ -1,34 +1,26 @@
 {
-  "generated_at": "2026-11-14T10:01:53+00:00",
+  "generated_at": "2026-11-14T17:52:38+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "2011年以来保有していた26億ドルの訴訟対象のサトシ時代ウォレットが75BTCを移動",
-        "title_en": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXdaQlBHUGhrc0ZWUWxFZzNVVjhsemt5aW42UUI4MEJkRGUtcGNpckxpY2VKMlBxN0lCdjc2ZGhaWFlWbldKeElRZUYzUWFoUFpJZS02MklacjhUdmowSnphYUVpVHRpNXU1bGxUV0F1ZjJNVURZRzE2WlIxWVNHWUZvWlY1VzBhNGVxNzE1azJQZ3hrU1U1QkQ2eFhOaDNVVHJvaExuSGNxa2VFblh1ZlB6bG11aXFlNjk2LVowVXZFeHUyb0ZjaA?oc=5",
-        "published": "Sat, 14 Nov 2026 04:30:00 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Hyperliquidのクジラが2週間のショート後にビットコインへの強気姿勢に転換：レポート",
-        "title_en": "Hyperliquid Whales Flip Bullish On Bitcoin After Two Weeks of Shorts: Report",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUljeS1JTk1kV1hmZmtvVnlVVFpQNXFuYTQyd0ZIc1pUaXpsZ1Q1MDhTNE8wUHVNNUlURnZwOUtXSjloTnE1ak8tQW9aQWw5VEc3UjBoZWVpdjVJZzJ1YWt1dkh1dFZWalpoU2NJeC1SRGlJb0Z6LUhGU29aWHpRUU1pUjBKclJkMkhUd0MwbzJ1NWQtOFZmV3BuZGtLOTVnb2tuMVVPUQ?oc=5",
-        "published": "Sat, 14 Nov 2026 03:16:36 GMT",
-        "category": "大口"
+        "title_ja": "英国が風力発電所の停止に対価を支払う。暗号資産推進派がビットコインマイナーの活用を提案",
+        "title_en": "UK pays wind farms to switch off. Crypto advocates say bitcoin miners can fix it.",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2dSTVgteC1yX2VlNTZtTVNGSDBmZGIxQjhKN3VZclU2UDh2NEpBak40REhBcm41REFGaHBKQ3pZcnlyaWZPc2FJVnJiZ3pZWFUtSHM3ZG0wbnJDNEg2a1hoTkkwOXJfVUl6aWdKRm1pVGVHVHBlOGpMYWhKaExDeW9rdi1DRWp5OEhQS3pZWEExSVJsZkpxUmtEb0VVY3dtcDJlTGphNlBnNmFWSTNEUko5cWgtcUdWTkM3REU2ZUVrMEsxdlFhM0k1aHI0OFNvV2hR?oc=5",
+        "published": "Sat, 14 Nov 2026 13:00:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "SofiがPolygonでステーブルコインをローンチ",
-        "title_en": "Sofi brings stablecoins to Polygon",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEVtQTNvVG1JZWhkMVM0cFIxNVo1SER3SWlPLThUYnZreXRXTjI3T09xeWU4eW9wajVkMzlVdzVFNjdRa3Fqdm96bEU0dTU2cndfNzB1M05IRjFkQXdwdmZpWW41WExfRjd4T1YzNEdWZWoxZmYwb1RieExJRThiZFEwVm8?oc=5",
-        "published": "Fri, 13 Nov 2026 19:00:00 GMT",
-        "category": "上場"
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムスケーリング企画MegaETH、AI事業推進のため人員削減",
+        "title_en": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVUzWkdWN3k3TlAycEdwT21HZmgwNUh2Sms2YzMzS2Qzc3BKV1FqNENqLWJLdGlXU1NhYkhlbXg2TjlicUxVel9PME1kSW8tRVJuMEVoNm5TUnpNVjVLb0thMHBoVTlVVTNxSnowc1JsMGVmd25Nem5uLUtGcFo1dzZUTzV5ZEZLd3pkc251Mmg4MEE4TmViRkdCOEEzRml5bGQzaU4wRzVsUFFpdjBiSkdjOVJJZ0ZWZ3NOR0l0NUw?oc=5",
+        "published": "Sat, 14 Nov 2026 16:33:23 GMT",
+        "category": "その他"
       }
     ],
     "XRP": [],
