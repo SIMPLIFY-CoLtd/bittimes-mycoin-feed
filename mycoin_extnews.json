@@ -1,49 +1,65 @@
 {
-  "generated_at": "2026-11-15T05:59:03+00:00",
+  "generated_at": "2026-11-15T13:51:26+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン売却圧力が強まる、Bitwise最高投資責任者が警告 クジラ買い支える中、57000ドルが視野",
-        "title_en": "Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXBES09DcFc1UDFJZ0Z3NDVFcDVDWldRVlVZYjR1XzhTOEdwYUJpbXctU3MzRzRjb1FCNWtwbVpEd0JMYlJocjB5NGVta3dxdGJnWWMtSi1pSzRJR2tKSXhOZE1HWmtFWjZBUVFRSzFWTnFQTUZnbjRVOVRtVkRFQVM1WWJFazd5RU1TMmxiMnhKTzV6aDZVbWY0RmdRUGZUaUE?oc=5",
-        "published": "Sun, 15 Nov 2026 02:51:00 GMT",
-        "category": "発言"
+        "title_ja": "ビットコインが6万2000ドルまで下落、市場操作の疑いが浮上",
+        "title_en": "Bitcoin’s Fall to $62,000 Sparks Market Manipulation Claims",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEg1QmxvektXaDI3N2J6NXFzS1pqNXJjRDNqWHRKU2RYT3owbWg5V2NGRm5aSmpBZFFWU19yM0JKNzdEY095NUFIQ3h2LXpJZEhmaGJ4YzNhU181MGVIcUtRR3hVa3htWjlnQ2lfVmxTQld2QzlIS3RRQ1FYZGdpUG1lUXBuZWIyZDNzMTRQV1FFVHlZSXc?oc=5",
+        "published": "Sun, 15 Nov 2026 09:24:29 GMT",
+        "category": "その他"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン2028年までに100万ドルへ？ Blockstream CEO アダム・バック肯定",
-        "title_en": "Bitcoin to $1 Million by 2028? Blockstream CEO Adam Back Says Yes",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWpCa0tnT2tzWmgzWmlPSnRDYW11bVhpSWg2TG9oelJLU2JpckZTVTBSanY1TnFicTRoSU9NZWtVVlVzVk5DWVRQQ0Uycl80T3BMZFMtWDRDTEpGc1lZOFhCY1lLczdscWFncUpiOXhmT0hJTUJhb04ySFdQRThDSDhwb1RiN1J3Wkd5bkpQa2lBZ2wxc3kzMGZ4ZXBMVm9w?oc=5",
-        "published": "Sat, 14 Nov 2026 19:00:00 GMT",
+        "title_ja": "ジョルディ・ビッサー氏、12月のFRB決定をビットコイン次の触媒と指摘、ウォール街のエヌビディア下げを疑問視",
+        "title_en": "Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVIdUhYQjJveVgtdEVaMGRiSmxOdkhQeU9oOXkzS3BHUGNNZVJEeUtyOVBRTHF6Z2taSnNqRHFnNG1sd18zLVV4dTE3cWJyb1EtalhRVnE2QW04YzB3TEwxYVhsdW1NVWkzcDNXTkhvY1owbXpnUHdLN2dneDh0cmJJU0kwcTQweE1kMmUwOFNlWGQwMGxVR3czSQ?oc=5",
+        "published": "Sun, 15 Nov 2026 07:51:52 GMT",
         "category": "発言"
       }
     ],
     "ETH": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "ピーター・シフ氏、イーサリアムETFが重要サポートを失った場合「ブラックマンデー」を警告",
+        "title_en": "Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1UzV2hkbjRfQTB6ZjFIU3ZxV2hxN1B5MGZnSy1PeGxlSEdiekNhTWpYTzBmRmk4OE1qVFNZSS1jdVBQUW5aWWlDX2dfQlBXcDRTdmwyY09lZmU5Z19UTm1jX1hRLTNIT28zSkZ3WGZuVGtKTkE1VTNqaUVRWnBvdDh1R1lOTXo1TV80bFVwU1EyczdUTldhMS1YWGs?oc=5",
+        "published": "Sun, 15 Nov 2026 10:26:05 GMT",
+        "category": "発言"
+      },
+      {
         "source": "CoinDesk",
-        "title_ja": "イーサリアムスケーリングプロジェクト MegaETH、AI事業展開で人員20%削減",
-        "title_en": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVUzWkdWN3k3TlAycEdwT21HZmgwNUh2Sms2YzMzS2Qzc3BKV1FqNENqLWJLdGlXU1NhYkhlbXg2TjlicUxVel9PME1kSW8tRVJuMEVoNm5TUnpNVjVLb0thMHBoVTlVVTNxSnowc1JsMGVmd25Nem5uLUtGcFo1dzZUTzV5ZEZLd3pkc251Mmg4MEE4TmViRkdCOEEzRml5bGQzaU4wRzVsUFFpdjBiSkdjOVJJZ0ZWZ3NOR0l0NUw?oc=5",
-        "published": "Sat, 14 Nov 2026 16:33:23 GMT",
+        "title_ja": "ビットコインとイーサリアム、オプションヘッジが変動性を助長し急変の可能性",
+        "title_en": "Bitcoin and ether could see sharper swings as options hedging fuels volatility",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOS1BbnJwS2RLNGVLay02R2NROXMwdmJvOGgxLVU4d0tMY1RSMjY2OUVkd0I1NUJfdVhHa1JrN1gwNlRYcm45aHBhQ2dEenBONWwxd20yclRiU0Jfa25rZ2NKQ05Bd2V6NmhpWS1CQ3RXRlJ3U3NaOHpPV01Zck5NektCNVdYemFxdG9ubUNMSnRfTjF6c05iRDlIZVFzdVJjRGx2Wk1IS3VqNWVNRnhpZGtUQzJfSGc?oc=5",
+        "published": "Sat, 14 Nov 2026 16:00:51 GMT",
+        "category": "マクロ"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
+        "title_en": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJkU000R01HVHB0VU9fRUstVmlBSE43SG84Um91UTJHcGhyR2pOVFlGMG5Cek9lMFRycl80TmVZeG1zbTBBanpldW9tRkc4X1lBLUJPeFZqZTcwc3cwTm80UDlNTV95c21lNzVKc1VSa0VvVzZmUDV2Rzh1eDJNdzVUNEdxVHJvTmdCbjB6QWV4eE9kcUM4a0doQVFIc3g1RzhVWV8wUjBfOU02clc3VmhPd3RWQQ?oc=5",
+        "published": "Sun, 15 Nov 2026 03:44:00 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "XRP、仮想通貨から資金流出で1ドル割れ",
+        "title_en": "XRP news: Ripple coin crashes below $1 as money leaves crypto",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGpwSUxwZjlmaE9MMTZqMmplUGYxX3lkVC1xN3Izc1V5bVRVNDNCOUtNUldOSWNGdTM5MG0yc0VzU3haVmExU1FhdDZEN0J0V2VuSXJmWktFYTZIdHRoSVlvVFRybU9SU3VleC1teXNCbzdYVzZDNm4tSGlvYlhEV2pSaFAxdVJpSkxSRnVqajctUWhZM3V6aWFjZzlNU3R1eHlWQkRzN25fRXdBTm9JRjRB?oc=5",
+        "published": "Sun, 15 Nov 2026 02:50:00 GMT",
         "category": "その他"
       }
     ],
-    "XRP": [],
     "SOL": [],
     "ADA": [],
-    "DOGE": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "イーロン・マスクのツイートはもう重要ではない、ドージコイン・ラボズ創業者が言及 DOGEにとって『健全』",
-        "title_en": "Elon Musk’s Tweets Don’t Matter Anymore, Says Dogecoin Labs Founder and That’s ‘Healthy’ for DOGE",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3BKNFZsc1pVQnZraXU3TE5vdGtpUnV5N0tyOHFJN0ZuUEQ3c0NXdFhNUnFES3VHYmkySVVfbU9JZG5adVZWRUU4aktxZ2EzX1B4MzM1Z25aU3RjbV9yV0dwbEdjem44YXJ2dmozdkMtd2FzZHZvamplSWVlYkxrWXpQeE4tOE5aQnJYalBYcFo?oc=5",
-        "published": "Sat, 14 Nov 2026 18:43:23 GMT",
-        "category": "発言"
-      }
-    ],
+    "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
