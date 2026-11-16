@@ -1,62 +1,61 @@
 {
-  "generated_at": "2026-11-16T10:54:35+00:00",
+  "generated_at": "2026-11-16T21:53:33+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "エヌビディア決算がビットコイン、MSTRの値動きを左右か、小売トレーダーが注視",
-        "title_en": "Nvidia Earnings Could Set The Tone For Bitcoin, MSTR: Here’s What Retail Traders Are Watching",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkFVd1VlRkw5RTBpZ3hqSmhoXzh5OEdTZGMtOVJEWEF5LWc2OGpWTTJoOWpFZXJSamQzRUQtZkFURVBrbGJYaHRGc2tEc040WFFYTHJ0TVZIeGFJUHJmVEdKRHpsYnM2Vlh2ZXNpT2pnZTNRSnUzYVlZd0w4MkdvblpOOXVmbjRkNGJfUkNzbjRacERob09UM0VOMA?oc=5",
-        "published": "Mon, 16 Nov 2026 09:40:53 GMT",
-        "category": "マクロ"
+        "source": "Decrypt",
+        "title_ja": "ビットコイン、清算で20億ドル失う、トレーダーが6万ドル圏を警戒",
+        "title_en": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGdUVjZzQ1BaMHNLTlU3blRRYUtSNnlUQjJETmJwWTlVQlBxcjdTNVMzYXRUQW9xLVlQczI0RXotbDd4QWotd1ZNWkZVQnBPS2liODRCZVBVeWhaZ01Cd25VVHRzVHpGX2RsbTNiMzRDVHo3Z0gyMG8yaDhJWnNEOXNkMGEyNl8yNkxDNGlwdw?oc=5",
+        "published": "Mon, 16 Nov 2026 21:46:03 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "FOMC議事録、エヌビディア決算、ロシアの小売向け暗号資産規制：今週の暗号資産市場",
-        "title_en": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzVGTTFDa2pOaWdPbzFOODhiY0FkNDVhVzNMUzYtSWNLbEduTEdHVWZ2cDlFcFJrOWxDdXVqMzhaYko4SFZTQWNFRW1fZ2Y5dlJCcldUVkw2RDNTR2owWGRwNUpaeGoyQ1lPYjJRM01uN1laSHJXX2p1U21MX2lNazVlSkozaHJRZ2xEM1dZVUk1Nng3OFgzU1lucml1N0xub1pQWE53d18wTU52bFA5VVVmX2JGQnFWOWRJ?oc=5",
-        "published": "Mon, 16 Nov 2026 09:23:07 GMT",
-        "category": "マクロ"
+        "source": "Decrypt",
+        "title_ja": "ハッカーがAI攻撃によりビットコインマイナー報酬を横取り、Luxor CEOが指摘",
+        "title_en": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenpvMTVKUWFiNC1lY2s4OGtVTVdLbzdOLV9kSHJtTkRnVllMbno0QmFIYlZ4NFltQmVVN1lhNVplWGZreFN2N0F1dWF0Sm1qeW1sYlU1Sm5VdFotb1V0cVdfMERraVpVQkFwLTNBR1VjVjBvSVFuWHFvX3ZidG45VUYwVUJUeUNST2c?oc=5",
+        "published": "Mon, 16 Nov 2026 21:16:03 GMT",
+        "category": "ハッキング"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "ヴィタリック・ブテリンがアカウント作成とスマートコントラクト展開の手数料引き上げを支持、イーサリアムのスケーリング加速へ",
-        "title_en": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVnZTQ3RRcHZ6MzJ4LTJzaFhJcFp1ckNUZlZkRzBwa2Y1YnVFTTFxUHB6enhYTGN2SDQxNFZ1OXlYOXpwQTRNYy1aVl9XbHZjb0lxd1JPb3NyVDNJSWxqNjR3cFg0NFZUWkUzMm1mU0JsZHlFZkkzQjhyc2VNSTdNVXVDMzF0cDdRdkxPMGZSSW9PWHZUbjd6MTNTSTdCNHdVUWtDbEQyYjNjaEhJN1Z6YnlRQmdXSjRVdm5OM1RxQi1zcVoxRU45WWJfeG9nNGhrVUZGWWNEMGZEcTRlQnFXblZnamhYTkRXQ3QyV1NEdWQtYkdsLUVWRTNhd2dhc1Mz?oc=5",
-        "published": "Mon, 16 Nov 2026 10:29:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "トム・リー、イーサリアム急落をNvidiaとAnthropicのIPOのせいと指摘、Bitmineが買い場を探る",
+        "title_en": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
+        "published": "Mon, 16 Nov 2026 20:36:03 GMT",
         "category": "発言"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "ヴィタリック・ブテリン、量子耐性イーサリアムへの高速化路線leanPCSに「完全強気」へ転換",
-        "title_en": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3lUMVg4V1EwbGd6cnU5QXFsSi1FSkttN3dUSHB1TE55NkJDZDhEVWV1aWwzNGhuaF83THBGSlVXTU1MX1VyZ2NlYjhXUi1WVGFYS01pVzY5MG80OXY3bmFUaXRIaWM0TmlqQ1Jsd3Z3dWxlMk55ZFc2czhacnRjNlA0dmRvcUNmSm45aUNRTldxTWphY2pXZjBKUW9RY0ZGcjdPMl8tTkE5ZnpF?oc=5",
-        "published": "Mon, 16 Nov 2026 09:54:55 GMT",
-        "category": "発言"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPが2024年以来の最安値を更新、保有者への影響は",
-        "title_en": "XRP Hits Its Lowest Price Since 2024: Here’s What It Means for Holders",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRWZ0dsUVFkNk41cmkzd3BjMFZKSFRlbzljZ3l2TWdiMmtIbTZnTXJfN0VjdlJNd3I4cWFqRVBXdkVPM2JiZGVWdXhfUTk3dFVuSmVPakNmdlRnZmxCaW95MnpVclROMjdRSEZHQ2ZJN1FjbjlpUnQyc0dZYWtPQ3JCNGpkcjFjMFdBN3FNeFRRQlpPS2RZ?oc=5",
-        "published": "Sun, 15 Nov 2026 18:49:44 GMT",
+        "source": "The Block",
+        "title_ja": "ペレイレ・ブエノ兄弟、2,500万ドルのイーサリアムMEV詐欺事件で無罪評決",
+        "title_en": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUFJclJRaUlMbW5PdEE4WExjWkhld2l2RnF3RnFZTjFrcHl3REx4Y0o2alc4Q3BVTWhOdzl0T0dOcFFqUndwdDQ3TkpoWTFqaG9RUVFWMnBrUnlNTFBtVGVCcThUc3RIR3lJVEh6aUVBMmVpRkMydk5hYjBYLWJrb1F6ZWtRbG1oc05CT0ljRTBYZEdvbzNwUWpxd1AxQjRkcTAzQWlINU04WTlyemd6dFlOdjY?oc=5",
+        "published": "Mon, 16 Nov 2026 20:30:00 GMT",
         "category": "その他"
       }
     ],
+    "XRP": [],
     "SOL": [
       {
         "source": "The Block",
-        "title_ja": "CoW SwapがSolana上で始動、インテント型取引を提供",
-        "title_en": "CoW Swap goes live on Solana with intent-based trading",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlN6NmRQVm40b3hDNjVFU2VzdWlubzNKNnRudjMxS3VRRGpBUVZ2OUxyYzMtU19GOVc5bE5TbXcxQkRZRWQzV0lfNW5USm9lVEp6VDdZaVJNa1lCRnVWVTRybHgzTGhjajZNQWExYUNvcU53MXFPTkhNWFN0WWx6RGJWUQ?oc=5",
-        "published": "Mon, 16 Nov 2026 09:05:00 GMT",
-        "category": "採用"
+        "title_ja": "DeFi Development Corp.が9,482 SOLを追加、CHAD配当ストリークが31日連続を達成",
+        "title_en": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcF9PNnhNWGNfa2pPajFIQTh4UGk1ZkNKTkI2X20wTzM4MG5LNFVMQmZVcnVwRlpYRENSOW5nQzFFejhSSl8zLTlKUlJnOEJ2U2xwcDZrZHR5cWtWZ3N1QVc1WnRwSFpOYWo4endVQWh3UUZxNUV6emxaRDBqcGpHamdZMnFWNGhqUEd2bUNEbEk5SURPQXpUTjJSb19UMXQ3VFVpU3hvOA?oc=5",
+        "published": "Mon, 16 Nov 2026 16:16:00 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Decrypt",
+        "title_ja": "Solana、6年後に『Mainnet Beta』を廃止、1.0の新機能を解説",
+        "title_en": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mNnM0X0FCdWd6M2dQMEh5elZPaWE0OGllNTU0cHFqUW5LWHhZNnVzZnAtYks1U1hFZUJsUk0tcXM3cGNqZUZsWjB0T25TRGhzbjFVWWhIa3ppY1dKRjFLQWtuTmtRNjlPUnlBdGFSY2JCaXpVVlE?oc=5",
+        "published": "Mon, 16 Nov 2026 16:14:22 GMT",
+        "category": "その他"
       }
     ],
     "ADA": [],
