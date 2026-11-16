@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-15T20:16:06+00:00",
+  "generated_at": "2026-11-16T00:54:08+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン下落の背景は？CZが6つの可能性を指摘",
-        "title_en": "What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnpINGJ3OEJqY3Y5RDU4eF8zWkF0SUN5QTl2c3ExdlNrZ0ZxbFY1MUNWRk5GSkkyOFN6a2FWckR3SXQ5NHp1NWYzYzFpNU1NOU1kZ0FvbHpTRC0zdENFUjZXcnFqeGQ1blAzWm5OcDMzX29mbDJsMTE1Q2VDR1daaXZ1SEVpZTlVcXdFdlhjT21DRzhpUHMzVDNR?oc=5",
-        "published": "Sun, 15 Nov 2026 18:59:46 GMT",
+        "title_ja": "セイラー氏がビットコインが到達した4つのレアで極端な指標を価格説明に強調",
+        "title_en": "Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1VxY1IxYnQ4aHpZMGxxVC1sUHZXXzNBUEM4YXdzLTF1cFVRSjY2Q3RIN042S0c3VkNvNHV1WkVjbG1jZUZXamZlSlJ2UUt2aVJiVTZ1ZWwyTnByTGtZT3pBc2Vzblp5ck9jdUV4MUtqRXdkOW5PRVJDN1FSQWZDS3c1dnBSdXlGeVJrNTVoeDg3b2l0dVBnRHMzNFB4Zw?oc=5",
+        "published": "Sun, 15 Nov 2026 23:07:38 GMT",
         "category": "発言"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "ビットコインETF、11月に21億ドルの流出—7日連続で資金流出",
-        "title_en": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaU5hRnFDb0tjOEhBc2ExUTVNWmpoMURNSFJETTRmV1phOTY0X0RZQkt3aHFWbzNhVFJKYk8zWlBTQmx4cTB4V3VkZWFLWVExLXlaT0R1dE1ubDJzTFkwbGllQklVLW5tUjZDWk9XUUtPWTdRemU0VXVIQ1ZEUElNX2EzTWNjc2ZFTTRxSEtvNVNkVHFo?oc=5",
-        "published": "Sun, 15 Nov 2026 14:01:02 GMT",
-        "category": "大口"
+        "source": "Forbes JAPAN",
+        "title_ja": "約320兆円の暗号資産暴落を受け、ビットコイン「崩壊」の警鐘が鳴る",
+        "title_en": "約320兆円の暗号資産暴落を受け、ビットコイン「崩壊」の警鐘が鳴る",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzX01FM0d5WFF6QnF4amxGaVEwWXVhMzViS2hIRHU1aFVkYXNVVGhIbElmalhsdlNoTDE3cTFWaVhab1V6bEg2VTl4MVFUendONFlBTHYyakgzdw?oc=5",
+        "published": "Sun, 15 Nov 2026 22:30:00 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "バイナンス、2021年以来最低水準のイーサリアム保有量",
+        "title_ja": "バイナンス、2021年以来最小のイーサリアム保有量",
         "title_en": "Binance Holds the Least Ethereum Since 2021",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHFLV1NSSmdrWkNHWVUyeDdNb1BUNVZrRkxfQWxwVndramc5REdzQTBpTHdHNmlMUkNtYzFQYVZOekRMR1QwTXlhM3dBZWU5cTNQenMydXdXSlRDXzRUb2dFT01udl9HUDI5TzNtc2NLdEtQcmlBTy15SGpFY1lQRWVJbnhzSzFzUjVsaEtTQXdqUURmZjZzNXBVbmNNdjJF?oc=5",
         "published": "Sun, 15 Nov 2026 15:46:28 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ピーター・シフがイーサリアムETFに「ブラックマンデー」を警告、重要サポート割れなら",
+        "title_ja": "ピーター・シフ氏、ETHが重要なサポートを割った場合「ブラックマンデー」がイーサリアムETFを襲うと警告",
         "title_en": "Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1UzV2hkbjRfQTB6ZjFIU3ZxV2hxN1B5MGZnSy1PeGxlSEdiekNhTWpYTzBmRmk4OE1qVFNZSS1jdVBQUW5aWWlDX2dfQlBXcDRTdmwyY09lZmU5Z19UTm1jX1hRLTNIT28zSkZ3WGZuVGtKTkE1VTNqaUVRWnBvdDh1R1lOTXo1TV80bFVwU1EyczdUTldhMS1YWGs?oc=5",
         "published": "Sun, 15 Nov 2026 10:26:05 GMT",
@@ -41,26 +41,26 @@
     ],
     "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "XRPが2024年以来の最低価格を記録—保有者への影響は",
-        "title_en": "XRP Hits Its Lowest Price Since 2024: Here’s What It Means for Holders",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRWZ0dsUVFkNk41cmkzd3BjMFZKSFRlbzljZ3l2TWdiMmtIbTZnTXJfN0VjdlJNd3I4cWFqRVBXdkVPM2JiZGVWdXhfUTk3dFVuSmVPakNmdlRnZmxCaW95MnpVclROMjdRSEZHQ2ZJN1FjbjlpUnQyc0dZYWtPQ3JCNGpkcjFjMFdBN3FNeFRRQlpPS2RZ?oc=5",
-        "published": "Sun, 15 Nov 2026 18:49:44 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "XRPニュース：仮想通貨からの資金流出でリップルコイン1ドル割れ",
+        "title_en": "XRP news: Ripple coin crashes below $1 as money leaves crypto",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGpwSUxwZjlmaE9MMTZqMmplUGYxX3lkVC1xN3Izc1V5bVRVNDNCOUtNUldOSWNGdTM5MG0yc0VzU3haVmExU1FhdDZEN0J0V2VuSXJmWktFYTZIdHRoSVlvVFRybU9SU3VleC1teXNCbzdYVzZDNm4tSGlvYlhEV2pSaFAxdVJpSkxSRnVqajctUWhZM3V6aWFjZzlNU3R1eHlWQkRzN25fRXdBTm9JRjRB?oc=5",
+        "published": "Sun, 15 Nov 2026 03:44:00 GMT",
+        "category": "マクロ"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "リップルコイン、仮想通貨からの資金流出で1ドル割れ",
+        "title_ja": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
         "title_en": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJkU000R01HVHB0VU9fRUstVmlBSE43SG84Um91UTJHcGhyR2pOVFlGMG5Cek9lMFRycl80TmVZeG1zbTBBanpldW9tRkc4X1lBLUJPeFZqZTcwc3cwTm80UDlNTV95c21lNzVKc1VSa0VvVzZmUDV2Rzh1eDJNdzVUNEdxVHJvTmdCbjB6QWV4eE9kcUM4a0doQVFIc3g1RzhVWV8wUjBfOU02clc3VmhPd3RWQQ?oc=5",
         "published": "Sun, 15 Nov 2026 03:44:00 GMT",
-        "category": "その他"
+        "category": "マクロ"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Hyperliquidで1000万ドルを失ったクジラ、ソラナに賭ける",
+        "title_ja": "1000万ドルを失ったハイパーリキッド鯨、ソラナに賭ける",
         "title_en": "Hyperliquid Whale Who Lost $10 Million Now Bets on Solana",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnJxX0ZqcmNHbk8xcnNya05FNllsZGVJSURPemdpN2FXMFdXbzVUSk1uYk5nUXBHVDhrd1Q3YVFEcXNRQk8tY1UxX010SGI1YzBRRzhLVmZVQWNsenRCREtqYi1DZDZabVg3aDB2aFBUTEVESERsRUpaTE5NYk5la1hHMXViV3hmSVVPdEd4UWQzRHVNSFJCeHVaQWJlOEU?oc=5",
         "published": "Sun, 15 Nov 2026 12:49:42 GMT",
