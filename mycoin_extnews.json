@@ -1,70 +1,62 @@
 {
-  "generated_at": "2026-11-16T00:54:08+00:00",
+  "generated_at": "2026-11-16T10:54:35+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "セイラー氏がビットコインが到達した4つのレアで極端な指標を価格説明に強調",
-        "title_en": "Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1VxY1IxYnQ4aHpZMGxxVC1sUHZXXzNBUEM4YXdzLTF1cFVRSjY2Q3RIN042S0c3VkNvNHV1WkVjbG1jZUZXamZlSlJ2UUt2aVJiVTZ1ZWwyTnByTGtZT3pBc2Vzblp5ck9jdUV4MUtqRXdkOW5PRVJDN1FSQWZDS3c1dnBSdXlGeVJrNTVoeDg3b2l0dVBnRHMzNFB4Zw?oc=5",
-        "published": "Sun, 15 Nov 2026 23:07:38 GMT",
-        "category": "発言"
+        "title_ja": "エヌビディア決算がビットコイン、MSTRの値動きを左右か、小売トレーダーが注視",
+        "title_en": "Nvidia Earnings Could Set The Tone For Bitcoin, MSTR: Here’s What Retail Traders Are Watching",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkFVd1VlRkw5RTBpZ3hqSmhoXzh5OEdTZGMtOVJEWEF5LWc2OGpWTTJoOWpFZXJSamQzRUQtZkFURVBrbGJYaHRGc2tEc040WFFYTHJ0TVZIeGFJUHJmVEdKRHpsYnM2Vlh2ZXNpT2pnZTNRSnUzYVlZd0w4MkdvblpOOXVmbjRkNGJfUkNzbjRacERob09UM0VOMA?oc=5",
+        "published": "Mon, 16 Nov 2026 09:40:53 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Forbes JAPAN",
-        "title_ja": "約320兆円の暗号資産暴落を受け、ビットコイン「崩壊」の警鐘が鳴る",
-        "title_en": "約320兆円の暗号資産暴落を受け、ビットコイン「崩壊」の警鐘が鳴る",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzX01FM0d5WFF6QnF4amxGaVEwWXVhMzViS2hIRHU1aFVkYXNVVGhIbElmalhsdlNoTDE3cTFWaVhab1V6bEg2VTl4MVFUendONFlBTHYyakgzdw?oc=5",
-        "published": "Sun, 15 Nov 2026 22:30:00 GMT",
+        "source": "CoinDesk",
+        "title_ja": "FOMC議事録、エヌビディア決算、ロシアの小売向け暗号資産規制：今週の暗号資産市場",
+        "title_en": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzVGTTFDa2pOaWdPbzFOODhiY0FkNDVhVzNMUzYtSWNLbEduTEdHVWZ2cDlFcFJrOWxDdXVqMzhaYko4SFZTQWNFRW1fZ2Y5dlJCcldUVkw2RDNTR2owWGRwNUpaeGoyQ1lPYjJRM01uN1laSHJXX2p1U21MX2lNazVlSkozaHJRZ2xEM1dZVUk1Nng3OFgzU1lucml1N0xub1pQWE53d18wTU52bFA5VVVmX2JGQnFWOWRJ?oc=5",
+        "published": "Mon, 16 Nov 2026 09:23:07 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "バイナンス、2021年以来最小のイーサリアム保有量",
-        "title_en": "Binance Holds the Least Ethereum Since 2021",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHFLV1NSSmdrWkNHWVUyeDdNb1BUNVZrRkxfQWxwVndramc5REdzQTBpTHdHNmlMUkNtYzFQYVZOekRMR1QwTXlhM3dBZWU5cTNQenMydXdXSlRDXzRUb2dFT01udl9HUDI5TzNtc2NLdEtQcmlBTy15SGpFY1lQRWVJbnhzSzFzUjVsaEtTQXdqUURmZjZzNXBVbmNNdjJF?oc=5",
-        "published": "Sun, 15 Nov 2026 15:46:28 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "ヴィタリック・ブテリンがアカウント作成とスマートコントラクト展開の手数料引き上げを支持、イーサリアムのスケーリング加速へ",
+        "title_en": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVnZTQ3RRcHZ6MzJ4LTJzaFhJcFp1ckNUZlZkRzBwa2Y1YnVFTTFxUHB6enhYTGN2SDQxNFZ1OXlYOXpwQTRNYy1aVl9XbHZjb0lxd1JPb3NyVDNJSWxqNjR3cFg0NFZUWkUzMm1mU0JsZHlFZkkzQjhyc2VNSTdNVXVDMzF0cDdRdkxPMGZSSW9PWHZUbjd6MTNTSTdCNHdVUWtDbEQyYjNjaEhJN1Z6YnlRQmdXSjRVdm5OM1RxQi1zcVoxRU45WWJfeG9nNGhrVUZGWWNEMGZEcTRlQnFXblZnamhYTkRXQ3QyV1NEdWQtYkdsLUVWRTNhd2dhc1Mz?oc=5",
+        "published": "Mon, 16 Nov 2026 10:29:00 GMT",
+        "category": "発言"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ピーター・シフ氏、ETHが重要なサポートを割った場合「ブラックマンデー」がイーサリアムETFを襲うと警告",
-        "title_en": "Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1UzV2hkbjRfQTB6ZjFIU3ZxV2hxN1B5MGZnSy1PeGxlSEdiekNhTWpYTzBmRmk4OE1qVFNZSS1jdVBQUW5aWWlDX2dfQlBXcDRTdmwyY09lZmU5Z19UTm1jX1hRLTNIT28zSkZ3WGZuVGtKTkE1VTNqaUVRWnBvdDh1R1lOTXo1TV80bFVwU1EyczdUTldhMS1YWGs?oc=5",
-        "published": "Sun, 15 Nov 2026 10:26:05 GMT",
+        "source": "Decrypt",
+        "title_ja": "ヴィタリック・ブテリン、量子耐性イーサリアムへの高速化路線leanPCSに「完全強気」へ転換",
+        "title_en": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3lUMVg4V1EwbGd6cnU5QXFsSi1FSkttN3dUSHB1TE55NkJDZDhEVWV1aWwzNGhuaF83THBGSlVXTU1MX1VyZ2NlYjhXUi1WVGFYS01pVzY5MG80OXY3bmFUaXRIaWM0TmlqQ1Jsd3Z3dWxlMk55ZFc2czhacnRjNlA0dmRvcUNmSm45aUNRTldxTWphY2pXZjBKUW9RY0ZGcjdPMl8tTkE5ZnpF?oc=5",
+        "published": "Mon, 16 Nov 2026 09:54:55 GMT",
         "category": "発言"
       }
     ],
     "XRP": [
       {
-        "source": "CoinDesk",
-        "title_ja": "XRPニュース：仮想通貨からの資金流出でリップルコイン1ドル割れ",
-        "title_en": "XRP news: Ripple coin crashes below $1 as money leaves crypto",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGpwSUxwZjlmaE9MMTZqMmplUGYxX3lkVC1xN3Izc1V5bVRVNDNCOUtNUldOSWNGdTM5MG0yc0VzU3haVmExU1FhdDZEN0J0V2VuSXJmWktFYTZIdHRoSVlvVFRybU9SU3VleC1teXNCbzdYVzZDNm4tSGlvYlhEV2pSaFAxdVJpSkxSRnVqajctUWhZM3V6aWFjZzlNU3R1eHlWQkRzN25fRXdBTm9JRjRB?oc=5",
-        "published": "Sun, 15 Nov 2026 03:44:00 GMT",
-        "category": "マクロ"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
-        "title_en": "XRPニュース：リップルコイン、仮想通貨から資金流出で1ドル割れ",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJkU000R01HVHB0VU9fRUstVmlBSE43SG84Um91UTJHcGhyR2pOVFlGMG5Cek9lMFRycl80TmVZeG1zbTBBanpldW9tRkc4X1lBLUJPeFZqZTcwc3cwTm80UDlNTV95c21lNzVKc1VSa0VvVzZmUDV2Rzh1eDJNdzVUNEdxVHJvTmdCbjB6QWV4eE9kcUM4a0doQVFIc3g1RzhVWV8wUjBfOU02clc3VmhPd3RWQQ?oc=5",
-        "published": "Sun, 15 Nov 2026 03:44:00 GMT",
-        "category": "マクロ"
+        "source": "Yahoo Finance",
+        "title_ja": "XRPが2024年以来の最安値を更新、保有者への影響は",
+        "title_en": "XRP Hits Its Lowest Price Since 2024: Here’s What It Means for Holders",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRWZ0dsUVFkNk41cmkzd3BjMFZKSFRlbzljZ3l2TWdiMmtIbTZnTXJfN0VjdlJNd3I4cWFqRVBXdkVPM2JiZGVWdXhfUTk3dFVuSmVPakNmdlRnZmxCaW95MnpVclROMjdRSEZHQ2ZJN1FjbjlpUnQyc0dZYWtPQ3JCNGpkcjFjMFdBN3FNeFRRQlpPS2RZ?oc=5",
+        "published": "Sun, 15 Nov 2026 18:49:44 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "1000万ドルを失ったハイパーリキッド鯨、ソラナに賭ける",
-        "title_en": "Hyperliquid Whale Who Lost $10 Million Now Bets on Solana",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnJxX0ZqcmNHbk8xcnNya05FNllsZGVJSURPemdpN2FXMFdXbzVUSk1uYk5nUXBHVDhrd1Q3YVFEcXNRQk8tY1UxX010SGI1YzBRRzhLVmZVQWNsenRCREtqYi1DZDZabVg3aDB2aFBUTEVESERsRUpaTE5NYk5la1hHMXViV3hmSVVPdEd4UWQzRHVNSFJCeHVaQWJlOEU?oc=5",
-        "published": "Sun, 15 Nov 2026 12:49:42 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "CoW SwapがSolana上で始動、インテント型取引を提供",
+        "title_en": "CoW Swap goes live on Solana with intent-based trading",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlN6NmRQVm40b3hDNjVFU2VzdWlubzNKNnRudjMxS3VRRGpBUVZ2OUxyYzMtU19GOVc5bE5TbXcxQkRZRWQzV0lfNW5USm9lVEp6VDdZaVJNa1lCRnVWVTRybHgzTGhjajZNQWExYUNvcU53MXFPTkhNWFN0WWx6RGJWUQ?oc=5",
+        "published": "Mon, 16 Nov 2026 09:05:00 GMT",
+        "category": "採用"
       }
     ],
     "ADA": [],
