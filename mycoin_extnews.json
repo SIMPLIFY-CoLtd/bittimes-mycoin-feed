@@ -1,60 +1,52 @@
 {
-  "generated_at": "2026-11-16T21:53:33+00:00",
+  "generated_at": "2026-11-17T07:36:53+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [
-      {
-        "source": "Decrypt",
-        "title_ja": "ビットコイン、清算で20億ドル失う、トレーダーが6万ドル圏を警戒",
-        "title_en": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGdUVjZzQ1BaMHNLTlU3blRRYUtSNnlUQjJETmJwWTlVQlBxcjdTNVMzYXRUQW9xLVlQczI0RXotbDd4QWotd1ZNWkZVQnBPS2liODRCZVBVeWhaZ01Cd25VVHRzVHpGX2RsbTNiMzRDVHo3Z0gyMG8yaDhJWnNEOXNkMGEyNl8yNkxDNGlwdw?oc=5",
-        "published": "Mon, 16 Nov 2026 21:46:03 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "Decrypt",
-        "title_ja": "ハッカーがAI攻撃によりビットコインマイナー報酬を横取り、Luxor CEOが指摘",
-        "title_en": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenpvMTVKUWFiNC1lY2s4OGtVTVdLbzdOLV9kSHJtTkRnVllMbno0QmFIYlZ4NFltQmVVN1lhNVplWGZreFN2N0F1dWF0Sm1qeW1sYlU1Sm5VdFotb1V0cVdfMERraVpVQkFwLTNBR1VjVjBvSVFuWHFvX3ZidG45VUYwVUJUeUNST2c?oc=5",
-        "published": "Mon, 16 Nov 2026 21:16:03 GMT",
-        "category": "ハッキング"
-      }
-    ],
+    "BTC": [],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "トム・リー、イーサリアム急落をNvidiaとAnthropicのIPOのせいと指摘、Bitmineが買い場を探る",
+        "title_ja": "トム・リー氏がNvidia・Anthropic IPOをイーサリアム下落の原因と指摘、Bitmineが買い向かう",
         "title_en": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
         "published": "Mon, 16 Nov 2026 20:36:03 GMT",
         "category": "発言"
       },
       {
-        "source": "The Block",
-        "title_ja": "ペレイレ・ブエノ兄弟、2,500万ドルのイーサリアムMEV詐欺事件で無罪評決",
-        "title_en": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUFJclJRaUlMbW5PdEE4WExjWkhld2l2RnF3RnFZTjFrcHl3REx4Y0o2alc4Q3BVTWhOdzl0T0dOcFFqUndwdDQ3TkpoWTFqaG9RUVFWMnBrUnlNTFBtVGVCcThUc3RIR3lJVEh6aUVBMmVpRkMydk5hYjBYLWJrb1F6ZWtRbG1oc05CT0ljRTBYZEdvbzNwUWpxd1AxQjRkcTAzQWlINU04WTlyemd6dFlOdjY?oc=5",
-        "published": "Mon, 16 Nov 2026 20:30:00 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "Bitmine、7,653 ETH追加購入、トム・リー氏がイーサリアム強気姿勢を示す",
+        "title_en": "Bitmine Adds 7,653 ETH as Tom Lee Defends Ethereum Fundamentals",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2hhZ0YxeS1uZkE1RUxEcndVSDFPWkw4OXk0VENsbV9vZHo1Q2tRdmtRTUdYbUFvWjloRzVXUTUwaVFsdGZWME8wZGdFd2dmQWxPZzRGaERjVERtYTcwUWNXTTVYZkFNREh4ZjJsSV9rbEFINVNxZGhrTVBnTWM4aWJpZ2dQUDR1eEV6S1hTdTM?oc=5",
+        "published": "Mon, 16 Nov 2026 15:27:00 GMT",
+        "category": "大口"
       }
     ],
-    "XRP": [],
-    "SOL": [
+    "XRP": [
       {
-        "source": "The Block",
-        "title_ja": "DeFi Development Corp.が9,482 SOLを追加、CHAD配当ストリークが31日連続を達成",
-        "title_en": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcF9PNnhNWGNfa2pPajFIQTh4UGk1ZkNKTkI2X20wTzM4MG5LNFVMQmZVcnVwRlpYRENSOW5nQzFFejhSSl8zLTlKUlJnOEJ2U2xwcDZrZHR5cWtWZ3N1QVc1WnRwSFpOYWo4endVQWh3UUZxNUV6emxaRDBqcGpHamdZMnFWNGhqUEd2bUNEbEk5SURPQXpUTjJSb19UMXQ3VFVpU3hvOA?oc=5",
-        "published": "Mon, 16 Nov 2026 16:16:00 GMT",
+        "source": "CoinDesk",
+        "title_ja": "Ripple支援のEvernorth、上場前XRP保有量を60％減損",
+        "title_en": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlNUNDNEQXRRamtVM210UElVbmMyMXhnS0xTZ2pZVnBfdEdxc0VvdXk4NjVCREYwR0JkSlpUYUg2R0xBQTE1V1VXdElvWFg0OU9vZHUxekhGc3BXdUZaMlk5SFFQMDhFZXMyMnlyRW9hUTBHQml3dDhQd1kzb1B4b09PMFZOQXdjVkFfRTNfb1FjTDVJRlFSWjJKT3ZuSWI2Vjg4VDZUNmh1YWhOZFdrWTVtdVFkQjI0azFV?oc=5",
+        "published": "Tue, 17 Nov 2026 05:02:05 GMT",
         "category": "大口"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "Solana、6年後に『Mainnet Beta』を廃止、1.0の新機能を解説",
-        "title_en": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mNnM0X0FCdWd6M2dQMEh5elZPaWE0OGllNTU0cHFqUW5LWHhZNnVzZnAtYks1U1hFZUJsUk0tcXM3cGNqZUZsWjB0T25TRGhzbjFVWWhIa3ppY1dKRjFLQWtuTmtRNjlPUnlBdGFSY2JCaXpVVlE?oc=5",
-        "published": "Mon, 16 Nov 2026 16:14:22 GMT",
+        "source": "CoinDesk",
+        "title_ja": "Rippleが支援するEvernorthは、上場前のXRP保有量を60％減損しました",
+        "title_en": "Rippleが支援するEvernorthは、上場前のXRP保有量を60％減損しました",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWlHUEdyajFoQ1hIRVRmUERxWjBRYXUtODFzU0FnYkRjMzlYY2NiTF9BSGVYTWFPVGQ3YzU4QWpqTjJhUkVEOGJnUzJBUDFwYnkwdGszNzRPaXpWTXNsclRlV3pfbDNTQW5tWE1kbUk4M1lTVGJLOUh0V2ZpMVR1VzJtM2pZenR6TlFJWExTTnpCZ3RUeENRaDZJSEFTNE8zelV4Y2ZCTllpbm15aDV1ejZkbW1XYWhhazZoS2NSbw?oc=5",
+        "published": "Tue, 17 Nov 2026 05:02:05 GMT",
+        "category": "大口"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ソラナ、6年以上使用された「ベータ」ラベルを撤廃",
+        "title_en": "SOLニュース：ソラナ、6年以上にわたり使用された「ベータ」ラベルを撤廃",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWUxemg4RU9JN0dZMmtteFRKQjlwUFdoSk8tcmp1UHVtTzYyUVBFRHJoZ1B2SlhaUHVvVVFTY0NmRDRISkhwYWNKOVpseDM1eHJPTzhmOVNqenhXaVozcHI0aDItbDdDb09rYWxZMkpYWGtGNFU2dk9qUFlJZWpZdXdiRmc0TEt5dy1NWXZQYm4yT1VjeV91Qg?oc=5",
+        "published": "Mon, 16 Nov 2026 13:03:16 GMT",
         "category": "その他"
       }
     ],
