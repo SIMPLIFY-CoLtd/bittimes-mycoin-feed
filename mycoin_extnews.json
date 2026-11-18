@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-17T18:22:45+00:00",
+  "generated_at": "2026-11-18T02:49:29+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ウェルズ・ファーゴ顧客、ブラックロック・ビットコインETF保有を23.5億ドルに倍増",
-        "title_en": "Wells Fargo customers double their BlackRock bitcoin ETF holdings to $2.35B",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmRpSFVxRHFwcXhxc0pVN29tY3dvRGJqSUJBUHJTTnRtVm9iYTdNQ0xrWFJ2RFV2dVJENTR4dVpEZjdtUnNwaFo4UlY2YmxVSm95aEkwUG5zT25obFJyZkE0TWtXOEt2Vmh6by1GUkEwbHc0ZHN4OXJiWlhxVmFsZ1JvZFNZZTFDVHFvX0pR?oc=5",
-        "published": "Tue, 17 Nov 2026 16:37:44 GMT",
+        "title_ja": "億万長者ポール・チューダー・ジョーンズ、ブラックロックのビットコインETFの保有を倍増",
+        "title_en": "Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3pCVVVxNVFOWnlsRFJkTzhGVXBLS3I3ZXRaazFONWR1RnhtMmNOUnVRYkl4VEdrSWRhZGQ4Y3gwS0xPb1JBR29uRE5kTUp5aHkxaUdTUWJDRVA3WDRQaTlxUGpKQWlxQ2JYUjlERTdJT1h6SXVCRU5oNkdWOVNmZlNIR3hpbjI1WUtJS0w0c1oyVGNrQS02bVBmenp1d1NLdlpr?oc=5",
+        "published": "Wed, 18 Nov 2026 00:24:00 GMT",
         "category": "大口"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン65,000ドル下回る、金利懸念とETF流出が重し",
-        "title_en": "Bitcoin Hovers Below $65,000 as Rate Fears, ETF Outflows Weigh on Market",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVZCRGhiQ0lsTGJoc0RxQU5wVkNTd3pVZGFNckQ1QUp4WHlDY0F3dEdWa3VWRUE1WGdTTjFYMjBXaVRSZFktb0VIU3VRZFZnNTd2b05IX1pMcGtFNERqbXFIRTFHd1h6ZTZCMmdDVDRkbm1ZZE5SR0x1UU8wSnJRUjRyU1ZHd2thS3J2SzFocU8xVWdva3BB?oc=5",
-        "published": "Tue, 17 Nov 2026 16:02:00 GMT",
-        "category": "マクロ"
+        "title_ja": "ジェフ・ベゾスの元ヘッジファンド、ビットコイン買戻しを開始",
+        "title_en": "Jeff Bezos’ Former Hedge Fund Is Buying Bitcoin Again",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU5rd2Z0dkgxdFN5N0ZtYkI1ZFc3NGRZMlhtV1MzU1kzMjFjOFZYcXloNUw5anRtMW12bnBxaTRIeTQ1V1VTYUxySGlBaWFTNjd2YVFoLS11T1A3SDZ3dVB3cE9ONFFITlZocV9CUWI5RFN4NXVLSDBuRVA1eGNxTGlPdkVZbVFRLWc2NXd3VlhhV0pNSHpKUw?oc=5",
+        "published": "Tue, 17 Nov 2026 22:29:16 GMT",
+        "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "バイナンス・ハック関連ウォレット、イーサリアム1.37億ドルを移動",
-        "title_en": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWRKQnVuWHo5bTVLZEZhbmd0Tmo1UVBVb3FPalZTRDhNLTk3VmdGWENleGc1cGVKLXdmeG1KeXAtbmR3STJ4cmdVY0hYQkp0a1AyOEdKV0JvMUtxMHJNT2I4SThxQzFxcUg0LVIwdTh0cEgwNXAxV1BqS01Gc2M5VTl4NGhLcGozMFQtak9iekJmTlBiQjNpQ1VR?oc=5",
-        "published": "Tue, 17 Nov 2026 17:18:41 GMT",
-        "category": "ハッキング"
+        "title_ja": "イーサリアムMEVボットを誘導した兄弟、詐欺罪で無罪判決—2,500万ドル",
+        "title_en": "Brothers who baited ethereum MEV bots for $25 million acquitted of wire fraud",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUZMa3dadER1YzFHMENieEhUaFpJSFhxRkNqbnoweVNsdm1uV3p2TDlQUE0wVXFmLW93U2daZks1aFg2NHY0ZFFoUVFlbGFjY3ZuQ2E4b3pGS0dxLTFRcUZmZWFGT3hxV0ZyQnluR3hLQUk3cUJXSTNKMmdCZFVqWWVHWm9fVWs?oc=5",
+        "published": "Tue, 17 Nov 2026 21:00:00 GMT",
+        "category": "その他"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムのグラムステルダム・アップグレードは最大15,000の自動化アプリ停止リスク",
-        "title_en": "ETH news: Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmRRbDhlT093YUFaUVA5N3gzLTZYQmFZTnFWaWZmTHN4RmFsbGVZYm9NQXhwU21GVXhEbS16RXNqSTFqd3VpemxCVlpMNng4ci1IdW5zenJWbVpsd1Q2dnV3VUhUbVA1WEhidjJjb2pHTktGWmJSaHU0c3FqRGp5VVdzZmNaV0o0NXdCaDZodTFHRmJmVnZtZkpPUVEwTTZyLVhIaUxuYTBpdGdMNEE?oc=5",
-        "published": "Tue, 17 Nov 2026 13:02:56 GMT",
-        "category": "その他"
+        "source": "Decrypt",
+        "title_ja": "バイナンス・ハック関連ウォレット、2週間の沈黙を経て1億3,700万ドルのイーサリアムを移動",
+        "title_en": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEUtY0JyV25ZczVaX2ZmRzVYakhKdHNUUExxRmt4TlVsREQ5d1Z4V1BPNk85U2otOTd4UmNaLWlFZV9lZnExeGI4NnVOUU9mMGl1dkJPYjhBYklQdnRNWmJRNGl1NlZvWjZlWldQR2NsWEpiQTZUclg0WG01M2s1clR3?oc=5",
+        "published": "Tue, 17 Nov 2026 17:18:41 GMT",
+        "category": "ハッキング"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "Ripple支援のEvernorth、上場前XRP保有を60％減損",
+        "title_ja": "リップルが支援するEvernorth、上場前のXRP保有を60％減損",
         "title_en": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlNUNDNEQXRRamtVM210UElVbmMyMXhnS0xTZ2pZVnBfdEdxc0VvdXk4NjVCREYwR0JkSlpUYUg2R0xBQTE1V1VXdElvWFg0OU9vZHUxekhGc3BXdUZaMlk5SFFQMDhFZXMyMnlyRW9hUTBHQml3dDhQd1kzb1B4b09PMFZOQXdjVkFfRTNfb1FjTDVJRlFSWjJKT3ZuSWI2Vjg4VDZUNmh1YWhOZFdrWTVtdVFkQjI0azFV?oc=5",
         "published": "Tue, 17 Nov 2026 05:02:05 GMT",
@@ -50,7 +50,7 @@
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Ripple支援のEvernorth、上場前XRP保有を60％減損",
+        "title_ja": "リップルが支援するEvernorth、上場前のXRP保有を60％減損",
         "title_en": "Rippleが支援するEvernorthは、上場前のXRP保有量を60％減損しました",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWlHUEdyajFoQ1hIRVRmUERxWjBRYXUtODFzU0FnYkRjMzlYY2NiTF9BSGVYTWFPVGQ3YzU4QWpqTjJhUkVEOGJnUzJBUDFwYnkwdGszNzRPaXpWTXNsclRlV3pfbDNTQW5tWE1kbUk4M1lTVGJLOUh0V2ZpMVR1VzJtM2pZenR6TlFJWExTTnpCZ3RUeENRaDZJSEFTNE8zelV4Y2ZCTllpbm15aDV1ejZkbW1XYWhhazZoS2NSbw?oc=5",
         "published": "Tue, 17 Nov 2026 05:02:05 GMT",
@@ -60,22 +60,39 @@
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "CoinGecko、ソラナ財団からの支援を獲得しソラナ対応取引を計画",
+        "title_ja": "CoinGesko、ソラナ財団の支援を獲得しソラナ搭載トレーディング計画",
         "title_en": "CoinGecko Gets Solana Foundation Backing and Plans Solana-Powered Trading",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1pONVFpaTd3X1JhVG9PVEVLZk9Ic0x0S0dzVUo4TDZvejNPcFdRbTFxNGE5bVBYYWxJZzhzbDJFS0dmcUVzQ1dtaERFOUd3cXVyUTZuendJdmEyWWhPTHVVRl8wSUcyVVRZbXlyYjFxTGhVMW5fczlpUkEzT3hOOHJyZkctVmFXczhTQ0xtWldMMUpabU5zYV80OVVwTl9aQVgyaXQ1eFI?oc=5",
         "published": "Tue, 17 Nov 2026 15:45:35 GMT",
         "category": "提携"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ財団、CoinGeckoの市場データ拡大と取引機能開発を支援",
-        "title_en": "Solana Foundation backs CoinGecko’s push to grow market data and explore trading",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFdqaU82UUMtWVJtaXpCQm1vcTF0bWoxM25EZzMxeTdXd2xybkIwbGZnWUJfWW1zZ2UwSWF6TXJBbnRVSFliOWFZYUdxVTFnVlpBTGlMS1AzdWdRRE9xdEU0ZE9pZXBfQmNIT3RwUmlmTTRUQnVkZUhSUnNIenNYdDZ1VUdCSTVPbFExd3dpNmdpeEZlQnQ3bkhtdDVVUzBSckhfU2xR?oc=5",
-        "published": "Tue, 17 Nov 2026 12:00:00 GMT",
-        "category": "提携"
+        "source": "The Block",
+        "title_ja": "ソラナのトランプミームコイン立ち上げが機関投資家進出前のインフラを試験—リリー・リュー",
+        "title_en": "Solana's Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORG90OTdjV1A5c2x3RVFFTTFOMGhlY0NJT1hBZFQzMTJYamRWSk9USm9jbmhvVVJ3QlpRWEhjaVhOVHloaUg0UlFNTnF2ZTdZVEpLb2hucVZ0SEJDMDNxSVBMRkVjeEViVEtnMUZ5OWlJMW93QjZ5Q2hqMk93REJaVkRiS1J0SDE2Q01VdnhIVkFPX2xBZTdiVi1sbUNXcUZ1YmxIc0NNcGVHWDJObDRHWEE4MmZ4a2dBQnhnY3l1c19ZWXpNRmVEcm5yMzhfYTd3QWFhdUhzWHY?oc=5",
+        "published": "Tue, 17 Nov 2026 14:27:00 GMT",
+        "category": "発言"
       }
     ],
-    "ADA": [],
+    "ADA": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノ財団、3億6,000万ドルのバランスシートにもかかわらず500万ドル資金調達を追求",
+        "title_en": "ADA news: Cardano Foundation seeks $5 million despite $360 million balance sheet",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0xRMXNHR2hzWEpRTFhSMWdPYVVhRkNlX0dxYndxaDlpRVhaWUNPT3BDV0tESGIwazVBMjhJbi1qdjY5VHBWc092eHpLR01MLUlWdXZQbHI1eTY3VEVYSF9vZy1pdm9xNnBDcl9zbHRmQWQ1NDVnb3NGTW9ZWXEtcnNvNmRKWC1SZEViclpGNThJMWVwOTVGZ3YwNU9ES3I4SGNXMzdJdGhFc2Q4U2pQUGRXWHNRd3BZdmlPMm1PcUIydw?oc=5",
+        "published": "Tue, 17 Nov 2026 06:54:49 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノ財団、3億6,000万ドルのバランスシートにもかかわらず500万ドル資金調達を追求",
+        "title_en": "ADAニュース：カルダノ財団は3億6,000万ドルのバランスシートにもかかわらず、500万ドルの資金調達を目指す",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUhfTVlQYzRKaEpjUVF1N2NsMnlJbVZqN2NHdGNTSGpGS3poLXNHYjBoZjR4MlBZY0pDdld1SkF2ZnhLN1owOXZtdGlxekVEaHBVQlhRR2FQeXpWY2MxcS12c1hUV29IZFR0NUt1dWVWYkVGSDBOS01rMDk2Sks4bi1kR0ZQTDdRQ3MtUV9FbGJpU3F0VmY4WldvcngzUVpIZHk2V3FjRGUtNk9DaDNVcVQzaU93UkNBa0VIX3lib2NSR2IzblE?oc=5",
+        "published": "Tue, 17 Nov 2026 06:54:49 GMT",
+        "category": "その他"
+      }
+    ],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
@@ -83,7 +100,7 @@
     "AVAX": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ニューヨーク証券取引所、アバランチを使用したトークン化株式を間もなく導入。今が買い時か",
+        "title_ja": "ニューヨーク証券取引所がアバランチをトークン化株式に使用予定、コインは買い時か",
         "title_en": "The New York Stock Exchange Will Soon Use Avalanche for Tokenized Stocks. Is the Coin a Screaming Buy Right Now?",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0hKZlNBZl96aF8zbmtZSTN2TjlIeTBha0dQWmJFbTZLMFJidE10TUR2TWVfN2hZU1Vzb3dKeWRCb2FTeWkxR2lvcEx6ZnF2RFZZVy1iMEo0b2wzbTNPQU4xMmhiT1lWYXNrcWpjOW1QNDhYYWFBdDhuSnFQRk52ZUwwaTc0dE9tNGpDRHNlNUd4aEpwR2p3VEY2dU5PNlk4?oc=5",
         "published": "Tue, 17 Nov 2026 11:50:02 GMT",
