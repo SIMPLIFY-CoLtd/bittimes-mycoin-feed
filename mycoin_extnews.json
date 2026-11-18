@@ -1,69 +1,17 @@
 {
-  "generated_at": "2026-11-18T11:26:27+00:00",
+  "generated_at": "2026-11-18T20:19:23+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [],
-    "ETH": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "米国裁判官がイーサリアムは『利用規約がない』と判断、MIT兄弟の2500万ドル詐欺容疑を棄却",
-        "title_en": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVg4SHRzNFBGSVlldndQYzdlR0U5cGdnOWgtQmJrRGRpUVVnS1F2ODRkNWNieUVXTDdqMFR4akFwdjA2NV84dzJqelJhbGtIQmIzMnh0ak5iRTd6NTBQRC05NldNZUlRUXItelFCS1pXVTlmT05wdHpiZ0ltR0tUNFI4WjJzckRZMjFyR3Ytb2thMnQ3WXdsaExMMFNMR05KNEZCU0MyZ3lPN20wVUVPdHNQUUx3bVBEQXRITXZSLWRuUGJfamZaaA?oc=5",
-        "published": "Wed, 18 Nov 2026 08:59:21 GMT",
-        "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "米国裁判官、イーサリアムには「利用規約が存在しない」とし、MITの兄弟に対する2500万ドルの詐欺容疑を棄却",
-        "title_en": "米国裁判官、イーサリアムには「利用規約が存在しない」とし、MITの兄弟に対する2,500万ドルの詐欺容疑を棄却",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2xXLWp4TDBobUlQcjB6THdJN0ROLUFaQ1BiQ2stMXhvQWdjWTJOQ01ZTFBVcE9hRlFUeElqb3N0aWFQNTlCN3lENFdjb2h5VGRKVkgzUG9pVkYtd0NDR3Ntb01wdXZacW1RSUY2bXVVY0JIMWdiRUpyRUc0bHl3NjVmTzZJVEtsZE1BWU8zUHpWSmhUa2p5WG9ESmU0dHZpcE9KZFp4UVR3Vkx2RTBDWmlJUWgxZ3NjVmlkTnhyRmdGMEVBRFNhSG9fNk8?oc=5",
-        "published": "Wed, 18 Nov 2026 05:48:45 GMT",
-        "category": "その他"
-      }
-    ],
-    "XRP": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "リップルニュース：XRPクジラが2億7000万ドルを移動、トークンは15%下落",
-        "title_en": "Ripple news: XRP whales moved $270 million as token dropped 15%",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONThHWFhUaU5yUFBuRmR4LVRLeTRKWjB2Skl3TEVzWTBDcHp3VG5yUzV6M3JUeTVqNlhqd3NfVXAtTTdIempLSDRKaE12MHI1dDcxb2JMMmR5VG1LWHdhX3pTNDdCS01LMm1MUmFpVHFlU2lRdEdkVmoxb2E4THF3QzlSVlhOTXhXZHFjMnFYOUpfMWc3YnllbzBneTBsYjJETkF4UDNOampsZnliNVRIbHZydDlId0hUT2tqR2pkX1JmcTFldkE?oc=5",
-        "published": "Wed, 18 Nov 2026 08:57:18 GMT",
-        "category": "大口"
-      }
-    ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "CoinGeckoがソラナ財団の支援を獲得、ソラナ動力の取引を計画",
-        "title_en": "CoinGecko Gets Solana Foundation Backing and Plans Solana-Powered Trading",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1pONVFpaTd3X1JhVG9PVEVLZk9Ic0x0S0dzVUo4TDZvejNPcFdRbTFxNGE5bVBYYWxJZzhzbDJFS0dmcUVzQ1dtaERFOUd3cXVyUTZuendJdmEyWWhPTHVVRl8wSUcyVVRZbXlyYjFxTGhVMW5fczlpUkEzT3hOOHJyZkctVmFXczhTQ0xtWldMMUpabU5zYV80OVVwTl9aQVgyaXQ1eFI?oc=5",
-        "published": "Tue, 17 Nov 2026 15:45:35 GMT",
-        "category": "提携"
-      },
-      {
-        "source": "The Block",
-        "title_ja": "ソラナのトランプミームコイン立ち上げがインフラを試験、機関投資家進出の前段階とリリー・リュー氏",
-        "title_en": "Solana's Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORG90OTdjV1A5c2x3RVFFTTFOMGhlY0NJT1hBZFQzMTJYamRWSk9USm9jbmhvVVJ3QlpRWEhjaVhOVHloaUg0UlFNTnF2ZTdZVEpLb2hucVZ0SEJDMDNxSVBMRkVjeEViVEtnMUZ5OWlJMW93QjZ5Q2hqMk93REJaVkRiS1J0SDE2Q01VdnhIVkFPX2xBZTdiVi1sbUNXcUZ1YmxIc0NNcGVHWDJObDRHWEE4MmZ4a2dBQnhnY3l1c19ZWXpNRmVEcm5yMzhfYTd3QWFhdUhzWHY?oc=5",
-        "published": "Tue, 17 Nov 2026 14:27:00 GMT",
-        "category": "その他"
-      }
-    ],
+    "ETH": [],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
     "SHIB": [],
-    "AVAX": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "米国証券取引所がまもなくトークン化株式にアバランチを使用、コインは今すぐ買うべき？",
-        "title_en": "The New York Stock Exchange Will Soon Use Avalanche for Tokenized Stocks. Is the Coin a Screaming Buy Right Now?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0hKZlNBZl96aF8zbmtZSTN2TjlIeTBha0dQWmJFbTZLMFJidE10TUR2TWVfN2hZU1Vzb3dKeWRCb2FTeWkxR2lvcEx6ZnF2RFZZVy1iMEo0b2wzbTNPQU4xMmhiT1lWYXNrcWpjOW1QNDhYYWFBdDhuSnFQRk52ZUwwaTc0dE9tNGpDRHNlNUd4aEpwR2p3VEY2dU5PNlk4?oc=5",
-        "published": "Tue, 17 Nov 2026 11:50:02 GMT",
-        "category": "採用"
-      }
-    ]
+    "AVAX": []
   }
 }
