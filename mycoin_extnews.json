@@ -1,11 +1,54 @@
 {
-  "generated_at": "2026-11-18T20:19:23+00:00",
+  "generated_at": "2026-11-19T02:27:29+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
-    "BTC": [],
-    "ETH": [],
-    "XRP": [],
+    "BTC": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "11月18日の暗号資産市場：ビットコインの週間12%下落が異例のシグナルを発動",
+        "title_en": "Crypto Market Today, Nov. 18: Bitcoin's 12% Weekly Plunge Has Triggered a Rare Signal With a Surprising History",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2FhRzFkREVzd1NQVDdjQ3NmZldlQWJRY1IwQk95VXVWUy0yd2QtaE5vRjZpQjVTNXU2NFV1ckN6NlRBcEY3VDdHaFRQS3F6Rm5PamMwbzI0VXJMZmRmUnpyUWhHZkdmUjVOREhsOWk5VnByVmQyRXhOZUwtMkdUZnZtZ1k3QU5jM0NNM2ZWZDExVTR5b3c?oc=5",
+        "published": "Wed, 18 Nov 2026 22:45:02 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "Decrypt",
+        "title_ja": "Ledgerがベルリンでタンパー被害を確認、スパイウェア調査がアジア圏外に拡大",
+        "title_en": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSF80X3NSQnpUS3ZFMzRjeXJNNmtlUmUxVjNReUNBWmtXOV9DbUpPajVucV9rMU9xQTN3dHIxbHkxSlVVdnNUZXZCaFNZWXZXNU1rOUJIREFDWVBLR3pCUGNJRllzTGRldzJJZVg4WjFFLVdIcUlORi0wU2NtV21qeFVrdDVRVHotUHRicmdoa1VWek11cEp3OA?oc=5",
+        "published": "Wed, 18 Nov 2026 22:16:02 GMT",
+        "category": "ハッキング"
+      }
+    ],
+    "ETH": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "暗号資産運用会社の株価が13%上昇、イーサリアム全量売却後",
+        "title_en": "Crypto asset manager's stock jumps 13% after full Ethereum sale",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE9LZVY4ODliMEtobGRHQ2U2RFlhSDNPMG9VdzVSNGFYeTMyblVsM0k5M1RvN1NkRVpYUUVlRU51ZWlWbHdhVWMxb3pQb3hQYWRxTXF0NzI3M3N5ZHoxaXNabl9LZGtMTXRCRU1Hb2ljZk9USGMwR1BYajB2RVBPdHNwMWs2dkJXdnIzbF9iOGlqWEV6VkFXemRBZDFSeVU?oc=5",
+        "published": "Wed, 18 Nov 2026 23:40:15 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "欧州最大級の暗号資産運用会社、イーサリアム保有資産全量を売却",
+        "title_en": "Europe's Largest Crypto Asset Manager Sells Its Entire Ethereum Treasury",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtqT3RENnJDYXJPWGlpWGpGVkJXbG5mdEctc2lqaFdOTVEyRC1VRnR1dmpybk9PS3d6RUkwNnhlZkNMd2h2RTlVNFFER0plMEFuXzZkQm5WbXNnOHNoZzVBWUVDeDRrZVJHaDR5LTFVVjVVZTdQNktZVjk0Q1NrMmZoRG9STkJGREprV2FUblpmQlo1WjZuUlFuU2k5SlA1Sjk4?oc=5",
+        "published": "Wed, 18 Nov 2026 15:58:33 GMT",
+        "category": "大口"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "リップルニュース：XRP鯨が2億7000万ドル移動、トークン15%下落",
+        "title_en": "Ripple news: XRP whales moved $270 million as token dropped 15%",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONThHWFhUaU5yUFBuRmR4LVRLeTRKWjB2Skl3TEVzWTBDcHp3VG5yUzV6M3JUeTVqNlhqd3NfVXAtTTdIempLSDRKaE12MHI1dDcxb2JMMmR5VG1LWHdhX3pTNDdCS01LMm1MUmFpVHFlU2lRdEdkVmoxb2E4THF3QzlSVlhOTXhXZHFjMnFYOUpfMWc3YnllbzBneTBsYjJETkF4UDNOampsZnliNVRIbHZydDlId0hUT2tqR2pkX1JmcTFldkE?oc=5",
+        "published": "Wed, 18 Nov 2026 08:57:18 GMT",
+        "category": "大口"
+      }
+    ],
     "SOL": [],
     "ADA": [],
     "DOGE": [],
