@@ -1,78 +1,62 @@
 {
-  "generated_at": "2026-11-20T02:11:53+00:00",
+  "generated_at": "2026-11-20T11:15:00+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "金とビットコインが下落、ピーター・シフは両者に機会を見出す",
-        "title_en": "Gold and Bitcoin Are Falling. Peter Schiff Sees Opportunities for Both",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUYxT3RUQXV4eHl2dTZnY2NfcjAxQ3VCZWhTYkMyWFF1M19CeU9ubHVZcHZuUVNnN3E2dWxheU9Hb2RUMDRiTlRLbHJxWmpUSlBNX082anRPV1hob09kbmlTamIwa3dzd3F0dWZkejBDcHdMY0dQcXZ1aWh3NGxNWEFXNm1pMGNWa281MUJfTUpPTHN1c09VNEU5eUd2TWptMUJnMXJn?oc=5",
-        "published": "Thu, 19 Nov 2026 23:30:00 GMT",
-        "category": "発言"
+        "title_ja": "ビットコインは52週高値から35%下落、S&P500は上昇。デジタルゴールド論文が示すもの",
+        "title_en": "Bitcoin Is 35% Below Its 52-Week High While the S&P 500 Is Up. Here’s What That Says About the Digital Gold Thesis.",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFpLbFRXNUFQajJIbGJLeWVjWXV3czBfcXdJMmlOaWRoZHJMbEk4QVFtS055eW5qSnFYOUpMZmhubXZOMVhtR1FkdEhtVVMwTzNqS0FJTWYxdDBHYmpDbk5JUHFUUGlCdERwUmJoZ0tlTXRkczk5RFlmY0JhNzRzclNBRVJzTGtMNGhHWENGQkRVd3c?oc=5",
+        "published": "Fri, 20 Nov 2026 10:05:02 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "SHRINCS：ビットコインの耐量子署名における新たな候補が浮上",
-        "title_en": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2g5QXJaM0Ezd1Y0Y1k1TmsyZ3B1a3hHOWlCR3JHTFZFZlIwZ3loNk5mRDQtUk9iN0hkWlpqejg3TTBqTHkyUlVpSzctcHVEdmphaWZnSm43ak5jYm1IQ3pITXdXSm9QRjJ5WnNPZXNCU2UtNVJkXzlYTEQ3bllPM3FEdkdaS3NvWGhWNGpzR0xXNFNm?oc=5",
-        "published": "Thu, 19 Nov 2026 20:46:02 GMT",
-        "category": "その他"
+        "source": "CoinDesk",
+        "title_ja": "金が急落、実質金利上昇でビットコインが圧力受ける",
+        "title_en": "Gold tanks, BTC under pressure as 'real rates' surge",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEpseEFwZVVJNExHTzVwMTc5Sk1tRm5LUHNsRXFMUXpZelRqMHFSQTZ6SmgwbXNmTUR4bmp6VVctZFphMVl0NmdaSTlWN21odXhfQy1fZ1czeHp5RC1iak5sallNUnVXOFJCbExuZUVfZ1FhaUFzeUZzTGhnV1dXODJHdjY2Rkw0YzRwcTBycWZQX1dsbElWNmM0SFlJZnFkYzFSNkItcmV0Zw?oc=5",
+        "published": "Fri, 20 Nov 2026 09:21:20 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "日本経済新聞",
-        "title_ja": "トリコ：イーサリアム追加取得に関するお知らせ",
-        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTZFektVdHFSSDNZM1JBRUZGckJteTdaX3BDdUw0SzdXd0J6ZE0tWlM3dE5wZHpTck1pOGZPQU9kV0luVzhpazQzRDZJd0x0dnM3X1FZQ1RMdF9EVzJkaklJSjVXYTVDUi1mN3ZzdzlaNmNUUXBtekF4WGpzaWh2SUxORXNQdDE5VlZ2Tm8xb3h6R0pOYU5WOG9GWTdaX0FLUzRNTlBIMTkzbER5ODRsRlpFeGJNNWtpUzMwVGtuU1N2Sk8wSFdKRS1MZE4?oc=5",
-        "published": "Thu, 19 Nov 2026 23:30:00 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "イーサリアムの次期大型アップグレード、影響対象アプリの要望により2027年に延期",
+        "title_en": "ETH news: Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVNHQmxzLWEzbEI1SlEzWmI0NHlsVThEeEQtZlVUc3VyUHlfajF5aUs0ZkJ3V2Nic01PX1o2OFVqZE1aNGdldlZMQ3ZNSV9sdW9nbWREVzFBczRvMUZfeTdsN09IeDAzc3ZTSlJsaHpEYVk4SjExRnlKcmJOTTVwNnBnNG9FcV9xeHJBdXBDZHRfS0JTYndQcXRSdURtVmhYWF9rc1B3UDVrMXZRSnBscw?oc=5",
+        "published": "Fri, 20 Nov 2026 05:06:19 GMT",
+        "category": "その他"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "Bitmine、イーサリアム売却で63億ドルの巨額損失を計上",
-        "title_en": "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVQzY2hub2Z3QVhZdDVMZDhBRGF4cGNkTzdsS09TUjFoVnFkcW5waW1KWFRjSVY5R2ZyWkZOT0RNRDR4TXRxWmtWR24yWXpFMWVtSzdlYlBXWlNrWE8xSTNzbTFlbTlvQzBZdWhzMnFZTVY5QVNDSmJYWktPOFlmZUF2OFBnaDJ2YVZBSDVGLXhNeUVPT3RiY0VSOEpFdw?oc=5",
-        "published": "Thu, 19 Nov 2026 18:45:02 GMT",
-        "category": "大口"
+        "source": "CoinDesk",
+        "title_ja": "VanEckがビットコイン、イーサー、SOL投信のカストディアンとしてGeminiを変更",
+        "title_en": "BTC, ETH, SOL news: VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDJjd2tWUVBlMlVkMjBvWUdoWVJfRUV2RGE5WUg5WWNkRlJtYlhTYl9zaE8zdTEzSUtkTWJjTkNIdkZtNTUwbUpUQ2dfWUlIa3BiX3ZsUi1GR2ZoMkpWSEVVV0hUTko4VXN3QjgtYVRnY29mcEFxS3M2cF9IdEt2dDZIQi1Ma3k3aGhEVG5icjRJRHl2ZlVzN19tWVdHUVdyZUJ2R1pVcU1ib1g0OUgw?oc=5",
+        "published": "Fri, 20 Nov 2026 04:28:00 GMT",
+        "category": "上場"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップルCEO、暗号資産反発を見通し、Anthropic IPOとスペースX並行を示唆",
-        "title_en": "Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM01ibUVqYlFkVHFXcTc5eHJlMzhTc1NsRXlQTk9tU2tDZW01bkd5a0loRHp4b0JhNGstRHp3YXJ0SVB5UkpqSzdWbVVUWWZSUkJtVHJmaU0wV1l6eHlQaU94UFdSWFZwQlFiRlVybEcwNnpXU1Z2bHk2YXZWNldhR2dpOTlBU21FWG1lMWdyc3g4aVRPWFJ2Q2ItOA?oc=5",
-        "published": "Thu, 19 Nov 2026 22:30:00 GMT",
-        "category": "発言"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "リップルのガーリングハウス会長、暗号資産が分岐する見通しを示す",
-        "title_en": "Ripple's Garlinghouse Sees Crypto Assets Diverging",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3c0NEowU1ZGS0pneS1zMzIzdUhPeFBBUERBWGpLZ1lvbGdFdjFGaHdEMWlvTExucVptR2h6YlBuX0Zpd1ktb0RodWFCdklOVlRnbjFKNlJjWGVaVWVBRmFlRVU2YnZRTzh4UXltTWFXYmw0WWZuM3o0N1NNcllPdE1nanA5bmR2N2twVVMwTQ?oc=5",
-        "published": "Thu, 19 Nov 2026 05:39:00 GMT",
+        "title_ja": "Ripple CEOがAnthropicのIPOを暗号資産売却の要因に指摘、相場反発を予想",
+        "title_en": "Ripple CEO Blames Anthropic IPO for Crypto Selloff, Predicts Rally",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnpQRnhZeVRYZjk5MkdKTGNLNDIydU9xYklBclV6Z3pob2dfNHN4VmsxMmFGTF95bVN5QzlrLWlhTDNFSWRXaGxteDFGUDJOb05nby1tWi00blF4dmJVZERZaU03YUJ2Q2VraVNrUkt0eEJFVGs2bkxNQWlIY2EwYkhiOU03MC1hTkVNZGRaQW9fVWt5OEhsd1RNVDE?oc=5",
+        "published": "Thu, 19 Nov 2026 19:48:00 GMT",
         "category": "発言"
       }
     ],
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "ソラナが2027年ロードマップを発表、オンチェーンAIとより高速ブロック対応",
+        "title_ja": "ソラナ、2027年ロードマップを発表、オンチェーンAIとブロック高速化を予定",
         "title_en": "Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEl0ZU5QdmhKRDlvZG40WEJfSTU1R3RQZWNIM2dVVzZCNjFiXzdKVjlLYmQ3VFdfLWVZXzhDWnFIcDczNlEzT3RrUFhZR0NJMEd3d0U0ODVzM1RaYUd0SXRYeDZqTE14MTNWX19qQUw0TUxreEZrY1RFTVIyZXdqZmFxaFp6NjJRSUJMd2ViOUMwbnN5eDRYQnVTSDBlQnpWZGc?oc=5",
         "published": "Thu, 19 Nov 2026 23:25:08 GMT",
         "category": "その他"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ソラナおよびXRPインカムETF、競合ファンドがわずか1,200万ドルを集める中で延期",
-        "title_en": "Solana and XRP income ETFs shelved as rival funds attract just $12 million",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVUyaDVyQ2VXZGw2MWdQVDNwTmQ1Q3RHaThfZGszNDJsXzZ0bVRuSEdJQ0JYcjgwMnJjaVdDOWdEaHhZOXk1TWhqUmlncHZOVDNHNFlmUGctemV4VkdTWkV1ZnhlbWZtUU1zX1Q4UG0xWnVJTzZQeDR6c2JvZUp1NERDU2ViTm1xM2tXSDE4aEZma0FlZDFOTWh5M2lDQWZrY3VhZmE5aFRQVmZuVG9LdE53UW95NXpzQVBHWnBqNkNaeUFOX1VmUA?oc=5",
-        "published": "Thu, 19 Nov 2026 10:22:12 GMT",
-        "category": "上場"
       }
     ],
     "ADA": [],
@@ -80,7 +64,7 @@
     "SUI": [
       {
         "source": "The Block",
-        "title_ja": "ビットコイン金融プロトコルHashiがSuiメインネットで稼働開始",
+        "title_ja": "ビットコイン金融プロトコルHashi、Suiメインネットで本稼働開始",
         "title_en": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzBTM09rNEdLT2hEbTdUYVZoWGhjQ2lBYlNjMjFMQU1hel9pbUlJMVdqTUI1ekNUcm5GTDhlMl9IZkVmUUc4NS11X0NZbVBQUERjUk9lVXpZblpwSVdlWGJwVXZkVnFnRlZXZTd4S3l1cmpYY2hLd2s0MFNqYW1aWnNBNEdfaGVDd0ZyTlVwUFpqR2ZHeENhckZaNkloUXVpM3BUSGg3UGhQeFE?oc=5",
         "published": "Thu, 19 Nov 2026 14:00:00 GMT",
