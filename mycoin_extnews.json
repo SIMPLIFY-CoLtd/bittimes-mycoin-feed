@@ -1,68 +1,76 @@
 {
-  "generated_at": "2026-11-19T20:23:34+00:00",
+  "generated_at": "2026-11-20T02:11:53+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "スウェーデンのH100がビットコイン取引プールを利用した自社株買い戻しを検討",
-        "title_en": "Sweden’s H100 Considers Using Bitcoin Trading Pool to Fund Share Buyback",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3lJbkhHamZwek43bjZicC1zUm9YQmVQQWU0dTE2RTdkUGREbnBBQjlLdjhTeTR1TDJmcXFLVEh0QUVDdlhqLTQ2SFpFbGtZWGNMUTQ1YTN0cnI4TG9HcXdNWnEwenVpVmdYbGZDNFRpSVdmX1VaYXZPcy1oQk9rSFJBNTA0LXFJZzdyaVVScDdQNy1pTE10MGdUUXQ4VXZ5V1E?oc=5",
-        "published": "Thu, 19 Nov 2026 15:45:00 GMT",
-        "category": "採用"
+        "title_ja": "金とビットコインが下落、ピーター・シフは両者に機会を見出す",
+        "title_en": "Gold and Bitcoin Are Falling. Peter Schiff Sees Opportunities for Both",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUYxT3RUQXV4eHl2dTZnY2NfcjAxQ3VCZWhTYkMyWFF1M19CeU9ubHVZcHZuUVNnN3E2dWxheU9Hb2RUMDRiTlRLbHJxWmpUSlBNX082anRPV1hob09kbmlTamIwa3dzd3F0dWZkejBDcHdMY0dQcXZ1aWh3NGxNWEFXNm1pMGNWa281MUJfTUpPTHN1c09VNEU5eUd2TWptMUJnMXJn?oc=5",
+        "published": "Thu, 19 Nov 2026 23:30:00 GMT",
+        "category": "発言"
+      },
+      {
+        "source": "Decrypt",
+        "title_ja": "SHRINCS：ビットコインの耐量子署名における新たな候補が浮上",
+        "title_en": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2g5QXJaM0Ezd1Y0Y1k1TmsyZ3B1a3hHOWlCR3JHTFZFZlIwZ3loNk5mRDQtUk9iN0hkWlpqejg3TTBqTHkyUlVpSzctcHVEdmphaWZnSm43ak5jYm1IQ3pITXdXSm9QRjJ5WnNPZXNCU2UtNVJkXzlYTEQ3bllPM3FEdkdaS3NvWGhWNGpzR0xXNFNm?oc=5",
+        "published": "Thu, 19 Nov 2026 20:46:02 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "HSBCがイーサリアムベースのマネーマーケットファンドを開始",
-        "title_en": "HSBC Launches Ethereum-Based Money Market Fund",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTBfRmNScE1oVlJZN1hyUjkyMldkYlJ5LUtONVJKOTZtRWs5TkZOY1ZoSlNDbS1iQnU3ckxKNG9SbHRoTzBqRzEyUXZLMm9QYVh3bThzZnVmaW85MzlsTmdua0ladkVuLXBvbFVvOElfNEIwQWh1dEFWdWllR3BOUFBtYXB3Z0FMb3RrTV9ZSzV1MGVHRWMycDQtcjN4UWxY?oc=5",
-        "published": "Thu, 19 Nov 2026 14:41:00 GMT",
-        "category": "採用"
+        "source": "日本経済新聞",
+        "title_ja": "トリコ：イーサリアム追加取得に関するお知らせ",
+        "title_en": "ＴＯＲＩＣＯ[7138]：イーサリアム（ETH）の追加取得に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTZFektVdHFSSDNZM1JBRUZGckJteTdaX3BDdUw0SzdXd0J6ZE0tWlM3dE5wZHpTck1pOGZPQU9kV0luVzhpazQzRDZJd0x0dnM3X1FZQ1RMdF9EVzJkaklJSjVXYTVDUi1mN3ZzdzlaNmNUUXBtekF4WGpzaWh2SUxORXNQdDE5VlZ2Tm8xb3h6R0pOYU5WOG9GWTdaX0FLUzRNTlBIMTkzbER5ODRsRlpFeGJNNWtpUzMwVGtuU1N2Sk8wSFdKRS1MZE4?oc=5",
+        "published": "Thu, 19 Nov 2026 23:30:00 GMT",
+        "category": "大口"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "イーサリアムブロックビルダーが340万ドルのボルト侵害で最大の被害、データが判明",
-        "title_en": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQclI2UlBqalhoUmgtUzlLUmJaRHNvbUxiay1mQTJzWkNnaXBKcF9oNjY0U0JkRjhDX0JHSnNhUXlRQ191OFIzbTVENVU3dWNGWG1NbTYxVTlaUkxDQjFMcllHang0ZlA0YndQS0NtSHh6QjhpSUo2eF8wS3NKODFXcEFBYlgzMFdaTThxZGRXY1oyLVVSUGEzbFMydEZsRWM0ajJlQjd6cE5pQlE1OE9jcXR6SnNtQlV4a01RRExIV3J4dw?oc=5",
-        "published": "Thu, 19 Nov 2026 05:47:26 GMT",
-        "category": "ハッキング"
+        "source": "Yahoo Finance",
+        "title_ja": "Bitmine、イーサリアム売却で63億ドルの巨額損失を計上",
+        "title_en": "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVQzY2hub2Z3QVhZdDVMZDhBRGF4cGNkTzdsS09TUjFoVnFkcW5waW1KWFRjSVY5R2ZyWkZOT0RNRDR4TXRxWmtWR24yWXpFMWVtSzdlYlBXWlNrWE8xSTNzbTFlbTlvQzBZdWhzMnFZTVY5QVNDSmJYWktPOFlmZUF2OFBnaDJ2YVZBSDVGLXhNeUVPT3RiY0VSOEpFdw?oc=5",
+        "published": "Thu, 19 Nov 2026 18:45:02 GMT",
+        "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Ripple CEOがAnthropicのIPOを売却の原因と指摘、ラリーを予測",
-        "title_en": "Ripple CEO Blames Anthropic IPO for Crypto Selloff, Predicts Rally",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnpQRnhZeVRYZjk5MkdKTGNLNDIydU9xYklBclV6Z3pob2dfNHN4VmsxMmFGTF95bVN5QzlrLWlhTDNFSWRXaGxteDFGUDJOb05nby1tWi00blF4dmJVZERZaU03YUJ2Q2VraVNrUkt0eEJFVGs2bkxNQWlIY2EwYkhiOU03MC1hTkVNZGRaQW9fVWt5OEhsd1RNVDE?oc=5",
-        "published": "Thu, 19 Nov 2026 19:48:00 GMT",
+        "title_ja": "リップルCEO、暗号資産反発を見通し、Anthropic IPOとスペースX並行を示唆",
+        "title_en": "Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM01ibUVqYlFkVHFXcTc5eHJlMzhTc1NsRXlQTk9tU2tDZW01bkd5a0loRHp4b0JhNGstRHp3YXJ0SVB5UkpqSzdWbVVUWWZSUkJtVHJmaU0wV1l6eHlQaU94UFdSWFZwQlFiRlVybEcwNnpXU1Z2bHk2YXZWNldhR2dpOTlBU21FWG1lMWdyc3g4aVRPWFJ2Q2ItOA?oc=5",
+        "published": "Thu, 19 Nov 2026 22:30:00 GMT",
         "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "キャンペーンがRippleに300億ドル分のXRP焼却を促す、アナリストがテスラを引き合いに70ドルのXRP を予測",
-        "title_en": "Campaign Urges Ripple to Burn $30B in XRP as Analyst Cites Tesla in $70 XRP Call",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0hnMHdNTnZ3cjdPMndlMUFjMFZTazAwUzlhSHFILUdMMDAtc3lqVzJGT3lod3phcjJVaVlYTm1FX002TlJLQ1lDWjhYZE4tLWQzZURfTjMtMzNxRFNsajZ2SDhFSnJQYlVOLXRNbmF5S1Uxbjh2VTdsclhhNTlaNGduaGZfNHROSWQxYml0SmlFU2NDMkVnMWhuWQ?oc=5",
-        "published": "Thu, 19 Nov 2026 09:19:34 GMT",
+        "title_ja": "リップルのガーリングハウス会長、暗号資産が分岐する見通しを示す",
+        "title_en": "Ripple's Garlinghouse Sees Crypto Assets Diverging",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3c0NEowU1ZGS0pneS1zMzIzdUhPeFBBUERBWGpLZ1lvbGdFdjFGaHdEMWlvTExucVptR2h6YlBuX0Zpd1ktb0RodWFCdklOVlRnbjFKNlJjWGVaVWVBRmFlRVU2YnZRTzh4UXltTWFXYmw0WWZuM3o0N1NNcllPdE1nanA5bmR2N2twVVMwTQ?oc=5",
+        "published": "Thu, 19 Nov 2026 05:39:00 GMT",
         "category": "発言"
       }
     ],
     "SOL": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ソラナおよびXRPインカムETFは棚上げ、競合ファンドはわずか1,200万ドルを集める",
-        "title_en": "Solana and XRP income ETFs shelved as rival funds attract just $12 million",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVUyaDVyQ2VXZGw2MWdQVDNwTmQ1Q3RHaThfZGszNDJsXzZ0bVRuSEdJQ0JYcjgwMnJjaVdDOWdEaHhZOXk1TWhqUmlncHZOVDNHNFlmUGctemV4VkdTWkV1ZnhlbWZtUU1zX1Q4UG0xWnVJTzZQeDR6c2JvZUp1NERDU2ViTm1xM2tXSDE4aEZma0FlZDFOTWh5M2lDQWZrY3VhZmE5aFRQVmZuVG9LdE53UW95NXpzQVBHWnBqNkNaeUFOX1VmUA?oc=5",
-        "published": "Thu, 19 Nov 2026 10:22:12 GMT",
-        "category": "上場"
+        "source": "Yahoo Finance",
+        "title_ja": "ソラナが2027年ロードマップを発表、オンチェーンAIとより高速ブロック対応",
+        "title_en": "Solana Announces 2027 Roadmap With On-Chain AI and Faster Blocks",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEl0ZU5QdmhKRDlvZG40WEJfSTU1R3RQZWNIM2dVVzZCNjFiXzdKVjlLYmQ3VFdfLWVZXzhDWnFIcDczNlEzT3RrUFhZR0NJMEd3d0U0ODVzM1RaYUd0SXRYeDZqTE14MTNWX19qQUw0TUxreEZrY1RFTVIyZXdqZmFxaFp6NjJRSUJMd2ViOUMwbnN5eDRYQnVTSDBlQnpWZGc?oc=5",
+        "published": "Thu, 19 Nov 2026 23:25:08 GMT",
+        "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ソラナおよびXRPインカムETFは棚上げ、競合ファンドはわずか1,200万ドルを集める",
-        "title_en": "ソラナおよびXRPインカムETFは、競合ファンドがわずか1200万ドルを集める中で棚上げに",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2VPM0RPalFyN2pyVS1pbEhaTHFaQTNmTkc1cEY1SUtZVjQ5MWhqS0d3TjVVdV9YaklMNDFmTXMwaW9BbndKcUxVZzNEczdad2FhaUJMTENUUjlZTHpXTzBFVFNlR25LZ3NoOWx0UWxLekF5VnZ5REZVNUZPaFc1S2J1VW9CS3hVU2VURmpRLVgxM2VDVjJVMWpOeUpyQ0FQOE1Vd1NhdTFBRHRNVEozTVRmSGxfek85V3FWVFFVWmQ1X2diQS1nWmllVkg?oc=5",
+        "title_ja": "ソラナおよびXRPインカムETF、競合ファンドがわずか1,200万ドルを集める中で延期",
+        "title_en": "Solana and XRP income ETFs shelved as rival funds attract just $12 million",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVUyaDVyQ2VXZGw2MWdQVDNwTmQ1Q3RHaThfZGszNDJsXzZ0bVRuSEdJQ0JYcjgwMnJjaVdDOWdEaHhZOXk1TWhqUmlncHZOVDNHNFlmUGctemV4VkdTWkV1ZnhlbWZtUU1zX1Q4UG0xWnVJTzZQeDR6c2JvZUp1NERDU2ViTm1xM2tXSDE4aEZma0FlZDFOTWh5M2lDQWZrY3VhZmE5aFRQVmZuVG9LdE53UW95NXpzQVBHWnBqNkNaeUFOX1VmUA?oc=5",
         "published": "Thu, 19 Nov 2026 10:22:12 GMT",
         "category": "上場"
       }
@@ -72,7 +80,7 @@
     "SUI": [
       {
         "source": "The Block",
-        "title_ja": "ビットコイン金融プロトコルHashiがSuiメインネット上で稼働開始",
+        "title_ja": "ビットコイン金融プロトコルHashiがSuiメインネットで稼働開始",
         "title_en": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzBTM09rNEdLT2hEbTdUYVZoWGhjQ2lBYlNjMjFMQU1hel9pbUlJMVdqTUI1ekNUcm5GTDhlMl9IZkVmUUc4NS11X0NZbVBQUERjUk9lVXpZblpwSVdlWGJwVXZkVnFnRlZXZTd4S3l1cmpYY2hLd2s0MFNqYW1aWnNBNEdfaGVDd0ZyTlVwUFpqR2ZHeENhckZaNkloUXVpM3BUSGg3UGhQeFE?oc=5",
         "published": "Thu, 19 Nov 2026 14:00:00 GMT",
