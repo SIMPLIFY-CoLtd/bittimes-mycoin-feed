@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-21T10:51:03+00:00",
+  "generated_at": "2026-11-21T19:00:01+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコイン開発者、取引遅延の可能性があった中程度のバグを修正",
-        "title_en": "Bitcoin developers fix 'medium' bug that could have delayed transactions",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0lrTkM1WlVfcXVJVDB3VlUwMlh3cWVKNGJ5S0JTUWVqRmNtWVhhT3VfTG91X2xWWEFMWXlVT2o3SFFiNWpvNjFwLXBldGlJVkdJRFc2R3dzNWJwSEpxY0c3NXNBLVFTYkVnMnViLVk1Ny1SQjhlNUF2M2hDWDRUNGxweXJhT1czZmpFNFlFVDRLejJEMmpwOXhYbnRyU0JFcGdWM1JpczJfWGdyRGJjNkxrSnpwcjVnMURVcm0xQU5LUQ?oc=5",
-        "published": "Sat, 21 Nov 2026 06:16:42 GMT",
-        "category": "その他"
+        "title_ja": "ビットコイン、2年ぶりの安値から9％反発し60,000ドルを回復",
+        "title_en": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5",
+        "published": "Sat, 21 Nov 2026 17:51:06 GMT",
+        "category": "マクロ"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコインの開発者、取引遅延を引き起こす可能性のあった「中程度」のバグを修正",
-        "title_en": "ビットコインの開発者、取引遅延を引き起こす可能性のあった「中程度」のバグを修正",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVNRQmlGRTBtOFpUQTJHOHdBUExzcHp5ZDV5Qk9WYmxsZ1FkRFlURDEtdm5rcTZGLVFHUUNGNnBEWjRpekRONEpMTXdMcXF3LTl3YV9waUNFdkpMUDduOTJubUhrcHhIWVU5ZTVLbzZVSDh2YXRnVmNMQjNKb05RazBFT1ZtemNTQTZaMlYxQS1NSEczZi1KelFwNENoM09jRjZDaGZaQy1PMWFLemEtdi04SUx5QS15TlN4a3dUWWN2MFhIb2c?oc=5",
-        "published": "Sat, 21 Nov 2026 06:16:42 GMT",
-        "category": "その他"
+        "title_ja": "ビットコイン、2年ぶりの安値から9％反発し60,000ドルを回復－トレーダーは月曜日の株式市場の開幕に注目",
+        "title_en": "ビットコイン、2年ぶりの安値から9％反発し60,000ドルを回復－トレーダーは月曜日の株式市場の開幕に注目",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ19lSS13bDYtVGdTWUxER0toUUh5MkY2OWdLT0JpbERFakJfNUJEdDVCY1BOaFczQ1hMb0tEMXA0QUtvZWN3UnY1cExVT08zTkpxdjFGOGFWcjk3UGdYRUdpTTdwSDBHamZqRGtRWDBFRFAyOEJlM1VtbGZBeUhJd2tSVGppamx5cy1OUWxXQzBuZnptdnhEY2tIRW5ER2lhaVRrSnZOalgzandrTjc1Z0QtbnZreFBySzI5cUdkT1pJVFNZZmtibXMxTmZhUDhpWUtV?oc=5",
+        "published": "Sat, 21 Nov 2026 17:51:06 GMT",
+        "category": "マクロ"
       }
     ],
     "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "Fairmint、Canton上およびEthereum上でトークン化株式取引所を計画──SEC実験下",
-        "title_en": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUhyWUN3TEJabThlb0QzVHpFMWZxN0gtbWpDU2xLSlk1cWVGSkV0UU9ha0NMRUo2eHhxMFhlbFJ5cWJtSVZ6RmlBSnpwdlFoWE4zdmt5ZlI5bnBTYXdFTUc5OW5xb0RDVGZoSU0zOENfSTJYcTZIbWZFTzJMWDl1ZlN5dm43dzYxdHJ5LU11eGdCMzVwU3JOdHpCMmdzdlZtMDlRRnlicFhHQjFROHpwaERjNExiSkVzbFJWd2VB?oc=5",
-        "published": "Fri, 20 Nov 2026 22:05:31 GMT",
-        "category": "採用"
+        "source": "The Block",
+        "title_ja": "Cyber、100万ドル規模のブリッジ悪用の疑いを調査－UpbitとBithumbが送金を凍結",
+        "title_en": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTzVOYnV2eHV1Q3lzNVp3Mmh1aFlpOTBlQ2xFTUgzUDBrZUJCXzhEdGQzaU9ueDdUaWJXNnEwbWxfVjZ6NmpyTmRCZzNpS0JfSWlKREdBaGNxZkZOVzNRdEJ2T185MzB2YVNNX1R1Z2xkUjJtalFSVXFUZ0ZrM2RCR0RzTDRLSGpUc2ZhM0M1emdDM0VRb2pBenJWXzhvOEl0OUtEN2tXSktJVjI0a3RjZU9xUF9Uby1RNmdPTENid2FkcUdxcjFqZWZDZHdLU0pkRmEzUGFsMA?oc=5",
+        "published": "Sat, 21 Nov 2026 18:51:00 GMT",
+        "category": "ハッキング"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "Fairmint、SEC実験下のCantonおよびEthereum上でのトークン化株式取引所を計画",
-        "title_en": "Fairmint、SEC実験下のCantonおよびEthereum上でのトークン化株式取引所を計画",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekQ0c0d2M0JuWWh4Z0x0NGpROWVMNDFRWkprU3lLUGlKUTFfRUQ3WW1qMUZRUkJwLUZEODh2bnh5NE5tZUthN21taWl4S3dGT3k3dTJUaDNwSkNYbThtcTdZdE5meUdOM0tXWUdmN3Q2cmY2V05OM3pCSXlrZVhURmgwRjBBOTJCeTFPLWRIMjVzVEFpaXQ1Nm1VckVaZk1YU09BUVhHNzIyRjJfTHdXLUc3T0R1dUJ1NS1zMkgyTGhWQQ?oc=5",
-        "published": "Fri, 20 Nov 2026 22:05:31 GMT",
-        "category": "採用"
+        "title_ja": "イーサリアムの急落、ナスダック上場企業の国庫に5,400万ドルのローン圧迫をもたらす",
+        "title_en": "ETH news: Ether’s plunge puts a Nasdaq-listed treasury in a $54 million loan squeeze",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVR5MTBENWtxU0Rua256bjlYTmpSd2swZER0TV9ZNGxLWF9kM01nS0JOUUkwbThzUE9yUDNQSXRkWU52WlhqX18xN2F0VnVrUFIxcnVUeTV0Z1d3MENSUkptc0NwX0lBLVdRc2Z3MmlHaU4zSFBQNWY3ekU0S0p2NnU2R254dFlLYXRpV1Z0NzNfNGg1cGhUZHRiZDRVeWtEdVJQUHZ4NFpBZF9xaTNsaURiOUlDb0JYT0xzd1FLQ0F6WkRO?oc=5",
+        "published": "Sat, 21 Nov 2026 12:30:00 GMT",
+        "category": "マクロ"
       }
     ],
     "XRP": [
       {
         "source": "CoinDesk",
-        "title_ja": "XRP価格：ETF資産が10億ドル割れ、リップル関連トークンの今後は",
+        "title_ja": "XRP価格：ETF資産が10億ドルを下回る中、リップル関連トークンの今後",
         "title_en": "XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTlR2b2NrTFp4Z1Vvckk2RHVOem5CaW5aZ3VJODJFZnNibTdKYnAyb2phbW53VkktRTRDTEJWazVEY1EyS3g3Q0pqeTQwNm9NeUNpem42VlZMYWc0Qld6bHRZYm54WXVkQkgycWhoSDhfTWVVa3pGa0pGbTUzcHVhSkR1TE5IY3NOTlhRSmFyYlhzOXhkUnN2dlpKRUpMRU9QVlo0MUEteXkzM3k1WVpYYWtoREtPUQ?oc=5",
         "published": "Sat, 21 Nov 2026 05:59:19 GMT",
