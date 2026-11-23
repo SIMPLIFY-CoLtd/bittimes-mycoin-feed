@@ -1,30 +1,47 @@
 {
-  "generated_at": "2026-11-23T01:29:38+00:00",
+  "generated_at": "2026-11-23T12:08:11+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコインの量子脅威、コードを超えてカストディアン・ブリッジ・600万枚のコインに及ぶ",
-        "title_en": "Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
-        "published": "Sun, 22 Nov 2026 14:00:00 GMT",
-        "category": "その他"
+        "title_ja": "ビットコイン、ウォール街先物の回復により2年ぶり安値から反発",
+        "title_en": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2h2ZXhNZDJ3eGV1Tmd6RHZjYjJDa3laeUNyZXFxVUFIcXYyUk1XYU0xcVRaS2s3TUtBTlBJUmNhZExfeVhfOUNYSElWMHpnOUlDV0ozMDh2MGlDaGk4ZHg4ZFNUanp6VjNOaUlud0p0Sk1yYm9YTWJ2WmJzZVUxNDBQNXF4MjVycWRtVnVzMG44WFQ1XzNiTDd2Y0hWTGJVOGZna042emJJeEk?oc=5",
+        "published": "Mon, 23 Nov 2026 11:51:09 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Forbes",
-        "title_ja": "トランプの暗号資産悪夢が現実になりつつある",
-        "title_en": "Trump’s Crypto Nightmare Is Suddenly Coming True",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEdfUVMtY2hLZmlsX19wcTh2Yzdyczh3RDQySGt0T2VwSEZnSlFVZ0Q1U1N3NW5KSkdXenRWVTNYTldabUtmSWJRa2FzME5EZEwwb2NRNlFjTmJOUUlKSTF0S3o1TklCU2xxLWZPU2NXR2Rxbkp3MUctMTNDSG93RUFkNHYyU1R6eTdVWGx6QVJpWVcxU3U5SkZySEZ4Z2E0N3dTZmpB?oc=5",
-        "published": "Sun, 22 Nov 2026 12:42:28 GMT",
-        "category": "規制"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン、週末の2年ぶり安値から61000ドルまで反発",
+        "title_en": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkRqekNMWVJRbGo5LXhjc1g1WG9tN2Q0d3QwUnROWTVZc1dsdHFHTmdMLWlIUi1objVZdUFRWG9BZUFnZ1o4RUpZU1BOTzJHREFPcVV6T043Zzl5VzVnQk82c0htcjVsTzh3MnFvNWJ6UnZRQWJ2cUVxclJpMDczN1JWeEF3R0h5VXd0dUVVSGN2VmZJdkxwU3B2SzkwNUVQTmc?oc=5",
+        "published": "Mon, 23 Nov 2026 11:14:22 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [],
     "XRP": [],
     "SOL": [],
-    "ADA": [],
+    "ADA": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "ADAニュース：カルダノ保有者が同プロジェクトの主要イベント運営の400万ドル資金要請を拒否",
+        "title_en": "ADA news: Cardano holders are turning down a $4 million request for running its flagship event",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG9lLVI4Rl9FOXJpa1lhcmhodXBld0otWHdjUDV3WHRwWnpWSmZuVExHLWlYcHFGUVkwNVQ5S2hpSmJkdjFGQXNGdEJMa3F1RUsxLXI4ZVRhc0xWOER3eTh6UmFoc3l1bE1ZRDhIY0tNRjY5UU51SG40MHhvcmRUcW80V2l4dEYwV3E3ZUI1QmxBVHpSdUhud0NXV2xUNVpvcXRaS2lUVlN2YjhrTWw1c1dXSW52Ym9oUnMxY1V4VnhTQXE2M1RmYm9B?oc=5",
+        "published": "Mon, 23 Nov 2026 07:45:43 GMT",
+        "category": "その他"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "カルダノ保有者が同プロジェクトの主要イベント運営に関する400万ドルの資金要請を拒否",
+        "title_en": "カルダノ保有者は、同社の旗艦イベント運営に関する400万ドルの要請を拒否しています",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbk1obkpDTnNIcVFZQWhnTGtkWmwtYW1TdGpPMWVVLTZFeHdnbnJkWHBzWDhfOW5JNWR3QkZZTmRneEpRQThYM3lnbVN5Z01nNGxzb0VfMUFTODRscEFjY3d5ajRiLVpYaWFXdkdpNGNlMWhZdF8zWm0wZG8wQjVxdkVjN0pwSjVJOERjT0JxbDlPdXVrRnd3aDUzUHlONmdXTWtxSjVUWmxLQ2VyOEhiTXN3T1VqVlpMUGVjTkdNZVExck1tUHZHRjZ5Y0JsUQ?oc=5",
+        "published": "Mon, 23 Nov 2026 07:45:43 GMT",
+        "category": "その他"
+      }
+    ],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
