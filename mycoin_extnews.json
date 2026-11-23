@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-22T19:24:04+00:00",
+  "generated_at": "2026-11-23T01:29:38+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "The Block",
-        "title_ja": "Chainflipプロトコル、122.9 BTCの盗難を開示、損失1200万ドルに到達",
-        "title_en": "Chainflip's losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcEpyX1B4V3F3UGVuQ2phR212SEx4QU4yNkVwRHVhQmN4UURsYnRvSFd0ZlJMR0FyU1pkZUdTNVhYUlRlNnUtcUp4WUJUNTd3VUpDWTNMU1UxTjIweVlZVmdKLTRvYVNFREk2MDdjM1F4ck56RUNSeXgtN1JCTEdjUTNXOGFELXo1Tk1rYnVxUmphUnh6ZmZXVXB3RGszU1JTbjE1S1ppVlFFaVAtbHUteEtKUU5icTZpSmZTbXQ3VjdIQUV6aWFCUVZib3ZfOTgzVEhEY3BidmpwNFI2enpOSjI5NUxRdw?oc=5",
-        "published": "Sun, 22 Nov 2026 18:58:00 GMT",
-        "category": "ハッキング"
-      },
-      {
         "source": "CoinDesk",
-        "title_ja": "ビットコインの量子脅威、コードを超えカストディアン・ブリッジに及び600万BTCが影響リスク",
+        "title_ja": "ビットコインの量子脅威、コードを超えてカストディアン・ブリッジ・600万枚のコインに及ぶ",
         "title_en": "Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
         "published": "Sun, 22 Nov 2026 14:00:00 GMT",
         "category": "その他"
+      },
+      {
+        "source": "Forbes",
+        "title_ja": "トランプの暗号資産悪夢が現実になりつつある",
+        "title_en": "Trump’s Crypto Nightmare Is Suddenly Coming True",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEdfUVMtY2hLZmlsX19wcTh2Yzdyczh3RDQySGt0T2VwSEZnSlFVZ0Q1U1N3NW5KSkdXenRWVTNYTldabUtmSWJRa2FzME5EZEwwb2NRNlFjTmJOUUlKSTF0S3o1TklCU2xxLWZPU2NXR2Rxbkp3MUctMTNDSG93RUFkNHYyU1R6eTdVWGx6QVJpWVcxU3U5SkZySEZ4Z2E0N3dTZmpB?oc=5",
+        "published": "Sun, 22 Nov 2026 12:42:28 GMT",
+        "category": "規制"
       }
     ],
     "ETH": [],
