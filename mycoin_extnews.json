@@ -1,84 +1,93 @@
 {
-  "generated_at": "2026-11-24T13:29:26+00:00",
+  "generated_at": "2026-11-24T23:49:48+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン年末までに9万ドル回復できるか？ギャラクシー・デジタルCEOが否定的見解",
-        "title_en": "Can Bitcoin Regain the $90,000 Price Level by Year End? Galaxy Digital CEO Mike Novogratz Says It's Unlikely.",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkszYkROeUJ6ZGw3eWY4cGlIQWktcklaMjFPVlVpWTZYSWpacFI0TVNjTk5aNDR3RlhwM3l0WWZZWnpSYkxSSHIzZW4tWlJnS1pyalh4ZExQY2ZCS0N2UjBKb3VQSGVPOVRGT2RTUXh4NjJoNV9QV3BNczk4akJDTkhtREhyYnBvSEM3VjJrb0l3a3djTC1J?oc=5",
-        "published": "Tue, 24 Nov 2026 12:50:02 GMT",
-        "category": "発言"
+        "source": "Forbes JAPAN",
+        "title_ja": "ビットコイン再び6万ドル割れ、エヌビディア復活の買い気流は短命に",
+        "title_en": "ビットコインが再び「6万ドル割れ」、エヌビディア復活の熱狂は短命に",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQVVRdW1oS3ZqeHpSVFBUR3hVSERQajdUNDlYOVhxTS1iREpqVEZOYmYwdW85SjdkbzZ6Y1VIQWUxUERZM2YycllTM3p4TTJlV011dmRDRi1JZw?oc=5",
+        "published": "Tue, 24 Nov 2026 23:45:00 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "ビットコイン下落、11月のスポットETF流出が過去最高の47.1億ドル",
-        "title_en": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXJVWUNETGtpeTZVSDE2QkRDSkJ2XzVwOHBTTjU3OWV0N0JmcDZpZFBaMnluRHp2eVBDcUFOa0hzVWJwd1dxUGZhMGszZG1nWnBJVjN0cEFSUzhISDkzaWRmUi1ObHBUT2dNbi0taDJTVUlJVDEzRWFYWWxteW14TC1mVnZIOFFfTWlDNy1XTkhWc3RXOVN3NTVMRW43ZFp0ZVBsaTZycFI1czdBcnVRQVREVlh1MVlHMnVmcG9na1hFSUE?oc=5",
-        "published": "Tue, 24 Nov 2026 12:36:28 GMT",
-        "category": "大口"
+        "source": "Yahoo Finance",
+        "title_ja": "マイケル・セイラー氏が規制当局の承認を獲得、ただし満額ではなく",
+        "title_en": "Michael Saylor gets the regulator's nod he wanted, just not at full price",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDFpWTBpb1N1SjIxbXBoQ1IyTlV2Z0dEY0didVRZZFZUNmxRWklsQ2dBeGZFZk1tR2pkdzRQZ2stMjJ5R0d0Y29HdHA2VFRBVzYzMFhtN2h1Y3FpelZOcDRCUThEM3Q1SXhjdTJFYWZsRzAzNnRnMDJ0RkxnclJaMXpUT3MyLWxOYkZGNEhuX3VJOEdjWVM3LU5fZnBxU3ZB?oc=5",
+        "published": "Tue, 24 Nov 2026 22:10:18 GMT",
+        "category": "承認"
       }
     ],
     "ETH": [
       {
-        "source": "The Block",
-        "title_ja": "イーサリアム財団がプロトコルセキュリティチームを倍増、AI脅威を量子脅威より深刻視",
-        "title_en": "Ethereum Foundation doubles protocol security team, calls AI a 'more urgent risk' than quantum",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3RpaGN3a05OM0lfY3dVdDNQTHdGM1Y2NktmWHRhVmFOQmJOR2t3WlhFU0kwcUlrZkJsS0ZkaGR1alRrRkliTTZncEVCaEI5RzBYc2dnWGdoM2ZyeTkxV3RLWHZzZW90R0xKam9aSEYydWRZZjJ0R3FvbmdZdE1uVl9QWE9UNEM1YU4zMGJtTFZvaWIwY3J5Y2s3aXRZZHhHUWh1VHc5QVpkVVIzUm1LQWJJd001N0VpaDhSLVRaTm9XWmszR0Y0b3NQS19NUmRpZFRRYmpfVURzY09NVlgwVWtGWQ?oc=5",
-        "published": "Tue, 24 Nov 2026 11:53:00 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "新CFTC規則の下でビットコインとイーサリアムが伸長",
+        "title_en": "Bitcoin, ethereum gain ground under new CFTC rules",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi1IVERtcWROck82RHpmQmt5bWszWXBTUTVVaktIaExydmZUZEd2d1AxNjRRTnN4dmFLU0xvNlFmRm90bC10ZmZjc2dqTHhDei1rTHVlM2Q3bFkzVEN3dzhReklYWTdwUGtuTktPclZUQ0Ffb1hrLW94SjBnaEdaVUdrREw4MWRMeGdhb2lhcUZfc01vbGhWLWVjZUg?oc=5",
+        "published": "Tue, 24 Nov 2026 16:41:57 GMT",
+        "category": "規制"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "BTCS、Aaveの43.8百万ドル債務返済のため保有イーサの半分以上を売却",
-        "title_en": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0FJVS1aRVR1Ym83MXhrSTJId0JjX29mTllUYTd5cHFpTTlSd1NZbkcxRGN0dEhITDZsNEVhYW1oWnFlb0g4ZThCSk1XWm5saDZuS1RmX0hOZGJoWlk5MTNRTGhTUzJpbHhKUU9uN2pYclZQYlg5ai13ckxCZExsRlg2aFZpNy0xM1ZoS1lISjJGRkdHQ1FLOExfS0lMSUdsZU85NGItRDI4ZVBZUGJndjFRSEpYTGZ0RUE?oc=5",
-        "published": "Tue, 24 Nov 2026 10:55:30 GMT",
+        "source": "The Block",
+        "title_ja": "イーサリアム財務企業BTCSが4380万ドルのETHを売却しAave債務削減、CEOが「軽くは受け止めていない」とコメント",
+        "title_en": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do not take this lightly'",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzM5RDcxTE9xaml6X2RsLVUzcVF5ZVpvT0QzT09Wb0V4QUJ0blJtQWhCeDdkYThCYW85bDFaTkNWYmhERmtpNW1LQnBWSWVLODBhUW9MbjBtVlpTcTVudDhqZWh6RDZYS1RnR3VSaEpkR1VsRFVYbGxJWU85cURGQmVreUlSczR4SkhSLWxkOU9iMWNoM3ZNeHlMTmJNamV1TVZfWEhDcTdlTjVjWFc1M3VGcGU4OUJmLVk0NDlRNDRuVTkwVU5lRklaMHExY2M5QlRYUEdiZTVmT01hRDI1NnplZWE2NnYxTzRpRWtR?oc=5",
+        "published": "Tue, 24 Nov 2026 15:27:00 GMT",
         "category": "大口"
       }
     ],
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "XRP価格予想：デイビッド・シュワルツが88%売却を説明、1ドル奪還を目指す",
-        "title_en": "XRP Price Prediction: David Schwartz Clarifies 88% Sell-Off as XRP Fights to Reclaim $1",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkFrb3VQTnQ2T2FhYUdURENyOWhTWTc2M2tTVEVUaXFDNG9sTU1BZVdqTEp6bk9hdFkwa1hEQ0lBcURmcHJEbEVjYkxQWWlNZHE2bzl3Z2hhaHhFSDY4Q2VqRG8xTUE4TDQyejdzVHlzVW94NzFVUXQ3QjhoeHRaQ3dCTm5YM3V4aWxqemJxZEg3U1RpUEZLU19pTnlsTDkzbWc?oc=5",
-        "published": "Tue, 24 Nov 2026 11:28:43 GMT",
-        "category": "発言"
+        "title_ja": "RippleのRLUSDが米ドル（USD1）に追い付く、XRPにとっての意味は",
+        "title_en": "Ripple’s RLUSD Has Caught Trump’s USD1: What Does XRP Get Out of It?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmQtWTlBcF8yYjl3THRybk9nQlJvZHJuUWJseThGdDgzVHFsY0JBUW1Nd0Y0c2tCRmZwMW9RTExjdmFveTJTSjZiQXh6ejBtSk5wcDYxUjZMckcyejhDY1V5cmxVb25MZmxPcTlCQzFiTEk3aTA2RW90M0Etc1Vkd0Z4MkYxWHEtWkJXdDJ6UzZFWkx1amJPSHl6SQ?oc=5",
+        "published": "Tue, 24 Nov 2026 19:52:10 GMT",
+        "category": "提携"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "トム・リー「XRPの年間供給量は5.4%増加」、2028年までの価格上限に制約の可能性",
-        "title_en": "Tom Lee Says XRP’s Supply Grows 5.4% a Year: Could It Cap XRP’s Price by 2028?",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUpCWkJvSV85dlVVVVlJSllpSWppYXRpelYtWld6czlkcEdVT1pIb1V4YVZWZTlDWVh3cHg2dXFoX3A3M3RPdXpMTVlTbGh0Qlh4M2JYMHoyenNhVk81VUNFUnBUR0NWM3ZLSkZEY0NVODJrOG43RXg2YWpLM2NIMWMza2VrYkRSZVpUbWhUZm1uZw?oc=5",
-        "published": "Mon, 23 Nov 2026 18:46:51 GMT",
-        "category": "発言"
+        "source": "The Block",
+        "title_ja": "XRP LedgerのDEX出来高がQ3に日量451万XRPに達する、大型トレーダーが主導",
+        "title_en": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUdpYVdWRHZJUmltd2M3S1plMmJJc1I1M2I3Q05sUFpRMFN3Z1NzUXJKTGIyVnhDRG03TVZzZ0ZLOVJCVFNWMzZkSC1JOGhDWnJaXzlSdm5RZ09UVm5EUi1VeTRFMUNkamxIRldQb1FKNkJlU3RXUE0ydE92MUo0VTNuVnZjblY1Q01DY3FYVmkzUjNkQlI0c3Y3bw?oc=5",
+        "published": "Tue, 24 Nov 2026 14:00:00 GMT",
+        "category": "その他"
       }
     ],
     "SOL": [
       {
+        "source": "Yahoo Finance",
+        "title_ja": "Ansem氏がSolanaウォレットがBullpenプロフィール経由でハッキングされたと指摘、一部アナリストは懐疑的",
+        "title_en": "Ansem Says His Solana Wallet Was Hacked Through His Bullpen Profile; Some Analysts Doubt It",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT21DYjRkUDFwUEZsbk9ORjVWQXdTVG4wTG5USG5XTGZrNldUQVp1a3h6eFE0SFo4ZXlIUUdOYTlVbi1iWGZHU2M1VTdXUTY5SDl3QzV0Y2J3QndXemRoRHQwZXJDX09HODhKanRmcVZjLUticFVzYWhBR2JybnlCODBQRHgxaHAzUFZuTzA0Z2taNFVLN0l3bTktZnk?oc=5",
+        "published": "Tue, 24 Nov 2026 15:00:17 GMT",
+        "category": "ハッキング"
+      },
+      {
         "source": "日本経済新聞",
-        "title_ja": "ＷＩＺＥ[3664]：ソラナ（SOL）の取得状況に関するお知らせ",
+        "title_ja": "WISE[3664]：ソラナ（SOL）の取得状況に関するお知らせ",
         "title_en": "ＷＩＺＥ[3664]：ソラナ（SOL）の取得状況に関するお知らせ 2026年11月24日(適時開示) ：日経会社情報DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmlmUXdSMzh5TkktT3NRRTRPRUg1UVFEOVdkcFBOc3lmMk9tdnRoOU50OW5xQ2Z4WGxpZld4UXJPd3BxSWRnVUFvZ1Q3WHQ4cXM5cTlxNTZtX0tLRDJyYU1fM3RWVG5ub202aUdCcjduTi1vR0o3ZXppQ3dWNWgxeFpMb0prZzlVc3Q5akVmWVBXd1hxTlZXck85Q2NoSE1rN09Jb2JpSWZJZlMtRTJPOURqTThxNWVnVWoyRUhxNGFEX1RqeGdGbnBsY0Q?oc=5",
         "published": "Tue, 24 Nov 2026 06:30:00 GMT",
-        "category": "大口"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "ビットワイズCIO、ソラナETFが100億ドル達成可能な理由を語る",
-        "title_en": "Bitwise CIO Matt Hougan on why Solana ETF could hit $10B | CoinDesk Videos",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakludm1EVTlncV8tZ1VxSl9hZzNHTVhpVWp0SnROME5iNmFWM1l6d3pDMzc3dkxvcndlVGdyWUZGNlVNdWtzSDRrX0FrTElVZ09Bb1NFUTF0MU1PZTlLRGRTeTRFSzdyaERFcUZxZnEtT3ZzNDM0eHVrMmZXMFVZclJiMmVEcXFXNEpNY1BuUjF1VzQ?oc=5",
-        "published": "Mon, 23 Nov 2026 22:00:00 GMT",
-        "category": "承認"
+        "category": "採用"
       }
     ],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
+    "LINK": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "Fidelityがアーブ、チェーンリンク、ユニスワップを暗号資産取引プラットフォームに追加",
+        "title_en": "Fidelity Adds Aave, Chainlink and Uniswap to Its Crypto Trading Platform",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTdpX0xVc3lZY3R6OG1kalh2RFhqV1Z2RXcwZE1mRzJBNWlyOGE1ZVo4NXBxTVdrYmJmOHQwaEMtNDZzbk51azR4aFFBOVBSV1VMT3lEdnM4QTZkS2hHLUZPTlRmaDh2blZENGt6NmpDWjZycVZmZHVsMU50VmFPb0VhbERYX1RWSFVfT2pkZTZ4LUpKNUd5c250N2JNaVhJZ0xR?oc=5",
+        "published": "Tue, 24 Nov 2026 16:11:00 GMT",
+        "category": "採用"
+      }
+    ],
     "SHIB": [],
     "AVAX": []
   }
