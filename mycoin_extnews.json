@@ -1,47 +1,73 @@
 {
-  "generated_at": "2026-11-23T12:08:11+00:00",
+  "generated_at": "2026-11-24T02:05:56+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "CoinDesk",
-        "title_ja": "ビットコイン、ウォール街先物の回復により2年ぶり安値から反発",
-        "title_en": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2h2ZXhNZDJ3eGV1Tmd6RHZjYjJDa3laeUNyZXFxVUFIcXYyUk1XYU0xcVRaS2s3TUtBTlBJUmNhZExfeVhfOUNYSElWMHpnOUlDV0ozMDh2MGlDaGk4ZHg4ZFNUanp6VjNOaUlud0p0Sk1yYm9YTWJ2WmJzZVUxNDBQNXF4MjVycWRtVnVzMG44WFQ1XzNiTDd2Y0hWTGJVOGZna042emJJeEk?oc=5",
-        "published": "Mon, 23 Nov 2026 11:51:09 GMT",
-        "category": "マクロ"
+        "title_ja": "米国CFTC、イベント契約データに関する方針を策定、金融規制確認に暗号資産を活用",
+        "title_en": "米国CFTC、イベント契約データに関する方針を策定、金融規制確認に暗号資産を活用",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2FxRkg0cFJLSVpDbHRVS1FGZTI1QzM5cGxHSUlvT01vVlpwS2d3UXRLVlpiSXFvdEZnbWUzckpTNEczbEpycXh4Nk5GS3dJSzhSWkRkTmRtdUtncWRZRDVwR1E2NXNLVF9yeFd6YjdTRDBEY2NrRHczQ241X1hQYW80X0dxVnRwd1hmX1B5MEVoWjd3R0NVZ3BUUHNkbG9WZG1vNzV3VXZLOVhfZnpWYmw2LXV4SDVjcFhUa0F6TzRqNGVYWVlWZg?oc=5",
+        "published": "Tue, 24 Nov 2026 00:25:00 GMT",
+        "category": "規制"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、週末の2年ぶり安値から61000ドルまで反発",
-        "title_en": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkRqekNMWVJRbGo5LXhjc1g1WG9tN2Q0d3QwUnROWTVZc1dsdHFHTmdMLWlIUi1objVZdUFRWG9BZUFnZ1o4RUpZU1BOTzJHREFPcVV6T043Zzl5VzVnQk82c0htcjVsTzh3MnFvNWJ6UnZRQWJ2cUVxclJpMDczN1JWeEF3R0h5VXd0dUVVSGN2VmZJdkxwU3B2SzkwNUVQTmc?oc=5",
-        "published": "Mon, 23 Nov 2026 11:14:22 GMT",
+        "title_ja": "暗号資産市場ニュース（11月23日）：ウォール街の歴史的上昇をよそに、ビットコインは18億ドルのETF流出の重圧を受ける",
+        "title_en": "Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs on Prices",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUdIeEQtY2JONVdUT2ZPM2Jlb0JTR0plOTRXZmIwT0c2RG5UUERWczUzM2czRUpIbWhvbXpEUGVFLUFZUjFDZTZIUWhJV0MtUWFUYkRhZ0gwQlBrZ0ZHSW9xWUpzVXZiOF9aNFVONFV5Q2RObVZHdkRKMHBFQmRBTW9XMXFtbmRBOTJrQ0JFNFdKSVlhU3c?oc=5",
+        "published": "Mon, 23 Nov 2026 22:15:02 GMT",
         "category": "その他"
       }
     ],
-    "ETH": [],
-    "XRP": [],
-    "SOL": [],
-    "ADA": [
+    "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "ADAニュース：カルダノ保有者が同プロジェクトの主要イベント運営の400万ドル資金要請を拒否",
-        "title_en": "ADA news: Cardano holders are turning down a $4 million request for running its flagship event",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG9lLVI4Rl9FOXJpa1lhcmhodXBld0otWHdjUDV3WHRwWnpWSmZuVExHLWlYcHFGUVkwNVQ5S2hpSmJkdjFGQXNGdEJMa3F1RUsxLXI4ZVRhc0xWOER3eTh6UmFoc3l1bE1ZRDhIY0tNRjY5UU51SG40MHhvcmRUcW80V2l4dEYwV3E3ZUI1QmxBVHpSdUhud0NXV2xUNVpvcXRaS2lUVlN2YjhrTWw1c1dXSW52Ym9oUnMxY1V4VnhTQXE2M1RmYm9B?oc=5",
-        "published": "Mon, 23 Nov 2026 07:45:43 GMT",
-        "category": "その他"
+        "source": "Yahoo Finance",
+        "title_ja": "トム・リー、イーサリアムの希少性はビットコイン同等と指摘―ビットマインが追加購入",
+        "title_en": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3JuUmVqSWdPOWJvb0UyZUpFbmczMEdpaWdXSHY4ZngwSEo5WGc5VU0tSTJ1NkJFWUJXS2ZYNFRIckNlaDVOeHl1ZmRfekVLdWtvYWdUVWJRSzFVT1E3THNFMkd1bm04XzBvMUhfaEJubVZHaFlOY1RBcVU5ZWZZR2VQYU9hTURtNk1XdW84MzhPUDFuTnZQNQ?oc=5",
+        "published": "Mon, 23 Nov 2026 16:46:03 GMT",
+        "category": "大口"
       },
       {
-        "source": "CoinDesk",
-        "title_ja": "カルダノ保有者が同プロジェクトの主要イベント運営に関する400万ドルの資金要請を拒否",
-        "title_en": "カルダノ保有者は、同社の旗艦イベント運営に関する400万ドルの要請を拒否しています",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbk1obkpDTnNIcVFZQWhnTGtkWmwtYW1TdGpPMWVVLTZFeHdnbnJkWHBzWDhfOW5JNWR3QkZZTmRneEpRQThYM3lnbVN5Z01nNGxzb0VfMUFTODRscEFjY3d5ajRiLVpYaWFXdkdpNGNlMWhZdF8zWm0wZG8wQjVxdkVjN0pwSjVJOERjT0JxbDlPdXVrRnd3aDUzUHlONmdXTWtxSjVUWmxLQ2VyOEhiTXN3T1VqVlpMUGVjTkdNZVExck1tUHZHRjZ5Y0JsUQ?oc=5",
-        "published": "Mon, 23 Nov 2026 07:45:43 GMT",
-        "category": "その他"
+        "source": "The Block",
+        "title_ja": "ビットマイン、781万9000個のETH追加購入―トム・リーが『ハードマネー』の正当性を主張",
+        "title_en": "Bitmine adds 7,819 ETH as Tom Lee makes the 'hard money' case",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0I4RFFJVW92ZUY3aVlST1YwU3oyWUtBSlpuZWd5NTM0Y29Lekt6X2VuSU1zQnc1U0RDdGNsX1lQbUVfYVNoNkNUVWZ0dGJpT1dhS2hXYUw4V04taDcxbXhLeFliamVYTFlKTU9SZWxJUnN6VWJ1XzFFT2UzSDM4UGpWaVRjcmNuZWFFVV9GRHBBakt3a3pfMENOM2p1aWxvdFlEVjQwUm0yOU0?oc=5",
+        "published": "Mon, 23 Nov 2026 15:02:00 GMT",
+        "category": "大口"
       }
     ],
+    "XRP": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "クロス・リバー、リップルのステーブルコインを銀行決済に導入―1万ドルのXRP目標への懸念も",
+        "title_en": "Cross River Brings Ripple’s Stablecoin to Bank Payments as $10,000 XRP Call Faces Scrutiny",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHdlaC01dm9aODhRWTRTS3FENXQ5WWtYVkJQSnNUYVdIcF9KUTMyRmVfQlhfWFJYOERrTkRRYWZkd3FSNDQ5LXo1dXZkLWVxYm11d0lFVi14cGllY2lGcVpnQ09BMHl1S1lNdWQ0SGEtUUpwZ2xNY1dYU1I3YS1LTV9jbW8zOWVkcmNlWWlxU2hSLTFvYVJzR0duR3ZhV2plNFhV?oc=5",
+        "published": "Mon, 23 Nov 2026 13:02:15 GMT",
+        "category": "採用"
+      }
+    ],
+    "SOL": [
+      {
+        "source": "The Block",
+        "title_ja": "DeFi開発がソラナ買い越し姿勢を11週連続で継続、SOL財務が260万2000に到達",
+        "title_en": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1hkX2lWX3lQZXlZckxPblNtR1BJM0VqRGlKamZsX2ZUa2MyMWhBekRGb3BNcXlRRzJwbkIwVDFJazZHa0xPTTRVWEM5VEV5anFLT0R4V2xMaUt2ak4xbHJoTEUzTGpybkV3c3NpcnhpVlk1NXhZZEF2V0xxSmVFWHRyZ3NROER1V0U2a1FCcDc2eDBXUTAzQktrdEl2bGxtcEVsZTEyeTZxQlJPVkhmS21JTQ?oc=5",
+        "published": "Mon, 23 Nov 2026 15:34:00 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "The Block",
+        "title_ja": "アーク・インベストメント、先週アンスロピック株に1億4600万ドル投資―イーサリアムとソラナ・ステーキングETF保有を削減",
+        "title_en": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2FFc2tTNVUzSzg2R19hOXVxOUo2VnQ2c3UzZWw1U2JpelZNdkxPa3dOY1NtRER3ejVJcS1LUG0yR1RxYTg4U1o5RmdvNU4zNDNyUW9udDljcnlkN1hGVGN2ZUJBcEJTa2IwWWxlSXZCR1Q2N29yNVNnWDUyaHVsc051N3o3YnBUMWZMcTlsYklUM1VjZHptUGYzU2tSb3Z1RGM1UmQ5bw?oc=5",
+        "published": "Mon, 23 Nov 2026 07:12:00 GMT",
+        "category": "大口"
+      }
+    ],
+    "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [],
