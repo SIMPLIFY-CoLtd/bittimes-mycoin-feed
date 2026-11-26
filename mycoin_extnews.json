@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-25T19:05:25+00:00",
+  "generated_at": "2026-11-26T03:27:09+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン、インフレ加速とタリフ懸念でインタレストが57,000ドル水準に下落",
-        "title_en": "Bitcoin Falls Toward $57,000 as Hotter Inflation and Tariff Worries Sink Stocks",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzFLcGlUNmxOd0QzeUhGMV9LSk1OMDRrcGYxS2VxdXZFLXZDeV91NTJNa3JRRTVvQU1SSl81dWlYR2xrcVVjdjh3OFkyMzRKU3RXZnNuT2lOcVgzcHdVZWRGUUttTFVWMnNtYl9NelR5NG1RbEJPeGl5LWxfSXBvMGtrWUtfcjRManBuUXd4MzdvZWsxOGxn?oc=5",
-        "published": "Wed, 25 Nov 2026 17:54:00 GMT",
-        "category": "マクロ"
+        "source": "The Block",
+        "title_ja": "下院委員会がビットコイン戦略的リザーブ法案を可決、成立への道は狭い",
+        "title_en": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVVNTElJZm9mZnBXejBIaHNBLU1WNF9Vd2ozVm1faDhkYUx1QmhuM21FWVBYcXJLSFVPQ0RhYThOWFFBcnctMUFBSHlrT0NrRmh5d21iYnBISXNFcTRMZ2RfbVQtTkNzZkkwNHBrV1hFMGxrc0dZQ3VvZ3B2cTJzUjJxdWdzWWVDbnhVT1pwR3RSaTJwancyYXBLdEhTNjFxcHN6SnV2Y3hOenVqNDlnZDhQRQ?oc=5",
+        "published": "Thu, 26 Nov 2026 03:03:00 GMT",
+        "category": "規制"
       },
       {
-        "source": "Decrypt",
-        "title_ja": "ビットコイン、インフレとトランプ関税、AI売却で一段と下落",
-        "title_en": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjWWJWUlo0aHRXWld1MHBLUnNjR1hQQVRkTVdlOEV4bDlGRmYxb296ODJlZ2szRmJiWnpCRU9pdm92djJtVzg5LXVReUVxZXNjYUV5Nk04azAyOEVOc0JsUEZkZ0hNYkVkdEg3NVd0aFRrWEphS0ZZWkx2RGhMbFk?oc=5",
-        "published": "Wed, 25 Nov 2026 16:52:50 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコインとトークン化ゴールドのユーロ取引、ユーロ圏利回りが米国を上回る場合に増加",
+        "title_en": "Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ19DWGtxTUdKTjhfQjhvUWVuVDlPdzhRNDlSMm0tMlJBeWoySUxaYmk4ZWJpRXlPaDE2dTRDa0drcjRQOXoxRnpEeDNKQUYzUExGU0ZiYW1la1hwZzhnaS1UX3VuNEVXd0VScWNHWDRZTjRQTi0yYmloR1NXOEc0b21MRVVyYzctdnVmSHlOZTAwUzRvUUFJbU55eTU5QkdFSkdF?oc=5",
+        "published": "Thu, 26 Nov 2026 00:02:00 GMT",
         "category": "マクロ"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "Bit Digital、イーサリアム売却で債務50%削減",
+        "title_ja": "ビット・デジタルが負債50%削減のためイーサリアムを売却",
         "title_en": "Bit Digital Sells Ethereum To Lower Debt By 50%",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFhHeEFVeW1CQ3hDaEsxTHkwSkZkRGp6b0ZOclRHVi1hX25GYUp5MnNGRXFObF85dk1tLWNmVDlhemdYenNRX2ZUT2dNMUI1T2lLNVdLZzRSOXJmeml5NTRycV9tWUFCNDBFMjRHajZhWjVnQ0MwZVE5aGhLQWRNa2Z5T3lYc24wLUVjam1JYzZ4MmZ6T3g2cFFZS2FTZw?oc=5",
         "published": "Wed, 25 Nov 2026 14:43:00 GMT",
@@ -32,7 +32,7 @@
       },
       {
         "source": "The Block",
-        "title_ja": "Bit Digital、イーサリアム29,825枚売却でGalaxyに5,000万ドル返済",
+        "title_ja": "ビット・デジタル、2万9825枚のETH売却後にGalaxyへ5000万ドルを返済",
         "title_en": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHMzQTE1b1E4aXhrdWNBNXY2ZXQ3LTNLTmVENkdBSHhSeUVEZzBIYjR4OXBpbVY0TWVUbFdKY3EzVUVjQzlpbEZlMXA3dlNWZkRNTGM3OTZha2R5YkItWlZKQjZWT3hVNTk5dl9XZllwekl6Y1hlNzYwV2wzVFZBWWhEMWFJR0pYWnV6OVM0WjdZYW9OYzllT2FvNU4xNkRMdGlhWElHcjM2c2tFVjVvTlMtaVZRdzJvaTl3?oc=5",
         "published": "Wed, 25 Nov 2026 14:15:00 GMT",
@@ -42,7 +42,15 @@
     "XRP": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "リップル、トルコの大手銀行と大型提携、XRP/リラは70%下落の謎",
+        "title_ja": "リップル、新たに銀行を獲得もXRP一年安値を更新、提携の実効性は",
+        "title_en": "Ripple Signed Another Bank as XRP Hit a One-Year Low: Do the Deals Matter?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLW5UUmZwQWhESFFsXzZGelRnT0F4cWRYcFlxMGFNc1NFcnhYbG9pYXBXcjhzdGJ5eEVhLVR0U3d6dGlSaWxTM3FmdVpBVlVYeUlNeDBzLUdlX2RKRENoR05MOU5RdVFVXzM3ZWwtTWNjaXRGcVlrUEVYeHc1bG14U2hQRnBqdTVaSnF4S0lQekphT2xjVzhZQ0h2MA?oc=5",
+        "published": "Wed, 25 Nov 2026 14:46:43 GMT",
+        "category": "提携"
+      },
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "リップル、トルコの大手銀行と提携も、XRP/リラ取引は70%下落、なぜ",
         "title_en": "Ripple Lands Major Turkish Bank Deal – So Why is XRP/Lira Trading Down 70%?",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnhkeWUtVVJkRjR5ZGpWTjZXWjRHeVJqRW5wWjR2T183NVBnb3VCRm5QREF4RzVFeUd3VUdPdXJXQlphTkticjJ6eldfY0lyamdTa3U4NUcxV2FqOFQzUWhrUHRTaG14NjdvWnVqNWF1Ukh0Z0xDUHJNZXVibllVTFMwSC14MkVSSkctbzRPWnh2cVB1anR3bDFHTlo?oc=5",
         "published": "Wed, 25 Nov 2026 10:08:41 GMT",
@@ -52,15 +60,15 @@
     "SOL": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "日本の大手金融機関がソラナのステーブルコイン決済・トークン化に採用",
+        "title_ja": "日本の大手金融機関がソラナをステーブルコイン決済・トークン化に活用",
         "title_en": "Japan's largest financial institutions tap Solana for stablecoin payments and tokenization",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9EMzRQWV9MTVdGRHpEUDFMWUV1TXgxdmtGbEFXam94MFJ3SEoxYlpHSXBBZFdBVjAzVUh5ek9qN0xvU21OcUE1TDlUcVNoQ0pUOFU1UTJkeHY2ZzYydUJRWDF4OEpWaERmeVctVlROQmpMVzh1OWRKUnBVbl9kbFJkcWRDQms3N2lDaWh5MzYyQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblZfelZNWTNNMHlCYkdvYnR1QkxRMlNUMjdpRFBuLTJIUXpyNXhNaHN5X2hXWFExOUgxTXNUNzBWRmlKSUhRblBzR0ZnV3Ayc3FmbEdCclNNamdlZy11SVFlbE9IU2dfWjcyaWhPcVZKQTFxUVpJcHlEYkpDTzY5ZWtrMGpjNlFwbmlEZEwzMWp0M1ZWNkw3UmJHbXpuU1NMWF8tMjhOd2dlSzA4cWNiNDQ1NTJUUUQ4M2ZFQTVQR1dEeXVxeFY1UTd0VzZ4SDlwZHc?oc=5",
         "published": "Wed, 25 Nov 2026 18:30:00 GMT",
         "category": "採用"
       },
       {
         "source": "The Block",
-        "title_ja": "日本のSBI、SMFG、ソラナを活用したステーブルコイン・トークン化事業で合弁設立",
+        "title_ja": "日本のSBI、SMFG がソラナで共同事業開始、ステーブルコイン決済・トークン化に対応",
         "title_en": "Japan's SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSm5KWW5fbkJ0cDNucy1LSUppaTBzNFY5N0RWR3I2aWloWEgyQXpDQWlUbUlmWmRJY3JTWU1BOTFDNG5XVXgxMllBUXhwNElXQzc0bHdWdk1RbnFxLW9EUllUY1ppWkNqMllpc24taTU1dW5iZG90SUcwRm9lcXk1a3FLcFN2UkJBMlMwMklnM1V4NEliTjBpZHdTUGxqUG93MU51X3BjUmRYVnVPQnY2SGE3eWtlMEZ6WEItVA?oc=5",
         "published": "Wed, 25 Nov 2026 10:23:00 GMT",
@@ -70,8 +78,26 @@
     "ADA": [],
     "DOGE": [],
     "SUI": [],
-    "LINK": [],
-    "SHIB": [],
+    "LINK": [
+      {
+        "source": "The Block",
+        "title_ja": "フィデリティがチェーンリンク現物ETFをNASDAQ上場予定で申請",
+        "title_en": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW13TS03NWRDWS1LUDU2dWlFMmNmR3F3cW9xMVNkZFhLNUhYQ2o2WmVMVjZNZVZISXVyNk9xQV9oTHVpa3Y0cWtrek9SOEhkVk1GcUtRdzdzQ3VkeGNfcExROFNHMWlvV0pRY3kxc1piNGMwNUM4RG8tRFlrUlBtR2NjOVMxeXlXMlplbGU2VTlNdmJSanlTdA?oc=5",
+        "published": "Wed, 25 Nov 2026 19:32:00 GMT",
+        "category": "承認"
+      }
+    ],
+    "SHIB": [
+      {
+        "source": "Yahoo Finance",
+        "title_ja": "柴犬開発者がブロックチェーンの主要なプライバシー強化機能をティーズ",
+        "title_en": "Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkN0Tmp0MTlWVTRMUnlGQlRtbzM4NHRoLW0zaTI0ZDNNVGdMYlF2RnZEQ1k2R0pMMmJXdjVBd0VhbkRvVG1WRGh6QV9NSkthaV9WajRROGFJamIwNVdYbFU3dzk4YzB4R3duRno1dEIyLU11NkxKVVBqN0M3Zmd0d0x0MElMeVdUQ1RoZzRnb3JjcDJMNEZsUkhwLUprUQ?oc=5",
+        "published": "Wed, 25 Nov 2026 22:30:54 GMT",
+        "category": "その他"
+      }
+    ],
     "AVAX": []
   }
 }
