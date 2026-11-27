@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-11-27T01:38:12+00:00",
+  "generated_at": "2026-11-27T11:58:04+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "ビットコイン6万ドル上回る、感謝祭の回復を曇らせるデッドクロス",
-        "title_en": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3lXN3V1ZDlVako3SUpucHB5ZUlCTWFYUmpxdG9kMTdmb2J3RUZnUGVDSWpuMGxfRGhibTJtclFNMmdfNVhyWFp1S2RBbWY0VjVPaVNnX3ZwbzcxbWxmVExPUHB5Rjk1ZU9nU3ppVEF4cFZnazRJV2hTRTZwbmRnZndXbXJsV2ROd041aXlZMXd5TlRTZDMxQUFB?oc=5",
-        "published": "Thu, 26 Nov 2026 18:15:29 GMT",
+        "source": "CoinDesk",
+        "title_ja": "ビットコイン、7週間の連続下落終了に向けて動く（株式反発には後れ）",
+        "title_en": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzRyMXdoa2NPT0RyTnMwUDhnbUtHVXc0N05lZk1zLTQxZ19nRTZYZm43RUM4Ymt5d0hDSDZVNExIR3ZoVFZ1YjRtMXZBbHdtT3E1TEh3cWpyZmJTZW1jMkh3a3ZLUU1vc1B2X25GdURkZ1ltTW9BQVZMY0xpckZkbWM4VmpWQlJPaDM5V09oRnVIUndBZDJZR2lxbEhVMWJpelliUmx1WVUxRUh1dHV3alZQUkJvak1uQXlTal9JTQ?oc=5",
+        "published": "Fri, 27 Nov 2026 11:45:47 GMT",
         "category": "マクロ"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "わずかな支払いでビットコイン・ウォレットの背後にあるIPアドレスを特定可能、開発者が発見",
-        "title_en": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2QwSXFSZGlHc3pTNEpvdlhfRkRjeVMyTlVUbWZab05Gc3h5bXVUeVpZU2pEMGZwTkY4SWF0M19IUFVveV9JXzlXVkdYQ1MxZ3NJYjRpOGFNNjJ1RnpVRnNmS3hKeUQ3bngwTW40eTc4cDMwNjB2UzdJWUhZOXEzMmN0ZFlvTFZCVEdkVEUxbXp4Zy1POFV5QUc5Um9HVVU0VTRFV1NZb21FdW9YdDFESHFpcHJtckR4RURMS0ZR?oc=5",
-        "published": "Thu, 26 Nov 2026 17:30:00 GMT",
-        "category": "その他"
+        "title_ja": "次期ECB総裁、ステーブルコインとビットコインよりトークン化銀行預金を支持",
+        "title_en": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0M5MlBpRUxVeWJOZS1pWko4dnNBNlo2UHZmSjdLQ0gwUlc0SHo5ZDl5YVZBYWNqTE9FQTJtU0FDZnFVMGxRWGdNRmVISEFXbklLUTE2NzdsNFRWRGxxcnRUUjJRX1VZSU1zRlZDRDJpTDlwZl9HeTJPeWF4M0I0dTRrMnhPVlVabFV5WnJ1cnl3UXE5bUVGbjhZV0dxZG1OZnp6Tm1SQ0ZLU3JaTk5XTnFoUTJMQU5k?oc=5",
+        "published": "Fri, 27 Nov 2026 11:22:42 GMT",
+        "category": "発言"
       }
     ],
-    "ETH": [],
-    "XRP": [
+    "ETH": [
       {
-        "source": "CoinDesk",
-        "title_ja": "リップルはあるファンドにとって1株90ドル、別のファンドで300ドルの価値、SEC申告書が示す",
-        "title_en": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGIySm15X1NiRWc4ZWY1NGxpaGVMTkVzc01rRFAyZUJ5T3pFaVpfLVBRbDRRTWxoRmRVb1dGby1Gb3B0Q0hTY0w4VWRZaURfcGJmMi1LZ3JBdE14UFU0bEJMNHFURzdzRFBwWUIwV2oxTzh6UlBmSDNGdFpGU19aazZOOTVTU0VPZlpUcTlpYm1rcXcxYlZFbDgzalF3RkhPTnpNUnFPczdCSDBiX0xBNEo5SXNKTVFFZlE5ZnhvTnpKZw?oc=5",
-        "published": "Thu, 26 Nov 2026 05:30:38 GMT",
-        "category": "大口"
+        "source": "The Block",
+        "title_ja": "イーサリアムの開発者、Hoodiテストネット向けGlamsterdam アップグレードを12月15日にスケジュール",
+        "title_en": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5",
+        "published": "Fri, 27 Nov 2026 07:51:00 GMT",
+        "category": "その他"
       },
       {
         "source": "CoinDesk",
-        "title_ja": "リップルはあるファンドにおいて1株あたり90ドル、別のファンドでは300ドルの価値があるとSECの申告書が示す",
-        "title_en": "リップルはあるファンドにおいて1株あたり90ドル、別のファンドでは300ドルの価値があるとSECの申告書が示す",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzJSR3hROG5DV1dSMzl1ekhSZjE4Z055d2E1cjNyZkdhQzBwRFd1czJEaTNtUXI4OE1YN0ZMRTdaRWtZSHRkaDY4RGtrRUpNQWhEVW41QV85T1NYVGduU09Hb0FFZnQ0aVNsdXZ2bG1RVFhQYTFFQWNJamQ5SjVyZWtwckQ5NHdGeEl3YmNrdlpWTXlaWURIWFRfMmRfcjgwQmpIOVFQdDFLdTZKY2IzV2Q3eHVFN0FZN054elA3bk9EcWs1T2c?oc=5",
-        "published": "Thu, 26 Nov 2026 05:30:38 GMT",
-        "category": "大口"
+        "title_ja": "イーサリアムのGlamsterdam アップグレード12月テスト向けに承認、概要は以下の通り",
+        "title_en": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZUZ1eWg1OWUyaVpRRjQ3ZDBuTkNRQ3R0Ty0yc3R3WkJNZ0x4cmw2eW5WX1daX0l3Nk92aVZsUFpkMHI0YlI3OWJmTmU3c1JsYU40UGdsVzhVT3J0cjNlRVpBQmw4MHNLS0R1NnNKYkhLRE9fVDdLRWQ1YkpycXFBZXdESUhyS3plcmNrUGZDVE1QRk5vV3YwVUNaTmdxT2ZsNTNFTGJKM0ZBaFctdGgtTXFPYnVtd1p6Zk5OcDMtVDNWU0dxNndIV1dn?oc=5",
+        "published": "Fri, 27 Nov 2026 05:08:33 GMT",
+        "category": "その他"
+      }
+    ],
+    "XRP": [
+      {
+        "source": "CoinDesk",
+        "title_ja": "リップルの貸出計画、XRPレジャーの8億ドル相当ステーブルコイン活用に近づく",
+        "title_en": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0k5aC1VNWtUdzd2MGNURlNHQ1dCNndEY3FwQXNvMGNXaHVPcFNpX3NYSTYtcGI1SE9Fc0lwVGMtX0ZtWDY4UmxoVXRfdmFLcHAtbGtKLTV2RG11N1Z2YThiWjZ0MUF6V29TNld1SlBaS0NsR2FhM3Z4aVZ5WVdkY2MweUgzS0RoUmxPcU82VG5qVXdacUhCZXR2a3I0X3lIT2M2WUpZdmVSSllnLTZzSW54TlpCc1czUkVQZTYwQ0pIX0QxT01kbkhaVjY?oc=5",
+        "published": "Fri, 27 Nov 2026 05:12:38 GMT",
+        "category": "提携"
       }
     ],
     "SOL": [],
@@ -47,18 +56,10 @@
     "LINK": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "フィデリティ、ナスダックにスポット・チェーンリンクETFを申請",
+        "title_ja": "フィデリティ、ナスダック向けチェーンリンク現物ETFを申請",
         "title_en": "Fidelity Files For Spot Chainlink ETF On Nasdaq",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHlwTGJROGFxLWxjSllqclJaUy1OVWRQRDlWa3IyNjlvcFVXSUtYLUdNSjVsWm1JM3doTEdTbVIwcFB3WUVOOHA1c1hnLV9zLXZMd2ZCT2ZFXzdTc08tdHNPVUw4TVdsbHdsb1dnYklvSFFUTENSdFJNWDZaclBFdEVaeEdCS2pna1Qtb3NveFNrTzlyTENvcWhmaFlqMHc?oc=5",
         "published": "Thu, 26 Nov 2026 16:25:00 GMT",
-        "category": "承認"
-      },
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "フィデリティ、スポット・チェーンリンクETFを申請、グレースケール・ビットワイズに続く",
-        "title_en": "Fidelity Files for a Spot Chainlink ETF, Following Grayscale and Bitwise",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjd3SkREVzV5N3NHS2cyek41ZEx4dVBDVDc2WnF5bTg3Yzd3QURKZVZGQjlwQ3piY3daZldZNk9vU3k2RFVxT1kwM3VCaXEwQV9rN1VJSzhMSXNCdU1VNGlVbWFRQjFELTh4S2s0OG1zYnFBWk16S2dNcGR0XzFJOHViMmsyenpaOFF3anlXdng0UHRpMzlIN0ltajhuREE?oc=5",
-        "published": "Thu, 26 Nov 2026 10:00:19 GMT",
         "category": "承認"
       }
     ],
