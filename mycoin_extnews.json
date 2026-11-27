@@ -1,69 +1,68 @@
 {
-  "generated_at": "2026-11-26T16:42:56+00:00",
+  "generated_at": "2026-11-27T01:38:12+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
-        "source": "The Block",
-        "title_ja": "JPMorgan、戦略のNAV倍率が過去最低を記録しビットコインが「投降」シグナルを発したと指摘",
-        "title_en": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9YcXVlMHB3anNpdko5ejdnNWdHTGZZRm54MGxDbnFORUY5dEVobDZKMUdnZUhiaURNRnl0SElmc2wzbU9aR2sxNlM3YUJobDBxWU5ZRngtNjBSenR0NVEwS0dNSDJIWHhfd2xnaUlOXzgxb3dNU2NLbEVyTmEyR29EM0I2Z0ZZY002VEFVcmQ0VVEzcXlJdEJrNmd6QkZIZ2EwZEZnN2NCcnpLVkpj?oc=5",
-        "published": "Thu, 26 Nov 2026 16:18:00 GMT",
-        "category": "発言"
+        "source": "Yahoo Finance",
+        "title_ja": "ビットコイン6万ドル上回る、感謝祭の回復を曇らせるデッドクロス",
+        "title_en": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3lXN3V1ZDlVako3SUpucHB5ZUlCTWFYUmpxdG9kMTdmb2J3RUZnUGVDSWpuMGxfRGhibTJtclFNMmdfNVhyWFp1S2RBbWY0VjVPaVNnX3ZwbzcxbWxmVExPUHB5Rjk1ZU9nU3ppVEF4cFZnazRJV2hTRTZwbmRnZndXbXJsV2ROd041aXlZMXd5TlRTZDMxQUFB?oc=5",
+        "published": "Thu, 26 Nov 2026 18:15:29 GMT",
+        "category": "マクロ"
       },
       {
-        "source": "Yahoo Finance",
-        "title_ja": "米議会で政府保有ビットコインを20年間ロックアップする法案が進展",
-        "title_en": "Bill To Lock-Up U.S. Government Bitcoin For 20 Years Advances In Congress",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFV0bk9XemhETW5pMFZ5bFd2dnRtelVKS2pSenZuRDliYm5BS2IwRGNVb1hRN1RVdlY0M1Z5LUItVzVpSHBBWV9pRDdhSFMyYXhfZW9VZGNOWkU2T2wyY0tBNlZhbFFNU2c1QTJqZVpWNklvd0kxSGxLcnBQTm1OMEhTT2M0UUJFUkg2eUx5aDZrVjllby12Y0NNNA?oc=5",
-        "published": "Thu, 26 Nov 2026 14:18:00 GMT",
-        "category": "規制"
+        "source": "CoinDesk",
+        "title_ja": "わずかな支払いでビットコイン・ウォレットの背後にあるIPアドレスを特定可能、開発者が発見",
+        "title_en": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2QwSXFSZGlHc3pTNEpvdlhfRkRjeVMyTlVUbWZab05Gc3h5bXVUeVpZU2pEMGZwTkY4SWF0M19IUFVveV9JXzlXVkdYQ1MxZ3NJYjRpOGFNNjJ1RnpVRnNmS3hKeUQ3bngwTW40eTc4cDMwNjB2UzdJWUhZOXEzMmN0ZFlvTFZCVEdkVEUxbXp4Zy1POFV5QUc5Um9HVVU0VTRFV1NZb21FdW9YdDFESHFpcHJtckR4RURMS0ZR?oc=5",
+        "published": "Thu, 26 Nov 2026 17:30:00 GMT",
+        "category": "その他"
       }
     ],
     "ETH": [],
-    "XRP": [],
-    "SOL": [
+    "XRP": [
       {
-        "source": "Yahoo Finance",
-        "title_ja": "日本の大手金融機関がSolanaをステーブルコイン決済とトークン化に活用",
-        "title_en": "Japan's largest financial institutions tap Solana for stablecoin payments and tokenization",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblZfelZNWTNNMHlCYkdvYnR1QkxRMlNUMjdpRFBuLTJIUXpyNXhNaHN5X2hXWFExOUgxTXNUNzBWRmlKSUhRblBzR0ZnV3Ayc3FmbEdCclNNamdlZy11SVFlbE9IU2dfWjcyaWhPcVZKQTFxUVpJcHlEYkpDTzY5ZWtrMGpjNlFwbmlEZEwzMWp0M1ZWNkw3UmJHbXpuU1NMWF8tMjhOd2dlSzA4cWNiNDQ1NTJUUUQ4M2ZFQTVQR1dEeXVxeFY1UTd0VzZ4SDlwZHc?oc=5",
-        "published": "Wed, 25 Nov 2026 18:30:00 GMT",
-        "category": "採用"
+        "source": "CoinDesk",
+        "title_ja": "リップルはあるファンドにとって1株90ドル、別のファンドで300ドルの価値、SEC申告書が示す",
+        "title_en": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGIySm15X1NiRWc4ZWY1NGxpaGVMTkVzc01rRFAyZUJ5T3pFaVpfLVBRbDRRTWxoRmRVb1dGby1Gb3B0Q0hTY0w4VWRZaURfcGJmMi1LZ3JBdE14UFU0bEJMNHFURzdzRFBwWUIwV2oxTzh6UlBmSDNGdFpGU19aazZOOTVTU0VPZlpUcTlpYm1rcXcxYlZFbDgzalF3RkhPTnpNUnFPczdCSDBiX0xBNEo5SXNKTVFFZlE5ZnhvTnpKZw?oc=5",
+        "published": "Thu, 26 Nov 2026 05:30:38 GMT",
+        "category": "大口"
+      },
+      {
+        "source": "CoinDesk",
+        "title_ja": "リップルはあるファンドにおいて1株あたり90ドル、別のファンドでは300ドルの価値があるとSECの申告書が示す",
+        "title_en": "リップルはあるファンドにおいて1株あたり90ドル、別のファンドでは300ドルの価値があるとSECの申告書が示す",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzJSR3hROG5DV1dSMzl1ekhSZjE4Z055d2E1cjNyZkdhQzBwRFd1czJEaTNtUXI4OE1YN0ZMRTdaRWtZSHRkaDY4RGtrRUpNQWhEVW41QV85T1NYVGduU09Hb0FFZnQ0aVNsdXZ2bG1RVFhQYTFFQWNJamQ5SjVyZWtwckQ5NHdGeEl3YmNrdlpWTXlaWURIWFRfMmRfcjgwQmpIOVFQdDFLdTZKY2IzV2Q3eHVFN0FZN054elA3bk9EcWs1T2c?oc=5",
+        "published": "Thu, 26 Nov 2026 05:30:38 GMT",
+        "category": "大口"
       }
     ],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
     "LINK": [
       {
-        "source": "The Block",
-        "title_ja": "Fidelity、Chainlink ETFを申請、MuskのXは仮想通貨コンテンツファーム事件で勝訴判決を獲得ほか",
-        "title_en": "Fidelity files for Chainlink ETF, Musk's X wins ruling in alleged bitcoin content-farm case, and more",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTQ2a19FQzF1MnkwMXNKYjZpc1BjcVlNSWw1UHFsMXpSQVdERVlGTUZRTEFTc0NFY25vNFl6ZHc5S3p6SDUwTUZKQ0M5UlVPREpscWNJN2lJMzduaGdIR0xEdWdNcE85SU1Tbnl2Z2NSZ2tabGJGbTJxeGZUWURvcmRvS2E5Y0JrdHRzMXZtem8yZGdNQ2VEWmxHbDV2bVZQOWJQTU5PcmFvRHRDTDRVcTZuSjNZYnRjU0p6czUxUGVITVRONGlhRlMtVzN4MDVhZERoRTFoVFZ6TFZ0QXJqZ1FzLWlSdw?oc=5",
-        "published": "Thu, 26 Nov 2026 05:45:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "フィデリティ、ナスダックにスポット・チェーンリンクETFを申請",
+        "title_en": "Fidelity Files For Spot Chainlink ETF On Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHlwTGJROGFxLWxjSllqclJaUy1OVWRQRDlWa3IyNjlvcFVXSUtYLUdNSjVsWm1JM3doTEdTbVIwcFB3WUVOOHA1c1hnLV9zLXZMd2ZCT2ZFXzdTc08tdHNPVUw4TVdsbHdsb1dnYklvSFFUTENSdFJNWDZaclBFdEVaeEdCS2pna1Qtb3NveFNrTzlyTENvcWhmaFlqMHc?oc=5",
+        "published": "Thu, 26 Nov 2026 16:25:00 GMT",
         "category": "承認"
       },
       {
-        "source": "The Block",
-        "title_ja": "Fidelity、Chainlink現物ETFをNasdaq上場予定で申請",
-        "title_en": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW13TS03NWRDWS1LUDU2dWlFMmNmR3F3cW9xMVNkZFhLNUhYQ2o2WmVMVjZNZVZISXVyNk9xQV9oTHVpa3Y0cWtrek9SOEhkVk1GcUtRdzdzQ3VkeGNfcExROFNHMWlvV0pRY3kxc1piNGMwNUM4RG8tRFlrUlBtR2NjOVMxeXlXMlplbGU2VTlNdmJSanlTdA?oc=5",
-        "published": "Wed, 25 Nov 2026 19:32:00 GMT",
+        "source": "Yahoo Finance",
+        "title_ja": "フィデリティ、スポット・チェーンリンクETFを申請、グレースケール・ビットワイズに続く",
+        "title_en": "Fidelity Files for a Spot Chainlink ETF, Following Grayscale and Bitwise",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjd3SkREVzV5N3NHS2cyek41ZEx4dVBDVDc2WnF5bTg3Yzd3QURKZVZGQjlwQ3piY3daZldZNk9vU3k2RFVxT1kwM3VCaXEwQV9rN1VJSzhMSXNCdU1VNGlVbWFRQjFELTh4S2s0OG1zYnFBWk16S2dNcGR0XzFJOHViMmsyenpaOFF3anlXdng0UHRpMzlIN0ltajhuREE?oc=5",
+        "published": "Thu, 26 Nov 2026 10:00:19 GMT",
         "category": "承認"
       }
     ],
-    "SHIB": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "Shiba Inu開発者、ブロックチェーンの主要なプライバシー強化機能をティーズ",
-        "title_en": "Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkN0Tmp0MTlWVTRMUnlGQlRtbzM4NHRoLW0zaTI0ZDNNVGdMYlF2RnZEQ1k2R0pMMmJXdjVBd0VhbkRvVG1WRGh6QV9NSkthaV9WajRROGFJamIwNVdYbFU3dzk4YzB4R3duRno1dEIyLU11NkxKVVBqN0M3Zmd0d0x0MElMeVdUQ1RoZzRnb3JjcDJMNEZsUkhwLUprUQ?oc=5",
-        "published": "Wed, 25 Nov 2026 22:30:54 GMT",
-        "category": "その他"
-      }
-    ],
+    "SHIB": [],
     "AVAX": []
   }
 }
