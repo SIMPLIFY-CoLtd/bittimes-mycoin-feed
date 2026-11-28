@@ -1,72 +1,46 @@
 {
-  "generated_at": "2026-11-27T21:03:47+00:00",
+  "generated_at": "2026-11-28T07:25:54+00:00",
   "window_hours": 24,
   "note": "本日の主な材料（直近24h・価格材料の見出しのみ・AI要約なし・出典明記・リンクアウト・非因果）",
   "coins": {
     "BTC": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "70億ドルのビットコイン オプション満期到達、その意味するところ",
-        "title_en": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGR2djg0MVB4eHBfTDZuUXpPYVFkSDVBSHhScUNDOXRvei0yeG9ndVNPeVNnang3d3ZDMkhpVEVXclZjYWdIYzFhWERPa2FSa1pxckpqelhIb0EtMG03TXh2MHVmVFFTeDd0RURiR3Q1LThzeWx1S2VyOHlwa0FERVg5T3Nqc1F6eVRCekVHR3cxT1JHdUh6Tno4dEw?oc=5",
-        "published": "Fri, 27 Nov 2026 18:16:03 GMT",
-        "category": "大口"
+        "title_ja": "コインベース CEO、ビットコイン予想を引き下げ、2030年までに約7倍上昇見込み",
+        "title_en": "Coinbase CEO Brian Armstrong Scales Back Bitcoin Prediction, Still Sees Nearly 7x Upside By 2030",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQU13U0lZV0VSRDV3QmhVLUxrZk5leHdWVUpBOWFYSks4ZXo5aVBlVXUyd3k2YWd3SHpqSWp4MU9Pd3ItLWlTRm9tdFp4OVZRNTlTd0QwZS1tcjRNdVo4MHQtTDlzUnF3V2M1Zk9mOFp5bWYzRktwQy10b0VINXF6ZzdLZmtJRnZqNlRXS0ozTmhQaHd5YW4zWnRkSDZYaHVVZEE?oc=5",
+        "published": "Sat, 28 Nov 2026 05:18:00 GMT",
+        "category": "発言"
       },
       {
         "source": "Yahoo Finance",
-        "title_ja": "ビリオネア・ポール・チューダー・ジョーンズのファーム、ビットコインETF保有を136万株に倍増近くまで増加",
-        "title_en": "Billionaire Paul Tudor Jones’ Firm Nearly Doubled Its Bitcoin ETF Shares to 1.36 Million",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHlNbjZOdDZpV0trR2dBdW92eGszUzJTU3FhTGx6d3lGbnVYNHFteFhEUjc2T2hzUnNtMm53N2JGQmI0a0V4dUZLdlRzcFJTYUVQT0lSZ0pWMGtlV2drOGVaQW9sNkpSNk5IWHF2SElSbkxSUnZkeW52OTllazlkVndsWlJfa09HTlNUNTFibGQ2TnFncW1zZFZFN1Y0cmM?oc=5",
-        "published": "Fri, 27 Nov 2026 17:02:38 GMT",
+        "title_ja": "70億ドル相当のビットコイン オプションが満期、その意味するところ",
+        "title_en": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGR2djg0MVB4eHBfTDZuUXpPYVFkSDVBSHhScUNDOXRvei0yeG9ndVNPeVNnang3d3ZDMkhpVEVXclZjYWdIYzFhWERPa2FSa1pxckpqelhIb0EtMG03TXh2MHVmVFFTeDd0RURiR3Q1LThzeWx1S2VyOHlwa0FERVg5T3Nqc1F6eVRCekVHR3cxT1JHdUh6Tno4dEw?oc=5",
+        "published": "Fri, 27 Nov 2026 18:16:03 GMT",
         "category": "大口"
       }
     ],
     "ETH": [
       {
         "source": "Yahoo Finance",
-        "title_ja": "イーサリアムのGlamsterdamアップグレード、12月テスト予定",
+        "title_ja": "イーサリアム Glamsterdam アップグレード、12月テスト予定",
         "title_en": "Ethereum's Glamsterdam Upgrade Scheduled For December Test",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSURPZlp4VXloWUFOdmFXMndWbm01eDJiZTI4QUhkbEtRODRjcFZiUVR5Wm1zeGhTS0V0bmlFNmRwYmdWY2JOcTRrYnZHMDZETjh4emx4VTAtOXRIYko4bVRLX01EVFg0bWJJeEtqMENLU1lWeXE0NUlHNVQ4Y09MX05qVG9MOGpDdnlCd2pRV2RuU0liXy1kRnd6SDdKX2VCejBfS2lrQ0o3Y0ZWRlV6MFVodw?oc=5",
         "published": "Fri, 27 Nov 2026 14:59:00 GMT",
         "category": "その他"
       },
       {
-        "source": "The Block",
-        "title_ja": "イーサリアム開発者、Glamsterdamアップグレードを12月15日のHoodiテストネットに予定",
-        "title_en": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5",
-        "published": "Fri, 27 Nov 2026 07:51:00 GMT",
+        "source": "Decrypt",
+        "title_ja": "イーサリアム、Glamsterdam テストネット アップグレード日を12月15日に設定",
+        "title_en": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTklENDJWTUVWSFpHOW1sSkxoaTNtY0hwZHc5OThGX2tYamRCb1NITmF1Rnc4ZEVUTnNiZVB4UjBDMUVBUTFqZzFLbWxFc3dtaDZLS0gtR3FyRFM5bFI5NV9lQ0ZJdFBQTGlOQWxVYjhuQWtRd29PcGlWM1R1TXdPZk5PdUNadF9RVmVkTFZyMFNnZFRnRXlfTFFLSzE?oc=5",
+        "published": "Fri, 27 Nov 2026 10:15:51 GMT",
         "category": "その他"
       }
     ],
-    "XRP": [
-      {
-        "source": "CoinDesk",
-        "title_ja": "リップルの貸出計画、XRPレジャーの8億ドルのステーブルコイン活用に向け前進",
-        "title_en": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0k5aC1VNWtUdzd2MGNURlNHQ1dCNndEY3FwQXNvMGNXaHVPcFNpX3NYSTYtcGI1SE9Fc0lwVGMtX0ZtWDY4UmxoVXRfdmFLcHAtbGtKLTV2RG11N1Z2YThiWjZ0MUF6V29TNld1SlBaS0NsR2FhM3Z4aVZ5WVdkY2MweUgzS0RoUmxPcU82VG5qVXdacUhCZXR2a3I0X3lIT2M2WUpZdmVSSllnLTZzSW54TlpCc1czUkVQZTYwQ0pIX0QxT01kbkhaVjY?oc=5",
-        "published": "Fri, 27 Nov 2026 05:12:38 GMT",
-        "category": "採用"
-      },
-      {
-        "source": "CoinDesk",
-        "title_ja": "リップルの貸出計画は、XRPレジャーの8億ドル相当のステーブルコインを活用する可能性があります",
-        "title_en": "リップルの貸出計画は、XRPレジャーの8億ドル相当のステーブルコインを活用する可能性があります",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2lSclVXLTdyUk5BUVZxa3dYM0U4NGJEcjZBbkdzRDI4aFBnc3BNTkFXako0eTJxb3RQT1hyS0lDY3lhNnRrTkRPLXViVEtMRHNpRlh0bW53ZTNBWHVWczJnTUUwUHp6N3NGQXNPTGRaSElFeHRaNUdFZWpTMkVUZEJub1ZZZUFiUjJIRkRvbExEUUZBbVNqQXd0UjF6cURKSTVfVC1jZmJ5bFhyRHNURDIxdUMyUVpTV2ZGUGE3bVJpbS1OVWZoVkFDUkRjNHpI?oc=5",
-        "published": "Fri, 27 Nov 2026 05:12:38 GMT",
-        "category": "採用"
-      }
-    ],
-    "SOL": [
-      {
-        "source": "Yahoo Finance",
-        "title_ja": "ソラナ開発者、ブラウザベースのコーディング開発環境を導入",
-        "title_en": "Solana developers get a browser-based coding playground",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcl9jckxXVmhYSEJiZ1JKY3p4ZWJEd1lSUWViM2NXZDNDTFlEdi1UUFZUVS05NXVqYkhzV19mUXkwTTF1d25zdFhBSjhNVWlqNmFidTQydjJ1alhoMHc3SWJQQXoyTHYyU2lJRzJQOXdkMk5ZeENaODNleTBkWFg0c1RjQk03dzB3TWJDWTIwUmdWQ3U3VlZpNk1lZDR4SFlwdTF6Tg?oc=5",
-        "published": "Fri, 27 Nov 2026 18:55:37 GMT",
-        "category": "採用"
-      }
-    ],
+    "XRP": [],
+    "SOL": [],
     "ADA": [],
     "DOGE": [],
     "SUI": [],
